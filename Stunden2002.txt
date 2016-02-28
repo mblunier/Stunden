@@ -1,0 +1,833 @@
+----- KW 1 -----
+3.1.	08:30-10:30	intern		Admin
+	10:30-11:30	TKF		Setup HK
+	14:00-17:00	Shark		Euro-Konv.
+4.1.	09:00-12:00	Shark		Euro-Konv.
+	14:30-17:30	Shark		Euro-Konv.
+
+----- KW 2 -----
+7.1.	08:30-11:15	TKF		TBFWD crontab
+	11:15-12:30	Rolotec		unprod.
+	14:00-17:30	TKF		TBFWD GUI
+8.1.	08:30-12:15	TKF		TBFWD Startflags
+	14:00-15:30	TKF		TBFWD Startflags
+	15:30-18:00	AGKB		User-Report (do_agkbusercsv)
+9.1.	08:30-09:00	BCEE		AFX-Filter (mac)
+	09:00-12:30	TKF		TBFWD Erw.
+	14:15-16:00	TKF		TBFWD Erw.
+	16:00-16:45	Redsafe		Mail T.Ernst
+	16:45-17:30	TKF		TBFWD Test
+10.1.	08:00-12:30	TKF		TBFWD Debug
+	13:00-17:30	TKF		TBFWD Debug
+11.1.	08:30-12:15	TKF		TBFWD Update
+	14:15-17:00	TKF		TBFWD Test
+
+----- KW 3 -----
+14.1.	08:30-12:30	TKF		TBFWD Market Events
+	14:00-18:00	TKF		TBFWD Market Events
+15.1.	08:30-13:00	TKF		TBFWD Update
+	14:00-17:30	Redsafe		Erw. Winner/Loser (HI/LO/BID/ASK)
+16.1.	08:30-09:00	Postfinance	Korr. Pf-Farbreihe
+	09:00-12:15	Redsafe		Erw. Winner/Loser
+	14:00-17:30	Redsafe		Erw. Winner/Loser
+17.1.	08:15-10:30	SanPaolo	Korr. Winner/Loser f Syspage
+	13:30-17:30	SanPaolo	Korr. Winner/Loser f Syspage
+18.1.	08:00-10:30	SanPaolo	Doku Winner/Loser Tag
+	10:30-12:30	Borsalino	Pf: Cash-Integration
+	13:00-16:30	Borsalino	Pf: Cash-Integration
+
+----- KW 4 -----
+21.1.	08:30-12:00	Borsalino	Pf: Cash-Integration
+	12:30-17:30	Borsalino	Pf: Cash-Integration
+22.1.	08:30-10:30	NZZ		Wartung
+	10:30-12:30	Borsalino	Pf: Cash-Integration
+	13:00-15:00	Borsalino	Pf: Cash-Integration
+	15:00-19:00	SGKB		Erw. News-Tag
+23.1.	08:30-12:15	Borsalino	Korr. Pf-Cash-Integr.
+	14:00-18:30	SGKB		AWP News
+24.1.	08:00-12:30	Rolotec		unprod (Crash nina)
+	13:00-14:00	SGKB		AWP News
+	17:00-18:00	unprod.		WS Setup (nina)
+25.1.	09:00-12:00	SGKB		AWP News
+	12:30-18:00	SGKB		Test AWP News
+	18:00-19:30	Borsalino	Update
+
+----- KW 5 -----
+28.1.	08:30-09:30	Borsalino	Kontrolle
+	09:30-12:30	SGKB		Erw. News Search
+	13:00-16:30	SGKB		Erw. News Search
+	16:30-17:30	AGKB		Umstellung Pf
+29.1.	09:00-13:00	Guyerzeller	Fehlersuche XML Search
+	13:30-18:00	TKF		Vorb. TBFWD Update
+30.1.	09:00-10:30	Guyerzeller	Debug XML Search
+	10:30-12:30	TKF		TBFWD Test
+	13:00-17:30	TKF		TBFWD Test
+31.1.	08:30-12:30	TKF		TBFWD Doku
+	13:00-18:00	TKF		TBFWD Doku
+1.2.	08:30-12:30	TKF		TBFWD Doku
+	13:00-17:00	TK		Vorb. HIKU-Server
+	
+----- KW 6 -----
+4.2.	07:00-12:00	TKF		Ausb. Watchdog (ZH)
+	12:00-17:00	TK		Lieferung HIKU-Server (ZH)
+5.2.	08:30-08:45	ESTV		Tel. Dijkgraaf (ELIAS)
+	08:45-09:15	TKF		Tel. Schmidlin (Pendenzen/Fehler)
+	09:15-09:30	Rolotec		Zeiterf. (Präsenz)
+	09:30-11:30	Rolotec		div. Mails
+	14:00-16:30	Boralino	Sitzung lm/ps
+	16:30-17:30	TKF		wdmenu f. TG	
+6.2.	08:00-10:00	TKF		Doku f. TG's
+	10:00-12:00	Borsalino	Besprechung mit lm & ps
+	12:30-16:30	TKF		TBFWD Doku Update
+	16:30-17:00	SoBa		Umstellung stammbld
+7.2.	08:00-10:00	Shark		Fehlersuche Winner/Loser
+	10:00-12:00	BCEE		Ticker Style 5
+	12:00-12:30	Borsalino	Korr. Pf-Layout (Bühler)
+	14:00-14:30	SoBa		User-Update (Misteli)
+	14:30-17:30	Shark		Fehlersuche Winner/Loser
+8.2.	08:00-12:30	Shark		Korr. Syspage Winner/Loser
+	13:30-16:30	Shark		Korr. Syspage Winner/Loser
+	
+----- KW 7 -----
+11.2.	08:30-12:30	TKF		Bugfixes TBFWD
+	14:00-16:30	Borsalino	Design
+	16:30-17:30	BCEE		Bespr.
+12.2.	08:30-09:30	Shark		Korr. BC 310 Freezing
+	09:30-10:30	BCEE		Analyse Syspage-Generierung
+	10:30-11:00	Rolotec		Verity-Ausb.
+	11:00-11:30	Raiffeisen	Unterbruch? (Hutter)
+	11:30-12:30	BCEE		Syspage-Generierung
+	14:30-16:00	BCEE		Syspage-Generierung
+	16:00-16:30	Raiffeisen	Router-Reset
+	16:30-18:30	BCEE		Syspage-Generierung
+13.2.	08:30-09:30	BCEE		Sysidx-Generierung
+	09:30-12:30	TKF		Update TBFWD, Bugfixes
+	14:00-17:00	BCEE            Design crsysidx
+	17:00-19:45	BCEE		Sysidx (Bespr. mac)
+14.2.	08:45-09:30	FFM		Wartung (Stammdatenproblem)
+	09:30-11:00	BCEE		Sysidx-Layouts
+	11:00-11:30	TKF		Tel. Steffen (Market Msg)
+	11:30-12:30	BCEE		Erw. PAGELIST
+	13:00-18:00	BCEE		Erw. PAGELIST
+15.2.	09:00-11:30	BCEE		PAGELIST (alpha + num)
+	11:30-12:30	Rolotec		Unix-Support bi
+	13:00-17:00	BCEE		Erw. PAGELIST
+	
+----- KW 8 -----
+18.2.	09:00-11:00	BCEE		Erw. PAGELIST, Update Shark3
+	11:00-12:30	Rolotec		Kernel-Update files1
+	13:00-20:00	BCEE		Erw. PAGELIST
+19.2.	08:00-12:30	BCEE		Erw. PAGELIST
+	13:00-17:00	BCEE		Vorb. Layouts (mac)
+20.2.	09:00-11:30	BCEE		Layouts A-Z (mac)
+	11:30-12:30	BCEE		crsysidx
+	13:00-15:30	BCEE		crsysidx
+	15:30-16:00	SoBa		2 Benutzer real-time setzen (Misteli)
+	16:00-17:00	Postfinance	Setup pf.test f. XML
+21.2.	08:30-12:30	BCEE		crsysidx
+	13:00-20:00	BCEE		crsysidx
+22.2.	08:00-11:00	BCEE		crsysidx
+	11:00-13:00	BCEE		Update intklux1/2
+	13:30-16:00	BCEE		Kontrolle crsysidx
+	
+----- KW 9 -----
+25.2.	08:45-14:00	BCEE		Debug crsysidx
+	14:00-14:30	Borsalino	"Limitenproblem"
+	15:00-18:30	BCEE		Debug crsysidx
+26.2.	08:30-08:45	BKB		404 Status (hb)
+	08:45-13:00	BCEE		crsysidx
+	13:30-16:00	Borsalino	Bespr. lm
+	16:00-17:30	BCEE		Erw. crsysidx (Filter)
+27.2.	08:30-09:30	TKF		Analyse Delays
+	09:30-11:30	BLKB		Korr. Pf-Insts ('FIMS.0%')
+	10:30-12:30	BCEE		Korr. Layouts
+	12:30-14:30	Guyerzeller	HiFi-Access
+	14:30-19:30	BCEE		Setup & Testlauf crsysidx
+28.2.	08:30-09:00	BLKB		Korr. Pf-Insts
+	09:00-09:30	BCEE		Bespr. erw. Index (mac)
+	09:30-11:30	BCEE		Update TK Lux
+	11:30-17:30	BCEE		Setup/Test
+1.3.	08:00-11:30	Borsalino	Kickoff-Meeting
+	11:30-11:45	SoBa		1 Benutzer real-ime setzen (Misteli)
+	11:45-12:30	Borsalino	Kickoff-Meeting
+	13:00-16:30	Borsalino	Kickoff-Meeting
+	
+----- KW 10 -----
+4.3.	08:00-13:30	Borsalino	Sitzung Tom & Marcel
+	14:00-16:30	Shark		Checkin, Doku
+	16:30-17:00	Rolotec		Stundeneintragung
+5.3.	08:00-13:00	Borsalino       Design Accounting
+	13:30-17:30	Borsalino       Accounting
+6.3.	08:00-12:30	Borsalino       Accounting
+	13:00-16:00	Borsalino	Accounting
+	16:00-18:00	Borsalino	Bespr. L. Moser
+7.3.	07:15-07:45	Borsalino	Mail PB
+	07:45-17:30	ESTV		Ausbildung Topics
+	17:30-18:30	Borsalino	Ressourcenplanung
+8.3.	07:30-10:00	Borsalino	Mails
+	10:30-11:00	TKF		Support TBFWD (Schmidlin)
+	11:00-11:15	TK-HD		Anfrage Neukomm (ARS-Ticket Watchdog)
+	11:15-12:30	Borsalino	Demo AAB
+	13:00-17:00	Borsalino	Demo AAB, Ticker, Mails
+	
+----- KW 11 -----
+11.3.	08:00-09:00	Borsalino	Ressourcenplanung
+	09:00-12:30	Borsalino	CHGABS/CHGREL grafisch
+	14:00-18:00	Borsalino	CHGABS/CHGREL grafisch
+12.3.	08:00-08:30	Redsafe		Wartung (Router-Problem)
+	08:30-11:30	Borsalino	CHGABS/CHGREL grafisch
+	11:30-12:30	Borsalino	Setup Test/Demo agitest
+	13:00-14:00	Borsalino	Mail, Bespr. lm
+	14:00-17:00	Borsalino	Setup Testserver
+13.3.	08:00-08:30	Pf		dolphdm auf agitest
+	08:30-11:00	Borsalino	AFX News Ticker
+	11:00-13:00	BCEE		Update
+	14:15-17:30	Borsalino	CHGABS/CHGREL grafisch
+14.3.	08:00-12:30	Borsalino	CHGABS/CHGREL grafisch
+	13:00-18:15	Borsalino	CHGABS/CHGREL grafisch
+15.3.	07:30-12:30	Borsalino	CHGABS/CHGREL grafisch
+	13:00-17:00	Borsalino	CHGABS/CHGREL grafisch
+	
+----- KW 12 -----
+18.3.	07:30-11:30	Borsalino	CRM
+	14:00-18:00	Borsalino	CRM
+19.3.	07:30-09:00	Redsafe		Wartung (Router-Ausfall)
+	09:00-12:30	Borsalino	CRM
+	13:00-18:00	Borsalino	CRM
+20.3.	07:30-12:00	Borsalino	CRM
+	13:30-17:30	Borsalino	CRM + Kursliste
+21.3.	07:30-12:30	Borsalino	CRM
+	14:00-17:30	Borsalino	CRM
+22.3.	07:00-12:30	Borsalino	CRM
+	14:30-17:00	Borsalino	CRM
+	
+----- KW 13 -----
+25.3.	07:00-11:45	Borsalino	CRM
+	14:00-14:30	Rolotec		Ausb. mn (Limit Minder)
+	14:30-18:00	Borsalino	CRM
+26.3.	08:00-12:30	Borsalino	CRM
+	13:45-18:30	Borsalino	CRM + Ticker
+27.3.	07:45-08:45	Rolotec		Admin, Mails
+	08:45-13:30	Borsalino	CRM Install.
+	14:00-16:00	Borsalino	Projektsitzung
+	16:00-17:15	Rolotec		Zeiterfassung (PACCWEB)
+28.3.	07:15-08:00	Rolotec		Zeiterfassung (PACCWEB)
+	08:00-12:30	Borsalino	Inst. CRM
+	16:00-17:30	Borsalino	hist. Change grafisch
+	17:30-18:00	Borsalino	CRM-crontab
+	
+----- KW 14 -----
+2.4.-5.4.		Ferien
+
+----- KW 15 -----
+8.4.	07:15-11:15	Borsalino	Korr. CRM/Accounting
+	12:45-14:15	Borsalino	Server-Update
+	14:15-17:30	Borsalino	Korr. CRM
+9.4.	07:15-09:15	Rolotec		RAID-Ausfall bongo
+	09:15-12:30	Borsalino	Korr. CRM
+	13:45-17:30	Borsalino	CRM (Bewertungen)
+10.4.	07:00-11:45	Borsalino	CRM
+	14:00-18:00	Borsalino	CRM
+11.4.	07:15-12:15	Borsalino	CRM
+	13:15-16:45	Borsalino	CRM
+12.4.	09:15-12:00	Borsalino	CRM
+	12:00-12:30	TKI		Support
+	14:00-14:30	Redsafe		Wartung
+	14:30-16:30	Borsalino	Server Update
+	16:30-17:00	TKF		Accounting-Mail (hb)
+
+----- KW 16 -----
+15.4.	09:00-12:15	Borsalino	CRM
+	14:00-18:15	Borsalino	Pf Layout
+16.4.	07:15-10:15	Borsalino	Pf Layout
+	10:15-10:45	Shark		Korr. crsysidx
+	10:45-12:15	Borsalino	Pf Layout
+	14:30-15:00	BLKB		Wartung (SMS-Versand)
+	15:00-17:30	Borsalino	konsolidiertes Pf
+17.4.	07:30-12:15	Borsalino	konsolidiertes Pf
+	14:00-18:00	Borsalino	konsolidiertes Pf
+18.4.	08:30-12:30	Borsalino	konsolidiertes Pf
+	13:00-17:00	Borsalino	konsolidiertes Pf
+19.4.	08:00-11:45	Borsalino	konsolidiertes Pf
+	13:15-17:00	Borsalino	checkin, Server update
+
+----- KW 17 -----
+22.4.	08:00-09:30	Borsalino	Tests
+	09:30-10:00	Shark		Umstellung GAM (hb)
+	10:00-12:30	Borsalino	Test/Debug
+	14:00-17:30	Borsalino	Test/Debug
+23.4.	08:45-12:15	Borsalino	Test/Debug
+	14:15-18:00	Borsalino	Test/Debug
+24.4.	08:30-11:45	Borsalino	Test/Debug
+	13:30-17:30	Borsalino	Test/Debug
+25.4.	08:15-12:15	Borsalino	Test/Debug
+	14:00-15:00	Rolotec		unprod.
+	15:00-16:00	BEKB		Support ns (Limits)
+	16:00-17:00	Borsalino	Test/Debug		
+26.4.	08:30-10:00	Borsalino	Test/Debug
+	10:00-11:30	BEKB		Support ns
+	13:30-17:00	Borsalino	Test/Debug
+
+----- KW 18 -----
+29.4.	09:00-11:30	Rolotec		PC Update
+	11:30-13:30	Borsalino	Test/Debug
+	14:00-18:00	Borsalino	Test CRM
+30.4.	08:30-12:30	Rolotec		PC Update
+	14:30-18:00	Borsalino	CRM
+1.5.	09:00-12:30	Rolotec		PC Update
+	15:00-16:00	BEKB		Layout-Debugging (NS)
+	16:00-18:30	Borsalino	CRM
+2.5.	08:00-11:30	Borsalino	CRM
+	14:00-17:30	Borsalino	CRM
+3.5.	09:00-10:30	Borsalino	CRM
+	10:30-12:00	Rolotec		Entwickler-Sitzung
+	12:00-12:30	Borsalino	CRM
+	14:00-16:00	Postfinance	Vorb. Umstellung Produktion
+	16:00-17:30	Borsalino	Update CRM
+
+----- KW 19 -----
+6.5.	08:00-12:30	Borsalino	CRM
+	13:45-14:15	BLKB		Support
+	14:15-16:30	Borsalino	Install/Test CRM
+7.5.	08:00-11:30	Borsalino	CRM
+	11:30-12:30	Shark		Umstellung Datenserver
+	14:00-14:15	BEKB		Wartung
+	14:15-14:45	Redsafe		Pikett-Mail
+	14:45-17:30	Borsalino	Vorb. Syspage-Liste
+8.5.	08:00-12:15	Borsalino	CRM
+	13:15-17:30	Borsalino	CRM
+9.5.	11:45-13:00	Shark		Wartung
+10.5.	08:00-10:30	Rolotec		Zeiterf.
+
+----- KW 20 -----
+13.5.	(Morgen frei wg. Wigasol)
+	13:30-16:30	Rolotec		Zeiterf.
+	16:30-18:00	Borsalino	CRM, Syspages
+14.5.	08:45-11:45	Borsalino	Syspages
+	14:00-17:30	Borsalino	Branchen-Winner
+15.5.	08:45-09:30	Borsalino	Mail wg. Syspage-Erw.
+	09:30-10:15	BLKB		fix Limit Minder Problem
+	10:15-12:30	Borsalino	Branchen-Winner
+	14:15-17:30	Borsalino	Branchen-Winner
+16.5.	08:00-13:00	Borsalino	Branchen-Winner
+	15:30-18:30	Borsalino	Systemseiten
+17.5.	08:00-09:00	Borsalino	Systemseiten
+	09:00-12:45	Borsalino	Branchen-Winner
+	14:00-15:30	BLKB		Wartung
+	15:30-17:00	Borsalino	Server-Update
+
+----- KW 21 -----
+21.5.	07:00-19:00	Rolotec		RUP-Schulung
+22.5.	07:00-19:00	Rolotec		RUP-Schulung
+23.5.	08:30-09:00	Borsalino	Mailings
+	09:00-12:30	Shark		Accounting
+	14:00-17:00	Shark		Accounting
+24.5.	08:00-15:45	Shark		Accounting
+
+----- KW 22 -----
+27.5.	08:00-08:30	Migros		Support HB (Accounting)
+	08:30-12:15	Shark		Accounting
+	13:30-14:00	Guyerzeller	Support MC (HKG-Winner)
+	14:00-19:00	Shark		Accounting
+28.5.	08:00-08:30	unprod.		Support MC (imiweb Trading)
+	08:30-12:30	Shark		Accounting
+	14:15-15:00	Shark		Accounting
+29.5.	08:15-12:30	TBFWD		Feed Handler
+	14:00-17:30	Shark		Accounting
+30.5.	08:15-09:15	BEKB		Wartung (falscher Pf Mode)
+	09:15-12:15	Shark		Accounting
+	14:15-15:15	TBFWD		Support (HK)
+	15:15-17:15	Shark		Accounting
+31.5.	08:30-13:00	Shark		Accounting (Scripts)
+	14:00-17:30	Shark		Accounting (Scripts)
+
+----- KW 23 -----
+3.6.	07:30-11:45	TKF		Test Feed Handler
+	14:15-15:30	TKF		Test Feed Handler
+	15:30-18:00	Borsalino	Debugging Pf-Chart
+4.6.	08:00-11:30	TKF		Test Start Flags
+	14:00-17:00	Rolotec		Zeiterfassung
+5.6.	08:30-17:00	ESTV		Install. Knowledge Organizer
+6.6.	08:15-08:45	Pikett		Balfolio: falsche Zeitangaben
+	08:45-09:15	TKF		Anp. Accounting
+	09:15-12:30	TKI		Accounting
+	13:30-17:30	Borsalino	Korrekturen
+7.6.	08:00-12:30	TKI		Accounting
+	14:00-16:00	TKI		Accounting
+	16:00-19:00	TKF		Feed-Ausfall
+
+----- KW 24 -----
+10.6.	07:00-08:30	Shark		Kontrolle Shark-Daten
+	08:30-12:30	TKI		Korr./Test Accounting
+	14:30-15:30	Shark		Korr. Heatmap
+	15:30-17:30	Borsalino	account.Borsalino (shark4)
+11.6.	08:30-12:30	Shark		Stress-Test
+	14:30-18:30	Borsalino	Debugging Pf-Chart
+12.6.	08:30-12:30	Borsalino	Debugging Pf-Chart
+	14:30-18:00	Borsalino	Debugging Pf-Chart
+13.6.	08:15-12:15	Shark		Suche Memory-Leak
+	14:00-17:30	Shark		Suche Memory-Leak
+14.6.	08:30-11:30	Shark		Source Checkin
+	13:00-15:00	Borsalino	Test Pf-Chart
+	15:00-16:00	Shark		Suche Memory-Leak
+	16:00-17:00	TKI		Kontrolle Accounting
+
+----- KW 25/26 -----
+Ferien
+
+----- KW 27 -----
+1.7.	08:30-12:30	Rolotec		unprod.
+	14:00-15:00	Borsalino	CRM Erw.
+	15:00-17:15	BEKB		Support NS
+2.7.	09:00-12:15	BEKB		Support NS
+	14:00-18:00	BEKB		Link-Templates
+3.7.	08:00-12:30	Shark		Fehlersuche Syspages
+	14:00-17:30	Shark		Korr. Syspage
+4.7.	08:30-09:00	Shark		Kontrolle Syspages
+	09:00-10:00	Shark		Checkin Debug-Layouts
+	10:00-11:00	BEKB		Fehlersuche (Link-Encoding)
+	11:00-11:30	BEKB		Kontrolle Seitensortierung (DAX)
+	11:30-12:30	Borsalino	Pf-Styles
+	14:00-18:30	Borsalino	Pf-Styles
+5.7.	08:30-10:30	BEKB		Korr. Link-Templates
+	10:30-11:30	Borsalino	Test Pf-Ansichten
+	11:30-12:00	Redsafe		Wartung (Winner/Loser)
+	(Weihnachtsessen)
+
+----- KW 28 -----
+8.7.	08:15-12:30	TKF		TBFWD Startflags
+	14:00-16:00	TKF		TBFWD Startflags
+	16:00-18:00	Ruedblass	Erw. SYSPAGE-Index
+9.7.	08:30-10:30	Ruedblass	Erw. SYSPAGE-Index
+	10:30-11:30	BEKB		Setup Limitenversand
+	14:15-15:15	Shark		Problem Split-Verarbeitung
+	15:15-17:15	TKF		Kontrolle TBFWD
+10.7.	08:30-09:00	Shark		Kontrolle Split-Verarbeitung
+	09:00-11:00	Guyerzeller	Ticker-Setup (Support NS)
+	11:00-12:30	TKF		TBFWD Update
+	14:00-18:00	TKF		TBFWD Test + Doku
+11.7.	07:45-10:15	Shark		Debug
+	10:15-12:30	HSBC		Support NS (Limiten)
+	14:00-18:15	Rolotec		unprod.
+12.7.	08:15-12:15	TKF		TBFWD Tests, Doku.	
+	10:15-13:15	Guyerzeller	Heatmap f. UP
+	(nachmittag frei)
+
+----- KW 29 -----
+15.7.	08:30-09:30	Guyerzeller	Heatmap
+	09:30-10:00	HSBC		Support NS (Warrants)
+	10:00-10:30	Borsalino	Erw. Style-DB (d_style = TEXT)
+	10:30-12:30	Shark		Test Heatmap
+	14:15-15:00	Shark		Checkin, Install.
+	15:00-17:30	Rolotec		unprod.
+16.7.	08:30-11:30	Rolotec		PC-Update
+	11:30-12:30	RuedBlass	Update Parser (UP-Heatmap)
+	14:00-18:00	TKF		Lieferung HiKu-Filter Sources
+17.7.	08:30-09:00	Borsalino	Restart Parser
+	09:00-12:15	TKF		TBFWD Korrekturen
+	14:00-15:30	TKF		TBFWD Test
+	15:30-18:30	Rolotec		unprod.
+18.7.	08:00-09:30	TKF		TBFWD Update
+	09:30-10:30	Borsalino	Troubleshooting (zu viele Threads)
+	10:30-11:30	BEKB		Layout-Debugging (NS)
+	11:30-12:45	Shark		Codereview (Accounting)
+	14:00-15:00	Moneycab	XML-Support
+	15:00-18:00	Rolotec		unprod.
+19.7.	08:15-09:30	TKF		Kontrolle TBFWD
+	09:30-12:15	Rolotec		Shark Support
+	14:15-17:00	Rolotec		Shark Support
+
+----- KW 30 -----
+22.7.	08:00-09:00	TKD		Support-Mail
+	09:00-12:30	Rolotec		Wartung/Kontrolle Sharks
+	14:00-16:30	Vega		Einarbeitung		
+	16:30-17:30	Borsalino	Support SW-Update
+	19:00-19:30	Borsalino	Support SW-Update
+23.7.	08:30-12:30	Shark		Support
+	14:15-18:00	Shark		Support
+24.5.	08:00-11:30	BLKB		Support NS	
+	14:00-18:30	TKF		Support Router-Setup
+25.5.	08:30-10:30	Borsalino	Ausfälle
+	10:30-12:30	Baloise		fehlender Fonds: 1431178,260
+	14:30-16:30	TKI		Support MN
+	16:30-18:30	Vega		Routing
+26.5.	07:30-10:30	Vega		Routing
+	10:30-11:45	Rolotec		Admin
+	14:15-16:15	Intesa		Fehlersuche
+	16:15-17:00	Borsalino	langsame Antwortzeiten
+	17:00-17:30	Augurion	Server-Reset
+27.7.	12:30-13:30	Borsalino	Wartung (FW-Reset)
+	
+----- KW 31 -----
+29.7.	08:30-10:30	AGKB		Layout-Support (NS)
+	10:30-11:30	Sarasin		Chart-Problem
+	11:30-13:00	RBA		Wartung
+	14:45-18:00	Shark		Wartung
+30.7.	08:00-08:30	AGI		Userpages (brumü) gelöscht
+	08:30-09:30	AGKB		Layout Userupdate (NS)
+	09:30-10:00	Sarasin		Korr. Chartlayout
+	10:00-12:30	Baloise		Fehler XML-Abfrage Balzac-Fonds
+	13:30-14:30	TKD		Anfrage wg. XML-Update
+	14:30-15:00	Raiffeisen	Systemseiten + curr.cfg (MAC)
+	15:00-18:30	Shark		showlog
+31.7.	08:15-12:30	Rolotec		Support: TK, xmlpush
+	13:30-17:30	...
+1.8.	(Nationalfeiertag)
+2.8.	07:30-11:45	Rolotec		Support: RuedBlass, AGKB,
+					Baloise
+	13:45-17:15	...
+
+----- KW 32 -----
+5.8.	08:15-10:00	Baloise		Support XML-Search
+	10:00-11:30	Vega		Einarb.
+	14:00-15:00	Borsalino	Support T. Ingold (Apache-Logs)
+	15:00-18:00	Rolotec		Zeiterfassung
+6.8.	08:00-08:30	Borsalino	Abkl. Valor 1441918
+	08:30-10:00	Vega		TkLink-Zugang	
+	10:00-11:30	Vega		Sitzung
+	11:30-13:30	Shark		Wartung
+	14:15-17:15	Shark		Korr. TRIPLE-Arg f. Syspage
+	17:15-19:00	LLB		Testumg. f. Pf
+7.8.	08:15-09:15	Moneycab	Abkl. Valor 888386
+	09:15-12:15	Vega		Einarb. Page-Msg
+	12:15-13:00	Shark		Wartung/Updates
+	14:30-16:00	Vega		TkLink-Zugang
+	16:00-17:30	AGKB		Support NS
+	17:30-18:00	Borsalino	Support M.Brunner
+	18:00-19:30	Raiffeisen	Erw. Pf (RawTemplate-Fld, MAC)
+8.8.	08:00-09:30	Vega		Einarb.
+	09:30-12:30	Shark		Debugging Shark5
+	14:15-15:00	Rolotec		Admin
+	15:00-15:30	Borsalino	DNS-Update
+	15:30-16:00	Raiffeisen	Syspages (MAC)
+	16:00-17:00	TKF		TkLink-Zugang
+	17:00-18:30	Shark		Nachtrag Splits + Korr do_split
+9.8.	08:00-09:30	Shark		Korr. do_split (Limiten)	
+	09:30-12:15	Vega		Page-Msg
+	14:00-18:15	Shark		chkstat
+	
+----- KW 33 -----
+12.8.	08:00-10:30	Shark		Fehlersuche
+	10:30-12:30	Vega		Page-Msg
+	14:00-17:30	Vega		Setup Entw/Test-Server (bully)
+13.8.	08:15-12:30	Vega		Setup Test-Server
+	14:00-15:30	Shark		Inst. Debugger f. sumatra
+	15:30-18:30	Vega		Einarb. Page-Msg
+14.8.	08:30-12:30	Vega		Korr. mdfsplit (sid89)
+	14:00-15:30	Vega		Test/Debug Page-Msg
+	15:30-18:15	Rolotec		Zeiterf.
+15.8.	08:15-12:30	Vega		Page-Msg
+	14:00-17:30	Vega		Page-Msg
+16.8.	08:00-12:15	Vega		Page-Msg
+	14:15-18:00	Vega		Page-Msg
+	
+----- KW 34 -----
+19.8.	08:15-09:00	Vega		Page-Msg
+	09:00-10:15	AGKB		Support NS
+	10:15-12:15	Vega		Page-Msg
+	13:30-17:15	Vega		Page-Msg
+20.8.	08:30-12:15	Vega		Page-Msg
+	13:30-14:30	AGKB		Pf-Support NS
+	14:30-18:00	Vega		Page-Msg
+21.8.	08:30-12:30	Vega		Page-Msg
+	14:00-18:30	Vega		Page-Msg
+22.8.	07:30-12:15	Vega		Page-Msg (File)
+	14:00-17:45	Vega		Page-Msg (File)
+23.8.	08:00-13:00	Rolotec		Raid-Crash (no home)
+	14:00-18:00	Rolotec		Raid-Crash
+	
+----- KW 35 -----
+26.8.	08:00-11:45	Vega		Page-File
+	14:00-18:00	Vega		Checkin, Doku
+27.8.	08:45-12:30	Vega		Test Page-Msg
+	14:30-15:00	Guyerzeller	Wartung
+	15:00-18:30	Vega		Test/Korr. Page-Msg
+28.8.	09:00-10:15	Vega		Test
+	10:15-12:15	Vega		Pf-Doku (AH)
+	14:00-14:30	TKF		Support TBFWD (Schürch)
+	14:30-15:00	Pf		Fehlersuche Limit Minder
+	15:00-16:30	TKI		Korr. Accounting f. Trentino
+	16:30-19:00	AGKB		Erw. Pf-Links
+29.8.	08:15-12:15	AGKB		Pf-Erw.
+	14:00-17:30	AGKB		Pf-Erw.
+30.8.	08:00-12:30	AGKB		Pf-Erw.
+	14:00-18:00	AGKB		Pf-Erw.
+	
+----- KW 36 -----
+2.9.	09:00-12:30	AGKB		Pf-Erw.
+	14:00-17:30    	AGKB		Pf-Erw.
+3.9.	08:00-12:30	AGKB		Checkin, Doku
+	14:00-15:30	Vega		Planung I5
+	15:30-18:30	AGKB		Korr. PFITRANS
+4.9.	09:00-11:00	Rolotec		unprod.
+	11:00-11:45	Rolotec		Zeiterf.
+	13:45-16:45	Vega		dyn. Cache (Einarb)
+	16:45-17:30	Ruedblass	Support
+5.9.	08:00-09:00	Vega		Eval. Dok-Tool
+	09:00-09:30	Borsalino	Wartung (fehlende Pf/Up)
+	09:30-10:00	TBFWD		Support
+	10:00-12:00	Vega		Source-Doc
+	14:00-16:30	Vega		Source-Doc
+	16:30-17:30	RuedBlass	Setup
+6.9.	08:30-10:00	Vega		Source-Doc
+	10:00-10:30	AGKB		Wartung
+	10:30-12:15	Vega		dyn. Cache (Einarb)
+	14:00-14:30	AGKB		Support NS
+	14:30-17:30	Vega		dyn. Cache (Core)
+	
+----- KW 37 -----
+9.9.	08:30-11:30	Vega		dyn.Cache (Core)
+	11:30-12:15	AGKB		Pf-Perfomanceberechnung (HB)
+	14:00-18:00	Vega		dyn. Cache (Core)
+10.9.	08:00-12:30	Vega		dyn. Cache (Tools)
+	14:00-17:15	Vega		dyn. Cache (Tools)
+11.9.	08:00-12:30	Vega		dyn. Cache (Tools)
+	14:00-18:00	Vega		dyn. Cache (Tools)
+12.9.	07:30-10:00	Vega		dyn. Cache (Test)
+	10:00-12:30	Rolotec		FIMS-Cache
+	14:00-17:00	Rolotec		FIMS-Cache
+	17:00-18:30	Vega		dyn. Cache (Test)
+13.9.	08:00-12:15	Vega		dyn. Cache (Test)
+	13:30-18:00	Vega		dyn. Cache (Test)
+	
+----- KW 38 -----
+16.9.	08:15-12:30	Vega		Test Install.
+	14:00-18:00	Vega		Test Install.
+17.9.	08:00-09:00	AGKB		Korr. Pf-Cash (iadd)
+	09:00-10:00	SoBa		Bespr. Bewertung (MAC)
+	10:00-11:45	Vega		dyn. Cache
+	14:00-15:00	SoBa		Erw. manprice
+	15:00-18:30	AGKB		Korr. Pf-Cash
+18.9.	08:15-12:15	AGKB		Korr. PF-Cash
+	14:00-18:30	Vega		Test Install.
+19.9.	08:00-10:30	AGKB		Test Pf-Cash
+	10:30-12:30	Vega		Pkg-Test
+	14:00-16:00	AGKB		Korr. Pf-Cash
+	16:00-19:00	Vega		Test
+20.9.	08:00-12:30	Vega		Test
+	14:00-16:15	Vega		Korr.
+	16:15-18:00	Rolotec		Zeiterf.
+
+----- KW 39 -----
+23.-27.9.	Ferien
+
+----- KW 40 -----
+30.9.	08:30-12:30	Rolotec		unprod.
+	14:00-17:00	Vega		Einarb. Iteration 6
+	17:00-17:30	RuedBlass	Fehlersuche (MAC)
+1.10.	08:30-12:30	Vega		Erw. FIAM
+	14:00-17:00	Vega		Sitzung Search
+	17:00-18:30	Vega		Doku Search-Erw.
+2.10.	08:30-12:15	Vega		Einarb. Search
+	14:00-18:00	Vega		Aufgaben I6
+3.10.	08:45-09:30	Vega		Setup Entw.-Umg. (hifi)
+	09:30-12:30	Vega		Spez. Search-Erw.
+	14:00-17:00	Vega		Setup Entw.-Umg. (hifi)
+	17:00-18:30	Vega		Serch
+4.10.	08:15-10:00	Vega		Maintenance Testserver
+	10:00-12:45	Vega		Search
+	14:00-14:30	BLKB		Support (Christinck)
+	14:30-15:00	LLB		Support NS (altes Pf)
+	15:00-15:30	Vega		Search
+	15:30-16:00	Vega		Fehlersuche fims3-0 (Parser-core)
+5.10.	10:00-11:30	Rolotec		Fehlerbehebung RAID (james)
+	
+----- KW 41 -----
+7.10.	08:45-12:30	Vega		Search
+	14:00-18:30	Vega		Search
+8.10.	09:00-09:30	SoBa		Wartung (Mail Bader)
+	09:30-12:30	Vega		Search
+	14:30-17:30	Vega		Search
+9.10.	08:15-12:30	Vega		Search
+	14:00-14:30	LLB		Support UB
+	14:30-18:30	Vega		Search
+10.10.	08:15-09:30	Vega		Korr. Page-Msg (mdfsplit)
+	09:30-11:00	Vega		Setup Testumg. (hifi)
+	11:00-12:30	Vega		Search
+	14:00-17:30	Vega		Search
+11.10.	08:00-12:15	Vega		Search
+	13:45-18:00	Vega		Search
+	
+----- KW 42 -----
+14.10.	09:00-11:45	FFM		Fehlersuche (MAC)
+	14:15-15:30	Shark		Server-Setup (hifi)
+	15:30-16:00	LLB		GNEWS-Setup (agitest)
+	16:00-19:30	AGKB		Korr. Swissca-Link in Pf (HB)
+15.10.	08:30-09:00	AGKB		Swissca-Links (HB)
+	09:00-10:00	Rolotec		Zeiterf.
+	10:00-11:30	Shark		Dolphin-Intro (UB)
+	11:30-12:15	Rolotec		Setup hifi
+	14:15-15:15	BEKB		Korr. Pf-Users
+	15:15-17:15	ESTV		Server-Setup
+16.10.	08:15-12:30	Vega		Search
+	14:00-17:15	Vega		Search
+17.10.	08:00-12:15	Rolotec		NFS-Serversetup
+	14:00-22:30	Rolotec		NFS-Serversetup (1015.-)
+18.10.	08:30-12:30	Rolotec		NFS-Serversetup
+	13:30-17:30	Vega		Search
+
+----- KW 43 -----
+21.10.	09:00-09:30	Rolotec		Wartungsübernahme
+	09:30-12:15	Vega		Search
+	14:00-15:00	AGI		Wartung GKB
+	15:00-15:30	Shark		Support TW (CORBA-Exception Parser)
+	15:30-19:30	Vega		Search
+22.10.	08:30-09:30	Vega		fehlerhafte Page-Msgs
+	09:30-11:30	Vega		Search
+	14:00-19:00	Vega		Search
+23.10.	08:30-09:30	Vega		Search
+	09:30-10:00	Vega		Bespr. Page-Msg (Gähler)
+	10:00-10:30	TBFWD		Cache-Overflow
+	10:30-11:45	Vega		Search
+	13:45-14:15	TBFWD		Kontrolle, Mail Fernando
+	14:15-19:00	Vega		Search
+24.10.	08:30-10:00	Vega		Search
+	10:00-10:15	TBFWD		Delay-Alarme
+	10:15-12:15	Vega		Search
+	14:00-20:30	Vega		Search
+25.10.	08:00-12:30	Vega		Search
+	13:30-18:30	Vega		Search
+
+----- KW 44 -----
+28.10.	07:30-12:15	Vega		Search
+	14:15-19:30	Vega		Search
+29.10.	08:00-12:30	Vega		Search
+	14:00-20:00	Vega		Search
+30.10.	08:00-11:45	Vega		Search
+	14:00-19:00	Vega		Search
+31.10.	08:30-09:00	Rolotec		unprod.
+	09:00-10:00	TBFWD		Fehleranalyse Delay-Alarme
+	10:00-12:30	Vega		Test
+	14:00-18:30	Vega		Test/Checkin
+1.11.	08:00-12:15	Rolotec		Server-Setup (bully)
+	14:00-15:30	Rolotec		Server-Setup (bully)
+	15:30-17:30	Vega		Fehlersuche mgridx
+
+----- KW 45 -----
+4.11.	08:30-12:30	Vega		Korr. Search
+	13:30-19:00	Vega		Korr. Search
+5.11.	08:00-11:45	Vega		Korr. Search
+	14:00-17:00	TBFWD		Korr. Delay-Actions
+	17:00-19:00	Rolotec		Zeiterf.
+6.11.	08:15-10:00	ESTV		Vorb. TOPICS
+	10:00-11:45	Vega		Korr. srvmgr (Parser-Crash)
+	13:30-17:30	ESTV		Vorb. TOPICS
+7.11.	08:30-12:30	ESTV		TOPICS Inst.
+	13:30-17:00	ESTV		TOPICS Inst.
+8.11.			Rolotec		Schulreisli	
+	
+----- KW 46 -----
+11.11.	08:00-10:30	Rolotec		Zeiterf.
+	10:30-12:30	TBFWD		Korr. 
+	14:00-16:30	Rolotec		PC-Update
+	16:30-17:00	ESTV		Mail Verity
+12.11.	08:00-11:00	TBFWD		Korr.
+	12:00-17:00	Vega		AGR-Sitzung
+13.11.	08:00-09:00	TBFWD		Kontrolle
+	09:00-12:30	Shark		ASPSMS (Support UB)
+	14:15-18:30	Shark		ASPSMS (Support UB)
+14.11.	08:30-10:00	Shark		ASPSMS (Support UB)
+	10:00-10:30	Rolotec		Setup bully (Apache, PHP, mysql)
+	10:30-12:30	Vega		Search
+	14:00-19:00	Vega		Search
+15.11.	08:00-12:30	Vega		Search
+	14:00-19:30	Vega		Search
+16.11.	14:00-17:30	Vega		Search
+
+----- KW 47 -----
+18.11.	08:30-12:45	Vega		Search
+	14:15-14:45	Shark		Support UB
+	14:45-18:15	Vega		Mapping & Cache setup (fatboy)
+19.11.	08:00-09:00	TBFWD		Inst. wd01
+	09:00-12:15	Vega		Search
+	14:00-19:15	Vega		Search
+20.11.	08:00-12:30	Vega		Test Search
+	14:00-16:30	Vega		Test Search
+	16:30-18:30	Vega		Vorb. Sitzung Page-Msg
+21.11.	08:00-10:15	Vega		Checkin
+	10:15-17:30	Vega		Sitzung Page-Msg
+22.11.	08:00-12:30	Vega		Server-Setup (fatboy)
+	14:00-16:00	Shark		ASPSMS Inst. (Shark4)
+	16:00-17:30	Vega		Tests
+
+----- KW 48 -----
+25.11.	08:30-12:30	Vega		Korr. Mappings
+	14:00-16:00	Vega		Korr. Mappings
+	16:00-19:30	Vega		Server-Setup (fatboy)
+26.11.	08:30-12:30	Vega		Search (Test/Korr)
+	13:30-20:00	Vega		Search
+27.11.	08:00-12:30	Vega		Search
+	14:00-19:30	Vega		Search
+28.11.	08:30-09:00	TBFWD		Support (WD02)
+	09:00-10:30	Vega		Search
+	10:30-12:45	Vega		Server-Setup (fatboy)
+	14:00-15:30	Vega		Checkin
+	15:30-16:30	Rolotec		Wartung (VDF-Problem,Limiten)
+	16:30-18:30	Vega		Search
+29.11.	08:30-09:30	Shark		Pf-Löschung (pf1)
+	09:30-12:30	Vega		Debug Search
+	13:00-14:00	Moneycab	Wartung
+	14:00-17:30	Vega		Search
+
+----- KW 49 -----
+2.12.	08:30-09:30	Rolotec		Zeiterf.
+	09:30-10:00	TBFWD		Support (Tel. Schürch)
+	10:00-12:30	Vega		Search (Dates & Ranges)
+	14:00-18:00	AGKB		Pf-Umrechnung
+3.12.	08:30-09:30	Vega		Search (Dates & Ranges)
+	09:30-10:30	Shark		Fehlersuche Pf-Berechnungen
+	10:30-12:15	Vega		Search (Dates & Ranges)
+	14:00-19:00	Vega		Search (Dates & Ranges)
+4.12.	08:30-10:30	Vega		Search (Test)
+	10:30-11:30	Vega		Server-Setup (fatboy)
+	11:30-12:30	Vega		Search (Test)
+	14:00-17:30	Vega		Search (Checkin)
+5.12.	krank
+6.12.	krank
+
+----- KW 50 -----
+9.12.	08:30-09:00	Shark		Support SanPaolo (PAY)
+	09:00-10:00	Rolotec		unprod.
+	10:00-10:30	Vega		Kontrolle fatboy
+	10:30-12:30	Vega		Dok Search-Features
+	14:00-18:30	Vega		Dok/Test Search
+10.12.	08:15-10:00	Vega		Dok/Test Search
+	10:00-12:15	T&S		Einarb.
+	14:00-18:00	T&S		Request Interface (tsreq)
+11.12.	08:45-12:15	T&S		Request Interface (tsreq)
+	14:00-18:30	T&S		Request Interface (tsreq)
+12.12.	08:15-12:15	T&S		DB-Interface (tick)
+	14:00-18:15	T&S		DB-Interface (tick)
+13.12.	08:00-13:30	ESTV		Verity Topics
+	14:00-18:30	T&S		DB-Interface (tick)
+
+----- KW 51 -----
+16.12.	08:45-12:30	T&S		DB-Interface (tick)
+	14:00-19:00	T&S		DB-Interface (tick)
+17.12.	08:00-12:30	T&S		DB-Interface (tick)
+	14:00-18:30	T&S		Tests, Debug
+18.12.	08:15-12:15	T&S		Tests, Debug
+	14:00-18:00	T&S		Debug, Checkin
+19.12.	08:00-08:30	T&S		Debug
+	08:30-09:30	Rolotec		Zeiterfassung
+	09:30-11:00	Rolotec		Entwickler-Meeting
+	11:00-12:30	T&S		Bugfixes
+	14:00-17:30	T&S		Debug
+20.12.	08:00-12:30	T&S		Debug
+	13:30-17:15	T&S		Checkin/Doku update
+
+----- KW 52 -----
+23.12.	09:00-10:00	T&S		erw. Request-Interface
+	10:00-11:00	TBFWD		Tel. Schmidlin/Schürch
+	11:00-12:30	T&S		Adjustment Factors
+	14:00-17:30	T&S		Adkustment Factors
+24.12.	08:00-11:30	T&S		Adjustment Factors
+	16:00-16:30	Shark		Wartung (AFX-Ausfall, Fehlalarm)
+25.-26.12.	frei
+27.12.	08:00-09:00	Shark		Kontrolle
+	09:00-09:30	Vega		Search-Bugs (alle GUI)
+	09:30-10:00	Rolotec		Zeiterfassung
+	
+----- KW 53/1 -----
+30.12.	frei
+31.12.	frei

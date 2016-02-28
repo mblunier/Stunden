@@ -1,0 +1,228 @@
+----- KW 1 -----
+4.1.	09:00-09:30	EWP		Admin.
+	09:30-13:00	SOLID		Elastic Export
+	14:00-19:00	SOLID
+5.1.	08:00-09:00	SOLID
+	09:00-12:00	DGI		Welcome Day
+	13:00-13:30	EWP		Best. RailCheck, Webtime etc.
+	13:30-19:00	SOLID
+6.1.	09:30-13:00	SOLID
+	13:30-15:00	SOLID
+	15:00-18:00	MFC2		XMFC-100
+7.1.	09:00-09:30	EWP		Zeiterf.
+	09:30-13:00	SOLID
+	13:30-14:00	MFC2
+	14:00-16:00	SOLID
+	16:00-17:00	DGI		Team-Meeting
+	17:00-18:30	SOLID
+8.1.	09:30-12:30	SOLID
+	13:30-18:00	SOLID
+
+----- KW 2 -----
+11.1.	09:30-11:00	iD		INC2770190 (Postfinance Search)
+	11:00-12:30	MFC2		Bespr. XMFC-100
+	13:30-18:30	SOLID		Elastic Export
+12.1.	09:00-13:00	SOLID
+	13:30-19:00	MFC2
+13.1.	08:30-13:00	MFC2
+	(14:00-16:00 Bespr. Bettina/Movis)
+	16:00-19:00	SOLID
+14.1.	09:30-13:00	SOLID		Dok. Elastic Exporter
+	14:00-17:00	SOLID
+15.1.	09:00-13:00	QA-Tools	MFC Tracetool
+	14:00-18:00	QA-Tools
+
+----- KW 3 -----
+18.1.	09:00-10:30	LSEG		Setup f. Relaunch
+	10:30-13:00	QA-Tools
+	14:00-15:30	QA-Tools
+	15:30-17:30	LSEG		Catchup
+19.1.	09:00-10:00	DGI		Ressourcenplanung
+	10:00-13:00	QA-Tools
+	14:00-16:30	QA-Tools
+	16:30-17:00	LSEG
+	17:00-19:00	MFC2		XMFC-99
+20.1.	09:00-13:00	MFC2
+	14:00-19:30	MFC2
+21.1.	09:00-11:00	MFC2
+	11:00-12:00	RefData		Review Meeting
+	12:00-13:00	DGI		Zeiterf.
+	14:00-14:30	MPS		Mails wg. TST-Meeting vom 3.2.
+	14:30-16:00	MFC2
+	16:00-17:30	DGI		Team-Meeting
+	17:30-18:30	MFC2
+22.1.	09:00-13:00	MFC2
+	14:00-17:00	Passionfruit
+	17:00-18:00	LSEG
+
+----- KW 4 -----
+25.1.	09:00-13:00	MFC2
+	14:00-14:30	Passionfruit
+	14:30-17:00	MFC2
+	17:00-17:30	LSEG
+	17:30-18:30	MFC2
+26.1.	09:00-09:30	LSEG
+	09:30-13:00	MFC2		Release 9.0.05
+	14:00-15:30	Passionfruit	Release 1.06
+	15:30-20:00	MFC2		TKmysql-5.7.10
+27.1.	09:00-10:30	MFC2		Kontrolle, Test slow queries
+	10:30-11:00	LSEG		manuelles Processing (Deltas)
+	11:00-12:30	SOLID		Elastic Export
+	12:30-13:00	Passionfruit	PASFRU-15
+	14:00-15:30	Passionfruit
+	15:30-16:00	EWP		Registrierung Business-Travel, Lohnabrechnung
+	16:00-17:30	MFC2
+28.1.	09:00-11:00	MFC2
+	11:00-11:30	SOLID		Präs. Elastic Exporter (Philemon, Maurice)
+	11:30-12:30	Passionfruit	Release 1.07 (PASFRU-16)
+	12:30-13:00	QA-Tools	Analyse Changes (RCL, LAT-Tools)
+	14:00-14:30	QA-Tools	Durchsatzmessungen (mdfrp@tissel)
+	14:30-15:00	SOLID		Support Philemon
+	15:00-15:30	Passionfruit	Erstellung Testfiles f. Louis
+	15:30-16:30	LSEG		Review Tech Design
+	16:30-17:30	MFC2
+29.1.	09:00-09:30	EWP
+	09:30-10:30	MFC2
+	10:30-11:00	SOLID		Elastic Exporter Support (Phil)
+	11:00-13:00	QA-Tools
+	14:00-16:00	DGI		Zeiterf., Zugriff Payslip
+	16:00-17:00	Passionfruit	Release 1.08
+
+----- KW 5 -----
+1.2.	09:00-12:30	DGI		iD Issues, DGI 2.0
+	12:30-13:00	SOLID		Elastic Exporter Support Phil
+	14:00-15:00	MFC2		iD Externals Release 0.1.5
+	15:00-16:30	MFC2		Lieferung Release 9.0.5 (citrin-Probleme)
+	16:30-18:00	SOLID		Elastic Exporter Support Phil
+2.2.	09:00-13:00	MFC2		div. Jiras, Admin-HB, Support QA (Boche)
+	14:00-16:30	MFC2
+	16:30-17:00	PassionFruit	Koordination B+S Uebernahme Release 1.08 
+	17:00-17:30	LSEG		Spez. zu spiegelnde ftp-Directories
+3.2.	09:00-12:30	MFC2		QA Support (MFC & Externals)
+	13:30-16:00	MFC2
+	16:00-18:00	MFC2		XMFC-99
+4.2.	09:00-09:30	DGI		WebTime
+	09:30-10:00	PassionFruit	
+	10:00-10:30	RefData		Review Meeting
+	10:30-13:00	MFC2		QA-Support
+	14:00-15:30	MFC2
+	15:30-16:00	DGI		Team-Meeting
+	16:00-18:00	MFC2
+	18:00-19:00	PassionFruit
+5.2.	09:00-09:30	PassionFruit
+	09:30-13:00	MFC2
+	14:00-19:00	MFC2
+
+----- KW 6 -----
+8.2.	09:00-10:00	MFC2		smd
+	10:00-13:30	DGI		Expert Forum, RCL Koord. (ZH)
+	14:00-15:00	QA-Tools	Review lgen/lana mit Laurent
+	15:00-17:00	DGI		Retour von ZH
+	17:00-18:00	MFC2		
+9.2.	09:00-13:00	MFC2
+	14:00-17:00	LSEG		Review Tech Doc, Conn-Test
+	17:00-19:30	MFC2
+10.2.	09:00-10:00	DGI		EWP, ITSM
+	10:00-11:00	MFC2
+	11:00-12:00	LSEG		Req. Eng.
+	12:00-13:00	MFC2
+	14:00-18:00	MFC2
+11.2.	08:00-11:00	MFC2
+	11:00-11:30	SOLID		Elastic Export Support (Phil)
+	11:30-13:00	MFC2
+	14:00-17:00	MFC2
+12.2.	08:00-09:00	MFC2
+	09:00-10:30	DGI		DGI-AF Infomeeting, Zeiterf.
+	10:30-13:00	MFC2
+	14:00-18:30	MFC2
+
+----- KW 7 -----
+15.2.	09:00-13:00	MFC2		XMFC-113
+	14:00-18:00	MFC2
+16.2.	09:00-12:00	MFC2		Tests mit MariaDB
+	12:00-12:30	LSEG		Vorb. Verbindungstests
+	12:30-13:00	PassionFruit	Abkl. Moody-Ratings
+	14:00-18:00	MFC2		Statistik in Shared Memory
+17.2.	09:00-11:00	LSEG		Verb.test, Bereitstellung Testdaten
+	11:00-13:00	MFC2		XMFC-113
+	14:00-18:30	MFC2
+18.2.	09:00-12:30	MFC2
+	13:30-15:30	PassionFruit
+	15:30-16:00	MFC2		Update Elastic Exporter @ mfc09
+	16:00-16:45	DGI		Team-Meeting
+	16:45-18:30	MFC2		XMFC-90
+19.2.	09:00-09:30	PassionFruit	Check Release 1.09 (INT)
+	09:30-13:00	MFC2		Checkin
+	14:00-14:30	PassionFruit	PROD Update & Reprocessing (Support es)
+	14:30-18:00	MFC2
+
+----- KW 8 -----
+22.2.	09:00-13:00	MFC2		XMFC-113
+	14:00-18:30	MFC2
+23.2.	09:00-09:30	DGI		virtual EWP
+	09:30-10:00	LSEG		Connection test (success!)
+	10:00-13:00	MFC2
+	14:00-19:00	MFC2
+24.2.	09:00-11:30	DGI		Review 'Secure Coding Guidelines', INC2741496, MFC2 Specs f. KK
+	11:30-12:30	LSEG
+	13:30-15:30	MFC2
+	15:30-16:00	LSEG		Test Upload
+	16:00-18:00	MFC2
+25.2.	09:00-09:30	DGI		EWP
+	09:30-10:00	MFC2		Retest slow queries
+	10:00-10:15	RefData		Review Meeting
+	10:15-13:00	LSEG		ad-hoc requests
+	14:00-17:00	LSEG
+	17:00-18:00	DGI		Zielvereinbarung
+26.2.	09:00-09:30	LSEG		Best. IL f. VDPS Upgrade während Ferienabwesenheit MC
+	09:30-10:00	MFC2		XMFC-112
+	10:00-12:00	MRP		WBS 068-0489-20-01-01 (Failover-Problem USA)
+	12:00-12:30	MFC2
+	13:30-16:30	MRP
+	16:30-17:00	DGI		Zeiterf.
+
+----- KW 9 -----
+----- KW 10 -----
+----- KW 11 -----
+----- KW 12 -----
+----- KW 13 -----
+----- KW 14 -----
+----- KW 15 -----
+----- KW 16 -----
+----- KW 17 -----
+----- KW 18 -----
+----- KW 19 -----
+----- KW 20 -----
+----- KW 21 -----
+----- KW 22 -----
+----- KW 23 -----
+----- KW 24 -----
+----- KW 25 -----
+----- KW 26 -----
+----- KW 27 -----
+----- KW 28 -----
+----- KW 29 -----
+----- KW 30 -----
+----- KW 31 -----
+----- KW 32 -----
+----- KW 33 -----
+----- KW 34 -----
+----- KW 35 -----
+----- KW 36 -----
+----- KW 37 -----
+----- KW 38 -----
+----- KW 39 -----
+----- KW 40 -----
+----- KW 41 -----
+----- KW 42 -----
+----- KW 43 -----
+----- KW 44 -----
+----- KW 45 -----
+----- KW 46 -----
+----- KW 47 -----
+----- KW 48 -----
+----- KW 49 -----
+----- KW 50 -----
+----- KW 51 -----
+----- KW 52 -----
+----- KW 53 -----

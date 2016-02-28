@@ -1,0 +1,916 @@
+----- KW 1 -----
+5.1.	09:15-09:30	Rolotec		unprod.
+	09:30-12:30	MPX3		Patrol, verb. BK-Initialisierung
+	14:15-20:00	MPX3
+6.1.	09:00-13:00	MPX3		Doku. Statistik
+	14:30-18:30	MPX3
+7.1.	08:30-12:30	MPX3		Umstell. auf RCL, Wegfall CPPLIB
+	14:00-18:30	MPX3
+8.1.	08:00-12:30	MPX3		CR3091		
+	14:00-19:00	MPX3		Vorb. Release 3.0.19
+9.1.	08:00-12:30	RCL		Korr. ClientSocket
+	14:00-16:00	RCL		Checkin, Release 1.2.4
+	16:00-17:00	MPX3		Support JUM (Modify Timeseries)
+	17:00-18:30	MPX4		Merge MPX3 changes.
+
+----- KW 2 -----
+12.1.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-10:30	QA-Tools	Update mdflist (Spez. 2008.3)
+	10:30-12:15	MPX3		Vorb. MPX 3.0.19
+	14:00-19:00	MPX4		Failover
+13.1.	08:00-12:30	MPX4
+	14:00-15:00	MPX4
+	15:00-16:00	MPX3		Bug 3039/3040
+	16:00-19:30	MPX4
+14.1.	09:00-10:30	MPX4		Analyse SLAVE-Datenverarbeitung
+	10:30-13:00	MPX3		Bug 3120
+	14:30-17:00	MPX3		Lieferung 3.0.19
+	17:00-19:00	MPX3		Lieferung QA Tools 1.12
+15.1.	08:00-10:30	MPX4
+	10:30-13:00	MPX3		Bug3120
+	14:00-19:00	MPX4
+16.1.	08:00-12:30	MPX4
+	14:00-14:15	MPX3		Bug3109
+	14:15-18:30	MPX4
+
+----- KW 3 -----
+19.1.	08:45-09:00	Rolotec		Zeiterf.
+	09:00-10:30	MPX3		Umstellung DCS-Inputs USA
+	10:30-12:30	MPX4		Failover
+	14:00-18:30	MPX4
+20.1.	08:30-12:30	MPX4		Workshop GAE
+	14:00-16:00	MPX4
+	16:30-18:30	MPX4		Failover
+21.1.	08:00-12:30	MPX4
+	14:00-19:00	MPX4
+22.1.	07:00-08:00	MPX3		Bug 3127 (Mail ABI)
+	08:00-10:00	MPX4
+	10:00-10:30	MPX3		Bug 3126
+	10:30-13:00	MPX4
+	14:30-15:30	MPX4
+	15:30-16:00	MPX3		Support Lenicka (Symbol-Forwarding)
+	16:00-19:00	MPX4
+23.1.	08:15-08:45	RCL		Erw. Patrol-Logging
+	08:45-09:15	MPX3		Support Lenicka
+	09:15-13:00	MPX4		Dok., Checkin
+	14:00-16:00	MPX4
+	16:00-16:45	MPX3		Bug 3126: Tel.konf. USA
+	16:45-18:00	MPX3		CR3126: svclistsymb.so
+
+----- KW 4 -----
+26.1.	08:30-13:00	MPX3		CR3126, MPX 3.0.20
+	14:30-16:00	MPX3
+	16:00-16:30	Rolotec		Zeiterf.
+	16:30-17:00	MPX4		Zwischen-Checkin
+	17:00-17:30	MPX3		Nachlieferung scvlistsymb.so f. 3.0.19
+	17:30-18:00	MPX4		
+27.1.	08:30-09:30	MPX3		Nachlieferung svclistsymb.so als Add-on
+	09:30-12:00	OBS2		Workshop GAE
+	12:00-12:30	MPX4		SVC mit alternativen Symbolen/Markets (svcstd.so)
+	14:00-17:30	MPX4		Bespr. Failover-Konzept
+	17:30-18:30	MPX4		SVC-Erw.
+28.1.	08:00-10:00	MPX4
+	10:00-10:30	MPX2		Tel. Bosshard, kl. Fehler in 2.2.15
+	10:30-12:30	MPX4
+	14:00-18:30	MPX4
+29.1.	07:15-12:30	MPX3		Performance-Analyse (ZH)
+	14:00-18:30	MPX3
+30.1.	07:15-12:30	MPX3
+	14:00-17:30	MPX3
+	17:30-18:30	Rolotec		unprod.
+	18:30-19:00	Rolotec		Zeiterf.
+
+----- KW 5 -----
+2.2.	09:00-10:00	Pikett		TK SGP, BEKB, yourmoney
+	10:00-12:30	MPX4		SVC-Erw.
+	14:00-18:30	MPX4
+3.2.	09:00-13:00	MPX4
+	14:00-16:00	MPX4		Abschluss SVC-Erw.
+	16:00-18:30	MPX4		Failover
+4.2.	08:00-13:00	MPX4
+	14:00-19:00	MPX4
+5.2.	07:00-09:00	MPX4
+	09:00-13:00	MPX4		Update Spez. 4.0.6
+	14:00-19:00	MPX4
+6.2.	08:00-11:30	MPX4
+	11:30-13:00	MPX4		Erw. Failover
+	14:00-16:30	RCL		XML-Input ab Socket (f. MPX4 Failover)
+	16:30-17:30	MPX2		Tel.-Support (fehlender Multiplier auf 9682545,235,333)
+
+----- KW 6 -----
+9.2.	07:30-09:30	MPX2		Bug3144 (Multiplier)
+	09:30-10:00	Rolotec		Zeiterf.
+	10:00-10:30	MPX3		Support BI (EOD-Trace anfertigen)
+	10:30-13:00	MPX2		Patch-Lieferung addon-2.2.15 (mdmgr f. Bug3144)
+	14:45-15:45	MPX2		Checkin, Dok.
+	15:45-18:00	RCL		Style- und Designguide
+	18:00-19:00	Rolotec		Support DT (Klassendesign)
+10.2.	06:30-07:30	RCL
+	07:30-12:30	MPX4		Failover (Startup SLAVE)
+	14:00-15:00	RCL		Koord.meeting
+	15:00-15:30	Rolotec		Support ASA
+	15:30-19:30	MPX4
+11.2.	07:00-12:30	MPX4
+	14:00-19:30	MPX4
+12.2.	06:30-13:00	MPX4		SOD-Verarbeitung
+	14:00-17:30	MPX4		Erw. MDFReceiver (Meldungsselektion via Methoden)
+13.2.	06:45-08:30	MPX4		Einbau MDFReceiver in mdmgr, tablemgr
+	08:30-13:00	MPX4		Failover (EID61)
+	14:00-19:00	MPX4		Failover (Mini-FIAMs & Listing Events)
+14.2.	09:00-12:30	MPX4		Failover (role-check)
+
+----- KW 7 -----
+16.2.	Morgen frei
+	12:30-18:30	MPX4		Failover (SLAVE-Verarbeitung)
+17.2.	08:00-09:30	MPX4
+	09:30-10:15	Rolotec		Support SCU (MPS), MC (iD)
+	10:15-12:30	MPX4
+	13:30-18:30	MPX4
+18.2.	07:00-07:30	Rolotec		Zeiterf.
+	07:30-13:00	MPX4
+	14:00-19:30	MPX4
+19.2.	07:00-10:00	MPX4		Test + Dok
+	10:00-10:30	MPX3		Support Lenicka (Kommando-Optionen)
+	10:30-11:15	MPX4
+	11:15-12:15	MPX4		Support SCU (?)
+	12:15-12:45	MPX4
+	14:00-17:30	MPX4
+20.2.	08:00-09:00	MPX4
+	09:00-09:30	unprod.		Leitungsunterbruch
+	09:30-12:30	MPX4
+	14:30-17:30	MPX4
+	17:30-18:00	Rolotec		Zeiterf.
+
+----- KW 8 -----
+23.2.	08:00-09:00	MPX2		Support-Bereitschaft (?)
+	09:00-13:00	RCL		Vorb. Release 1.2.5
+	14:30-17:00	RCL
+	17:00-17:30	Rolotec		Support ASA
+	17:30-19:00	RCL		Release 1.2.5
+24.2.	07:00-11:00	MPX4		Integr. MDM/PDM in Failover Handler
+	11:00-11:30	MPX3		Mail ABI (CR MPX3)
+	11:30-12:30	MPX4
+	14:30-16:30	MPX4		Verifikation Bug 3161
+	16:30-19:30	MPX4		Checkin
+25.2.	06:30-12:30	MPX4		Vorb. Release 4.0.7 (Dok.)
+	14:00-18:30	MPX4
+26.2.	07:00-13:00	MPX4
+	14:00-19:30	MPX4
+27.2.	07:00-14:00	MPX4		Lieferung Release 4.0.07
+	14:00-14:30	Rolotec		Zeiterf.
+	Nachmittag frei
+
+----- KW 9 -----
+2.3.	08:30-09:30	MPX2		Spez. CR3129, 3130, 3133
+	09:30-12:30	MPX2		CR3129, 3130, 3133
+	14:00-17:00	MPX2
+3.3.	08:00-09:00	Rolotec		Bespr. BI (MRP-API als .so)
+	09:00-09:30	MPX3		Checkin pending changes
+	09:30-11:00	MPX2		QA-Tools: Portierung mdflist
+	11:00-12:00	Rolotec		Team-Meeting Server Systems
+	12:00-12:30	MPX2
+	14:00-19:30	MPX2
+4.3.	08:00-10:00	MPX2		Spez. 2.2.16
+	10:00-10:30	MPX4		Relaunch rigi/ahorn
+	10:30-13:00	MPX2		QA-Tools: Dok.
+	14:00-18:00	MPX2		QA-Tools: mdfgen
+5.3.	08:00-13:00	MPX2		CR3129, 3130
+	14:00-18:30	MPX2
+6.3.	07:30-08:30	MPX2		QA-Tools: Dok.
+	08:30-13:00	MPX2		CR3130
+	13:45-15:00	MPX2		Checkin
+	15:00-15:30	MPX4		Update Admin-HB 4.0.08 (Failover-Setup)
+	15:30-17:30	RCL		Checkin, rename "*.cc" -> "*.cpp"
+	17:30-18:30	DCSRP2		Upgrade f. RCL 1.2.5
+
+----- KW 10 -----
+9.3.	04:30-05:00	Pikett		TK SGP: Login zu iD Mobile fkt. nicht (INC222660)
+	08:00-08:30	Pikett		ITSM-Dispatch
+	08:30-09:00	Rolotec		Zeiterf.
+	09:00-13:15	MPX3		Backport. MPX4 Changes (u.a. Bug3161)
+	14:15-14:45	Pikett		ITSM-Dispatch
+	14:45-15:15	Rolotec		Statusbericht ABI/BI
+	15:15-18:30	MPX4		Failover
+10.3.	07:30-09:00	MPX4
+	09:00-12:30	MPX4		autom. Listingeröffnung
+	13:30-14:00	MPX2		CR3196
+	14:00-15:00	RCL		Bespr. MN (BER-Encoder/-Decoder)
+	15:00-16:30	MPX2		CR3196, Checkin, Dok. update
+	16:30-17:00	MPX4		Mail BCI/JUM/EBU (PDM API Erw.)
+	17:00-18:30	MPX4		autom. Listingeröffnung
+11.3.	07:30-09:30	MPX4
+	09:30-10:00	Pikett		Tel. AKB (Weber, 062 835 7889)
+	10:00-11:00	MPX2		CR3133 (Mail ABI)
+	11:00-11:30	MPX3/OBS2	Support MF
+	11:30-12:30	MPX4		autom. Listingeröffnung
+	14:00-18:30	MPX4		Fehlersuche Marketmsg.
+12.3.	01:30-02:30	Pikett		INC223617
+	07:45-13:00	MPX4		Failover (MASTER/SLAVE switchover)
+	13:45-18:30	MPX4
+13.3.	07:30-10:00	MPX4
+	10:00-11:00	MPX4		Kontrolle MDF2 Spez 2009.1, Update MPX Spez.
+	11:00-12:30	MPX4
+	12:30-13:00	Rolotec		Zeiterf.
+	Nachmittag frei
+
+----- KW 11 -----
+16.3.	08:00-09:00	MPX2		Bereitschaftsdienst (TARGIN, WIEN)
+	09:00-13:15	MPX4		RCL: refactoring TPF1::Message & derivates
+	14:15-18:15	MPX4		Failover
+17.3.	07:00-08:00	Rolotec		unprod. (Ausfall sw15)
+	08:00-13:15	MPX4
+	14:30-15:00	MPX2		Zugang transfer-Server (ids1)
+	15:00-16:30	MPX4
+	16:30-18:30	MPX2		CR3133/3204
+18.3.	08:15-09:00	MPX2		Mail ABI/BI (CR3133/3204)
+	09:00-13:00	MPX2		CR3133/3204
+	14:00-18:30	MPX2		Checkin, Update Dok.
+19.3.	07:30-11:30	MPX2		Lieferung MPX 2.2.16
+	11:30-12:30	MPX4		Source-Update (Fehler in Liflex)
+	13:30-18:30	MPX4		Failover
+20.3.	06:45-12:45	MPX4
+	13:30-16:30	MPX4
+	16:30-17:00	Rolotec		Zeiterf.
+21.3.	11:30-12:00	MPX		Kontrolle birg/burg
+
+----- KW 12 -----
+23.3.	08:30-09:00	Rolotec		unprod.
+	09:00-10:00	Rolotec		Teammeeting
+	10:00-12:00	Rolotec		MA-Gespräch
+	13:30-17:30	MPX4		Failover
+24.3.	08:00-12:15	MPX4
+	14:00-19:30	MPX4
+25.3.	08:30-09:30	MPX4
+	09:30-12:30	MPX2		CR3209
+	14:00-15:00	MPX2
+	15:00-15:30	MPX3		Bug3217
+	15:30-19:00	MPX2
+26.3.	08:00-09:00	MPX2		Checkin, Dok.
+	09:00-10:00	MPX2		EOD-Dok. f. GAE/TKS + Beispieltrace
+	10:00-10:30	MPX3		Bug3217
+	10:30-12:30	MPX2
+	14:00-16:00	MPX2		Dok., Vorb. Packaging
+	16:00-18:00	RCL		Checkin, Vorb. 1.2.6 f. iD 8.2
+27.3.	08:30-10:30	MPX2		Lieferung 2.2.17
+	10:30-12:30	MPX3		Bug3217: Vorb. mdmgr patch
+	14:00-15:30	MPX3		Tel.konf., Lieferung mdmgr patch
+	15:30-18:30	MPX2		Nachlieferung 2.2.17
+
+----- KW 13 -----
+30.3.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-10:00	MPX2		Bereitschaftsdienst (DREBA)
+	10:00-12:30	RCL		Refactoring Lock-Klassen
+	14:00-15:00	MPX2		Bug3223 (nicht reproduzierbar)
+	15:00-17:30	RCL
+31.3.	08:00-09:30	RCL		Pre-Release 1.3.0 f. MPX4
+	09:30-11:30	MPX3/4		Update TODO-Liste (doxygen)
+	11:30-12:30	MPX4		Integr. RCL 1.3.0
+	14:00-17:45	MPX4		Failover
+	17:45-18:00	Rolotec		Zeiterf.
+1.4.	08:00-12:30	MPX4		Failover, div. Changes
+	14:00-19:00	MPX4
+2.4.	08:00-13:00	MPX4
+	14:30-18:30	MPX4
+3.4.	08:30-12:30	MPX4
+	14:00-17:30	MPX4		Patrol Agent, Kursblatt
+
+----- KW 14 -----
+6.4.	08:30-13:00	MPX4		div. CR
+	15:00-17:45	MPX4		Vorb. WS
+	17:45-18:00	Rolotec		Zeiterf.
+7.4.	08:30-18:30	MPX4		Workshop, Update Open Issues
+8.4.	07:30-10:00	MPX4		div. CR
+	10:00-11:00	MPX3		Pikett (falsche DLSsen f. BC819 korrigiert)
+	11:00-12:15	MPX4
+	13:45-20:30	MPX4
+9.4.	07:00-13:00	MPX4
+	Nachmittag frei
+10.4.	Karfreitag
+
+----- KW 15 -----
+13.4.	Ostermontag
+14.4.	08:30-13:00	MPX4
+	14:00-20:00	MPX4
+15.4.	08:00-13:00	MPX4
+	14:00-20:30	DCSRP2		Debugged
+16.4.	08:00-13:00	MPX4
+	14:00-20:30	DCSRP2
+17.4.	08:00-08:30	MPX4
+	08:30-09:30	MPX2		Tel.konf.
+	09:30-11:00	RCL		Vorb. 1.3.0
+	11:00-11:30	MPS		Support SCU
+	11:30-12:30	RCL
+	14:00-15:30	RCL
+	15:30-16:45	MPX3		Tel.konf. USA (DLS-Problem)
+	16:45-18:30	MPX2		Fehlersuche EOD-Kurse EUWAX
+18.4.	09:30-12:30	MPX2		Patchlieferung MPX 2.2.17 (EOE Symbole auf Alternate Markets)
+
+----- KW 16 -----
+20.4.	08:00-09:00	Rolotec		Zeiterf.
+	09:00-10:00	MPX2		Bereitschaftsdienst
+	10:00-11:00	MPX3		Abkl. wg. DLS & Blockierungen
+	11:00-12:30	MPX2		Datenanalyse EUWAX (CR3133)
+	14:00-15:30	MPX2
+	15:30-16:30	MPX3		Analyse TK USA Problem
+	16:30-17:30	MPX2
+21.4.	07:30-10:30	RCL		Release 1.3.00
+	10:30-12:30	MPX4		Vorb. Release 4.0.08
+	13:30-15:00	MPX4		Lieferung MPX 4.0.08
+	15:00-16:00	Rolotec		Team-Meeting
+	16:00-17:30	Abschiedsapero DT
+	17:30-18:30	MPX2		Support Chr.Schmid (CR3133)
+	18:30-19:00	MPX3		Support MUJ (Tick Denom.)
+22.4.	07:00-09:00	MPX4		Nachbearb. 4.0.08
+	09:00-10:00	MPX2		Update CR3133, PDM Patch
+	10:00-10:30	MPX4		Vorb. WS vom 28.4.
+	10:30-12:00	DCSRP2		Vorb. Release 2.0.1 (RCL 1.3.00)
+	12:00-12:45	MPX		Setup DCS Feeds (birg/burg)
+	13:45-17:30	DCSRP2		Lieferung 2.0.1
+	17:30-18:00	MPX2		CR3265
+23.4.	07:30-08:00	MPX3		INC000000237128 (imrp blockiert)
+	08:00-13:00	QA-Tools	Korr. mdflist
+	14:00-16:00	DCSRP2		debugged (RCL 1.3.01)
+	16:00-18:30	MPX2		CR3133: VAS 899 f. absolute Size-Deltas
+24.4.	08:00-12:30	MPX2		CR3133 (Tel.konf., Bugzilla-Update, pre-release PDM)
+	14:00-15:30	DCSRP2
+	15:30-17:00	MPX2		Bespr. GAE, OBV
+25.4.	07:30-12:30	DCSRP2		Debug, Test
+
+----- KW 17 -----
+27.4.	07:30-09:00	Rolotec		Statusbericht
+	09:00-10:00	MPX2		Lieferung PDM Patch 2
+	10:00-13:00	QA-Tools	Lieferung Release 2.0
+	14:00-14:30	Rolotec		Bespr. BI (Statusbericht)
+	14:30-15:00	MPX4		Support Lenicka
+	15:00-16:00	RCL		cygwin-Update
+	16:00-17:00	ESTV		Setup mb-02 (Zugang dgi)
+	17:00-18:30	DCSRP2		Test, Debug
+28.8.	07:30-09:00	DCSRP2
+	09:00-12:30	NMA/MPX		Workshop GAE, VOB
+	14:00-16:30	NMA/MPX		Workshop GAE, VOB
+	16:30-18:30	MPX2		div. Probleme (BC832, 211)
+29.4.	07:30-10:30	MPX		Cleanup MDF/DCS-Verteilung (r2.rolotec.ch)
+	10:30-13:30	MPX2		Fehlersuche BC832 (2.2.15-Problem)
+	14:30-16:30	MPX2		Fehlersuche EUWAX-Deltas (CR3133)
+	16:30-18:30	DCSRP2		Lieferung DCSRP2 2.0.2
+	18:30-20:30	MPX2
+30.4.	07:30-09:30	Rolotec		Know-How Transfer BI
+	09:30-10:30	Rolotec		Zeiterf.
+	10:30-12:30	unprod.
+
+----- KW 18 -----
+	Ferien
+
+----- KW 19 -----
+	Ferien
+
+----- KW 20 -----
+	Ferien
+
+----- KW 21 -----
+25.5.	09:00-12:30	unprod. (PC Setup)
+	14:00-19:00	unprod.
+26.5.	08:30-13:00	unprod.	(Mails, Einarbeitung)
+	14:15-15:00	unprod.
+	15:00-17:30	MPX4		WS GAE
+27.5.	08:00-10:00	MPX4		Bug3267 (Admin-HB)
+	10:00-12:30	MPX4		Beschr. div. CR (Spez 4.0.09)
+	14:00-16:00	RCL		Koordinations-Meeting
+	16:00-17:30	MPX4
+28.5.	08:00-10:00	RCL		Update, Korr. Win32-Integr.
+	10:00-12:45	MPX4		CR3320 (Full-Feed-Filter)
+	14:30-19:00	MPX4
+29.5.	08:30-13:00	MPX4		CR3317 (DCS source start/stop)
+	14:30-18:00	MPX4
+	18:00-18:30	Rolotec		Zeiterf.
+
+----- KW 22 -----
+1.6.	Pfingsmontag
+2.6.	08:00-10:00	RCL		Setup Visual Studio C++ 9.0
+	10:00-13:00	MPX4		Update Admin-HB
+	14:30-19:00	MPX4		CR3321
+3.6.	08:00-10:00	MPX4
+	10:00-10:30	MPX2		Problem svzpmpxint01 mit BC537
+	10:30-11:00	MPX4		Update Admin-HB
+	11:00-11:15	MPX3		Standortbest. Pikett
+	11:15-13:00	MPX4
+	14:15-16:00	Rolotec		Teammeeting
+	16:00-17:30	MPX2		BC537: keine L2 Kurse (wg. Konfig.), L2 Qty bleibt stehen (CR3130)
+4.6.	07:00-08:30	MPX4		Design Replikationskanal
+	08:30-09:30	OBS2		Bespr. Integr. in MPX4
+	09:30-12:30	MPX4		CR3321: PM API
+	14:00-18:30	MPX4
+5.6.	07:30-13:00	MPX4
+	14:00-19:00	MPX4
+
+----- KW 23 -----
+8.6.	07:00-07:30	Rolotec		Zeiterf.
+	07:30-13:00	MPX4		Korr./Erw. API-commands
+	14:15-15:00	MPX4		CR3335 (Mail M.Hehle)
+	15:00-19:00	MPX4		Bug3267: Admin-HB
+9.6.	08:00-13:00	RCL		Release 1.3.02
+	14:00-15:30	RCL
+	15:30-16:30	MPX4		Support BCI (SOD-HK Feed auf galm)
+	16:30-18:30	MPX4		Bug3267: Admin-HB
+10.6.	(Ankunft Nid)
+	10:15-12:15	RCL		Korr. Release 1.3.02
+	14:00-15:00	RCL
+	15:00-18:30	MPX4		EOE-Verarbeitung
+11.6.	08:00-12:30	MPX4
+	14:00-18:30	MPX4		CR3321: TPF.1 -> ASN.1
+12.6.	08:00-13:00	MPX4
+	14:00-19:00	MPX4
+
+----- KW 24 -----
+15.6.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:30	MPX3		Vorb. Release 3.0.20 (svcstd.so)
+	14:00-15:00	Shark		B&S-Support Limit Minder
+	15:00-18:30	MPX3		Fehlersuche XML-Parsing
+16.6.	08:00-12:30	MPX3
+	14:00-18:30	MPX3
+17.6.	08:00-12:30	MPX3		Versuche mit Xerces 3.0.1
+	14:00-17:00	MPX3		Team-Meeting SrvSys
+	17:00-19:00	MPX3
+18.6.	07:00-14:00	MPX2		TK-Ausbildung
+	15:30-18:00	MPX3
+19.6.	08:00-09:30	MPX3		MPX 3.0.20 innert 1/2 Tag lieferbereit
+	09:30-12:30	MPX4		Spez. 4.0.10
+	14:00-18:00	MPX4
+
+----- KW 25 -----
+22.6.	08:15-08:45	Rolotec		Zeiterf.
+	08:45-09:30	Rolotec		Bespr. Shark 3rd-Level Support
+	09:30-12:30	MPX4		CR3321: Failover mit Replikationskanal
+	14:00-16:00	MPX4
+	16:00-17:00	Rolotec		ASN.1-Evaluation
+	17:00-19:30	MPX4
+23.6.	08:00-09:00	MPX4
+	09:00-11:30	Rolotec		Infomeeting Entwicklung
+	11:30-12:30	MPX4
+	14:00-17:30	MPX4
+24.6.	08:00-12:30	MPX4		CR3390: TDM output limit
+	14:00-18:30	MPX4		CR3321: Failover
+25.6.	08:15-12:15	MPX4
+	14:00-20:00	MPX4
+26.6.	08:00-12:30	MPX4
+	14:00-18:00	MPX4
+
+----- KW 26 -----
+29.6.	07:00-07:30	Rolotec		Zeiterf.
+	07:30-11:30	MPX4
+	11:30-14:00	(Arzttermin)
+	14:00-18:30	MPX4
+30.6.	08:00-12:30	MPX4
+	14:00-18:00	MPX4
+1.7.	07:30-12:30	MPX4
+	14:00-15:30	Rolotec		Teammeeting SrvSys
+	15:30-16:00	MPX3		Bespr. DLS-Problematik (Bi)
+	16:00-18:00	MPX4
+	18:00-19:30	MPX4		Analyse CR3340 (MPX2-Sammelbugzilla)
+2.7.	07:30-12:30	MPX4		CR3321
+	14:00-18:30	MPX4
+3.7.	08:00-11:00	MPX4
+	13:00-17:30	MPX4
+
+----- KW 27 -----
+6.7.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:15	DevTools	Vorb. RCL 1.3.03, asn1cc 1.1
+	14:00-18:00	DevTools
+7.7.	08:15-12:15	MPX4
+	13:30-18:00	MPX4
+8.7.	08:00-10:00	MPX[234]	Update MDF-Verteiler (MRP 2.5.0)
+	10:00-11:00	Rolotec		Setup cygwin f. RCL-Development
+	11:00-12:30	MPX4
+	14:00-18:30	MPX4
+9.7.	08:00-12:30	MPX4
+	14:00-18:00	MPX4		CR3319 (BCs eines Feeds abfragen)
+10.7.	07:30-08:00	MPX4		CR3329 (MDF table 84)
+	08:00-12:30	MPX4		CR3321: Checkin DCS/MDF Replikation
+	14:00-18:30	MPX4		Dok.
+
+----- KW 28 -----
+13.7.	07:30-08:00	Rolotec		Zeiterf.
+	08:00-09:30	MPX4		Checkin
+	09:30-12:30	ESTV		SVN-Repository f. ELIAS
+	(Nachmittag frei)
+14.7.	08:00-12:30	ESTV		Lieferung elias_web-20090714.tar.gz
+	14:00-16:30	ESTV		Problem mit Authentifizierung
+	16:30-17:30	iD		Support ASA (RCL 1.3.03, Makefiles)
+	17:30-18:30	ESTV
+15.7.	07:30-08:00	Rolotec		AH: Liste aller Listing Events pro Market
+	08:00-13:30	MPX4		CR3321: DLS-Updates & Market Events
+	14:30-15:30	OBS2/MPX4	Support TK (Mails Gähler/Ziegler)
+	15:30-18:30	MPX4		CR3321: Listing Events & Prices
+16.7.	08:00-12:30	MPX4
+	14:00-19:00	MPX4
+17.7.	08:00-10:00	ESTV		Packaging & README
+	10:00-12:30	MPX4
+	14:00-18:30	MPX4
+
+----- KW 29 -----
+20.7.	07:30-08:00	Rolotec		Zeiterf.
+	08:00-09:00	ESTV		Lieferung elias_web-20090720.tar.gz (+ README)
+	09:00-12:30	MPX4
+	14:00-18:30	MPX4
+21.7.	07:30-12:30	MPX4
+	14:00-19:00	MPX4
+22.7.	08:00-09:00	MPX4		CR3329 (Table 84)
+	09:00-13:00	MPX4		CR3321
+	14:00-15:00	MPX		Support TK (DCS-Verteiler)
+	15:00-18:15	MPX4
+23.7.	07:30-13:15	MPX4
+	14:15-18:30	MPX4
+24.7.	08:00-13:00	MPX4
+	14:00-19:30	MPX4
+	
+----- KW 30 -----
+27.7.	07:30-12:00	RCL		Release 1.3.03
+	13:30-18:30	MPX4
+28.7.	08:00-13:00	MPX4
+	14:00-15:30	MPX4
+	15:30-16:00	MPX2		Support Th. Ziegler (BC399)
+	16:00-18:00	MPX4
+	18:00-18:30	TBFWD		Offerte (Support MHA)
+29.7.	08:00-12:00	MPX4
+	14:00-18:30	MPX4
+30.7.	08:00-12:30	MPX4		Update Dok.
+	14:00-20:00	MPX4
+31.7.	08:00-11:30	MPX4		Release 4.0.10
+	11:30-12:00	Rolotec		Zeiterf.
+
+----- KW 31 -----
+3.8.	08:30-10:30	MPX2		Bugs: 3130, 3524
+					CRs: 3251, (3282), 3389, 3472, 3516
+					Dok: CR3258, 3282 (no change)
+	10:30-12:00	MPX		ITSM wg. CEF-Feed & Zugang US-DCSRP
+	12:00-12:45	MPX2
+	14:00-18:45	MPX2
+4.8.	08:30-12:45	MPX2
+	14:00-19:00	MPX2
+5.8.	08:00-12:30	MPX2
+	14:00-16:30	MPX2		Vorb. 2.2.18 (Bugzilla, Dok.)
+	16:30-17:30	MPX4		Update Sammel-Bugzilla CR3340
+6.8.	Kompensation
+7.8.	07:30-12:30	MPX2		CR3258
+	14:00-17:30	MPX2
+
+----- KW 32 -----
+10.8.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-11:00	MPX2		Checkin, Tests
+	11:00-12:15	MPX4		Analyse Bug3589
+	13:45-14:45	MPX2
+	14:45-19:00	DCSRP		CRs
+11.8.	08:30-10:30	DCSRP
+	10:30-11:30	MPX2		CR3516
+	13:00-14:00	MPX2
+	14:00-15:30	Rolotec		RCL-Koordination
+	15:30-18:30	MPX2
+12.8.	08:00-12:30	DCSRP
+	14:00-18:00	MPX2
+13.8.	Morgen frei
+	13:00-19:00	DCSRP
+14.8.	07:00-11:30	MPX2		Lieferung Release 2.2.18
+	12:45-16:15	DCSRP		Lieferung Release 2.0.3
+	16:15-16:30	Rolotec		Zeiterf.
+	16:30-17:30	unprod.		SW-Updates
+à
+----- KW 33 -----
+17.8.	08:30-11:30	MPX4		Pendenzenliste, Vorb. WS
+	13:30-18:00	MPX4		div. kleinere CRs
+18.8.	08:00-12:30	MPX4		CR3329 (Table 84)
+	14:00-20:00	MPX4
+19.8.	08:30-12:30	MPX4
+	14:30-18:00	MPX4
+20.8.	08:15-12:15	MPX4		Update Arbeitspakete, Dispatch Bugzillas
+	14:00-18:00	MPX4		CR3329
+21.8.	07:30-12:30	MPX4
+	14:00-18:00	MPX4
+		
+----- KW 34 -----
+24.8.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:30	MPX4		div. CR
+	14:00-18:30	MPX4
+25.8.	08:00-12:30	MPX4		WS
+	13:30-17:30	MPX4		
+	17:30-18:30	MPX4		div. Mails
+26.8.	08:00-09:30	MPX4
+	09:30-11:00	MPX Wartung	DCSRP-Setup
+	11:00-12:30	MPX4
+	14:00-18:00	MPX4
+27.8.	08:00-12:30	MPX4
+	14:00-18:30	MPX4
+28.8.	07:30-11:30	MPX4		Vorb. WS 31.8.
+	12:30-18:00	RCL,DEV-Tools	Erw. Reader-API, OBuffer-Integr.
+	
+----- KW 35 -----
+31.8.	07:15-16:45	MPX4		NMA/MPX Deployment Kickoff, FENT-WS
+1.9.	08:45-08:45	Rolotec		Zeiterf.
+    	08:15-12:30	MPX4		div. CR, Dok.
+	14:00-16:00	MPX2		Support TK (MPX L2, DCSRP-Anbindung)
+	16:00-18:30	MPX4
+2.9.	07:00-12:30	MPX4
+	14:00-18:00	MPX4
+3.9.	07:00-09:00	MPX4
+	(Rest Kompensation)
+4.9.	07:30-08:30	MPX4		Vorb. WS (Traktanden, Arbeitspakete)
+	08:30-12:30	MPX2		Support TK (DCS-Empfang, Order Book)
+	14:00-18:30	MPX2
+
+----- KW 36 -----
+7.9.	08:00-12:00	ESTV		Bespr. ELIAS-Deployment
+	14:00-14:30	ESTV		Protokoll-Mail MHA, DGI
+	14:30-18:30	MPX2		Support TK
+8.9.	07:30-09:00	MPX4
+	09:00-12:30	MPX4		WS
+	14:00-18:00	MPX4		WS
+9.9.	09:00-12:00	Rolotec		Info neue Anstellungsbed./PK
+	14:00-15:00	Rolotec		Team-Meeting SrvSys
+	15:00-16:00	MPX4
+	16:00-16:30	ESTV		Bespr. MHA/DGI
+	16:30-19:00	MPX4
+10.9.	07:30-12:30	MPX4		Weiterentw.
+	14:00-15:00	MPX4
+	15:00-17:30	MPX4		Lieferung MPX 4.0.09p1 (TK-QA)
+	17:30-18:30	MPX4
+11.9.	07:30-13:00	RCL		Korr./Test TPF1::Message/ValueSegment, asn1cc 1.02.01
+	14:00-16:00	MPX4
+	16:00-17:00	MPX4		Support TK-QA
+
+----- KW 37 -----
+14.9.	07:30-08:30	Rolotec		Zeiterf.
+	08:30-11:00	MPX4
+	13:00-15:00	MPX4
+	(1h Arztbesuch Nid)
+	16:00-18:00	MPX4
+15.9.	08:00-08:30	MPX4
+	08:30-09:00	Rolotec		Bespr. MPX-Pikett
+	09:00-13:00	MPX4
+	14:00-16:00	MPX4
+	16:00-20:00	MPX4		Debug 4.0.09
+16.9.	07:30-10:00	MPX4		MPX 4.0.09p2
+	10:00-12:30	MPX4		Test MPX 4.0.11
+	14:00-19:30	MPX4
+17.9.	07:00-12:30	MPX4
+	14:00-19:00	MPX4		Checkin, Dok.
+18.9.	07:30-12:30	MPX4
+	14:00-15:30	MPX4
+	15:30-20:00	Rolotec		Migration RCL-Wiki -> DevWiki
+
+----- KW 38 -----
+21.9.	07:00-11:30	MPX4		Vorb. STK WS
+	13:00-18:00	MPX4		Integr. RCL Reader API (mn)
+22.9.	07:00-12:00	MPX4		NMA/MPX4 WS (STK)
+	13:00-18:30	MPX4
+23.9.	07:00-09:00	MPX4		Admin. (Bugzilla, WS-Resultate)
+	09:00-12:00	MPX4		div. CR (editConfig, Support SCU)
+	12:00-13:00	ESTV		Support DGI
+	14:00-16:00	Rolotec		Team-Meeting SrvSys
+	16:00-18:00	MPX4
+24.9.	07:30-11:30	RCL		DokuWiki (Releases)
+	11:30-12:30	ESTV
+	14:30-18:30	ESTV
+25.9.	07:30-08:00	Rolotec		Zeiterf.
+	08:00-12:30	MPX4		Failover mit FlushFile
+	14:00-18:00	MPX4
+
+----- KW 39 -----
+28.9.	krank
+29.9.	07:30-09:00	Rolotec		Vorb. C++ Coding Guidelines
+	09:00-12:30	ESTV		Lieferung ELIAS 4.1
+	14:00-18:30	MPX4		Failover mit FlushFile
+30.9.	07:30-12:30	MPX4
+	14:00-18:00	MPX4
+	18:00-18:30	Rolotec		Zeiterf.
+1.10.	07:30-10:00	MPX4
+	10:00-11:30	ESTV		Test Deployment (Mail BIT), Freigabe 4.1
+	11:30-13:00	MPX4
+	14:00-19:30	MPX4
+2.10.	07:30-13:00	MPX4
+	14:00-19:00	MPX4
+
+----- KW 40 -----
+5.10.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-12:15	MPX4		Analyse/Korr. MM-Verarbeitung
+	13:45-18:30	MPX4
+6.10.	Morgen frei
+	13:00-18:00	MPX4
+7.10.	08:00-09:00	MPX4
+	09:00-09:15	Rolotec		Know-How transfer lgen/lana
+	09:15-12:30	MPX4
+	14:00-15:00	Rolotec		Team-Meeting SrvSys
+	15:00-18:30	MPX4
+8.10.	08:15-12:45	MPX4
+	14:15-16:30	RCL		Release 1.3.04
+	16:30-18:30	MPX4		Vorb. Release 4.0.11
+9.10.	07:00-12:30	MPX4		Lieferung 4.0.11
+	Nachmittag frei
+
+----- KW 41 -----
+12.10.	07:45-08:15	Rolotec		Zeiterf.
+	08:15-09:15	Rolotec		SW-Update (VMware)
+	09:15-12:45	MPX4		Dok. Arbeitspakete
+	13:45-18:30	DCSRP2		Release 2.0.4
+13.10.	08:15-11:30	DCSRP2
+	11:30-12:00	OBS		Support QA (Sourcelieferung dcsrclient/dcssclient)
+	13:45-17:30	DCSRP2
+14.10.	08:00-12:30	DCSRP2
+	14:00-18:30	DCSRP2
+15.10.	08:15-11:15	DCSRP2
+	12:30-15:15	DCSRP2
+	15:45-19:30	DCSRP2
+16.10.	08:00-09:30	DCSRP2		Lieferung Release 2.0.4
+	09:30-10:00	Rolotec		Zeiterf.
+	10:00-12:15	DCSRP2		Abschluss Lieferung
+	14:15-15:30	ESTV		Korr. DBA-mkidx (too many arguments)
+	15:30-17:00	MPX4		Analyse/Update Bugzillas
+	17:00-17:30	ESTV		Analyse Indexierprobleme
+
+----- KW 42 -----
+19.10.	08:15-10:30	ESTV
+	10:30-12:30	MPX4		Dok. update
+	13:45-15:30	MPX4		CR3766 (exchange config folder)
+	15:30-17:30	MPX4		Bugzillas, Dok.
+20.10.	08:30-10:30	MPX4		Iterationsplanung
+	10:30-12:30	ESTV		Probleme beim Laden der Collections
+	14:00-16:30	MPX4		CR3648 (checkConfig)
+21.10.	07:30-11:30	MPX4
+	13:30-14:00	MPX4
+	14:00-14:30	Rolotec		Team-Meeting SrvSys
+	14:30-18:00	MPX4		CR3641/3748 
+22.10.	07:30-11:00	MPX4
+	11:00-11:45	DCSRP2		Vorb. Release 2.0.4p1 f. Bug 3590
+	13:15-13:30	DCSRP2		Lieferung Release 2.0.4p1
+	13:30-18:00	MPX4
+23.10.	07:00-12:00	MPX4
+	13:30-18:30	MPX4
+
+----- KW 43 -----
+26.10.	07:30-11:30	MPX4
+	11:30-12:30	DCSRP2		Package 2.0.4p1
+	14:00-15:00	DCSRP2		Lieferung 2.0.4p1
+	15:00-17:00	MPX4
+27.10.	12h		NMA/MPX4 Workshop in ZH
+28.10.	07:45-10:00	MPX4		Bugzilla/Doku update
+	10:00-10:30	MPS		Support SCU: debug tablemgr core
+	10:30-12:45	MPX4
+	14:00-18:30	MPX4		CR3773
+29.10.	07:30-12:30	MPX4	
+	14:00-17:00	MPX4
+	17:00-19:00	MPX4		Pre-Release 4.0.12 f. FENT-PDM
+30.10.	07:30-09:30	DCSRP2		
+	09:30-12:15	MPX4		MPE-Test/Debug
+	13:15-17:00	MPX4		Performance-Analyse (kk)
+	17:00-17:30	Rolotec		Zeiterf.
+	17:30-18:00	MPX4		Mail T. Ziegler
+
+----- KW 44 -----
+2.11.	07:45-10:45	MPX4		CR3773, Unterscheidung primary/secondary input
+	10:45-12:45	MPX4		Debug momsagent
+	14:00-18:30	MPX4
+3.11.	07:00-08:00	MPX4		Korr. Time Series Storage API
+	08:00-08:30	OBS2		Tracefile-Maintenance
+	08:30-10:00	DCSRP2		verb. Connection-Handling
+	10:00-13:00	MPX4		Pre-Release 4.0.12
+	14:00-18:30	MPX4		Bugzilla 3851/3855
+4.11.	07:30-12:30	MPX4
+	13:30-14:00	MPX4
+	14:00-14:30	Rolotec		Team-Meeting SrvSys (inkl. Vorb.)
+	14:30-18:00	MPX4
+5.11.	07:00-09:00	MPX4		Liflex debugging
+	09:00-09:30	OBS2		Support MF
+	10:30-12:30	MPX4		Bugzilla 3851/3855
+	14:00-15:30	MPX4		debug TDM scheduling
+	15:30-17:30	MPX4		Bugzilla 3851/3855
+6.11.	07:30-08:00	MPX4
+	08:00-09:00	MPX4		Unittest f. Schedule-class
+	09:00-09:30	unprod.		Netzwerkunterbruch Biel-ZH
+	09:30-10:30	MPX4
+	10:30-12:45	MPX4		Bugzilla 3851/3855
+	13:30-15:00	MPX4		Bugzilla 3851/3855 (Insure-FW)
+	15:00-18:00	MPX4		Checkin, Dok.
+7.11.	10:00-13:00	RCL		Tests mit Insure++, neues MPX4-FW
+
+----- KW 45 -----
+9.11.	10:15-12:30	Rolotec		Support KK: Dok. MPX Verarbeitungsschritte f. Workstream-Optimierung
+	12:30-14:00	MPX4		Debug (scheduling, EOD/SOD)
+	15:00-17:30	MPX4		Checkin, Dok.
+10.11.	08:00-10:15	Rolotec		Support KK
+	10:15-10:45	Rolotec		Bespr. YVO (Prioritäten: MPX4, DCSRP2, DQWD, andere)
+	10:45-12:45	MPX4		Korr. TDM scheduling
+	14:00-14:30	RCL		Bespr. Massimo
+	14:30-15:00	MPX2		Anfrage wg. Feiertags-Pikett (keines)
+	15:00-18:00	MPX4
+11.11.	08:30-09:00	MPX4
+	09:00-10:00	Rolotec		Zeiterf.
+	10:00-13:00	MPX4		Bereinigung MTI
+	14:00-19:00	MPX4		Upgrade Insure (7.1.6), neues Pre-Releases f.  RCL & MPX
+12.11.	08:15-09:00	DCSRP2		Analyse Bericht R. Siegert
+	09:00-12:30	MPX4		CR3668
+	14:00-18:00	MPX4		
+13.11.	07:30-10:30	MPX4
+	10:30-11:00	MPX4		Tel.support FENT (Bug3851/3855)
+	11:00-12:30	MPX4		CR3668 (Fehler im MRP API?)
+	14:00-18:30	MPX4
+
+----- KW 46 -----
+16.11.	08:00-12:30	MPX4		Abkl. neue OSI-Symbology (Trace)
+	14:00-18:00	MPX4		CR3668 (falsche MDF Headerflags)
+17.11.	07:30-12:30	MPX4		review HLS locking
+	14:00-19:00	MPX4
+18.11.	08:30-12:30	MPX4		MPE refactoring
+	13:30-18:30	MPX4
+19.11.	09:00-13:00	MPX4
+	14:00-18:30	MPX4
+20.11.	07:30-13:00	MPX4		Release 4.0.12
+	14:00-15:30	MPX4
+	15:30-16:00	Rolotec		Zeiterf.
+
+----- KW 47 -----
+23.11.	08:00-12:00	MPX4		Multi-Core Optimierung mit HP
+	14:00-17:30	ESTV		Anp. Suchseite (Mail Keller 29.10.)
+24.11.	08:00-12:30	MPX3		CR3755 (exchange holidays)
+	14:00-18:30	ESTV		Anp. Collection building
+25.11.	07:30-11:30	ESTV		Lieferung ELIAS 4.2 (2 Packages)
+	14:00-15:00	MPX4		Support HP (API-Docs)
+	frei
+26.11.	08:30-09:00	MPX4		Tel.konf. (Marimba Integration)
+	09:00-11:30	DCSRP2		div. CR3927/3934
+	14:00-15:00	MPX2		CR3928: Boot-Sequenz
+	15:00-17:30	MPX3/4		CR3929: Boot-Sequenz
+	17:30-18:30	DCSRP2		Patrol Log
+27.11.	08:00-12:30	MPX4		Analyse Market Event Replikation
+	14:00-16:30	MPX4		Maintenance (Disk full)
+	16:30-17:30	ESTV		Nachlieferung ELIAS
+	17:30-19:00	MPX4		QA: Analyse Testablauf (Mail)
+
+----- KW 48 -----
+30.11.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-11:00	DQWD		SRS
+	14:30-15:00	ESTV		Mail G. Teo, Nachlieferung ELIAS 4.2
+	15:00-18:00	DQWD
+1.12.	07:30-08:00	MPX4		Mail Calame/Jakschewitz
+	08:00-12:30	RCL		Performance Tests (Queues, Threads)
+	14:00-14:30	DCSRP2		Bugzilla 3944
+	14-30-19:00	RCL
+2.12.	07:30-11:00	MPX4		Korr. MoMS/Liflex-Anbindung (SQLite)
+	13:30-14:00	MPX4
+	14:00-14:30	Rolotec		Team-Meeting SrvSys
+	14:30-18:30	MPX4
+3.12.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-11:30	Rolotec		Info-Meeting SW-Entwicklung
+	13:00-19:00	MPX4
+4.12.	08:15-11:45	DCSRP2		Bug3944/3962, verb. Restart-Verhalten
+	13:15-17:45	DCSRP2
+5.12.	10:00-11:30	DCSRP2
+
+----- KW 49 -----
+7.12.	08:15-08:45	Rolotec		Zeiterf.
+	08:45-12:30	DCSRP2		RCL 1.306 (pre-release)
+	13:30-16:00	DCSRP2		Lieferung 2.0.5
+	16:00-17:30	RCL		Performance-Tests
+8.12.	08:00-09:30	MPX3		Setup Pikett-Dokumentation, SecureCRT
+	09:30-10:30	RCL		Branch 1.3.06_OBS2
+	10:30-11:00	MPX4		Checkin
+	11:00-12:45	MPX4		Build, Update Testinstanzen
+	13:45-18:30	MPX4		Vorb. Perfomance-Test utility
+9.12.	08:00-12:30	MPX4		Perf.tests (HP)
+	14:00-17:30	MPX4
+10.12.	08:00-12:30	MPX4
+	14:00-17:30	MPX4
+	17:30-18:30	RCL		Erw. concurrent (Spinlocks)
+11.12.	08:00-12:30	MPX4		Integr. Spinlocks
+	14:00-17:00	MPX4		div. Bugzillas
+
+----- KW 50 -----
+14.12.	08:00-09:00	Rolotec		Zeit- und Spesenerf.
+	09:00-12:30	MPX4		Vorb. QA-Support (Bugzilla-Analyse)
+	14:00-18:00	MPX4
+15.12.	07:15-12:30	MPX4		QA-Support (ZH)
+	14:00-19:45	MPX4
+16.12.	08:30-12:30	MPX4		Konsolidierung div. Changes (RCL, MRP)
+	14:00-14:30	Rolotec		Team-Meeting SrvSys
+	14:30-18:30	MPX4		Bug 4001
+17.12.	08:15-13:00	MPX4
+	14:15-20:30	MPX4		div. Bugzillas
+18.12.	08:00-12:30	MPX4
+	14:00-18:30	MPX4
+
+----- KW 51 -----
+21.12.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:15	MPX4
+	14:00-17:30	MPX4
+22.12.	08:00-13:00	MPX4
+	14:00-18:30	MPX4
+23.12.	07:30-10:00	MPX4
+	14:30-18:00	MPX4
+24.12.	08:15-12:15	MPX2		Produktions-Support (EOE-Symbole)
+	13:30-16:45	RCL		Pre-release 1.3.06 (NLE, MF)
+	16:45-17:15	Rolotec		Zeiterf.
+
+----- KW 52 -----
+28.12.	3h		MPX2		Prod.-Support (EOE-Probleme EUWAX)
+29.12.	3h		MPX2
+30.12.	1h		MPX2
+31.12.	7.4h		Ferien
+
+----- KW 53/1 -----

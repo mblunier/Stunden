@@ -1,0 +1,847 @@
+----- KW 2 -----
+5.1.	09:15-10:00	Rolotec		Zeiterf.
+	10:00-12:30	Rolotec		Mailablage
+	14:00-18:30	iD2		csfeed
+6.1.	08:30-12:45	iD2
+	15:00-19:30	iD2
+7.1.	08:30-12:30	iD2
+	14:00-19:00	iD2
+8.1.	08:00-12:30	iD2
+	14:00-18:00	iD2
+	18:00-19:30	iD2		Bug 862
+9.1.	08:00-12:30	iD2		csfeed
+	14:00-17:30	iD2
+
+----- KW 3 -----
+12.1.	09:15-10:00	Rolotec		Zeiterf.
+	10:00-10:30	iD2		Bespr. HK-Ausfall (bi)
+	10:30-12:30	iD2
+	14:00-17:00	iD2
+	18:00-20:30	iD2
+13.1.	08:15-12:30	iD2
+	14:00-19:30	iD2
+14.1.	08:30-12:30	iD2
+	15:00-20:00	iD2
+15.1.	09:00-12:30	iD2
+	14:00-18:30	iD2		64-Bit Kompilierung
+16.1.	08:00-12:30	iD2
+	14:00-15:30	iD2
+	15:30-16:30	iD2		Sitzung CS-Performance (GAE)
+	16:30-17:30	iD2		Search (MFCS only)
+
+----- KW 4 -----
+19.1.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-09:30	TKF		Support TBFWD (Schürch)
+	09:30-12:30	iD2		64-bit Portierung
+	14:30-19:30	iD2
+20.1.	08:30-12:45	iD2
+	14:30-15:30	iD2
+	15:30-16:00	Borsalino	MDF Delays
+	16:00-18:30	iD2
+21.1.	08:30-12:30	iD2		Listing Events
+	14:00-19:30	iD2		64-bit Portierung
+22.1.	08:00-12:30	iD2
+	14:00-19:00	iD2
+23.1.	08:00-12:30	iD2
+	14:00-17:00	iD2		Release
+	17:00-17:30	Baloise		Support (rename: muster->gutes)
+
+----- KW 5 -----
+26.1.	09:00-11:00	iD2		64-bit Portierung
+	11:00-11:30	Rolotec		Zeiterf.
+	11:30-12:30	iD2		64-bit Portierung
+	14:30-17:30	iD2
+	17:30-18:00	iD2		Packaging
+	18:00-19:30	iD2		64-bit Portierung
+27.1.	08:15-12:45	iD2
+	14:15-15:00	iD2
+	15:00-17:30	iD2		LDAP-Anbindung
+	17:30-19:00	iD2		64-bit Portierung
+28.1.	08:00-12:15	iD2
+	13:45-16:45	iD2
+	16:45-17:15	Raiffeisen	Support MAC
+	17:15-19:15	iD2
+29.1.	08:15-09:00	TKNY		Support Börsenfeiertage
+	09:00-12:45	iD2
+	14:15-19:30	iD2
+30.1.	08:30-12:15	iD2		Test 64-bit
+	13:45-17:30	iD2		
+
+----- KW 6 -----
+2.2.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:00	iD2		Debugging
+	14:00-18:30	iD2
+3.2.	08:00-12:00	iD2		Install.-Support BI
+	12:00-12:30	Shark		Support HB (Pf.-Transfer)
+	14:15-18:15	iD2		Search
+4.2.	07:30-12:30	iD2
+	frei
+5.2.	08:30-12:30	iD2
+	14:00-19:30	iD2
+6.2.	07:30-12:30	iD2
+	14:00-15:30	iD2
+	15:30-		frei		Ausfall files2
+7.2.	10:30-14:00	iD2
+
+----- KW 7 -----
+9.2.	09:00-09:30	AKB		Wartung
+	09:30-10:00	Rolotec		Zeiterf.
+	10:00-12:30	iD2
+	14:00-18:30	iD2
+10.2.	07:30-12:30	iD2
+	14:00-19:00	iD2
+11.2.	07:30-12:30	iD2
+	14:00-18:30	iD2
+12.2.	08:30-10:30	iD2
+	10:30-11:00	TBFWD		Bespr. KM
+	11:00-12:30	iD2		Related News (initial load)
+	14:30-15:30	iD2
+	15:30-16:00	Raiffeisen	Support
+	16:00-18:30	iD2		Debug (s=/td= in Inst-Listen)
+13.2.	08:00-12:30	iD2		Related News (initial load)
+	14:30-19:00	iD2
+	
+----- KW 8 -----
+16.2.	08:30-09:00	iD2		Koord. Search
+	09:00-11:30	iD2		Related News (initial load)
+	11:30-12:00	Rolotec		Zeiterf.
+	14:00-16:30	iD2		Search-Sitzung
+	16:30-18:30	iD2		Zusammenstellung Feldmappings
+17.2.	07:30-12:00	iD2		Debugging, Verb. csdisp
+	14:00-16:00	iD2
+	16:00-18:00	iD2		Integr. MFCS-Search
+18.2.	07:30-12:30	iD2		Listing Search
+	14:15-19:00	iD2
+19.2.	07:30-12:30	iD2
+	14:00-20:00	iD2
+20.2.	07:30-12:00	iD2
+	14:00-17:30	iD2		Limit Minder
+
+----- KW 9 -----
+23.2.	08:00-10:30	iD2
+	10:30-11:00	Rolotec		Zeiterf.
+	11:00-12:30	iD2		Search
+	14:00-18:30	iD2
+24.2.	08:00-12:30	iD2
+	14:15-19:00	iD2
+25.2.	08:00-12:00	iD2
+	13:30-18:30	iD2
+26.2.	07:30-12:30	iD2
+	14:00-19:00	iD2
+27.2.	07:00-12:30	iD2		checkin
+	14:00-16:30	iD2
+	
+----- KW 10 -----
+1.3.	08:00-09:00	Rolotec		Zeiterf.
+	09:00-10:30	iD2		Debug TASS
+	10:30-12:30	iD2		MDF Table API
+	14:00-18:30	iD2
+2.3.	08:00-12:30	iD2
+	14:00-16:30	iD2		Korr. mdfnws
+	16:30-18:00	iD2		MDF Table API
+3.3	08:30-12:30	iD2
+	?
+	14:15-19:00	iD2		Test/Debug Search
+4.3.	07:30-12:30	iD2		MDF Table API
+	14:00-19:00	iD2
+5.3.	07:30-12:30	iD2
+	14:15-17:15	iD2
+	
+----- KW 11 -----
+8.3.	07:30-09:30	iD2		Integr. Table API
+	09:30-10:00	Rolotec		Zeiterf.
+	10:00-12:15	iD2		Limit Minder
+	13:45-18:30	iD2
+9.3.	07:30-12:30	iD2
+	14:00-19:00	iD2
+10.3.	07:30-12:30	iD2
+	14:15-18:15	iD2
+11.3.	08:00-12:45	iD2		Optim./Debug
+	14:30-18:30	iD2
+12.3.	07:30-11:30	iD2
+	13:30-17:30	iD2
+
+----- KW 12 -----
+15.3.	08:00-09:00	Rolotec		Zeiterf.
+	09:00-12:30	iD2		Debug
+	14:00-18:00	iD2
+16.3.	07:30-13:00	iD2
+	14:30-18:30	iD2
+17.3.	07:30-10:30	iD2
+	10:30-11:30	TBFWD		
+	11:30-14:30	iD2		MFCS-Debug
+18.3.	07:30-13:00	iD2		Listing Events
+	14:00-18:00	iD2
+19.3.	08:00-12:30	iD2
+	14:00-17:30	iD2
+20.3.	11:00-14:00	iD2		Checkin
+
+----- KW 13 -----
+21.3.	09:00-10:00	BLKB		Server-Update
+22.3.	08:00-09:00	Rolotec		Zeiterf.
+	09:00-12:30	iD2		Debug/Test
+	14:00-14:30	iD2
+	14:30-15:30	ESTV		Bespr. Verity-Inst.
+	15:30-18:00	iD2
+23.3.	07:30-12:30	iD2
+	14:00-18:30	iD2
+24.3.	08:00-13:00	iD2		
+	14:30-18:30	iD2
+25.3.	08:00-12:30	iD2		mdfnws
+	14:00-15:00	iD2
+	15:00-15:30	Rolotec		unprod., Fehlalarme
+	15:30-17:30	iD2
+26.3.	06:30-13:30	iD2		Debug Contr. Pages
+	13:30-14:00	iD2		Debug csdisp
+
+----- KW 14 -----
+29.3.	08:45-11:45	iD2		Contrib. Pages
+	11:45-12:15	Rolotec		Zeiterf.
+	14:00-19:00	ESTV		Tomcat/Verity Setup
+30.3.	08:00-09:00	Rolotec		PC update
+	09:00-10:00	iD2		Kontr. Contributor Pages
+	10:00-12:30	ESTV		Tomcat/Verity Setup
+	14:00-18:30	ESTV
+31.3.	08:00-09:00	iD2		Contrib. Pages
+	09:00-09:30	TBFWD		Restart Feed Handler
+	09:30-13:00	ESTV
+	14:30-18:30	ESTV
+1.4.	08:00-09:00	iD2		Kontrollen (Contrib. Pages)
+	09:00-10:00	TKNY		Anp. ftp-Adresse
+	10:00-12:30	ESTV		Portierung SearchScript -> JSP
+	14:00-18:00	ESTV
+2.4.	07:30-12:30	ESTV
+	14:00-17:30	ESTV
+
+----- KW 15 -----
+5.4.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-11:45	ESTV
+	13:30-16:30	iD2		Bespr. MFCS
+	16:30-18:00	ESTV
+6.4.	08:00-10:00	ESTV
+	10:00-10:30	iD2		Purge-Script f. Contr. Pages
+	10:30-11:00	Borsalino	CRM Output-Fehler
+	11:00-12:30	ESTV
+	14:00-15:30	ESTV
+	ab 15:30	frei
+7.4.	08:00-12:30	ESTV
+	14:00-18:00	ESTV
+8.4.	08:00-09:00	ESTV
+	09:00-09:30	TBFWD		Tel. Vogt (2538) wg. Server-Change
+	09:30-12:00	ESTV
+	14:00-14:30	iD2		Upload Purge-Script
+	14:30-16:00	ESTV
+9.4.	Karfreitag
+	
+----- KW 16 -----
+12.4.	Ostermontag
+13.4.	09:30-10:00	Rolotec		Zeiterf.
+	10:00-12:30	ESTV		Status-Dok.
+	14:00-18:00	iD2		Limit Minder
+14.4.	08:30-12:30	iD2
+	14:00-16:00	iD2
+	16:00-16:30	Raiffeisen	Support MAC (trickl-Pf)
+	16:30-18:00	iD2
+15.4.	08:15-12:45	iD2
+	14:30-19:00	iD2
+16.4.	07:30-12:30	iD2
+	14:00-16:30	iD2
+	16:30-17:30	iD2		Debug CS Feed
+
+----- KW 17 -----
+19.4.	08:30-09:30	Rolotec		Zeiterf.
+	09:30-12:30	iD2		Limit Minder (cremail)
+	14:00-17:30	iD2
+20.4.	08:00-12:30	iD2
+	14:00-18:00	iD2
+21.4.	07:00-13:30	iD2
+	nachmittag frei
+22.4.	08:30-12:30	iD2
+	14:30-15:00	TBFWD		Support km
+	15:00-18:30	iD2
+23.4.	07:30-12:30	iD2
+	14:00-17:30	iD2
+	
+----- KW 18 -----
+26.4.	08:30-09:00	TKF		Spez. Anp. MDF+2 Contrib. Löschung (FOA)
+	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:30	ESTV		Authentifizierung
+	14:00-18:30	ESTV
+27.4.	08:00-12:30	ESTV		Integration
+	13:00-13:30	Shark10		Support RBA/Guyerzeller/Raiffeisen
+	14:15-18:30	ESTV
+28.4.	08:30-09:00	ESTV
+	09:00-09:30	iD2		Spez. Löschung Contrib. Pages (FOA)
+	09:30-12:30	ESTV		Verb. Abfrage-/Ergebnisseiten
+	14:00-18:30	ESTV
+29.4.	08:15-10:00	ESTV		Mail JAB (Install.vorb.)
+	10:00-10:30	Guyerzeller	Support: fehlende Daten
+	10:30-12:30	ESTV		Setup Collections/Server franz. & ital.
+	14:00-18:30	ESTV
+30.4.	08:15-12:30	ESTV
+	14:00-18:00	ESTV		Vorb. Installation
+
+----- KW 19 -----
+3.5.	08:30-12:30	ESTV
+	14:00-16:00	iD1		Brainstorming genComm
+	16:00-17:00	Rolotec		Zeiterf.
+	17:00-18:30	ESTV
+4.5.	08:30-12:30	ESTV
+	14:00-15:30	ESTV
+	15:30-16:30	ALI		Tomcat-Setup (Testsystem)
+	16:30-17:30	iD2		Analyse Sortierung Suchresultate
+5.5.	07:30-16:00	ESTV		Upgrade Verity (80km)
+	16:00-16:30	iD2		Fehlersuche Import
+	16:30-17:00	TBFWD		Agency 81: kein Watcheintrag ab 13:00
+6.5.	09:00-12:30	iD2		Contrib. Pages
+	14:00-20:00	iD2
+7.5.	08:30-11:00	iD2
+	11:00-12:00	ALI		Tomcat-Setup (alitk)
+	12:00-13:00	iD2
+	14:30-15:30	iD2
+	15:30-18:30	TBFWD		Fehlersuche Watchlist
+
+----- KW 20 -----
+10.5.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:30	TBFWD		Fehlersuche
+	14:00-16:00	TBFWD
+	16:00-16:30	iD2		Fehler csfeed (delay-push)
+	16:30-18:00	TBFWD
+11.5.	09:00-12:30	iD2		Contr. Pages
+	14:00-17:30	iD2
+12.5.	08:30-12:30	iD2
+	14:30-15:30	TBFWD
+	15:30-18:30	iD2
+13.5.	08:30-13:00	iD2		Tuning
+	14:15-18:15	iD2
+	18:15-19:15	TBFWD		MDF2: Server-Setup
+14.5.	07:30-12:30	iD2
+	14:00-18:00	iD2		Debugging
+
+----- KW 21 -----
+17.5.	08:30-12:30	iD2		Optim.
+	14:00-18:00	iD2
+18.5.	08:00-10:00	iD2
+	10:00-10:30	Rolotec		Zeiterf.
+	10:30-12:30	iD2		Checkin
+	14:00-18:00	iD2		Test/Debug csdisp
+19.5.	08:00-12:30	iD2
+	14:00-16:30	iD2
+	16:30-18:30	TBFWD		Support
+20.5.	Auffahrt
+21.5.	07:30-10:00	iD2
+	10:00-12:30	TBFWD		Support
+	16:00-17:30	iD2		Tests
+	
+----- KW 22 -----
+24.5.	08:00-13:00	TBFWD		Support MDF+1 (2stell. VAT)
+	14:00-16:00	TBFWD		Fehlersuche
+	16:00-18:30	Rolotec		ARS-Ticket TKD 434557
+25.5.	07:30-08:00	TBFWD		Kontrolle Housekeeping
+	08:00-09:30	Fresco		Support (MISSING ISIN)
+	09:30-10:00	iD2		Restart csdisp (rugen), Tests
+	10:00-10:30	Rolotec		Zeiterf.
+	10:30-12:30	iD2
+	14:00-16:30	TBFWD		MDF2: Installation WD03
+	16:30-17:15	iD2
+	17:15-17:45	BCEE		Wartung
+26.5.	08:00-08:30	BCEE		Wartung
+	08:30-09:00	TBFWD		MDF2: Korr. Titelart
+	09:00-12:30	iD2		Debug/Checkin
+	14:00-15:30	iD2		Debug/Checkin
+	15:30-18:30	TBFWD		MDF2: Tests
+27.5.	08:00-12:30	TBFWD
+	14:00-17:00	TBFWD		Integration BufOut
+	17:00-18:30	Fresco		Pikett (neuer AP)
+28.5.	08:00-10:30	TBFWD		MDF2: Debug feed_handler
+	10:30-11:00	iD2		Debug Search (MFCS Fehler)
+	11:00-12:30	TBFWD		Support (ARS 434538)
+	14:00-15:30	iD2		Fehlersuche Related News
+	15:30-17:30	TBFWD		MDF2: Doku
+29.5.	10:00-10:30	TBFWD		MDF2: Checkin
+	10:30-11:30	Rolotec		Zeiterf.
+
+----- KW 23 -----
+1.6.-4.6.	Ferien
+
+----- KW 24 -----
+7.6.-11.6.	Ferien
+
+----- KW 25 -----
+14.6.	09:00-12:30	Rolotec		Einarb.
+	14:15-17:30	iD2		Contrib. Pages (Bug 1319)
+15.6.	07:30-10:30	iD2
+	10:30-12:00	Hiku		Bespr. Horn
+	13:00-15:00	Hiku		mdfselect-Leiferung
+	15:00-17:30	iD2		Korr. search (SC-mapping)
+16.6.	08:00-10:00	iD2		Contrib. Pages
+	10:00-11:00	Rolotec		Umst. Mailserver (exchange)
+	11:00-11:30	iD2		Fehlersuche HLS (Duplikate auf vegacore)
+	11:30-12:30	iD2		Contrib. Pages
+	14:00-17:30	iD2
+17.6.	08:00-12:30	iD2
+	14:00-17:30	iD2
+18.6.	07:30-10:00	iD2
+	10:00-11:30	Rolotec		Entwickler-Meeting
+	11:30-13:00	iD2
+	14:00-17:30	iD2
+	
+----- KW 26 -----
+21.6.	08:00-12:30	iD2
+	14:00-16:30	iD2		Search-Sortierung
+	16:30-17:30	iD1		Support MAC (NextView)
+22.6.	08:30-10:00	iD2
+	10:00-10:30	iD2		Contrib. Pages (Bosshard)
+	10:30-11:30	Rolotec		Zeiterf.
+	11:30-12:30	iD2		Search-Sortierung
+	14:00-19:00	iD2
+23.6.	08:30-09:30	iD2		Contrib. Pages (Kontrolle)
+	09:30-13:00	iD2		Search Sortierung
+	14:30-19:30	iD2
+24.6.	08:00-12:30	iD2
+	14:15-18:45	iD2
+25.6.	07:30-12:30	iD2
+	14:00-17:30	iD2		Checkin, Tests
+
+----- KW 27 -----
+28.6.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:30	iD2		
+	14:00-17:30	iD2
+29.6.	08:30-12:30	iD2
+	14:00-18:30	iD2
+30.6.	08:00-12:30	iD2
+	14:00-15:00	iD2
+	15:00-16:00	Rolotec		Ausbildung TK Singapur
+	16:00-17:00	iD2
+	17:00-18:00	TBFWD		DB-Reset
+1.7.	08:00-09:00	TBFWD		Kontrolle
+	09:00-12:30	iD2		Doku
+	14:00-18:30	iD2		
+	18:30-19:00	Rolotec		Zeiterf.
+2.7.	08:00-12:30	iD2		Topic-Filter (mdfnws)
+	14:00-17:30	iD2
+	
+----- KW 28 -----
+5.7.	08:30-12:30	iD2		Import/Export
+	14:00-15:00	T&S		Einarb.
+	15:00-18:00	iD2		Bugfix cremail, Sortierung
+6.7.	08:15-10:30	TBFWD		Duplikate in WL
+	10:30-12:30	iD2		Topics
+	14:00-18:30	T&S		MRP-Integration
+7.7.	08:00-12:30	T&S
+	14:00-15:00	Pikett		PEP-Check (ARS 442724)
+	15:00-18:00	T&S
+8.7.	08:00-12:30	T&S
+	14:00-18:00	T&S
+9.7.	08:00-12:00	T&S		Checkin
+	12:00-12:30	Pikett		PEP-Check
+	13:30-18:30	TBFWD		Fehlersuche Duplikate
+
+----- KW 29 -----
+12.7.	08:30-09:30	Rolotec		Zeiterf.
+	09:30-12:30	T&S		Korrekturen
+	14:00-18:00	TBFWD		Server-Update
+13.7.	08:00-10:00	T&S		Kontrolle
+	10:00-12:30	iD2		Debugging
+	14:00-17:30	iD2	
+14.7.	08:00-14:00	iD2		Rewrite Page-Handling
+	nachmittag frei
+15.7.	08:30-12:30	iD2		Push News (Topics)
+	14:00-18:30	iD2
+16.7.	07:30-12:30	iD2
+	13:30-17:30	iD2
+
+----- KW 30 -----
+19.7.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-09:30	iD2		Upgrade vegacore
+	09:30-10:00	T&S		Install. fimshark
+	10:00-13:00	T&S		tsreq
+	14:00-15:30	T&S
+	15:30-18:30	iD2		Debug csdisp
+20.7.	08:00-10:30	iD2
+	10:30-13:00	T&S		Doku
+	14:30-17:30	iD2		Test/Debug
+	17:30-18:30	iD2		Sortierung von NULL-Values
+21.7.	08:00-13:30	iD2		Checkin/Doku
+	13:30-15:00	iD2		Update vegacore
+22.7.	07:30-11:30	iD2		Tests
+	11:30-13:00	Rolotec		Problem mdfhub (ro-Disk)
+	14:00-17:00	iD2		Debug/Test
+	17:00-19:00	Rolotec		Umstell. auf mdfhub2
+23.7.	07:30-08:30	Rolotec		Kontrolle MDF-Empfang
+	08:30-12:30	iD2		Debug mdfnws
+	14:00-18:30	iD2		mdfnws
+	
+----- KW 31 -----
+26.7.	08:30-11:30	iD2		Verb. mdfnws
+	11:30-14:00	iD2		mdfwin
+	15:00-19:00	iD2
+27.7.	07:00-08:00	Rolotec		Zeiterf.
+	08:00-10:30	iD2		mdfwin
+	10:30-12:30	Shark		Support (search-rebuild)
+	14:00-14:30	Shark	
+	14:30-15:00	BLKB		Support HB (Apache-Conf)
+	15:00-17:30	iD2
+	17:30-18:00	Raiffeisen	Ticker Style 9
+28.7.	07:00-08:00	Raiffeisen
+	08:00-11:30	iD2
+	11:30-12:00	Borsalino	Wartung (kaputte Winner-Listen)
+	12:00-13:00	iD2		Korr. mgridx
+	14:15-17:15	iD2		Verb. mdfwin
+29.7.	07:30-13:00	iD2
+	14:00-18:30	iD2
+30.7.	07:30-12:30	iD2
+	14:00-16:30	iD2
+	22:30-24:00	Rolotec		Pikett (Ausfall IP-Plus)
+31.7.	07:00-08:00	Rolotec		Pikett
+		
+----- KW 32 -----
+2.8.	08:00-09:00	Rolotec Zeiterf.
+	09:00-10:00	Rolotec		Ausfall mdfhub2
+	10:00-11:00	iD2		Kontrolle rugen/vegacore
+	11:00-12:30	iD2		Debugging
+	14:00-17:30	iD2
+3.8.	08:00-12:30	iD2
+	14:00-17:30	iD2		Test Contrib. Pages
+4.8.	08:30-11:30	iD2
+	13:30-16:30	ESTV		Fehlersuche mkvdk 2.6.1 (70km Auto)
+5.8.	08:15-12:30	T&S		Trace Index
+	14:00-18:00	T&S
+6.8.	08:00-09:30	T&S
+	09:30-10:00	TBFWD		Mail Schürch
+	10:00-12:30	T&S
+	14:00-14:30	PEP-Check	Pikett (ARS 447686)
+	14:30-16:30	Fresco		ETV-Vortrag BOT
+
+----- KW 33 -----
+9.8.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-09:30	Raiffeisen	Ticker Style 9
+	09:30-13:00	iD2		Timerange f. Intraday-T&S
+	14:00-15:30	iD2
+	15:30-17:30	T&S		Korr. tswmnc
+10.8.	08:00-09:30	TBFWD		SW-Update wd01
+	09:30-10:00	iD2		Maintenance vegacore (out of mem)
+	10:00-10:30	iD2		Import/Export (Support PK)
+	10:30-11:00	iD2		Entitlement-Problem (TK)
+	11:00-13:00	iD2		Tests
+	14:30-15:30	iD2		Test Contrib. Pages (fertig)
+	15:30-18:30	T&S		Kontrolle tass1
+11.8.	07:30-08:30	TBFWD		Kontrolle Stammdaten (wd01)
+	08:30-12:30	T&S		MDF-Index
+	14:00-19:30	iD2		TAS-Range
+12.8.	07:30-09:30	iD2		TK-ED Problem vegacore
+	09:30-13:00	TBFWD		Vorb. Server-Update
+	14:00-17:30	iD2		Test TAS-Ranges
+	17:30-18:30	TBFWD		Integr. 3rd-Party MRP
+13.8.	07:30-12:30	iD2
+	14:00-17:30	TBFWD		Reset Stamm-DB
+14.8.	09:00-11:30	TBFWD		Kontrolle Stamm-DB
+
+----- KW 34 -----
+16.8.	07:30-09:30	TBFWD
+	09:30-10:30	Rolotec		Zeiterf.
+	10:30-13:00	iD2		Problem mit QA-ED
+	14:00-15:30	iD2		Korr. csdisp (search)
+	15:30-17:30	iD2		HIKU-Cache (CR1196)
+17.8.	07:30-13:00	iD2
+	14:15-15:00	iD2
+	15:00-16:00	iD2		Fehlersuche Winner (GUI)
+	16:00-18:30	iD2		HIKU-Cache
+18.9.	07:30-10:30	iD2
+	10:30-13:00	iD2		Intraday-TAS langsam (PK)
+	14:00-18:30	iD2
+19.9.	07:30-12:30	TASS		MDF-Restart
+	14:30-19:00	TASS
+20.9.	07:00-13:00	TASS
+	14:30-15:00	TBFWD		MDF+1 FIAMs auf mdx reaktiviert
+	15:00-17:00	Rolotec		unprod.
+	17:00-17:30	Rolotec		Zeiterf.
+
+----- KW 35 -----
+23.8.-27.8.	Ferien
+
+----- KW 36 -----
+30.8.-3.9.	Ferien
+
+----- KW 37 -----
+6.9.	08:30-12:30	Rolotec		unprod.
+	14:00-16:30	TBFWD		Support
+	16:30-18:30	Rolotec
+7.9.	08:00-12:30	Rolotec
+	14:00-17:30	iD2		"Negativlisten" f. Börsen
+8.9.	08:00-10:30	Rolotec
+	10:30-12:30	ESTV		Support Indexing (35 km Auto)
+	14:00-15:30	ESTV		Sitzung ELIAS
+	15:30-17:00	ESTV		Support ELIAS
+9.9.	08:00-09:00	ESTV		Sitzungsprotokoll
+	09:00-12:00	Rolotec		EJB-Kurs
+	13:30-17:00	Rolotec
+10.9.	09:00-12:00	Rolotec
+	13:30-17:00	Rolotec
+	17:00-18:30	Rolotec		Pikettübernahme
+	
+----- KW 38 -----
+13.9.	08:00-11:30	iD2		Fehlersuche
+	11:30-12:30	Rolotec		Zeiterf.
+	14:15-18:15	Raiffeisen	Design Erw.
+14.9.	08:00-12:30	iD2
+	14:30-15:30	Shark		Fehlersuche PF (Borsalino)
+	15:30-19:00	iD2		Korr. related Headlines (encoding)
+15.9.	08:00-08:30	Raiffeisen	Detailanalyse
+	08:30-12:30	Raiffeisen	Ticker-Erw.
+	14:00-18:30	iD2		div. Bugfixes
+16.9.	08:00-11:00	iD2		Verb. HIKU-Cache
+	11:00-13:00	iD2		Performance-Messungen (mn)
+	14:00-15:30	iD2		Performance-Messungen (mn)
+	15:30-19:00	iD2		Fehleranalyse RHS-Encoding (bi)
+17.9.	08:00-09:00	iD2		Verb. HIKU-Cache
+	09:00-12:45	iD2		Performance-Messungen (mn)
+	13:45-15:30	iD2		Verb. HIKU-Cache
+	15:30-17:30	iD2		Erw. RHS-Zugriff
+
+----- KW 39 -----
+20.-24.9	krank
+
+----- KW 40 -----
+27.9.	08:30-09:30	Rolotec		unprod.
+	09:30-10:30	Rolotec		Zeiterf.
+	10:30-12:30	iD2		Source-Dok. RHS-Zugriff
+	14:00-17:30	iD2		Test
+28.9.	08:00-12:30	iD2		Test
+	14:00-17:30	Raiffeisen	Limiten in Pf
+29.9.	08:30-12:30	ESTV		Sitzung Agustoni
+	14:00-18:30	Raiffeisen
+30.9.	08:00-12:30	Raiffeisen	
+	nachmittag frei
+1.10.	08:15-12:30	Raiffeisen	Limitenformular
+	14:00-15:00	Raiffeisen
+	15:00-19:00	iD2		Push/Req. with Curr. 0
+
+----- KW 41 -----
+4.10.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-11:30	iD2		Erw. Wildcard-Push (valor)
+	11:30-12:45	Raiffeisen	Limitenform
+	14:00-18:30	Raiffeisen
+5.10.	09:00-12:30	Raiffeisen
+	14:00-17:30	Shark		Fehlersuche Pf
+6.10.	09:00-12:30	Raiffeisen
+	14:00-15:30	ESTV		Sitzung Agustoni
+	15:30-17:00	iD2		div. Abklärungen
+	17:00-18:30	iD2		Analyse: csfeed m. Entitlement
+7.10.	09:00-10:30	iD2		Abkl. Listing Search mit HLS
+	10:30-12:30	iD2		csfeed m. Entitlement
+	14:00-18:00	iD2
+	18:00-19:30	iD2		Abkl. Listings mit Currency 0
+8.10.	09:00-09:30	iD2		delayed Winner/Loser (Bug 1683)
+	09:30-12:30	iD2		csfeed m. Entitlement
+	14:00-17:30	iD2
+
+----- KW 42 -----
+11.10.	08:30-12:30	iD2		csfeed: push all events
+	14:00-15:30	Agroscope	Vorb. Demo
+	15:30-16:00	Rolotec		Zeiterf.
+	16:00-16:30	TBFWD		ARS Ticket 454999
+	16:30-17:30	Agroscope
+12.10.	08:30-12:30	Agroscope
+	14:00-17:30	Agroscope
+13.10.	08:30-09:00	iD2		Checkin
+	09:00-09:30	Raiffeisen	Korr. parslim::print() (wenn # Limiten = 0)
+	09:30-10:30	Agroscope
+	10:30-11:00	TBFWD		Restart mdxwd01
+	11:00-12:30	Agroscope
+	14:00-17:30	Agroscope
+14.10.	08:30-10:00	TBFWD		Update mdxwd01
+	10:00-12:30	Agroscope
+	14:00-18:30	Agroscope
+15.10.	08:00-08:30	TBFWD		Kontrolle, Erw. HK (5 x wd stop)
+	08:30-12:30	Agroscope
+	14:00-18:00	Agroscope
+
+----- KW 43 -----
+18.10.	08:30-09:00	TBFWD		Kontrolle
+	09:00-09:30	PEP-Check	ARS 457612
+	09:30-12:30	Agroscope
+	14:00-17:30	Agroscope
+19.10.	08:00-08:30	TBFWD		Kontrolle
+	08:30-18:00	Agroscope
+20.10.	08:00-10:00	Pikett		SGKB: keine AFX News
+	10:00-11:00	TBFWD		Listing-Löschungen reaktiviert
+	11:00-12:00	Raiffeisen
+	14:00-18:00	ESTV		Bespr. ELIAS, Vorb. DBA-Port
+21.10.	08:00-10:00	Raiffeisen
+	10:00-12:30	iD2		64-bit Kompression f. DS (mn)
+	14:00-14:30	TBFWD		Kontrolle orchid
+	14:30-15:30	Rolotec		Zeiterf.
+	15:30-17:30	Rolotec		PC-Update
+22.10.	08:30-12:30	iD2		Test/Debug
+	14:00-18:00	iD2
+	18:00-18:30	iD2		debug csfeed (delays)
+
+----- KW 44 -----
+25.10.	08:00-12:30	iD2		Optim. csfeed
+	14:00-19:00	iD2
+26.10.	08:30-12:30	iD2
+	14:00-19:30	iD2
+27.10.	08:00-12:30	iD2
+	14:00-16:30	iD2
+	16:30-18:00	ESTV		Vorb. Upgrade
+28.10.	09:00-13:00	ESTV		Upgrade ELIAS
+	14:00-19:00	ESTV
+29.10.	07:30-08:30	Rolotec		Mails
+	09:00-13:00	ESTV
+	14:00-17:30	ESTV
+
+----- KW 45 -----
+1.11.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-13:00	iD2		Optim. csfeed
+	14:00-18:00	iD2
+2.11.	07:00-13:00	iD2
+	14:00-14:30	Raiffeisen	Checkin
+	14:30-17:30	iD2
+3.11.	08:00-12:00	iD2
+	nachmittag frei
+4.11.	08:30-12:30	iD2
+	14:00-18:30	iD2
+5.11.	09:00-13:00	iD2		Debug csfeed
+	14:00-19:00	iD2
+6.11.	09:30-13:00	iD2
+
+----- KW 46 -----
+8.11.	08:00-12:30	iD2
+	14:00-17:00	iD2		Checkin, Dok.
+	17:00-17:30	ESTV		Support J.Polzin
+9.11.	08:00-13:00	iD2		Korr. csfeed
+	14:30-16:00	iD2
+	16:00-17:30	ESTV		Support J.Polzin
+	17:30-19:00	iD2
+10.11.	08:30-13:00	ESTV		CVS-Ablage
+	14:30-15:00	ESTV		Tel. Polzin
+	15:00-18:00	ESTV		DBA-Portierung
+11.11.	08:30-09:30	ESTV
+	09:30-12:30	Rolotec		Offerte AFC
+	14:15-17:30	ESTV		Fehlersuche
+12.11.	08:00-10:30	ESTV
+	10:30-12:30	TBFWD		Package 4.1.3
+	14:00-16:30	ESTV		Collection building
+	16:30-17:30	iD2		Korr. csfeed (input)
+	
+----- KW 47 -----
+15.11.	08:00-08:30	Rolotec		unprod.
+	08:30-09:00	TBFWD		Test neue ftp-Adresse, Mail
+	09:00-09:30	Rolotec		Zeiterf.
+	09:30-11:30	ESTV		Fehlerkorr. gem Mängelliste
+	14:00-18:30	ESTV
+16.11.	09:00-09:30	TBFWD		Umst. ftp-Adresse
+	09:30-11:30	iD2		Bespr. Stamm-Export f. Singapur
+	14:15-23:30	Rolotec		NCA-Einladung
+17.11.	08:00-11:30	ESTV
+	11:30-14:00	MPS		Support BI (Currency Conversion)
+	15:15-19:15	ESTV
+18.11.	08:00-12:30	ESTV
+	14:00-17:30	ESTV
+19.11.	09:00-13:00	ESTV		Install. bei ESTV
+	14:00-16:30	ESTV
+	
+----- KW 48 -----
+22.11.	08:00-09:00	TBFWD		Kontr. Stamm-DB
+	09:00-09:30	Pikett		ARS-Ablage
+	09:30-10:30	ESTV		Planung
+	10:30-11:00	Rolotec		Zeiterf.
+	11:00-12:30	iD2		Extended Search
+	14:00-16:30	iD2
+	16:30-17:00	BEKB		Inst. Courtagenrechner (MAC)
+23.11.	07:30-08:00	TBFWD		Kontrolle Stammdaten
+	08:00-09:30	iD2
+	09:30-12:00	ESTV		Fehlerkorr. ELIAS (Encodings)
+	12:00-12:30	TBFWD		Support Schürch
+	14:00-16:00	ESTV		D/L via https f. IE
+	16:00-17:30	iD2
+24.11.	08:30-12:30	ESTV		Update Abnahme (BE)
+	Nachmittag frei
+25.11.	08:30-13:00	ESTV		Fehlersuche/-korr. gem. Mängelliste
+	14:30-18:30	ESTV
+26.11.	08:00-11:30	ESTV
+	11:30-12:30	Rolotec		Pikett (ARS)
+	14:00-18:00	ESTV
+
+----- KW 49 -----
+29.11.	08:15-12:15	ESTV		Korrekturen
+	14:00-17:30	ESTV
+30.11.	08:00-12:30	ESTV
+	14:00-18:30	ESTV
+1.12.	08:30-12:30	ESTV
+	14:00-15:30	ESTV
+	16:30-19:30	ESTV		Update Abnahme (BE)
+2.12.	08:00-10:30	ESTV		Dok., Checkin
+	10:30-12:30	iD2		Keep-Alive Spez.
+	14:15-17:15	iD2		Extended Search
+3.12.	08:30-09:30	Rolotec		Zeiterf.
+	09:30-10:30	iD2		Korr. csfeed (Bug 1843)
+	10:30-12:30	ESTV
+	13:30-17:00	iD2		Kontrolle vegacore/birg
+	
+----- KW 50 -----
+6.12.	09:00-12:30	ESTV		Fehlersuche
+	14:30-16:30	NMA		Vorb. Latency-Messung
+7.12.	08:00-09:30	NMA
+	09:30-12:30	ESTV
+	14:30-15:00	TBFWD		Tel.-Support Schürch
+	15:00-17:30	ESTV
+8.12.	07:30-08:00	Rolotec		Zeiterf.
+	08:00-12:30	NMA
+	14:00-18:30	NMA
+9.12.	07:30-12:00	NMA
+	14:00-18:00	NMA
+10.12.	07:30-12:15	NMA
+	14:00-14:30	iD2		Support Bi (fehlende 85,-Listings)
+	14:30-16:00	NMA
+	16:00-17:30	ESTV		Fehlersuche
+
+----- KW 51 -----
+13.12.	09:00-10:00	ESTV		Antwort auf case 233351
+	10:00-10:30	Rolotec		Zeiterf.
+	10:30-12:30	ESTV
+	14:00-19:00	iD2		Keep-Alive (csfeed)
+14.12.	08:00-12:30	iD2		Extended Search
+	14:00-19:00	iD2
+15.12.	08:00-12:30	iD2
+	14:00-18:30	iD2
+16.12.	08:30-12:30	iD2
+	14:00-18:00	iD2
+17.12.	07:30-12:30	iD2
+	14:00-16:30	iD2
+	16:30-18:00	ESTV		Lieferung (ELIAS_20041217)
+	
+----- KW 52 -----
+20.12.	09:00-09:30	TBFWD		Tel.-Support (HK lief nicht)
+	09:30-12:30	iD2		Fehlersuche mgrdly (unknown field type)
+	14:00-17:30	iD2
+21.12.	08:00-12:30	iD2
+	14:00-18:30	iD2
+22.12.	09:00-12:30	ESTV		Kontrolle Installation
+	14:00-15:30	iD2		Maintenance vegacore
+	15:30-17:00	TBFWD		2-Byte VAT (elemkey_t)
+23.12.	08:30-09:00	ESTV		Statusbericht
+	09:00-12:30	TBFWD		2-Byte VAT (DB)
+	14:00-17:30	TBFWD		2-Byte VAT (DB)
+24.12.	08:00-13:00	TBFWD		2-Byte VAT (Tools)
+
+----- KW 53/1 -----
+27.12.	09:00-10:00	TBFWD
+	10:00-10:30	Rolotec		Zeiterf.
+	10:30-12:30	TBFWD
+	14:00-19:00	TBFWD
+28.12.	08:15-12:45	TBFWD
+	14:00-15:00	TBFWD
+	15:00-15:30	Pikett		GBKB: User-DL funktioniert nicht (Admintool)
+	15:30-19:00	TBFWD
+29.12.	08:00-12:30	TBFWD
+	14:00-18:30	TBFWD
+30.12.	08:15-12:45	TBFWD
+	14:00-15:00	Pikett		BEKB, Baloise
+	15:00-17:30	TBFWD
+31.12.	08:00-09:30	TBFWD
+	09:30-10:00	Pikett		Borsalino, OWKB, BEKB
+	10:00-12:00	TBFWD
+	12:00-12:30	Rolotec		Zeiterf.
+

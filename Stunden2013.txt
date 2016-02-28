@@ -1,0 +1,867 @@
+----- KW 1 -----
+3.1.	09:00-12:30	Magellan	(Biel) Defect analysis & report
+	13:00-17:00	Rolotec		
+4.1.	09:30-12:30	Magellan	(Biel) Minor bug fixes, Wiki update, pre-holiday status
+	13:30-17:30	Rolotec		Pre-holiday cleanup, Zeiterf.
+
+----- KW 2 -----
+(Ferien)
+
+----- KW 3 -----
+(Ferien)
+
+----- KW 4 -----
+(Ferien)
+
+----- KW 5 -----
+28.1.	09:00-12:30	Rolotec		Einarb.
+	13:00-15:00	Magellan	(Biel) Einarb., Mails
+	15:00-17:30	Rolotec		Team-Meeting, unprod.
+29.1.	07:45-11:30	Magellan	(ZH) Sprint 12
+	12:00-17:45	Magellan
+30.1.	09:30-12:30	Magellan	(Biel)
+	13:30-19:00	Magellan
+31.1.	08:00-13:00	Magellan	(Biel)
+	13:30-17:00	Magellan
+	17:00-17:15	Rolotec		Zeiterf.
+1.2.	07:45-11:30	Magellan	(ZH) Sprint 12 Review
+	12:00-17:45	Magellan
+
+----- KW 6 -----
+4.2.	07:45-11:30	Magellan	(ZH) Sprint 13 Planning
+	12:00-17:45	Magellan
+5.2.	08:00-12:30	Magellan 	(Biel) Sprint 13: FIAM Processing
+	13:30-18:00	Magellan
+6.2.	07:45-13:00	Magellan	(ZH) Sprint 13
+	13:30-18:45	Magellan
+7.2.	08:30-11:30	MPX Wartung 	CR7035 (5.0.06)
+	11:30-12:00	Rolotec		Info JB
+	12:00-12:30	MPX Wartung
+	13:00-17:30	MPX Wartung
+8.2.	08:30-12:30	MPX Wartung	CR7037
+	13:30-17:00	MPX Wartung
+
+----- KW 7 -----
+11.2.	09:00-12:30	Magellan	(Biel) Sprint 13: Table selection
+	13:30-17:30	Magellan
+12.2.	07:45-11:30	Magellan	(ZH) Sprint 13
+	12:00-17:45	Magellan
+13.2.	09:30-12:30	Magellan	(Biel) Complete development
+	13:30-17:00	MPX		Analyse CRs/Bugzilla
+14.2.	09:00-10:00	Magellan	(Biel) Complete doc.
+	10:00-12:00	MPX		Analyse CRs/Bugzilla
+	12:00-12:30	Rolotec		Zeiterf.
+	(Nachmittag frei)
+15.2.	08:30-12:30	Magellan	(Biel) Release vorb.
+	13:30-14:30	Magellan	Delivery Release 1.1.13
+	14:30-16:30	MPX		Analyse CRs/Bugzilla
+
+----- KW 8 -----
+18.2.	07:45-12:00	Magellan	(ZH) Lessons Learned
+	13:00-16:00	Magellan	Abschluss MDDS-Einsatz
+19.2.	09:00-09:15	Rolotec		Zeiterf.
+	09:15-12:30	MPX		Detaildesign CRs
+	13:30-18:00	MPX		CR6982, 7036
+20.2.	08:30-09:30	MPX		Update CR7037
+	09:30-10:00	Rolotec		Ressourcenplanung (YVO)
+	10:00-10:30	MPX		CR7037
+	10:30-12:15	MPX		CR7036
+	13:15-17:45	MPX		CR7036, Doc. update
+	17:45-18:15	Rolotec		Build-Server maintenance
+21.2.	08:30-12:30	MPX		Update Spez./Admin HB
+	13:30-16:30	MPX		Korr. Unterscheidung zw. Instrument & Listing Stammdaten
+22.2.	08:30-09:30	MPX		Kontr. Instrument/Listing Stammdaten
+	09:30-12:30	iD		INC000001064733  Error to get intradays - Feed analyse
+	13:30-17:00	iD
+
+----- KW 9 -----
+25.2.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-09:30	Rolotec		Vorb. MA-Gespr.
+	09:30-10:30	MPX		Test Release 5.0.06
+	10:30-12:30	Rolotec		MA-Gespr. (MN)
+	13:00-15:00	MPX
+	15:00-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-16:00	iD
+	16:00-17:30	MPX
+26.2.	08:30-12:30	MPX
+	13:30-14:00	iD
+	14:00-16:30	MPX		MPE/Liflex Handover SCU
+	16:30-17:30	MPX
+27.2.	08:30-13:00	RCL		Update Release 1.5.12
+	14:00-15:00	Rolotec		Java Setup (IntelliJ)
+	15:00-17:30	MPX
+28.2.	08:30-12:30	MPX
+	13:00-13:30	iD
+	13:30-17:00	MPX		Test 5.0.06 RC1
+1.3.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:30	DAPI		Einarb.
+	13:00-17:30	DAPI		Test/Demo mit NO	
+
+----- KW 10 -----
+4.3.	09:00-12:30	RCL		Migration zu CMake
+	13:30-18:00	RCL
+5.3.	08:30-09:30	RCL
+	09:30-10:00	MPX		Support Reza (Anp. an 5.0.06)
+	10:00-12:30	RCL		Integr. CxxTest f. Windows
+	13:00-18:00	RCL
+6.3.	09:00-10:00	RCL	
+	10:00-12:30	RCL		Analyse LdapApi-Problem (Mail es/nle)
+	13:30-17:30	RCL		Integr. CxxTest f. Windows
+7.3.	08:30-09:30	RCL		Korr. LdapApi2: Fehlerursache nach rebind() verloren
+	09:30-13:00	RCL		Integr. CxxTest f. Windows
+	14:00-17:00	RCL
+8.3.	09:00-10:00	apiD C++	Intro durch NLE
+	10:00-11:00	RCL		Test LDAP-Korr.
+	11:00-12:30	apiD C++	Integr. CxxTest
+	13:30-15:00	RCL		Integr. doxygen, MRP API
+	15:00-15:30	Rolotec		Aufgaben-Planung mit PK
+	15:30-16:30	RCL
+
+----- KW 11 -----
+11.3.	08:30-12:30	RCL		Integr. doxygen, MRP API, Jenkins-Integr.
+	13:30-15:00	RCL
+	15:00-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-17:00	RCL
+12.3.	08:30-09:30	RCL		Release 1.5.12
+	09:30-11:00	Rolotec		Bi: Erfahrungsbericht Magellan, Teil 1 (Gesamtprojekt)
+	11:00-12:30	RCL
+	13:00-15:30	RCL		Releasefreigabe und -ablage
+	15:30-17:30	MPX		Performancetests (input processing)
+13.3.	09:00-12:00	MPX		Releasebranch f. 5.0.06
+	13:00-17:30	MPX
+14.3.	09:00-13:00	MPX		Update Spez. & Admin-HB f. Release 5.0.06
+	14:00-17:30	MPX
+15.3.	09:00-10:00	MPX
+	10:00-11:00	Rolotec		Bi: Erfahrungsbericht Magellan, Teil 2 (MDDS)
+	11:00-12:15	MPX		Packaging Release 5.0.06
+	13:30-15:00	MPX		Lieferabschluss
+	15:00-15:30	Rolotec		Zeiterf.
+	15:30-17:30	DAPI		Vorb. Unittest
+
+----- KW 12 -----
+18.3.	09:00-09:30	MPX		(Mini-)FIAM Traces f. Reza
+	09:30-12:30	DAPI		Unittests (TKFTable)
+	13:30-18:00	DAPI		Unittests (Timeseries)
+19.3.	08:30-12:30	DAPI
+	13:00-17:30	DAPI
+20.3.	09:00-11:30	MPS/MPX		Datenanalyse f. JBO, Update MPX Wiki (TKF-Links)
+	11:30-12:00	Rolotec		Update DOMAIN01-Pwd (inkl. Update/Reboot Laptop)
+	13:00-17:30	DAPI
+21.3.	09:00-12:30	DAPI	
+	13:30-18:00	DAPI
+22.3.	09:00-13:00	DAPI
+	13:30-17:00	DAPI		Reorg. Unittests (Suite, Input/Output)
+
+----- KW 13 -----
+25.3.	09:00-12:30	DAPI
+	15:00-15:30	Rolotec		Team-Meeting SrvSys
+26.3.	(unprod.)
+	16:30-18:30	MPX Wartung	Analyse Failover-Incident in Prod.
+27.3.	08:30-12:30	MPX Wartung	SOS-Release 5.0.04p1
+	13:30-16:00	MPX Wartung
+28.3.	10:00-12:00	apiD C++	Install. VS 2010 Express
+	13:00-16:00	apiD C++
+	16:00-16:30	Rolotec		Zeiterf.
+29.3.	(Karfreitag)
+
+----- KW 14 -----
+1.4.	(Ostermontag)
+2.4.	08:30-12:30	apiD C++	Unittests
+	13:00-17:00	apiD C++
+3.4.	09:00-12:00	Rolotec		unprod.
+	13:00-17:30	RCL		verb. Windows-Port.
+4.4.	09:00-13:00	RCL
+	13:30-17:30	RCL
+5.4.	09:00-12:30	RCL
+	13:30-18:00	RCL
+
+----- KW 15 -----
+8.4.	09:00-12:00	RCL		verb. Jenkins-Integr. (MSVC-Builds)
+	13:00-17:30	RCL
+9.4.	09:00-12:00	SOLID		SOL-122 (Analyse)
+	13:00-18:00	SOLID
+10.4.	09:00-12:30	SOLID		Korr. SOL-122 (Cascade)
+	13:30-17:00	apiD C++	Port. pthread-win32 f. WIN64
+	17:00-18:30	SOLID		Tests
+11.4.	08:30-10:30	SOLID		SOL-122 (erw. Unittests in DAPI & apiD C++)
+	10:30-12:30	RCL
+	13:30-17:30	RCL
+12.4.	09:00-12:30	RCL
+	13:30-17:00	RCL
+	17:00-17:30	Rolotec		Zeiterf.
+
+----- KW 16 -----
+15.4.	09:00-10:00	Rolotec		Org. TAF-Demo
+	10:00-11:00	MPX Wartung	Mail wg. Patches f. Release 5.0.04ff
+	11:00-11:30	SOLID		Anp. DAPI Unittest f. Quotes
+	11:30-12:30	RCL		Unified Jenkins-Integr. (Linux/Win)
+	13:30-17:30	RCL
+16.4.	09:00-12:30	RCL
+	13:30-18:00	RCL
+17.4.	09:00-12:30	RCL		WIN32/64-Builds, Jenkins Integr.
+	13:00-17:30	RCL
+18.4.	09:00-10:00	SOLID		daily standup
+	10:00-12:00	RCL
+	13:00-15:00	RCL
+	15:00-17:00	Rolotec		JIRA Introduction
+19.4.	09:00-10:00	SOLID		SOL-122: Fertigstellung Unittests
+	10:00-12:30	RCL		MySQL-Integr.
+	13:00-17:30	RCL
+
+----- KW 17 -----
+22.4.	09:00-12:30	iD		Integr. trunk-RCL (f. MyPreparedSTMT)
+	13:30-18:00	iD		DB-Setup & -Unittests f. MyPreparedSTMT
+23.4.	08:30-09:30	SOLID		SOL-141: Vorabkl. (PM, NO, TME)
+	09:30-12:30	RCL		erw. DB-Unittests
+	13:30-15:00	RCL		Wiki-Update
+	15:00-17:30	iD		Integr. RCL DB API
+24.4.	09:00-12:00	iD/RCL		Fehlersuche TAS-Storage
+	13:00-17:30	RCL		erw. DB Unittests (TAS-Simulation)
+25.4.	09:00-12:30	iD/RCL		RCL-Build mit TKmysql
+	13:30-15:00	iD/RCL		Tests
+	15:00-16:00	SOLID		Revert TableID changes
+	16:00-18:00	RCL		Inline DB API
+	18:00-19:00	iD		Rebuild LSS/TAS with new RCL
+26.4.	08:30-10:00	RCL		Refact. DB-Klassen, erw. Unittests
+	10:00-10:30	MPX		Tel.-Support Reza (Listing Transf., MDM)
+	10:30-12:30	iD/RCL		RCL DB Integr.
+	13:30-14:00	SOLID		Anp. TKFTable/TKFTableEntry
+	14:00-17:30	iD/RCL		Tests, Change Report
+
+----- KW 18 -----
+29.4.	09:00-12:15	MPX		Bugzilla 7037, 7043, 7048
+	13:45-18:00	MPX
+30.4.	08:30-09:30	iD		Build LSS, MFCS, CS
+	09:30-13:00	MPX		
+	14:00-17:30	MPX
+	17:30-18:00	Rolotec		Zeiterf.
+1.5.	09:00-12:00	RCL		Release 1.5.13
+	13:00-17:30	RCL
+2.5.	09:00-12:30	Rolotec		TAF-Präs.
+	14:00-17:30	Rolotec
+3.5.	09:00-13:00	RCL
+	14:00-17:30	iD		Build-Jobs f. LSS & MFCS
+
+----- KW 19 -----
+6.5.	09:00-10:00	RCL		pthread-win32 f. 64bit
+	10:00-12:00	SOLID		SOL-141
+	13:00-15:00	SOLID
+	15:00-18:00	MPX		Vorb. Release 5.0.06.1
+7.5.	09:00-12:30	MPX
+	13:30-15:30	MPX		Lieferung Release 5.0.06.1
+	15:30-17:30	SOLID		erw. DAPI-Tests (Listing-Subscriptions)
+8.5.	09:00-12:00	SOLID
+	13:00-17:30	SOLID
+9.5.	(Auffahrt)
+10.5.	09:00-12:30	SOLID
+	14:00-17:30	InfoScreen	Know-How Transfer mit MBR (context5)
+
+----- KW 20 -----
+13.5.	09:00-12:30	SOLID		erw. Listing-Subscriptions
+	13:30-17:30	SOLID
+14.5.	09:00-13:30	RCL		neue pthread-win32 f. x64/MSVC2010
+	14:00-17:30	SOLID		Tests
+15.5.	09:00-12:30	RCL
+	13:30-17:30	InfoScreen	Einarb.
+16.5.	09:00-13:00	InfoScreen
+	14:00-15:00	MPX		Abkl. wg. falschen BKs auf BC 111 
+	15:00-16:00	InfoScreen	Kickoff
+	16:00-17:00	InfoScreen 	Know-How Transfer mit CAN (RPi)
+	17:00-18:00	MPX		Erw. edaccesstest
+17.5.	09:00-11:30	MPX		Analyse BK-Extraktion
+	11:30-13:00	RCL		Integr. isNull()/setNull() in MyPreparedSTMT
+	14:00-14:30	InfoScreen	Workshop mit A.Patuzzo
+	14:30-17:30	RCL		Unittests & checkin
+
+----- KW 21 -----
+20.5.	(Pfingsmontag)
+21.5.	09:00-11:00	MPX		Kontrolle BK
+	11:00-12:00	MPX Wartung	TST wg. INC1116911 (Telco)
+	13:00-14:30	RCL		Build pthread-w64
+	14:30-17:30	MPX		Erw. edaccesstest (INC1116911)
+22.5.	09:00-13:00	MPX		Vorb. Spez/CR f. verb. BK-Bestimmung
+	13:30-17:30	InfoScreen	Einarbeitung concrete5, kl. RPi-Anpassungen
+23.5.	09:00-09:30	Rolotec		Setup SIX-Laptop
+	09:30-10:30	Rolotec		Download/Analyse Performance-Testresultate
+	10:30-11:30	Rolotec		Testtool-Vergleich
+	11:30-13:00	MPX		Kontrolle BKs, chkbktab auf rigi
+	14:00-18:30	MPX Wartung	Analysen/Tests mit Alex Kienzle (Erw. edaccesstest)
+24.5.	09:00-11:00	InfoScreen	Einarb. concrete5
+	11:00-12:00	MPX Wartung	Resultatvergleich zw. Releases
+	13:30-17:30	InfoScreen
+
+----- KW 22 -----
+27.5.	09:00-12:30	MPX Wartung	Vorb. Release 5.0.06.2 (Bug7054)
+	13:30-18:30	MPX Wartung
+28.5.	09:00-13:00	MPX Wartung
+	13:30-18:00	MPX Wartung	Lieferung Release 5.0.06.2 (Bug7054)
+	18:00-19:00	iD		Vorb. Listing Event Statistik
+29.5.	09:00-12:00	iD		Auswertung Listing-Event Statistik
+	14:00-16:00	Rolotec		PK-Info
+	16:00-17:30	MPX Wartung	BK-Analysen
+30.5.	09:00-13:00	MPX Wartung	CR7055
+	14:00-15:00	Rolotec		Team-Meeting
+	15:00-19:00	MPX Wartung	Vorb. Release 5.0.04.3 (CR7055)
+31.5.	08:30-13:00	MPX Wartung	Lieferung Release 5.0.04.3 (CR7055), Update 5.0.06/trunk
+	13:30-15:30	iD		Design Listing Event Ablage (STID-28)
+	15:30-17:30	RCL		Test LockfreeRBQueue
+	17:30-18:00	Rolotec		Zeiterf.
+
+----- KW 23 -----
+3.6.	09:00-12:30	iD		STID-28 (Analyse & Design)
+	13:30-17:30	iD
+4.6.	09:00-13:00	iD		STID-28 (Implementation)
+	13:30-18:00	iD
+5.6.	09:00-12:30	iD
+	13:30-18:30	iD
+6.6.	09:00-12:30	MPX		Vorb. Release 5.0.06, Patch 3
+	13:30-17:30	MPX		Lieferung 5.0.06, Patch 3
+7.6.	09:00-09:30	RCL		Kontrolle TPF1::Prl mit negativen Werten
+	09:30-12:30	iD
+	13:30-18:00	iD
+
+----- KW 24 -----
+10.6.	09:00-13:00	iD		STID-28 (Test)
+	13:30-17:30	iD
+11.6.	09:00-12:00	iD
+	12:00-12:30	InfoScreen	Verbindungstest
+	13:00-18:30	iD
+12.6.	09:00-12:30	iD
+	12:30-13:00	MPX		Telco wg. PBI 23263
+	13:30-15:00	MPX		Fehleranalyse
+	15:00-15:30	Rolotec		Team-Meeting
+	15:30-18:30	iD		STID-28
+13.6.	08:30-10:00	MPX		Vorb. 5.0.04, Patch 4
+	10:00-10:30	iD		Projekt-Meeting (PK, MF, PMA)
+	10:30-12:30	MPX		Lieferung MPX 5.0.04, Patch 4
+	13:00-15:00	iD		STID-28
+	15:00-17:00	MPX		Prod.-Support (svzpmpx11/12 crashen)
+14.6.	09:30-10:30	MPX		Prod.-Support (Recovery svzpmpx11)
+	10:30-12:00	MPX		Fehleranalyse
+	13:00-14:00	MPX		Rapport PK
+	14:00-15:30	RCL		DB-Patch f. 1.5.13
+	15:30-17:30	iD		STID-28 (sep. purge-Thread)
+
+----- KW 25 -----
+17.6.	09:30-10:15	Rolotec		Zeiterf.
+	10:15-12:30	iD		STID-28 (t_listingevents.d_cnt)
+	13:30-18:30	iD		Test STID-28, Vorb. HLS import
+18.6.	09:00-12:00	iD		Update HLS Tools, Statistik
+	13:00-14:00	iD
+	14:00-14:30	MPX		Support BCI (String "Price form HLS")
+	14:30-18:30	iD		extended statistics
+19.6.	09:30-11:30	iD		checkin
+	11:30-12:00	MPX		Support BCI (MPE-Handling auf mpzhlmpx07/mpsllmpx08)
+	13:00-18:00	iD		LSS Admin-HB
+20.6.	09:00-13:00	iD		TAS-Erw. f. LSS 8-8-0
+	14:00-18:30	iD
+21.6.	09:00-13:30	iD
+	14:30-15:00	MPS		Kickoff Zero/negative Values
+	15:00-18:00	iD
+
+----- KW 26 -----
+24.6.	09:30-12:30	iD		TAS-Erw. f. LSS 8-8-0
+	13:00-14:30	MPX		Analyse SODHK-Probleme mit 5.0.06
+	14:30-18:30	iD
+25.6.	09:00-13:00	iD
+	14:00-15:30	Rolotec		Bi-annual Infomeeting
+	15:30-18:30	iD
+26.6.	09:00-13:30	iD
+	14:00-14:30	MPX		Mail Peizhu Li (HLS Queries via MPX Moitor)
+	15:00-15:30	Rolotec		Team-Meeting
+	15:30-18:30	iD
+27.6.	09:00-09:30	iD
+	09:30-10:00	MPX		Tel. Konrad Schlude wg. mrp@galm
+	10:00-12:30	iD		Checkin, Admin-HB
+	13:00-18:00	iD
+28.6.	08:00-11:30	InfoScreen	CMS-Workshop
+	13:00-18:00	InfoScreen
+	18:00-18:30	Rolotec		Zeiterf.
+
+----- KW 27 -----
+1.7.	09:30-12:30	iD		INC1127906 (Simple Bid/Ask Yield)
+	14:00-15:00	iD		Korr. lssclt (CS kompilierte nicht mehr)
+	15:00-18:30	MPS		Einarb. NZP-Problematik
+2.7.	09:15-09:30	InfoScreen 	Reporting MHA
+	09:30-12:30	iD		INC1127906 (Update iD GUI)
+	13:30-17:30	iD
+3.7.	09:30-11:30	iD		Check/Update gumm (lssclt, lcmp)
+	11:30-12:00	MPS		Einarb. CRQ64980 (MPS-2)
+	13:00-18:30	MPS
+4.7.	09:00-10:00	InfoScreen	Bespr. weiteres Vorgehen
+	10:00-11:00	iD		Update gumm (mdfput mit Datumskorr. f.  Listing Events)
+	11:00-12:30	InfoScreen	Raspi & CMS
+	13:00-17:00	InfoScreen	
+5.7.	09:00-12:30	InfoScreen	Boot-Integr., crontab
+	13:00-13:30	MPX		Tel. Reza wg. fehlender EID69 vom DCS und
+					Liflex-/MPE-Problemen auf Slave
+	13:30-17:30	InfoScreen	Design autom. SW-Updates
+
+----- KW 28 -----
+8.7.	09:00-12:30	MPS		Analyse Jira/ITSM
+	13:30-17:30	MPS
+9.7.	09:00-13:00	MPX		Bug 7058
+	13:30-18:00	MPX
+10.7.	09:00-12:00	MPX		Bug 7058
+	13:00-15:00	MPX		Tests, MoMS-Setup
+	15:00-16:00	Rolotec		Team-Meeting
+	16:00-17:30	MPX
+11.7.	09:00-10:00	MPX		Vorb. Release 5.0.07
+	10:00-10:30	iD		Projektmeeting (PK, MF, NLE, PMA)
+	10:30-12:00	MPS
+	13:00-18:00	MPS
+12.7.	09:00-13:00	InfoScreen	Remote Update
+	14:00-17:30	InfoScreen
+
+----- KW 29 -----
+15.7.	08:30-12:00	RCL		Maintenance, Koord. mit MN
+	12:30-17:30	MPS		Analyse zero/negative values (MPS-2)
+16.7.	08:00-13:00	InfoScreen	Vorb. SD-Card f. Deployment
+	13:00-13:30	iD		INC1159000 (fehlende W/L SWX Europe %)
+	14:00-17:30	InfoScreen
+17.7.	08:30-09:00	OBS		Zugriffs-Versuch (INC1145425)
+	09:00-12:30	InfoScreen
+	13:00-17:30	InfoScreen
+18.7.	08:30-12:30	InfoScreen	
+	12:30-13:00	iD		INC1136134 (NLE: W/L Sortierung falsch)
+	13:30-14:00	OBS		Tracefile download
+	14:00-18:00	InfoScreen	Videotests
+19.7.	09:00-12:00	InfoScreen
+	12:00-12:30	iD		Korr. TAS-Selection (LSS)
+	13:00-17:00	MPS		NZP-Analyse (MPS-2)
+
+----- KW 30 -----
+22.7.	09:00-09:30	MPS		Abschluss NZP-Analyse (MPS-2)
+	09:30-10:00	Rolotec		Zeiterf.
+	10:00-12:30	MPS		NZP-Analyse
+	13:00-15:00	MPS		BL-Unittests
+	15:00-16:30	iD		INC1170309: Support Dirk Schütt (Finsource, MPX BC61)
+	16:30-17:30	MPS
+23.7.	09:00-12:30	MPS
+	14:00-16:00	Rolotec		Maintenance QA-Tools (RCL 1.5.13)
+	16:00-18:00	RefCalc		Debugging-Support HLI
+24.7.	09:00-12:30	Rolotec		RCL Maint. (openSUSE12 build)
+	14:00-17:30	MPS		BL-Unittests
+25.7.	09:00-12:30	MPS		CMake-Umstellung
+	13:00-15:00	MPS		erw. Unittests
+	15:00-16:30	iD		Analyse fehlende Location Numbers BC361
+	16:30-17:30	RefCalc		Support HLI: DB-Access
+26.7.	09:00-09:30	MPS		Erw. BL-Unittests
+	(09:30-10:30 abwesend)
+	10:30-12:30	MPS		
+	13:00-17:30	MPS		
+
+----- KW 31 -----
+29.7.	09:00-11:00	MPS		Anp. BLS-KZR-Spez. f. NZP (Mail Hardegger)
+	11:00-11:30	Rolotec		Zeiterf.
+	11:30-12:00	MPS		Unittests, Packaging mit CPack
+	13:00-18:00	MPS
+30.7.	09:00-12:30	MPS
+	13:00-17:30	LSS		Fehlersuche SMI-Deletion
+31.7.	09:00-11:30	LSS		hlschk
+	14:00-15:00	MPS		NZP-Spez. (Tel. Hardegger)
+	15:00-16:30	LSS		Korr. Listing-Deletions (exclude WL)
+	16:30-17:30	MPX		MoMS-Support (Tel. Mühlethaler)
+1.8.	(frei)
+2.8.	09:00-13:00	InfoScreen	Video-Integr.
+	14:00-17:00	InfoScreen
+
+----- KW 32 -----
+5.8.	09:00-12:15	LSS		Admin-HB, Packaging
+	13:00-17:30	LSS
+6.8.	09:00-09:30	RefCalc		Linkliste MDF-Generierung f. HLI
+	09:30-11:30	LSS		Update lssbi2, Anp. Admin-HB
+	11:30-13:00	MPS		NZP-Erw.
+	14:00-18:00	MPS
+7.8.	09:00-12:30	MPS
+	13:00-18:00	MPS
+8.8.	09:00-13:00	MPX		CR7059
+	14:00-15:00	MPX
+	15:00-15:30	MPS		Support Lars Trachsler (Mail MP)	
+	15:30-17:30	MPX
+9.8.	09:00-09:30	MPS		Support Lars Trachsler (fehlerhafte Tab 715 in QA)
+	09:30-10:00	MPX		Checkin
+	10:00-12:15	MPS		INC1127906
+	13:45-14:30	MPX		Test 5.0.07
+	14:30-17:00	MPS		NZP-Spez.
+
+----- KW 33 -----
+12.8.	09:00-13:00	MPS		NZP-BL
+	(Nachmittag frei)
+13.8.	09:30-12:30	MPS
+	13:30-18:00	MPS
+	(Übernachtung bei Massimo)
+14.8.	09:00-11:30	MPS		NZP-ZCY
+	14:00-18:00	MPS
+15.8.	09:00-13:00	MPS
+	13:30-19:00	MPS
+	(Abendessen mit Massimo, Hokan, Nid)
+16.8.	09:00-11:30	MPS
+	(Einzahlung Nid)
+	13:30-17:00	MPS
+
+----- KW 34 -----
+19.8.	08:00-08:30	Rolotec		RoloNation
+	08:30-12:30	MPS		NZP/ZCY Unittests
+	13:00-17:30	MPS
+20.8.	08:30-10:00	MPX		Location Number Problem (R. Künzle)
+	10:00-13:00	MPS		
+	14:00-17:30	LSS		Vorb. Release 8-8-00-pre1
+21.8.	09:00-12:30	LSS		Lieferung Release 8-8-800-pre1
+	13:30-17:30	MPS
+22.8.	09:00-13:00	LSS		Patch f. 8-8-00-pre1
+	14:00-15:30	LSS		STID-120
+	15:30-17:30	MPS
+23.8.	09:00-10:00	ELIAS		Mail Wullschleger (Datenstrukturen und -volumen)
+	10:00-12:00	MPS		ZCY
+	12:00-13:00	iD		INC000001127906 (Detailanalyse MPS)
+	13:30-15:30	iD
+	15:30-17:30	MPS		Vorb. ZCY Tests
+
+----- KW 35 -----
+26.8.	09:00-12:15	MPS
+	14:00-14:30	MPX		Support Reza (SW-Install pilatus)
+	14:30-17:30	iD		LSS: getevtcfg (STID-119)
+27.8.	08:30-10:00	Rolotec		Interview mit Chr.Hunziker & R.Schwab
+	10:00-13:00	RCL		Vorb. 1.5.14
+	14:00-16:00	RCL		Tests
+	16:00-16:30	Rolotec		Bespr. DFI-Mitarbeit (YVO)
+	16:30-17:00	MPS		Tel. T.Hardegger wg. NZP
+28.8.	09:00-09:30	InfoScreen	Analyse 'raspberry_li' Einblendung
+	09:30-11:30	MPS		MDF Buffer overflow, Mail Hardegger
+	11:30-12:30	LSS		Split TS-Locking
+	13:30-17:30	LSS		Test
+29.8.	09:00-11:00	LSS		Admin-HB, Release Notes
+	11:00-11:30	Rolotec		Bespr. DFI-Migration Projekte (MN, PK, PER)
+	11:30-12:30	LSS
+	13:30-17:00	LSS		Checkin
+30.8.	09:00-11:30	MPS		Setup Testfeed (qamrp05)
+	11:30-12:30	Rolotec		Abschluss LSS, RCL
+	14:00-16:30	MPS
+	16:30-17:00	Rolotec		Zeiterf.
+
+----- KW 36 -----	(Beginn DFI-Mitarbeit)
+2.9.	09:00-12:30	MPS		Datentests
+	14:00-18:00	MPS
+3.9.	09:30-12:30	MPS		Packaging
+	14:00-16:00	OBS		Handover mit MF
+	16:00-18:00	MPS		Lieferung Release 3.3.26
+4.9.	09:00-12:30	MPS		Nachlieferung f. SLES10
+	13:30-17:30	MPS		Anp. f. VAS20/21
+5.9.	09:00-10:30	MPS		verb. Spez. Blank Price handling
+	10:30-12:30	MPS		VAS 20/21
+	14:00-15:00	MPX		Analyse XML-encoding f. MPE-Interface
+	15:00-18:00	MPS		erw. Blank Price handling
+6.9.	08:30-11:00	MPS
+	11:00-12:30	SFI		eLearning (ITSM8)
+	13:30-14:00	SFI
+	14:00-17:00	MPS		Vorb. Release 3.3.26, Build 3
+
+----- KW 37 -----
+9.9.	09:00-13:00	MPS		Datentests
+	14:00-15:00	MPS		Update Admin-HB
+	15:00-15:30	Rolotec		Zeiterf.
+	15:30-17:00	OBS		Analyse CRQ81869
+	17:00-18:30	MPS		Checkin, Tests, Doc
+10.9.	08:30-12:30	MPS
+	13:30-17:30	MPS
+11.9.	08:00-13:00	MPS
+	13:30-18:00	MPS
+12.9.	08:30-13:00	MPS
+	14:00-16:00	Rolotec		Security Awareness Training
+	16:00-17:00	MPS		Abkl. VAS 114 (Tel. Hardegger)
+13.9.	08:30-17:30	MPS		Packaging & Lieferung 3.3.26
+
+----- KW 38 -----
+16.9.	09:00-12:15	MPX		Bug7059, ALM D 4186, MPE (XML-Encoding)
+	13:15-17:15	OBS		Merge pending changes, Update obs.r2
+17.9.	09:00-09:30	LSS		Telco NZP-Requirements
+	09:30-10:00	MPS		Neulieferung (MRP API 3.0.06)
+	10:00-10:30	LSS		Vorb. Know-How Transfer (Mail NLE)
+	10:30-12:30	MPS		RT-DS Support Hardegger (W/L 0-Trades mit VAS 114)
+	13:30-15:30	LSS		Know-How Transfer NLE
+	15:30-17:30	OBS		Analyse HKEx changes
+18.9.	07:45-11:30	DFI		Besuch in ZH
+	12:30-17:45	DFI
+19.9.	09:00-09:30	MPS		Anfrage QA (Trachsler): "cannot convert original msg"
+	09:30-11:00	MPS		INC1208886
+	11:00-12:30	MPS		INC1208068
+	13:00-14:00	MPS		Telco Test Status
+	14:00-15:00	OBS		Handover mit MF
+	15:00-18:30	MPS		Testing
+20.9.	09:00-10:00	Rolotec		Administration DFI-MA
+	10:00-12:00	OBS		pdmhkex.so (CRQ64506)
+	13:00-13:30	MPS		Telco Test Status
+	13:30-18:30	OBS
+
+----- KW 39 -----
+23.9.	09:00-12:00	MPS		Test/Korr. Formula 10
+	12:30-13:00	OBS		pdmhkex.so (CRQ64506)
+	13:00-13:30	MPS		Telco Test Status
+	13:30-15:00	MPS		Tests
+	15:00-19:00	OBS		pdmhkex.so (CRQ64506)
+24.9.	08:30-12:15	MPS		Defect 4382
+	13:00-13:30	MPS		Telco Test Status
+	13:30-16:00	MPS		Defect 4382
+	16:00-16:30	LSS		Followup Telco NZP
+	16:30-19:30	MPS		Defect fixing/rejecting
+25.9.	07:30-09:30	OBS		pdmhkex.so (CRQ64506)
+	09:30-11:30	OBS		Lieferung 3.0.03-p4, DevWiki
+	11:30-12:30	Rolotec		Zeiterf.
+	13:00-13:30	MPS		Telco Test Status
+	13:30-19:00	MPS		Defect Analyse, Lieferung Release 3.3.26pre3
+26.9.	08:00-09:30	OBS		Analyse CRQ81869
+	09:30-10:30	MPS		Test repetition, defect update
+	(1h abwesend wg. Nid)
+	11:30-12:45	MPS	
+	13:45-14:30	OBS		Analyse HKEx Problem (Listing 66)
+	14:30-15:00	MPS		Telco Test Status
+	15:00-19:00	OBS		Lieferung 3.2.01-p1 (pdmsxw.so)
+27.9.	(Vormittag abwesend wg. Nid)
+	12:30-13:15	MPS		Statusmails
+	13:15-14:00	OBS		Analyse HKEx Fehler (Listing 34)
+	14:00-14:30	MPS		Telco Test Status
+	14:30-19:00	MPS		Release 3.3.26pre4
+
+----- KW 40 -----
+30.9.	09:00-10:00	OBS		INC1210514
+	10:00-12:00	OBS		CRQ64506: suppress best bid/ask size f. HKEx
+	13:00-14:00	OBS		INC1210514
+	14:00-17:00	OBS		CRQ64506
+1.10.	07:30-08:00	Rolotec		Zeiterf.
+	08:00-09:00	OBS		INC1210514 (ex: INC11980188)
+	09:00-10:00	OBS		Analyse HKEx best bid/ask size
+	10:00-12:30	OBS		Vorb. Release 3.2.02/3.3.00
+	14:00-14:30	MPS		Telco Test Status
+	14:30-15:30	MPS Support	Tel. Schmidlin: fehlender First Bid Yield (z.B. 965574,41,814)
+	15:30-16:30	OBS		Lieferung Release 3.3.00 f. HKEx Tests
+2.10.	09:00-10:30	OBS		INC1210514 & Bid/Ask Yield Problem
+	10:30-12:30	OBS		Dok. update OBS 3.3
+	13:00-14:00	MPS		CRQ68778 (fehlende Bid/Ask Yield f. BC41)
+	14:00-14:30	MPS		Telco Test Status
+	14:30-15:00	MPS		CRQ68778
+	15:00-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-17:30	OBS		Dok., Deployment 3.3.00
+3.10.	09:00-13:00	OBS
+	14;00-14:30	MPS		Telco Test Status
+	14:30-18:00	OBS
+4.10.	08:30-10:00	OBS		Support Vladi (Locks), Nicole (synch.  OB updates)
+	10:00-11:00	MPS		W/L Intro mit JBO
+	11:00-11:30	Rolotec		DFI-Strategie-Info JB
+	11:30-12:30	MPS		Analyse Defects
+	13:30-14:00	MPS		Telco Test Status
+	14:00-17:00	MPS		Defect 4429
+
+----- KW 41 -----
+7.10.	09:00-09:30	DFI		Mails, Incidents, Defects, Terminplanung
+	09:30-12:30	MPS		Defect 4442
+	13:00-13:30	MPS
+	13:30-14:00	OBS		Telco CRQ81869
+	14:00-14:30	MPS
+	14:30-15:00	MPS		Telco Test Status
+	15:00-17:00	MPS
+8.10.	07:00-11:30	DFI		Besuch in ZH
+	12:30-18:15	DFI
+9.10.	09:00-09:30	LSS		Koordination NZP-Erw.
+	09:30-12:00	MPS		INC1215897
+	13:00-14:00	MPS		INC2003359
+	14:00-14:30	MPS		Telco Test Status
+	14:30-15:00	MPS		INC1208068
+	15:00-15:30	MPS		INC1215897 (Setup tissel)
+	15:30-16:30	MPS		INC1215646
+	16:30-18:00	MPS		Analyse pending defects, preparing for release 3.4
+10.10.	09:00-12:30	MPS		INC1215897 (MDF/LSS Analyse)
+	12:30-13:30	MPS		Defects 4444/4446
+	14:00-14:30	MPS		Telco Test Status
+	14:30-15:00	OBS		Abschluss CRQ81869
+	15:00-18:30	MPS		INC1215897 (Codeanalyse)
+11.10.	09:00-12:00	MPS		INC1215897 (Resolution)
+	12:00-12:30	MPS		Reconfig tissel f. NZP-Tests
+	13:30-14:00	MPX		INC2011149
+	14:00-14:30	MPS		Telco Test Status
+	14:30-17:30	MPS		NZP Tests
+
+----- KW 42 -----
+14.10.	09:00-09:30	MPS		INC1215897 (Close?)
+	09:30-10:00	MPS		Changelog update (ALM defects)
+	10:00-10:30	MPX		Anp. imrp-Filter
+	10:30-12:00	MPX		INC1215897 (Reopened)
+	12:30-15:30	MPX		erw. Market Status (BCI)
+	15:30-16:00	OBS		Support H. Lumpi (BK f. L2+)
+	16:00-18:30	MPX
+15.10.	09:00-09:30	MPS		INC1215897 (Solved)
+	09:30-10:00	MPX		Test MPE-Encoding
+	10:00-10:30	ELIAS		Planung Know-How Transfer
+	10:30-11:00	MPX
+	11:00-11:30	MPS		Telco Test Status
+	11:30-12:30	MPX
+	13:30-15:00	MPX
+	15:00-16:00	LSS		NZP: Impactanalyse LSS (Auftrag Burkhalter)
+	16:00-17:00	MPX
+16.10.	09:00-09:30	LSS		NZP: Koordination mit MN, PK
+	09:30-10:30	MPX		Spez. update
+	10:30-11:00	LSS		Telco Burkhalter/Hardegger wg. NZP Impact
+	11:00-11:30	MPS		Telco Test Status
+	11:30-12:30	MPX
+	13:30-14:00	MPS		INC2021149
+	14:00-15:00	MPX
+	15:00-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-17:30	MPX
+17.10.	08:30-09:00	DFI		Setup Laptop, Mails
+	09:00-12:30	MPX		Release 5.0.00_7
+	13:30-14:30	MPX		Update Release 5.0.00_7
+	14:30-15:00	MPS		Mail wg. Regression Tests
+	15:00-15:30	MPS		Mail Chr. Dennler wg. SRS
+	15:30-17:30	MPS		Kontrolle Regression Tests
+18.10.	08:30-11:00	OBS		Analyse OSLO, BOVESPA pendings
+	11:00-11:30	MPS		Telco Test Status
+	11:30-12:30	OBS		Vorb. Release 3.3.00 (Dok.)
+	13:30-15:30	OBS		Release 3.3.00
+	15:30-17:30	MPS		Retest defects
+
+----- KW 43 -----
+21.10.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:00	MPS		Retest defects, Sync. with LSS
+	12:00-12:30	MPS		INC2028164
+	13:30-17:30	MPS		Vorb. Release 3.4.00
+22.10.	08:30-09:30	MPS
+	09:30-10:00	MPX		Update Pre-Release 5.0.07
+	10:00-12:45	MPS
+	13:15-16:00	MPS
+	16:00-18:00	LSS		Review NZP Anpassungen mit MN
+23.10.	08:30-09:00	LSS		Update NZP Requirements in Jira
+	09:00-09:30	MPS		Detailabkl. Formeln 20/21
+	09:30-13:00	MPS		Release 3.4.00
+	13:30-17:30	MPS
+24.10.	08:30-09:30	Rolotec		Zeiterf.
+	09:30-12:45	MPS
+	13:45-17:30	MPS		Lieferung Release 3.4.00
+25.10.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-10:30	Rolotec		Abwesenheitsplanung
+	10:30-12:00	MPX		Release 5.0.07
+	12:00-12:30	OBS		Anfrage Marco Zurbriggen bzgl. Listing Event 133
+	13:30-14:00	MPS		INC2029371
+	14:00-16:00	MPX		Lieferung 5.0.07
+	16:00-16:30	MPX		Aufwandsch. Codepage-Umstellung
+	16:30-17:00	MPS		INC2029371
+	17:00-17:30	Rolotec		Zeiterf.
+
+----- KW 44-46 -----
+28.-15.11.	Ferien
+
+----- KW 47 -----
+18.11.	09:00-11:00	DFI		Mails, ITSM, ALM, Laptop
+	11:00-13:00	OBS		Vorb. 3.0.00-p1 (pdmasx.so)
+	14:00-15:30	OBS		SOS-Lieferung 3.3.00-p1
+	15:30-17:30	MPX		Review questions from Laurent Alsina
+19.11.	09:00-09:30	OBS		Bugzilla/DevWiki update
+	09:30-10:00	MPS		Abkl. bzgl. Berechnung von Greeks
+	10:00-13:00	MPS		INC2069970
+	13:00-14:00	MPS
+	14:00-17:00	MPS		INC2072815
+	17:00-17:30	MPS		INC2074443
+20.11.	08:30-12:30	MPS
+	13:00-17:30	MPS
+21.11.	08:30-13:00	MPS		Tests & Optimierungen
+	14:00-14:30	MPX		Support A.Mühlethaler (Fehler in mpx-momsmgr.log)
+	14:30-17:30	MPS
+22.11.	09:00-10:00	MPS
+	10:00-10:30	InfoScreen	Finalization Kickoff
+	10:30-12:30	MPS		Vorb. Rel. 3.3.27
+	13:30-14:00	MPS		Lieferung 3.3.27
+	14:00-17:30	LSS		Review NZP-Changes
+
+----- KW 48 -----
+25.11.	08:30-10:00	MPS		Analyse LSS-Changes
+	10:00-11:30	MPS		Telco Wildcard-Handling
+	11:30-13:00	OBS		PDM f. MOEX/MICEX (CRQ2003328)
+	14:00-15:00	OBS
+	15:00-15:30	MPS		Anfrage Lars Trachsler wg. 3.3.27/3.4.00
+	15:30-17:30	MPS		Defect 4448
+26.11.	09:00-12:00	MPS
+	12:00-12:30	MPX		INC2083622 (Tel. Zemp, falscher Index-BK auf BC 399)
+	13:30-17:30	MPS		Release 3.4.01
+27.11.	08:30-10:30	MPX		Defect 4568
+	10:30-11:00	MPS		Defect 4431
+	11:00-13:00	MPX
+	14:30-15:00	MPX		PBI2000327 (TAS1714)
+	15:00-17:00	DFI		Statusbericht
+	17:00-17:30	Rolotec		Zeiterf.
+28.11.	09:00-11:00	DFI		Follow-up Statusbericht
+	11:00-11:30	Rolotec		Team-Meeting SrvSys
+	11:30-13:00	MPS		Beschr. Lookup-Logik
+	14:00-15:30	OBS		Probleme ASX (Tel. Lenicka)
+	15:30-17:30	MPS		Release 3.4.01
+29.11.	09:00-11:45	LSS		Dok./Bespr. Blank-Handling
+	12:30-17:30	OBS		Analyse ASX-Probleme
+	17:00-17:30	Rolotec		Zeiterf.
+	18:30-???	Rolotec		Team-Event
+
+
+----- KW 49 -----
+2.12.	09:00-10:30	OBS		QA-Support Lenicka (ASX)
+	10:30-12:30	OBS		TAS2180 (CRQ2000602, Oslo: closing price publication)
+	13:30-17:00	MPS		Beschr. blank handling
+3.12.	(krank)
+4.12.	09:00-10:30	MPS		Abkl. wg. blank handling
+	10:30-12:30	MPS		Defect 4431
+	13:30-15:30	MPS		Spez. blank handling
+	15:30-18:00	MPS		Defect 4431
+5.12.	09:00-11:00	OBS		TAS2180 (CRQ2000602)
+	11:00-12:30	RCL		Release 1.5.14
+	13:30-14:00	RCL
+	14:00-17:30	OBS		TAS2180 (CRQ2000602)
+6.12.	09:00-12:30	MPS		Vergleichstests LSS/MPS
+	13:30-18:00	MPS
+
+----- KW 50 -----
+9.12.	09:00-09:30	MPX		TAS2306 (CRQ2001506)
+	09:30-12:30	MPS		Refactoring
+	13:30-17:30	MPS
+10.12.	09:00-09:30	MPS		Mail Giri (Handling of decimals)
+	09:30-10:00	OBS		Abkl. wg. Oslo-Tracefile (Lenicka)
+	10:00-12:30	MPS
+	13:30-14:00	OBS		Abkl. Requirements (Zurbriggen)
+	14:00-15:30	Rolotec		Bi-annual developer meeting
+	15:30-17:00	MPS		Fertigstellung BLS Handbuch
+11.12.	09:00-12:30	OBS		Split PDMSWX/PDMRTS, PDMSGP -> PDMCOL
+	14:00-17:00	MPX		Review MPX6
+12.12.	09:00-13:00	MPX		Maintenance (RCL 1.5.14)
+	13:30-14:30	MPX		PBI2000874 (EUWAX Delays)
+	14:30-17:00	MPS		Optimierung (Untersch. Parameter- und Target-Quotes)
+13.12.	09:00-12:30	MPS		Tests
+	13:30-15:00	MPS		Support R.Blumer (W/L Versand)
+	15:00-15:30	MPX		Support BCI (case-sensitive Symbole auf EQUIDUCT)
+	15:30-17:30	MPS		Retest defects
+
+----- KW 51 -----
+16.12.	09:00-10:00	MPX		Closing defects
+	10:00-12:00	OBS		Checkin, Doc. update
+	13:00-15:00	OBS
+	15:00-17:00	MPS		Checkin, Doc. update
+17.12.	09:00-15:30	MPX		INC2094423
+	15:30-17:30	OBS		CRQ2003328 (Analyse MOEX, update dcslist)
+18.12.	09:00-09:30	OBS
+	09:30-11:00	OBS		Analyse BC828 (Sarajevo)
+	11:00-12:30	OBS		CRQ2000602 (OSLO Tests)
+	13:30-14:30	OBS
+	14:30-16:00	MPX		PBI2001048
+	16:00-17:00	OBS
+19.12.	09:00-12:30	OBS		CRQ2003328 (MOEX Tests)
+	13:30-16:30	OBS
+20.12.	09:00-11:00	OBS
+	11:00-12:30	MPX		PBI2001048
+	13:30-14:00	Rolotec		Absenzenplanung
+	14:00-16:00	OBS
+	16:00-17:00	Rolotec		Zeiterf.
+
+----- KW 52 -----
+23.12.	Ferien
+24.12.	Ferien
+27.12.	Ferien
+
+----- KW 53 -----
+30.12.	Ferien
+31.12.	Ferien
+3.1.	Ferien
+

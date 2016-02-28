@@ -1,0 +1,1012 @@
+----- KW 1 -----
+30.12.	Ferien
+31.12.	Ferien
+3.1.	Ferien
+
+----- KW 2 -----
+6.1.	09:00-10:00	Rolotec		unprod.
+	10:00-12:00	OBS		Analyse ASX (CRQ2003256)
+	12:00-12:30	OBS		Analyse MICEX (CRQ2003328)
+	12:30-13:00	OBS		Analyse OSLO (CRQ2000602)
+	14:00-18:00	OBS		MOEX Tests
+7.1.	09:00-13:00	OBS		Anp. f. OSLO
+	14:00-17:30	MPX		INC2113442 (Zugriff via SIX Laptop)
+8.1.	09:00-12:45	OBS		ASX Tests
+	13:45-15:30	OBS
+	15:30-17:30	MPX		INC2113442 (HLS Import)
+9.1.	09:00-11:00	MPX		INC2121943 (Error in mpx-momsmgr.log)
+	11:00-11:30	Rolotec		Team-Meeting
+	11:30-12:30	OBS		Release-Announcments
+	13:30-14:00	OBS		CRQ2005314
+	14:00-16:00	OBS		Checkin, Dok. update
+	16:00-17:00	MPX		INC2121943
+	17:00-18:00	OBS		Vorb. Release 3.3.01
+10.1.	09:00-13:00	OBS		Release 3.3.01
+	14:00-17:00	MPX		ALM D 4630
+
+----- KW 3 -----
+13.1.	09:00-13:00	MPX		ALM D 4630, Failover Tests
+	13:30-17:30	MPX
+14.1.	09:00-12:30	MPX		Checkin, Dok. update
+	13:00-14:00	OBS		QA Support (Tel. Vladi)
+	14:00-17:30	MPX		MPE Tests (XML)
+15.1.	07:45-12:30	DFI		Besuch in ZH
+	13:00-17:30	MPS		Vorb. Release 3.4.01
+16.1.	09:00-12:30	MPS		
+	13:30-18:00	MPS
+17.1.	09:00-13:00	MPS		Lieferung Release 3.4.01
+	13:30-17:30	MRP		Entf. LBM/MDM-Funktionalität
+
+----- KW 4 -----
+20.1.	09:00-11:30	MPS		Dok.ablage, Update DevWiki
+	11:30-12:30	MRP		Tests
+	13:30-17:30	MRP
+21.1.	09:00-13:00	MRP
+	13:30-18:00	MRP		Packaging, Tests, Dok.
+22.1.	09:00-13:00	MRP
+	14:00-18:00	MRP
+23.1.	09:00-09:30	MPS		Mail Giri
+	09:30-10:30	OBS		erw. MOEX-Selektion (CRQ2003328)
+	10:30-11:00	MPS
+	11:00-11:30	Rolotec		Team-Meeting
+	11:30-12:30	MRP		Mail D.Brocher
+	13:30-14:30	MPS		QA Support (L. Trachsler, LBM-Dependency imrp/omrp)
+	14:30-15:30	DFI		Bespr. Migration DGI
+	15:30-18:00	MRP		Vorb. MRP 3.0.6p1
+24.1.	09:00-09:30	MPS		QA Support (Trachsler, pre-Release mrp 3.1.00)
+	09:30-11:00	MRP		Mail D.Brocher
+	11:00-11:30	OBS		DevWiki update
+	11:30-12:30	MPX		PBI2001048: Analyse core von mpsllmpx18
+	13:30-15:00	OBS		ALM D 4646
+	15:00-17:30	MRP		Vorb. MRP 3.0.6p1
+
+----- KW 5 -----
+27.1.	09:00-11:30	MRP		Analyse Changes 3.0.6 -> 3.0.18
+	11:30-12:00	MRP		Mail R.Schwab wg. weiterem Vorgehen
+	12:00-12:30	Rolotec		Zeiterf.
+	13:30-17:00	QA-Tools
+28.1.	09:00-12:30	QA-Tools
+	13:30-17:00	QA-Tools
+29.1.	09:00-13:00	MPX		Neulieferung Release 5.0.07
+	14:00-16:30	MPX
+30.1.	09:00-11:00	MPX		PBI2001048: Exceptions abfangen (Redelivery 5.0.07)
+	11:00-12:30	MPS		PBI2001091 (Massenversand W/L-Listen)
+	13:30-17:30	MPX		Tel. Reza: EOE-Symbole von temp.  Listings gehen verloren
+31.1.	09:00-09:30	MPX		EOE Symbole von temp. Listings behalten
+	09:30-10:30	MPS		Support R.Blumer (MDF Queue um 9:08)
+	10:30-13:00	MPX		EOE-Symbole
+	14:00-16:00	MPX
+	16:00-17:00	Rolotec		Zeiterf.
+
+----- KW 6 -----
+3.2.	09:00-09:30	OBS		QA Support (Vladi)
+	09:30-10:15	MPX		CRQ2003056 (temp. Listings mit EOE)
+	10:15-10:30	Rolotec		25 Jahre Rolotec (YVO)
+	10:30-11:00	MPS		INC2140463
+	11:00-13:00	MPX
+	13:30-15:30	MPX		Lieferung MPX 5.0.06, Patch 4
+	15:30-17:00	MPS		Analyse mdfput-core mizhlmps01
+4.2.	09:00-11:30	MPS
+	11:30-12:45	TASS		Intro mit PER
+	13:30-15:00	MPS
+	15:00-16:30	MPX		Migration 5.6 -> 5.7 (Mail A.Renggli)
+5.2.	09:00-13:00	MPS		Analyse KFC-BK setting
+	13:30-15:30	MPS
+	15:30-17:00	MPS		Beschr. Swappiness-Einstellung (Mail Chr. Dennler)
+6.2.	09:00-12:30	MPX		Re-Test CRQ2003056
+	13:30-17:30	MPX
+7.2.	(krank)
+
+----- KW 7 -----
+10.2.	09:00-10:00	SFI		ITSM8-Zugriff
+	10:00-12:30	MPX
+	13:30-16:30	MPX
+11.2.	07:45-12:30	MRP		(ZH) Bespr. PBI2000230
+	13:30-17:30	MPX		QA Support (L. Alsina), Migration 5.0.6 -> 5.0.7 (A. Renggli)
+12.2.	09:00-09:30	SFI		Mails
+	(1/2h abwesend wg. Nid)
+	10:00-10:30	MPS		Mail Chr. Dennler wg. SID53
+	10:30-12:30	MRP
+	13:30-17:30	QA-Tools	erw. GSN-Checking in lana	
+13.2.	08:00-13:00	MRP
+	14:00-15:00	MPX		QA-Support (K. Schlude)
+	15:00-18:00	MRP
+14.2.	09:00-11:00	OBS		INC2159237
+	11:00-12:30	MRP
+	13:30-17:30	MPS		Retest 3.3.27 gem. Excel von M.Mund
+
+----- KW 8 -----
+17.2.	09:00-12:45	MPS		Regressionstests
+	13:45-17:00	MPS
+18.2.	08:00-09:00	MPS		Mail an QA
+	09:00-11:00	DFI		Bespr. DGI-Migration (R. Scherrer)
+	11:00-12:15	MRP		erw. GSN Protection
+	13:45-17:00	MRP
+19.2.	09:00-12:00	Rolotec		MA-Gespr. (inkl. Vorb.)
+	12:00-13:00	QA-Tools	lgen (fix headertimes)
+	14:00-15:30	OBS		CRQ2007484 (dismantle Bovespa)
+	15:30-17:30	MRP		autom. Builds
+20.2.	09:00-10:30	OBS		CRQ2007484 & verb. Packaging
+	10:30-11:00	MPS		INC2159821
+	11:00-13:00	QA-Tools	Checkin & Doc.
+	14:00-14:30	QA-Tools
+	14:30-15:00	MPS		ALM D 4748
+	15:00-18:00	QA-Tools	Lieferung Release 3.2
+21.2.	09:00-10:00	QA-Tools	local Deployment (ch1.rolotec.com, r2.rolotec.ch)
+	10:00-12:30	MPS
+	13:30-14:30	MPS
+	14:30-15:00	Rolotec		Bespr. JB
+	15:00-17:00	OBS		INC2159237
+
+----- KW 9 -----
+24.2.	09:00-12:30	OBS		INC2159237 & ALM D 4752
+	13:30-16:00	MRP		Tests mit PER
+	16:00-17:00	Rolotec		Rolonation (JB)
+25.2.	09:00-12:30	OBS		Test NZL (INC2159237)
+	13:30-14:00	OBS		Mail wg. fehlenden Referenzen f. MOEX
+	14:00-15:00	(Nid)
+	15:00-17:00	MPX		PBI2001610
+26.2.	09:00-10:00	MPX		PBI2001610
+	10:00-12:30	TASS		SLES11 Migration
+	14:00-17:30	OBS		MOEX Tests
+27.2.	09:00-12:30	TASS		SLES11 Migration
+	13:30-18:00	TASS
+28.2.	09:00-11:30	OBS		Release 3.3.02
+	11:30-12:30	TASS		SLES11 Migration (CMake build)
+	13:30-16:00	TASS		SLES11 Migration (Apache setup)
+	16:00-17:00	Rolotec		Zeiterf.
+
+----- KW 10 -----
+3.3.	09:00-09:30	Rolotec		DGI-Entscheid (YVO, MN)
+	09:30-12:30	MPS		INC2174404 (fehlende Moneyness in 3.3.27)
+	13:30-17:30	MPS
+4.3.	09:00-11:30	MPS
+	11:30-11:45	OBS		neue MOEX Requirements -> R.Schwab
+	12:45-13:45	OBS		MOEX: suppress L1
+	13:45-17:00	TASS		SLES11 Migration
+5.3.	09:00-13:00	TASS		FastCGI
+	14:00-17:00	TASS		Build server job
+6.3.	09:00-09:30	DFI		Statusbericht
+	09:30-12:30	OBS		Redelivery Release 3.3.02
+	13:30-17:30	MPS		Retest ALM D 4748,4437,4439,4478,4777,4778
+7.3.	09:00-13:00	MPS		INC2174404
+	14:00-15:00	Rolotec		Bespr. ABI
+	15:00-17:00	TASS		FastCGI-Zugriff
+
+----- KW 11 -----
+10.3.	08:00-09:00	MPS		INC2174404
+	09:00-13:00	TASS		tablemgr
+	14:00-17:30	TASS
+11.3.	08:00-09:00	MPS		INC2174404
+	09:00-13:00	TASS		GMS-Import
+	14:00-17:00	TASS
+12.3.	09:00-13:00	MPX		PBI2000535
+	14:00-15:00	Rolotec		MAG2 (mn)
+	15:00-15:30	DFI		Mail R.Schwab wg. OBS/MPS/MRP
+	15:30-16:00	MPS		ALM D 4789
+	16:00-17:00	TASS		crontab, packaging
+13.3.	09:00-09:30	DFI		Releaseplanung MRP/MPS/OBS
+	09:30-11:30	OBS		CRQ2004581 (Abkl. RTS impact)
+	11:30-13:00	OBS		Release 3.3.02, Iteration 4
+	14:00-16:30	MRP		Release 3.1.00
+	16:30-17:30	MPS		Vorb. Release 3.4.02
+14.3.	(frei)
+	11:00-12:30	MPS		INC2159821
+	13:30-18:00	MPS		Vorb. Release 3.4.02
+
+----- KW 12 -----
+17.3.	09:00-13:00	MPS		Release 3.4.02
+	14:00-15:00	RCL		Koordination
+	15:00-17:00	MPS		Releaseablage, DevWiki upate
+18.3.	09:00-10:00	TASS		DB mit auto-reconnect
+	10:00-12:15	RCL		Bug 12214
+	13:45-17:30	RCL
+19.3.	(Morgen frei)
+	11:00-13:00	RCL
+	13:30-15:00	RCL		Pre-Release 1.6.00
+	15:00-17:30	DFI		cloc-Auswertug f. OBS, MPS, MRP,TASS4
+20.3.	09:00-10:00	RCL		Build-Job f. oenSUSE 12 (RefCalc)
+	10:00-11:00	MPS		Zus.stellug MPS-Formeln (Mail M.  Wenzel)
+	11:00-11:30	Rolotec		Team-Meeting
+	11:30-12:00	MPS
+	12:00-13:00	MPS		INC2159821
+	13:30-14:30	MPS
+	14:30-15:00	TASS		Checkin
+	15:00-15:30	Rolotec		Alarm-Übung
+	15:30-17:30	TASS		Optim. tsfilter (buffered reads)
+21.3.	09:00-12:30	TASS		Testsetup auf tass5 mit tossen als MDF Publisher
+	13:00-17:30	TASS		Optim. tsfilter (FILTER_LANES)
+
+----- KW 13 -----
+24.3.	09:00-10:00	TASS		Optim. tsfilter
+	10:00-10:30	MPX		ALM D 4815
+	10:30-12:30	TASS
+	13:30-17:30	TASS
+25.3.	09:00-11:00	TASS		Checkin
+	11:00-13:00	MPX		INC2190285 (listing events 88 in tdmsod.so)
+	14:00-16:00	TASS		optim. tsfilter
+	16:00-18:00	MPX		Lieferung MPX 5.0.06.5
+26.3.	09:00-13:00	TASS
+	14:00-18:00	TASS
+27.3.	09:00-09:30	TASS		Koord. mit PER
+	09:30-10:30	DFI		Austausch Laptop
+	10:30-11:00	MPX		Neulieferung 5.0.06.5 (Patch 4 via citrin nicht möglich)
+	11:00-13:00	TASS		
+	14:00-17:30	TASS		
+28.3.	09:00-13:00	TASS
+	13:00-14:00	MPS		Analyse Mail M.Mund
+	14:00-18:30	TASS		1min-Snapshot requests
+
+----- KW 14 -----
+31.3.	08:30-13:00	TASS		Packaging, Test 1 Min. Snapshots
+	13:00-15:30	TASS		Korr. FastCGI Interface
+	15:30-17:30	TASS		Fehlersuche Tick Requests
+	17:30-18:00	Rolotec		Zeiterf.
+1.4.	08:00-12:30	TASS		Optim./Korr. DB-Queries
+	13:00-15:30	TASS
+	15:30-17:30	MPS		Support M.Mund (LSS-TCs)
+2.4.	09:00-09:30	MPS		Support M.Mund (hlsinfo)
+	09:30-10:30	Rolotec		Factsheet f. Tippspiel
+	10:30-12:30	TASS		Optim. DB-Queries (using information_schema)
+	13:30-17:00	TASS		Tests, Checkin
+3.4.	09:00-10:30	Rolotec		Factsheet f. Tippspiel
+	10:30-11:00	Rolotec		Teammeeting
+	11:30-12:30	TASS		Optim. DB-Queries (using information_schema)
+	13:30-15:00	TASS
+	15:00-16:00	DFI		Vorb. Meeting vom Montag
+	16:00-17:00	Rolotec		Portierung Tippspiel -> Raspberry
+4.4.	09:00-10:00	Rolotec		unprod. (Tel. P.Bögli)
+	10:00-11:30	DFI		Vorb. f. Montag
+	11:30-12:00	MPS		INC2201031 (dirty prices)
+	12:30-14:00	Rolotec		unprod. (Tippspiel)
+	14:00-16:00	MPS		Support M.Mund (LSS TCs)
+	16:00-17:30	InfoScreen	start/stop (daemontools)
+
+----- KW 15 -----
+7.4.	07:45-17:15	DFI		Besuch in ZH (MRP, MPS, MPX, TASS)
+8.4.	09:00-09:30	Rolotec		Mails
+	09:30-10:30	MPS		INC2202087
+	10:30-12:30	MPX		CRQ2000484 (Pre-Release 5.0.08)
+	13:30-17:30	MPX		Test Pre-Release 5.0.08 mit MRP 3.1.01
+9.4.	09:00-13:00	MPS
+	14:00-17:30	Helvetia	PoC
+10.4.	08:30-10:30	OBS		INC2206193
+	10:30-13:00	Helvetia
+	14:00-15:00	MRP		ALM D 4871
+	15:00-15:30	MPS		Support Giri (Formula 3,4,5)
+	15:30-17:00	Helvetia
+11.4.	09:00-10:00	Helvetia
+	10:00-10:30	MPS		INC2202087
+	10:30-12:30	MRP		ALM D 4871
+	13:30-17:30	Helvetia
+
+----- KW 16 -----
+14.4.	09:00-10:00	MRP		ALM D 4871
+	10:00-10:30	MPX		INC2211187
+	10:30-11:30	Helvetia
+	13:30-14:30	TASS		Erw. editConfig (FILTERLANES)
+	14:30-15:30	TASS		Preisdarstellung als TPF1::Prl
+	15:30-18:30	Helvetia
+15.4.	09:00-09:30	MPX		Support M. Cecchet (Problem nach dcsrp Restart)
+	09:30-10:00	OBS		INC2206193
+	10:00-12:00	Helvetia
+	12:30-14:00	Helvetia
+	14:00-17:30	TASS		vereinfachte Version v. TPF1::Prl ohne RCL
+16.4.	08:30-11:30	TASS		Tests auf tass4, Abgleich mit Prod.
+	12:30-18:00	TASS
+17.4.	09:00-11:00	MPX		Update Spez. (CRQ2000484)
+	11:00-11:30	Rolotec		Teammeeting
+	11:30-16:00	Helvetia
+	16:00-16:30	Rolotec		Zeiterf.
+18.4.	(Karfreitag)
+
+----- KW 17 -----
+21.4.	(Ostermontag)
+22.4.	08:00-13:00	MPX		INC2203753
+	14:00-17:30	InfoScreen	Integr. Tippspiel
+23.4.	08:00-11:00	(privat)
+	11:00-12:30	MPX
+	13:30-17:30	MPX		Tests & Doc.
+24.4.	09:00-11:00	MRP		ALM D 4850
+	11:00-13:00	MPX
+	14:00-17:00	OBS		CRQ2002974
+25.4.	08:30-12:30	MPX		Release 5.0.08
+	14:30-16:30	MPX
+	16:30-17:30	InfoScreen
+
+----- KW 18 -----
+28.4.	09:00-09:30	Rolotec		Maintenance Arbeitsplatz (SIX Laptop)
+	09:30-11:30	MPS		Review LSS TCs
+	12:30-14:00	MPX		PBI2001874 (TAS15233)
+	14:00-18:00	MRP		Release 3.1.01
+29.4.	09:00-10:00	MRP		autom. Release-Build mit Mailversand & Archivierung
+	10:00-11:30	MPX		PBI2001874
+	13:00-19:00	MPX		Neulieferung Release 5.0.08
+30.4.	09:00-10:30	OBS		CRQ2008399
+	10:30-12:30	MPS		LSS TCs
+	(abwesend)
+	13:30-15:00	MPX		Release-Ablage, Support RZE
+	15:00-17:30	InfoScreen	Betgame DB-Backup/Restore
+1.5.	09:00-10:00	Rolotec		Zeiterf.
+	10:00-11:00	OBS
+	11:00-11:30	Rolotec		Teammeeting
+	11:30-12:30	OBS		CRQ2002974
+	13:30-17:30	InfoScreen
+2.5.	08:30-11:30	OBS		CRQ2002974
+	11:30-12:30	OBS		CRQ2008399
+	13:00-15:00	OBS
+	15:00-17:00	InfoScreen
+	
+----- KW 19 -----
+5.5.	08:00-10:00	InfoScreen	DB-Migration (Prod -> Integr)
+	10:00-11:30	OBS		CRQ2008399 (Patch f. 3.0.03)
+	12:30-13:30	MPS		Support M.Mund (Review LSS TC-134)
+	13:30-17:30	OBS
+6.5.	08:00-10:00	OBS
+	10:00-11:00	MFCS		Kickoff Refactoring
+	11:00-12:00	iD		Kickoff iD 8.9 & Lessons Learned
+	12:00-13:00	OBS
+	14:00-17:30	OBS
+7.5.	09:00-13:00	OBS
+	14:00-15:00	OBS		Release 3.0.03-p5
+	(abwesend)
+	16:00-17:00	QA-Tools
+8.5.	09:00-13:00	iD		MFC-Refactoring (Analyse NoSQL)
+	14:00-17:30	iD
+9.5.	09:00-13:00	QA-Tools	optim. dcsgen/mdfgen
+	14:00-17:00	iD		STID-103
+	17:00-17:30	DFI		Mail wg. TDM EOD Konfig. (Vuerich/Gähler)
+
+----- KW 20 -----
+12.5.	09:00-11:30	OBS		Test CRQ2002974, merge all CRQs into trunk (3.0.03)
+	11:30-12:30	iD		MFC
+	13:30-14:30	MPX		Lösungsvorschlag f. EOD/Last logging
+	14:30-17:30	MFC
+13.5.	09:00-10:30	OBS		CRQ2002974 (Test)
+	10:30-12:30	MFC		Intro 2 (MC, MN)
+	13:00-17:00	MFC		Code Review
+14.5.	08:30-09:30	OBS		CRQ2008399 (Mail A.Keller)
+	09:30-11:30	MPX		Release 5.0.08
+	12:30-13:30	MPX		Lieferung, Ablage
+	13:30-16:00	MFC
+15.5.	09:00-12:30	OBS		CRQ2008399
+	13:30-17:30	OBS
+16.5.	09:00-10:30	OBS		Support A.Keller (obsdump)
+	10:30-11:00	MPX		Request 2310
+	11:00-13:00	Rolotec
+	13:30-17:30	Rolotec
+
+----- KW 21 -----
+19.5.	09:00-11:30	MFC		Code Review
+	12:30-18:00	RCL		verb. CMake Integr.
+20.5.	09:00-12:30	RCL
+	13:30-17:30	RCL		Unittests f. ListManager
+21.5.	08:30-09:00	DFI		Breakfast Info
+	09:00-13:00	RCL
+	14:00-17:30	RCL		autom. Release Builds
+22.5.	09:00-09:30	RCL
+	09:30-12:00	MFC		Intro 3
+	(Jubiläumsessen)
+	14:00-17:30	MFC
+23.5.	09:00-12:30	RCL
+	13:00-17:30	RCL
+
+----- KW 22 -----
+26.5.	09:30-13:00	RCL		autom. Release-Build
+	14:00-17:30	RCL
+27.5.	09:00-11:30	MPX		RCL 1.6.00, MRP API 3.1.01
+	11:30-12:00	TASS		RCL update
+	13:00-17:00	MFC
+28.5.	09:00-12:00	MFC		Erf. neuer VDPS Felder
+	12:00-12:30	OBS		Vorb. Telco
+	14:00-15:00	MFC
+	15:00-15:30	DFI		weekly call
+	15:30-17:30	DFI		Kontrolle CRQs (ITSM)
+29.5.	(Auffahrt)
+30.5.	08:00-09:00	OBS		CRQ2008399 (0-values with empty HLS)
+	09:00-10:00	DFI		Mail M.Vuerich wg. pendenten CRQs
+	10:00-11:00	MFC		BER En-/Decoding
+	11:00-11:30	Rolotec		Teammeeting
+	14:00-15:00	OBS		CRQ2008399
+	15:00-17:00	MFC
+	17:00-17:30	Rolotec		Zeiterf.
+	17:30-18:30	MFC		Initial Load (MC)
+
+----- KW 23 -----
+2.6.	09:00-11:00	OBS		Release 3.0.03-p6 (CRQ2008399)
+	11:00-13:00	MFC		Refactoring
+	14:00-18:00	MFC
+3.6.	09:00-11:00	OBS		0-values & range errors
+	11:00-12:00	MPX		INC2249880 (Tel. Reza)
+	12:00-12:30	MFC
+	13:30-15:00	MFC
+	15:00-15:30	DFI		Weekly call
+	15:30-16:30	MFC		ALM R 45101
+	16:30-17:00	MFC		Refactoring
+4.6.	09:00-13:00	OBS		CRQ2008432, INC2202087
+	14:00-15:00	MPS		Abkl. wg. erw. Pf (T-Check)
+	15:00-15:30	OBS		CRQ2008432 (Tel. Reza)
+	15:30-16:00	TASS		Support PER (Packaging)
+	16:00-19:30	MFC
+5.6.	09:00-10:00	MPX		INC2249880
+	10:00-13:00	TASS		autom. Release-Build
+	14:00-15:00	OBS
+	15:00-19:30	MFC
+6.6.	09:00-13:00	MFC
+	14:00-14:30	MPX		Abkl. wg. ang. Fehler in TPF1::Prl (MPX6 Release Notes)
+	14:30-15:00	DFI		INC2250236 (buyer/seller splitting)
+	15:00-17:30	MFC
+
+----- KW 24 -----
+9.6.	(Pfingstmontag)
+10.6.	08:00-13:00	MFC
+	14:00-15:00	RCL		Kontrolle TPF1::Prl
+	15:00-15:30	DFI		Telco
+	15:30-16:00	OBS		Abkl. wg. Versand von BBid/Ask/Trades an HPS
+	16:00-16:30	MPX		Support P. Kubinec (LD_LIBRARY_PATH)
+	16:30-18:00	MFC
+11.6.	08:00-09:00	TASS		Anp. CMake requirement, Test tsreq (tass5)
+	09:00-13:00	MFC
+	14:00-16:00	MFC
+	16:00-17:00	OBS		INC2261475 (CRQ2008432)
+12.6.	09:00-09:30	OBS
+	09:30-10:30	MFC
+	10:30-11:30	OBS
+	11:30-12:30	MFC
+	13:00-17:00	MFC
+13.6.	07:00-11:00	OBS		CRQ2008399 (OBS Module 3.0.03-p7)
+	11:00-11:30	Rolotec		Teammeeting
+	11:30-12:30	OBS		INC2261475 (Mail Maria Koefer)
+	12:30-13:00	OBS		Merge CRQ2008399 -> trunk
+	14:00-15:30	MFC
+	15:30-17:00	LSEG		Kickoff mit MHA & MC
+
+----- KW 25 -----
+16.7.	07:30-09:30	MFC
+	09:30-10:00	OBS		Tel. Vladi wg. Patch 7 (obs.cfg sollte Template sein)
+	10:00-13:00	MFC
+	14:00-18:00	MFC
+17.7.	09:00-10:00	MFC		Beschr. Refactoring Optionen
+	10:00-12:30	PEP		Einarb. SWIFT-Parser
+	13:30-17:30	PEP
+18.6.	08:00-11:30	OBS		CRQ2008432 (ICE BC786)
+	11:30-12:30	PEP
+	14:00-18:00	PEP		Install local PEP-Server
+19.6.	09:00-10:00	OBS		Release 3.0.03, Patch 8 (BCs 166, 786, 1328)
+	10:00-11:00	OBS		CRQ2012023
+	11:00-12:30	PEP
+	13:30-18:00	PEP
+20.6.	09:00-13:00	PEP
+	14:00-18:00	PEP
+
+----- KW 26 -----
+23.6.	09:00-12:30	PEP		Mails, Spec SWIFT-Parsing
+	13:30-18:00	PEP
+24.6.	09:00-10:00	TASS		Support PER (Tagging & Release Building)
+	10:00-13:00	MFC		Checkin
+	14:00-16:00	MFC		Minor corrections
+	16:00-18:00	PEP
+25.6.	08:00-09:00	PEP
+	09:00-09:30	DFI		Weekly call
+	09:30-13:00	PEP
+	14:00-16:00	PEP
+	16:00-18:00	OBS		Release 3.0.03, Patch 9 (CRQ2012023)
+26.6.	08:00-09:30	PEP
+	09:30-11:00	MFC		Bespr. Refactoring
+	11:00-11:30	Rolotec		Teammeeting
+	11:30-12:30	PEP		Vorb. SIS WS
+	13:30-18:00	PEP		SIS (Olten)
+27.7.	09:00-10:00	PEP		Update Specs gem. WS
+	10:00-12:30	MFC		Bespr. MC
+	13:30-16:30	MFC
+	16:30-18:00	OBS		Support M.Zemp (BK-Vergabe)
+
+----- KW 27 -----
+30.6.	09:00-10:30	PEP		Analyse Requirements
+	10:30-11:00	ELIAS		Abkl. Supportoptionen
+	11:00-12:30	PEP		Mail Srini
+	13:30-14:00	Rolotec		Zeiterf. (KW23)
+	14:00-14:30	OBS		INC2269092
+	14:30-17:30	PEP
+	17:30-18:00	Rolotec		Zeiterf.
+1.7.	07:30-08:00	Rolotec		Mailablage (Postfach voll)
+	08:00-09:00	PEP
+	09:00-11:30	Rolotec		Biannual Info Meeting YVO
+	11:30-12:30	PEP
+	13:30-14:30	Rolotec		Mailman (rcl-announce)
+	14:30-15:30	DFI		weekly call, Mails, ALM, ITSM
+	15:30-18:00	PEP
+2.7.	09:00-12:00	PEP
+	12:00-12:30	DFI		Bespr. Handover-WS
+	13:30-14:30	PEP
+	14:30-15:30	DFI		Vorb. Handover-WS
+	15:30-16:30	OBS		INC2270549
+	16:30-18:00	PEP
+3.7.	08:00-10:30	MFC		Bespr. 3rd-Level Support
+	10:30-11:30	LSEG		Kickoff mit Deniz
+	11:30-12:30	MFC
+	13:30-17:30	MFC		Handover MC, Merge Refactoring Branch
+4.7.	09:00-12:30	OBS		Release 3.3.02-p2 (INC2269092, BC116)
+	13:00-13:30	OBS		DevWiki update
+	13:30-15:30	OBS		CRQ2009792
+	15:30-18:00	PEP
+
+----- KW 28 -----
+7.7.	09:00-11:30	PEP
+	11:30-12:00	OBS		CRQ2009792 (Mails)
+	12:00-13:00	MFC		QA-Problem mit Initialload (STID-195)
+	14:00-16:30	MFC
+	16:30-18:00	PEP
+8.7.	08:30-09:30	MFC		QA-Support
+	09:30-12:30	OBS		CRQ2009792 (Implementation)
+	13:30-18:00	OBS
+9.7.	09:00-12:00	PEP
+	12:00-13:00	RefCalc		Support EHA (CPack)
+	14:00-18:00	PEP
+10.7.	09:00-09:30	MFC		Koordination mit B+S
+	09:30-12:30	PEP
+	13:30-14:30	OBS		Test CRQ2009792
+	14:30-17:30	PEP
+11.7.	09:00-12:30	OBS		Release 3.3.02-p3 (CRQ2009792)
+	13:30-17:30	PEP
+
+----- KW 29 -----
+14.7.	09:00-13:00	PEP		Dok.
+	14:00-17:30	PEP
+15.7.	09:00-13:00	PEP		SWIFT Parser Release 1.0
+	14:00-18:00	MPX		INC2255391 (optim. Symbolhashing)
+16.7.	09:00-11:00	PEP		Source-Ablage, DevWiki
+	11:00-12:30	MPX
+	13:30-18:00	MPX		Tests
+17.7.	07:00-09:00	Rolotec		Install. clang-analyzer
+	09:00-10:30	MFC		Koord. 3rd-Level Support mit B+S
+	10:30-12:30	MPX
+	13:30-15:00	MPX		Lieferung (Pre-)Release 5.0.09
+	15:00-18:00	PEP		SWIFT Parser Release 1.1
+18.7.	07:00-08:00	MPX		US-Support (Tel. Reza, EOE-Symbole auf BC 8 werden nicht gefunden)
+	08:00-11:00	PEP		Ablage, DevWiki, Support Srini
+	11:00-12:30	MFC		Refactoring (statische Codeanalyse)
+	13:30-14:00	Rolotec		Zeiterf.
+	14:00-18:00	PEP		Merge split words, strip extra chars
+
+----- KW 30 -----
+21.7.	09:00-09:30	MFC		Fehleranalyse
+	09:30-12:30	PEP
+	13:30-18:00	MFC		Refactoring (Client API)
+22.7.	09:00-12:30	MFC
+	13:30-15:00	MFC
+	15:00-16:00	DFI		weekly call, INC2299008
+	16:00-17:30	MFC
+23.7.	09:00-13:30	DFI		Vorb. Handover-WS
+	14:30-17:30	DFI
+24.7.	09:00-12:00	DFI		Handover-WS
+	13:00-17:00	DFI
+	17:00-18:00	PEP		Mails
+25.7.	09:00-10:00	TASS		Fehler in tsfilter
+	10:00-10:30	PEP		Server-Wartung, Mails
+	10:30-13:00	TASS		
+	14:00-18:00	TASS
+	
+----- KW 31 -----
+28.7.	09:00-13:00	MRP		Jira MRP-1 (skip T-error values)
+	14:00-14:30	OBS		Abkl. autom. Listingeröff. (Tel. Nico)
+	14:30-17:00	MRP		Release 3.1.02
+	17:00-17:30	PEP		Tests mit privater Blacklist
+29.7.	09:00-13:00	MPX		CRQ2000484
+	13:00-18:00	MPX
+30.7.	09:00-13:00	PEP		Bespr. weiteres Vorgehen, Mail Srini/Subbu
+	13:30-15:30	OBS		US-Support (Tel. Reza)
+	15:30-18:00	VDPS		Installation + IL (MC)
+31.7.	09:00-11:00	OBS		Release 3.0.03-p10 (CRQ2012023)
+	11:00-13:00	PEP		Server-Wartung, Tests
+	13:30-16:00	MPX		BC3127-Problem mit Rel. 5.0.08
+	16:00-17:00	MFC		Handover MC
+	17:00-18:00	Rolotec		Zeiterf.
+
+----- KW 32 -----
+4.8.	09:00-10:00	PEP		Problem mit zu langen Requests
+	10:00-13:00	MFC		Problem mpzhlmfcs04
+	14:00-16:00	MPX		"verklemmte" HLS mit MPX 5.0.08
+	16:30-18:30	OBS		CRQ2009792 (Face Value f. MOEX)
+5.8.	09:00-10:00	TASS		Fehler in tsfilter
+	10:00-13:00	PEP		SWIFT Parser 1.2 (request splitting)
+	14:00-15:00	OBS		CRQ2010789 (L2 BKs)
+	15:00-16:00	MPX		Test 5.0.08 (Tokyo VAS144)
+	16:00-17:00	OBS		Vorb. Release 3.0.03p10
+	17:00-19:30	OBS		Update active Branches
+6.8.	09:00-11:30	PEP		Server update
+	11:30-13:00	MPX		Retest Tokyo mit 5.0.08
+	14:00-14:30	OBS		Lieferung Release 3.0.03p10
+	14:30-17:00	OBS		Update Dok.
+	17:00-17:30	TASS		Korr. message forwarding to filter threads
+	17:30-18:00	MFC
+7.8.	09:00-13:00	MPX		FW 5.0.08 "verliert" Meldungen mit VAS 144
+	13:30-17:00	MPX
+	17:00-18:00	TASS		Test verb. Snapshot-Formatierung
+8.8.	09:00-11:30	OBS		Neulieferung Release 3.3.02p3
+	11:30-13:00	MPX		Debug 5.0.08 PDM
+	14:00-17:30	MPX
+	17:30-18:00	Rolotec		Zeiterf.
+
+----- KW 33 -----
+11.8.	09:00-12:00	MPX		Retest TOKYO
+	12:00-13:00	RCL		Crash wg. Worker-Map in iD CS (hiku, NLE)
+	14:00-18:00	MPX
+12.8.	09:00-11:00	RCL		Vorb. 1.6.01
+	11:00-13:00	MPX		Korr. MDF output handling
+	14:00-14:30	RCL
+	14:30-17:30	MFC		Review PoC (MN)
+	17:30-18:30	MPX		Dok.
+13.8.	09:00-13:00	MPX		Checkin, Merging
+	14:00-14:30	Rolotec		Support EHA (Hashtable memory leak)
+	14:30-18:30	MPX		Korr. suspend/resume source
+14.8.	07:30-08:30	MPX		Test
+	08:30-09:00	OBS		Mail M.Cecchet wg. Fehlern nach SP3-Upgrade
+	09:00-10:00	MFC		weekly B+S meeting
+	10:00-11:00	MPS		Abkl. wg. fehlenden Simple Bid/Ask (Mail H.Lumpi)
+	11:00-12:00	PEP		Server-Wartung (Out of heap memory), Mails
+	12:00-13:00	MPX		Test 5.0.09
+	14:00-17:00	TASS		Neulieferung 4.0.01 (Iteration 5)
+15.8.	09:00-10:00	MPX		CRQ2000690 (mdmstd.so 5.0.09)
+	10:00-12:30	MFC		Know-How Elastic Search Push
+	13:30-15:00	RCL		Probleme mit statischer Initialisierung
+	15:00-16:00	MPS		fehlende Simple Bid/Ask Yield (H.Lumpi)
+	16:00-17:30	RCL
+
+----- KW 34 -----
+18.8.	09:00-11:00	MPX		Lieferung Release 5.0.09
+	11:00-12:30	RCL
+	14:00-15:00	RCL
+	15:00-18:00	OBS		Vorb. CME-Patch (CRQ2011875)
+19.8.	09:00-11:30	OBS		Release 3.0.03-p11 (CRQ2011875)
+	11:30-12:30	RCL		Pre-Release 1.6.01 f. apiD & RefCalc
+	13:30-15:00	Rolotec		Update Jenkins, Mail RCL Pre-Release 1.6.01
+	15:00-15:30	DGI		Planung Handover, Anfrage U.Hess wg. OBS-Migration HPS-Feeds
+	15:30-18:30	MFC
+20.8.	09:00-12:30	MFC
+	13:00-19:00	MFC
+21.8.	09:00-11:00	MFC
+	11:00-11:30	Rolotec		Team-Meeting
+	11:30-12:00	MPX		Tel. Reza (CRQ2012976)
+	12:00-13:00	MPX		CRQ2012976
+	14:00-16:00	MPX
+	16:00-16:30	MPS		Support R.Eng (SVN-Export)
+	16:30-18:30	MFC
+22.8.	09:00-10:00	PEP		Mail Srini/MHA wg. aktueller Mängel
+	10:00-11:00	MFC
+	11:00-13:00	MPX		CRQ2012976 (mapping HPS comp. elem. in Liflex corrections)
+	14:00-16:00	MPX
+	16:00-18:30	MFC		emulate legacy dump format
+
+----- KW 35 -----
+25.8.	09:00-12:30	MFC		unified client API
+	12:30-13:00	OBS		CRQ2008435/2008436 (ICE BC 810 & 1331)
+	14:00-16:00	MFC
+	16:00-18:30	MPX		Release 5.0.09, Iteration 4
+26.8.	09:00-10:30	RCL		Release 1.6.01
+	10:30-12:30	MFC		Bespr. Refactoring-Varianten
+	13:30-18:30	MFC		Fertigstellung unified client API
+27.8.	09:00-10:30	MFC2		Vorb. CMake f. MFC2
+	10:30-11:30	iD		Support NLE (iCS crash)
+	11:30-13:00	MFC2
+	14:00-15:00	RCL		Rebuild release 1.6.01
+	15:00-16:00	MFC2
+	16:00-17:30	OBS		Release 3.0.03-p12
+	17:30-18:00	MPX		Support R.Eng (unknown symbol in shared modules)
+28.8.	09:00-10:15	Rolotec		MFC Koord. mit B+S
+	10:15-11:00	PEP		Update Wiki, Kontrolle SIS-Server
+	11:00-13:00	MFC2
+	14:00-19:00	MFC		Checkin Refactoring Changes, Phase II
+29.8.	09:00-09:30	OBS		CRQ2011875
+	09:30-13:00	MFC2
+	14:00-17:30	MFC2
+	17:30-18:00	Rolotec		Zeiterf.
+
+----- KW 36 -----
+1.9.	09:00-10:30	Rolotec		Mail-Ablage, DevWiki update
+	10:30-11:15	MFC2		Integr. doxygen
+	11:15-12:30	MFC2		Bespr. Klassendesign (MN, MC)
+	12:30-13:00	MFC2		Update CMake, Aktivierung XLog2
+	14:00-16:30	MFC2
+	16:30-17:30	MFC2		Jenkins Job f. hourly builds (disk full)
+2.9.	09:00-12:30	MFC2
+	14:00-15:00	PEP
+	15:00-15:30	DFI		weekly call
+	15:30-17:00	MPS		INC2332032 (missing performance figures for BC 361)
+	17:00-18:30	MPS		INC2332691 (inconsistent apiD responses)
+3.9.	09:00-09:30	TASS		PoC Behebung Precision-"Fehler"
+	09:30-11:00	MPS		INC2332032
+	11:00-11:30	TASS		Bespr. mit YVO & PER wg. Support
+	11:30-12:30	DFI		INC2332691
+	12:30-14:00	MPS		Vorb. Handover R.Eng
+	14:00-15:30	(abwesend)
+	15:30-16:00	MPX		ALM D 5303
+	16:00-19:30	MFC2
+4.9.	09:00-11:00	MFC2
+	11:00-11:30	Rolotec		Team-Meeting
+	11:30-12:30	MFC2
+	14:00-16:00	MFC2		Setup dom als Development Server
+	16:00-17:30	OBS		CRQ2011875
+	17:30-18:00	PEP
+	18:00-19:30	MFC2
+5.9.	09:00-10:30	OBS		Neulieferung 3.0.03-p11 (CRQ2011875)
+	10:30-13:00	MFC2		Vorb. Unittest, Review Jira
+	14:00-16:00	OBS		Release 3.3.02-p4 (CRQ2010789)
+	16:00-17:30	MFC2
+
+----- KW 37 -----
+8.9.	09:00-11:30	OBS		Release 3.3.02-p5 (SOS, CRQ2009792)
+	11:30-13:00	MFC2		Operation & QA Tools
+	14:00-18:30	MFC2		
+9.9.	09:00-11:00	MPS		Vorb. Handover (Zugriff mdzhlrtds07, SVN Export)
+	11:00-13:00	MFC2		Checkin
+	14:00-15:00	MFC2
+	15:00-15:30	DGI		weekly call
+	15:30-18:30	MFC2		Sprint-Planung
+10.9.	09:00-10:30	MFC2		Build-Job, Checkin, Requirements Analyse
+	10:30-13:00	OBS		INC2342195 (CRQ2009792)
+	14:00-18:00	OBS		Release 3.3.02-p6
+	18:00-18:30	MPX		Support M.Cecchet (core auf mpstlmpx03)
+11.9.	09:00-09:30	OBS		Update Feed-Spez.
+	09:30-10:00	OBS		msgmgr-Problem (unknown symbol)
+	10:00-11:00	MFC2		Standup
+	11:00-13:00	OBS		Neulieferung 3.3.02-p6 (SOS, inkl. CRQ2010789)
+	14:00-18:00	MFC2		XMFC-26
+12.9.	08:30-13:00	MFC2
+	13:30-18:00	MFC2
+
+----- KW 38 -----
+15.9.	09:30-10:30	TASS		Test TPF1::Prl calculations
+	10:30-13:00	MFC2
+	14:00-15:30	MPX		PBI2002373
+	15:30-17:00	MPX		QA-Support (Mail/Lync M.Wenzel wg. Swapping)
+	17:00-17:30	DGI		INC2337903 (fehlende Listing Events in TKiD)
+	17:30-19:00	MFC2
+16.9.	09:00-13:00	MFC2
+	14:00-15:00	MFC2		Enabling CxxTest on cs-dev-03
+	15:00-15:30	DGI		weekly call
+	15:30-19:00	MFC2
+17.9.	07:30-13:00	MPS		Handover R. Eng
+	14:00-16:00	MPS
+	16:00-16:30	Rolotec		Zeiterf.
+	16:30-17:00	PEP		Restart dps.pepcheck.info, Mail wg. neuer Version
+	17:00-18:30	MFC2
+18.9.	09:00-09:30	Rolotec		Mailcheck
+	09:30-10:00	PEP		Upgrade mb-06
+	10:00-10:15	MFC2		Standup mit MC
+	10:15-10:30	OBS		Tel. Vladi wg. Handover
+	10:30-11:00	MPX		Analyse Rundungsfehler in 5.0.09
+	11:00-13:00	PEP		Upgrade dps.pepcheck.info
+	13:30-16:00	MPX
+	16:00-16:30	Rolotec		Team-Meeting
+	16:30-19:00	MFC2
+19.9.	09:00-13:00	RCL		Verb. TPF1::Prl-Arithmetik, erw. Unittests
+	14:00-16:00	MPX		Mail Reza wg. Rundungsproblem (Workaround)
+	16:00-19:00	MFC2
+
+----- KW 39 -----
+22.9.	09:00-09:30	MPX		Koord. mit Reza
+	09:30-10:30	MPS		Mail-Support R. Eng
+	10:30-11:30	Rolotec		Migration RCL Build mb-03 => sjbuilder
+	11:30-12:30	MFC2
+	12:30-13:00	Rolotec		MA-Umfrage
+	14:00-19:00	MFC2
+23.9.	09:00-13:00	MFC2
+	14:00-17:30	MPX		Rebuild Release 5.0.09 mit RCL 1.5.14
+	17:30-18:00	PEP		Fehlermeldung A.Egner ("Failed to save search result. Search Input (customer name) length out of range")
+24.9.	09:00-12:30	OBS		Handover Vladi
+	13:30-17:30	OBS
+	17:30-18:30	MFC2
+25.9.	09:00-09:30	MPS		Mail-Support R.Eng
+	09:30-13:30	OBS		CRQ2013102 (HKEx, BC 1333)
+	14:00-19:00	OBS
+26.9.	09:00-11:00	OBS		Release 3.3.03 (CRQ2013102 ohne Colombo-Patch)
+	11:00-13:00	OBS		Release 3.3.03-p1 (Colombo-Patch)
+	14:00-16:00	iD		INC2337903
+	16:00-17:30	iD		INC2308993
+
+----- KW 40 -----
+29.9.	09:00-12:30	iD		INC2308993
+	13:30-14:30	Rolotec		Vorb. DGI-Workshop
+	14:30-19:30	MFC2
+30.9.	09:00-10:00	OBS		Neulieferung Release 3.3.03 mit SuppressBestSize=false f. BC 1143 & 1333
+	10:00-12:30	MFC2
+	13:30-18:00	MFC2
+	18:00-18:30	Rolotec		Zeiterf.
+1.10.	08:00-12:00	DGI		Workshop
+	13:00-19:00	MFC2
+2.10.	09:00-11:00	PEP		Vorb. Meeting ZH
+	11:00-11:30	DCSRP		Vorb. Handover
+	11:30-16:30	PEP		Meeting SIS
+	16:30-18:30	MFC2
+3.10.	09:00-13:30	PEP		Erw. SWIFT-Parser (Customer ID, Checked Content)
+	14:30-19:00	MFC2
+
+----- KW 41 -----
+6.10.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-11:30	MFC2
+	11:30-12:30	PEP
+	13:30-15:00	PEP
+	15:00-16:30	iD		Wartung MFC (QA-Analyse U. Neukom)
+	16:30-18:00	PEP		Test Server Release 3.3.1-4337
+	18:00-18:30	PEP		Mail Srini
+7.10.	09:00-10:00	DFI		Zus.stellung DEV-Tools f. MRP
+	10:00-10:30	MPX		Org. Handover mit Reza
+	10:30-12:30	iD		Analyse Rating-Symbole
+	13:30-15:00	iD
+	15:00-17:30	MPX		Release 5.0.00, Patch 8 (SOS, Bug6894)
+	17:30-18:00	iD		Schlussbericht Rating-Analyse
+8.10.	09:00-10:00	PEP		Freigabe Release 3.3.1
+	10:00-11:00	(abwesend, Nid)
+	11:00-13:00	MPX		Build Release 5.0.09 (INC2337903)
+	14:00-14:30	MFC2		Download VDKINI-Files KW41
+	14:30-15:00	Rolotec		PC Update
+	15:00-18:30	PEP
+9.10.	09:00-12:30	MFC2		XMFC-26
+	13:30-18:00	MFC2		Update dom (rpm)
+10.10.	07:30-09:00	MFC2		XMFC-26
+	09:00-10:30	(frei)
+	10:30-12:30	DFI		SLES11, SP3 -> mb-03
+	13:30-19:00	MFC2		mfcinit
+
+----- KW 42 -----
+13.10.	09:00-09:30	DFI		PWD-Change
+	09:30-13:00	DCSRP		Release 2.2.1_2 (SLES11, SP3)
+	14:00-19:00	MFC2		mfcinit mit libcurl
+14.10.	09:00-10:00	PEP		Test Customer-ID
+	10:00-13:00	MFC2		XMFC-26
+	14:00-19:00	MFC2
+15.10.	09:00-12:30	OBS		Handover Vladi
+	13:30-15:30	OBS
+	15:30-16:00	MFC		Abkl. wg. ALM D 3628
+	16:00-18:30	PEP		Release SWIFT-Parser 1.3
+16.10.	09:00-11:00	RCL		Release 1.6.02 f. SLES11, SP3
+	11:00-12:00	Rolotec		Team-Meeting
+	12:00-13:00	RCL
+	14:00-14:30	PEP		Handover Eduardo
+	14:30-19:00	MPX		Release 5.0.10 (SLES11, SP3)
+17.10.	09:00-13:00	MFC2		Handover MC
+	14:00-15:00	DGI		Support ENR (DCSRP), BCI (MPX)
+	15:00-17:00	MFC2		Checkin
+	17:00-17:30	Rolotec		Zeiterf.
+
+----- KW 43 -----
+20.10.-24.10.	(Ferien)
+
+----- KW 44 -----
+27.10.-31.10.	(Ferien)
+
+----- KW 45 -----
+3.11.-7.11.	(Ferien)
+
+----- KW 46 -----
+10.11.	09:00-09:30	Rolotec		Mails
+	09:30-10:00	Rolotec		CMake-/SVN-Upgrade cs-dev-03
+	10:00-10:15	Rolotec		Bespr. MN wg. RCL Stunden
+	10:15-12:00	MFC2		Statusmeeting MN/MC
+	12:00-13:00	MFC2		Update, Analyse Differenzen
+	13:30-15:00	MFC2		Restore autom. Builds
+	15:00-18:30	PEP		Dok. update (Projektabschluss)
+	18:30-19:30	MFC2		Test Initialload
+11.11.	07:00-10:00	MFC2		Erw. mfcinit (directory list)
+	10:00-12:30	OBS		CRQ2008439 (Lieferung 3.0.03-p13)
+	13:30-14:00	OBS		Support Vladi wg. Colombo pre-open status
+	14:00-16:00	MFC2		$$$CLEARDATA mapping (mit MC)
+	16:00-17:00	OBS		CRQ2008439 (Vorb. 3.3.03-p2)
+	17:00-20:00	MFC2
+12.11.	09:00-13:00	DGI		MPX Handover (Reza)
+	14:00-16:30	DGI		DCSRP Handover
+	16:30-19:30	MFC2		mfcinit mit Retriever-API
+13.11.	09:00-11:00	MFC2
+	11:00-11:30	Rolotec		Team-Meeting
+	11:30-13:00	MFC2
+	14:00-15:30	OBS		Neulieferung 3.0.03-p13
+	15:30-18:30	OBS		Merge 3.3.03 & trunk, Mail f. Vladi
+14.11.	09:00-13:00	MFC2		XMFC-18
+	14:00-19:30	MFC2
+
+----- KW 47 -----
+17.11.	09:00-11:00	MFC2		XMFC-18
+	11:00-12:00	TASS		Lieferung 4.0.02 sources (L.Alsina)
+	12:00-13:00	MFC2
+	13:30-18:00	MFC2
+18.11.	07:30-13:30	MFC2
+	(14:00-15:00	S.Renker)
+	15:00-19:30	MFC2
+19.11.	08:00-13:00	OBS		ZH: Support Vladi (Listing Locks)
+	14:00-17:00	OBS
+	17:00-18:00	MFC2
+20.11.	09:00-13:00	MFC2
+	14:00-20:00	MFC2		Abschluss Sprint 1
+21.11.	09:00-11:30	MFC2
+	11:30-12:00	OBS		Tel.-Support VLadi
+	12:00-13:00	MFC2
+	14:00-17:30	MFC2		Vorb. Sprint 2
+	(17:30 - Team Event)
+
+----- KW 48 -----
+24.11.	09:00-13:00	MFC2		Start Sprint 2
+	14:00-19:30	MFC2
+25.11.	09:00-12:30	MFC2
+	13:30-18:30	MFC2
+26.11.	09:00-13:00	MFC2
+	14:00-15:00	MRP		Bespr. verb. Tracefileauswertung (DIM, ES, PER)
+	15:00-20:30	MFC2
+27.11.	08:00-11:00	MFC2
+	11:00-11:30	Rolotec		Team-Meeting
+	11:30-13:00	MFC2
+	14:00-19:30	MFC2
+28.11.	06:30-12:00	MFC2
+	(12:00-14:00 - Aarberg)
+	14:00-19:00	MFC2
+	19:00-19:30	Rolotec		Zeiterf.
+	
+----- KW 49 -----
+1.12.	09:00-13:00	MFC2
+	14:00-16:30	MFC2
+	16:30-17:00	DGI		Support Nico (MPX SVN-URL), Vladi (OBS-Konfig.)
+	17:00-18:30	MFC2
+2.12.	08:30-09:00	Rolotec		Infomeeting JB
+	09:00-13:00	MFC2		Datentests (ABB)
+	14:00-20:00	MFC2
+3.12.	09:00-10:00	MFC2
+	10:00-13:00	DCSRP		PBI2002284 (Telco, Analyse, SW-Patch)
+	14:00-16:00	DCSRP
+	16:00-16:30	MRP		Anfrage Rolf wg. Display-Filter pro BC (Schweden)
+	16:30-18:30	DCSRP
+4.12.	09:00-10:00	MFC2		Metadata Tables
+	10:00-12:45	MPX		INC2420136
+	13:30-14:00	MPX
+	14:00-15:00	Rolotec		Bi-annual developer info (YVO)
+	15:00-15:30	DCSRP		Checkin
+	15:30-20:00	MFC2
+5.12.	09:00-13:00	MFC2
+	14:00-18:30	MFC2
+	18:30-19:30	MRP		Mail YVO (Erw. Logging & Tracing)
+
+----- KW 50 -----
+8.12.	09:00-12:30	MFC2		Test Deltaload
+	13:30-20:00	MFC2
+9.12.	08:30-13:00	MFC2		Refactoring Deltaload
+	14:00-20:00	MFC2
+10.12.	09:00-13:00	MFC2
+	14:00-15:00	DCSRP		Support Reza (Lieferung Release 2.3.0)
+	15:00-19:30	MFC2
+11.12.	09:00-13:00	MFC2
+	14:00-16:00	MFC2		Design Importhandling
+	16:00-16:30	Rolotec		Team-Meeting
+	16:30-20:00	MFC2
+12.12.	08:00-12:30	MFC2
+	13:30-20:00	MFC2
+
+----- KW 51 -----
+15.12.	09:00-10:30	MFC2		XMFC-38
+	10:30-11:30	RCL		Bugzillas, Koord.  mit MN
+	11:30-13:00	MFC2
+	14:00-20:00	MFC2
+16.12.	09:00-13:00	MFC2		Sprint 3 (Importhandling
+	14:00-18:30	MFC2
+17.12.	08:30-12:30	MFC2
+	13:30-19:30	MFC2
+18.12.	09:00-11:45	MFC2
+	13:30-14:30	MFC2
+	14:30-17:00	DFI		INC2430865 (100% Dividend Yield f. Vodafone, BC21)
+	17:00-20:00	MFC2
+19.2.	09:00-12:30	MFC2
+	13:30-17:00	MFC2
+	19:00-20:00	MFC2
+
+----- KW 52 -----
+22.12.	09:00-11:00	MFC2
+	11:00-12:00	Rolotec		RFI Sanctions Screening & Transaction Monitoring (MHA)
+	12:00-13:00	MFC2
+	14:00-14:30	MRP		Planung TraceAnalyse-Tool (YVO)
+	14:30-19:30	MFC2
+23.12.	07:30-13:00	MFC2
+	14:00-19:00	MFC2
+24.12.	08:30-13:00	RCL		Release 1.7.00
+	13:00-15:30	MFC2
+	15:30-16:00	Rolotec		Zeiterf.
+
+----- KW 53 -----
+29.12.-31.12.	(Ferien)

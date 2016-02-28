@@ -1,0 +1,851 @@
+----- KW 1 -----
+3.1.	frei
+
+----- KW 2 -----
+6.1.	08:30-09:30	Rolotec		Zeiterfassung
+	09:30-10:30	Shark		smscheck
+	10:30-12:30	Vega		Kontrolle Search-Bugs
+	16:00-18:30	Vega		Beschr. Listing-Search
+7.1.	08:45-09:30	Vega		Beschr. Listing-Search
+	09:30-12:15	Vega		Page-Msg (Listings)
+	13:30-15:00	Vega		Page-Msg (Listings)
+	15:00-17:00	Vega		netcetera-Sitzung
+	17:00-18:30	Vega		Fehlersuche Search
+8.1.	08:45-12:30	Vega		Listing-Search
+	14:00-18:30	Vega		Listing-Search
+9.1.	08:00-12:30	Vega		Page-Msg
+	14:00-18:30	Vega		Page-Msg
+10.1.	08:00-11:45	Vega		Listing-Search
+	13:45-14:15	Vega		Listing-Search
+	16:30-17:00	Shark		Setup agitest (PS)
+	17:00-18:00	Wartung		HIKU-Fehler (Postfinance)
+	
+----- KW 3 -----
+13.1.	09:00-10:30	Wartung		HIKU-Daten
+	10:30-12:30	Vega		Page-Msg
+	14:00-15:00	Wartung		Borsalino (lange Antwortzeiten)
+	15:00-18:30	Vega		Page-Msg (Listings)
+14.1.	08:15-12:15	Vega		Page-Msg (Listings)
+	14:00-18:30	Vega		Page-Msg (Listings)
+15.1.	08:15-12:15	Vega		Page-Msg (Listings)
+	14:15-17:30	Vega		Page-Msg (Listings)
+16.1.	08:00-12:15	Vega		Page-Msg/Search (Test)
+	14:00-14:30	Shark		ARS-Ticket (Goldpreis SBV)
+	14:30-18:00	Vega		Page-Msg/Search (Test)
+17.1.	08:00-12:30	Vega		Page-Msg/Search (Test)
+	14:00-17:30	Vega		Source-Doku.
+
+----- KW 4 -----
+20.1.	08:30-12:30	Vega		Source-Doku.
+	14:00-15:30	Rolotec		Zeiterf.
+	15:30-18:30	Vega		Test
+21.1.	08:30-09:00	Shark		Wartung (AFX-Ausfall)
+	09:00-12:30	Vega		Kontrolle Page-Msg
+	14:00-15:00	Vega		Source-Doku.
+	15:00-16:00	TBFWD		MDF+ Abkl.
+	16:00-18:30	Vega		Page-Id ohne Typ
+22.1.	08:15-12:15	Vega		Debug NUMBER-Search
+	14:00-18:00	Vega		Debug NUMBER-Search
+23.1.	08:00-12:30	Vega		Debug NUMBER-Search
+	14:00-19:00	Vega		Debug NUMBER-Search
+24.1.	07:00-10:30	TKNY		Analyse Config-File
+	10:30-12:30	Vega		Debug NUMBER-Search
+	14:00-17:15	Vega		Debug NUMBER-Search
+
+----- KW 5 -----
+27.1.	08:30-12:30	Vega		Debug Search (DATE)
+	14:00-18:00	Vega		Debug Search (DATE)
+28.1.	08:00-11:00	Shark		Limit Minder
+	11:00-12:00	Vega		Contrib. Pages (Mails)
+	13:30-18:30	Vega		Debug Search (DATE)
+29.1.	08:00-12:30	Vega		Debug Search (DATE)
+	14:00-19:00	Vega		Debug Search (DATE)
+30.1.	08:00-10:30	T&S		Anp. an Tick-DB
+	10:30-12:30	TKNY		Exch-Config
+	14:00-16:30	Fresco		Pikett-Schulung
+	16:30-19:30	Shark		neues Tag: LIMLINES
+31.1.	08:30-12:30	Vega		Erw. Search (Valuelists)
+	13:45-16:00	Vega		Erw. Search (Valuelists)
+	16:00-16:30	Vega		Checkin, Doku
+	16:30-17:30	Rolotec		Zeiterf.
+	
+----- KW 6 -----
+3.2.	08:30-09:15	Shark		Korr. sentSMS
+	09:15-12:30	Rolotec		Update bully
+	14:00-16:30	Vega		Erw. Quote
+	16:30-18:30	Shark		Korr. pf1::idx
+4.2.	08:00-12:30	Vega		Erw. Quote
+	14:00-18:30	Vega		Erw. Quote
+5.2.	08:00-08:30	TKNY		Mail
+	08:30-09:00	Shark		Restart AFX
+	09:00-12:30	Vega		Erw. Parser-Felder
+	14:00-18:30	Vega		Erw. Parser-Felder
+6.2.	08:00-11:30	CSS		Kontrolle MDF-Trace
+	11:30-12:45	Vega		Erw. Parser-Felder
+	14:00-18:00	Vega		Debug neue Felder
+7.2.	08:15-09:15	Shark		Korr. smscheck
+	09:15-11:45	Vega		Rebuild Cache (fatboy)
+	13:30-14:00	TKF		Mail wg. HIKU-Server
+	14:00-16:00	Vega		Test
+	16:00-17:30	Shark		Ausb. PS
+	17:30-18:00	Vega		Korr. fieldmap
+
+----- KW 7 -----
+10.2.	07:45-08:00	INFI		Korr. Limiten-Layouts
+	08:00-12:30	Vega		Daten-Kontrolle
+	14:00-14:30	Fresco		Wartung
+	14:30-18:30	Vega		Daten-Kontrolle
+11.2.	08:00-09:30	TKNY		Abkl. ftp-Zugang
+	09:30-12:30	Vega		Daten-Kontrolle 
+	14:30-18:30	Vega		Daten-Kontrolle 
+12.2.	06:30-07:00	Borsalino	Wartung (www.borsalino.ch steht)
+	07:30-08:00	Borsalino	Wartung (Server in RZ4)
+	08:00-11:30	Vega		Debugging
+	11:30-12:00	Fresco		Wartung
+	12:00-13:00	Vega		Tests
+	14:30-19:00	Vega		Tests
+13.2.	08:00-10:30	Rolotec		unprod.
+	10:30-12:30	Vega		Tests/Debug
+	14:00-18:00	TKNY		Abkl. ftp-Zugriff
+14.2.	08:00-08:30	Post		Wartung (entitlement BC642)
+	08:30-12:30	Vega		Tests/Checkin
+	14:00-17:30	Vega		Updates
+
+----- KW 8 -----
+17.2.	08:30-09:30	Rolotec		unprod.
+	09:30-12:30	TKNY		Vorb. WD Update
+	14:00-18:30	INFI		Erw. LISTUSER
+18.2.	08:15-12:45	INFI		Erw. LISTUSER
+	14:15-18:15	INFI		Erw. LISTUSER
+19.2.	08:15-10:45	Shark		Erw. Limit Minder
+	10:45-12:15	Shark		Tests/Checkin
+	14:00-18:30	INFI		Shark setup
+20.2.	07:30-12:30	Vega		Korr. Pages (mdfsplit)
+	14:00-15:00	TKNY		Install. ZH
+	16:30-18:30	INFI		Shark setup (DB)
+21.2.	07:45-11:30	Vega		Contrib Pages Pendenzen
+	11:30-12:30	TKNY		Koord. Zugriff
+	14:00-18:00	INFI		DB-Portierung
+
+----- KW 9 -----
+24.2.	08:00-12:30	Vega		Debugging (Cache kaputt)
+	14:00-18:30	INFI		Server-Setup
+25.2.	08:00-10:00	Vega		Debug FIAMs (Page)
+	10:00-12:30	iD2		Cache-Meeting
+	14:00-16:30	Rolotec		Pikett-Sitzung
+	16:30-17:00	Shark		Pikett (AFX)
+	17:00-18:30	Vega		Debugging
+26.2.	08:15-09:00	INFI		Korr. Entitlement
+	09:00-12:00	Vega		Debug Cache 
+	12:00-12:30	Vega		ARS Ticket f. Contrib. BK
+	12:30-14:00	iD2		Cache-Konzept
+	14:00-16:30	Vega		Debug Cache
+27.2.	08:00-08:30	Vega		Status-Check
+	08:30-12:30	iD2		Cache-Konzept
+	14:00-18:00	iD2		Cache-Konzept
+28.2.	07:30-08:00	Vega		Status-Check fatboy
+	08:00-12:15	iD2		Cache-Konzept
+	13:30-14:00	iD2		Cache-Konzept
+	14:00-16:30	iD2		Bespr. Cache-Konzept
+	16:30-20:00	INFI		Server-Update (+Restore)
+
+----- KW 10 -----
+3.3.	08:00-12:30	Vega		Debug PAGE-Field
+	14:00-18:00	Vega		PAGE-Field
+4.3.	08:00-10:00	Vega		PAGE-Field
+	10:00-12:30	Rolotec		update bully
+	14:00-17:00	Rolotec		update bully
+5.3.	08:00-12:30	Postfinance	Apache update (pf.test)
+	14:00-15:00	Postfinance	Apache update (pf.test)
+	15:00-16:00	Rolotec		Support UB
+	16:00-18:30	iD2		Eval.
+6.3.	08:00-11:00	Rolotec		bully update
+	11:00-11:30	Vega		Support Netcetera
+	14:00-16:00	iD2		Meeting Cache-Konzept
+	16:00-19:30	Vega		Erw. Contrib. Pages (XML)
+7.3.	08:00-09:00	Rolotec		Zeiterf.
+	09:00-12:30	Vega		Test Contrib. Pages
+	14:00-15:00	Rolotec		Support UB
+	15:00-18:00	Vega		Checkin
+
+----- KW 11 -----
+10.3.	08:45-09:45	Fresco 		Wartung (DB-Update)
+	09:45-10:15	Vega		Datenkontrolle (Tables)
+	10:15-11:45	iD2		Analyse/Design ConfigMgr
+	14:15-16:30	iD2		Analyse/Design ConfigMgr
+	16:30-18:00	INFI		Online-Schaltung
+11.3.	08:00-09:00	INFI		Korr. Konfiguration
+	09:00-10:00	Vega		Pendenzen
+	10:00-12:30	INFI		Korr. Setup (Winner)
+	14:00-16:30	iD2		Analyse/Design ConfigMgr
+	16:30-17:30	Shark		Erw. limdm (text1, text2,...)
+12.3.	08:00-09:30	Vega		Analyse Search-Problem
+	09:30-10:30	Shark		Erw. limdm (text1, text2,...)
+	10:30-12:30	Vega		Korr. Search
+	14:00-16:30	Shark		Analyse GNEWS Accounting
+13.3.	08:00-12:00	Vega		Search
+	12:00-12:30	TK		FinXS-Support
+	14:00-15:30	Vega		Search
+	15:30-16:00	INFI		Vorb. Update
+	16:00-18:30	RBA		Limit Minder
+14.3.	08:00-12:30	Vega		Search
+	14:00-16:00	Vega		Search
+	16:00-18:30	INFI		Update ZGKB
+	
+----- KW 12 -----
+17.3.	08:30-09:30	Vega		Search
+	09:30-12:30	Rolotec		Verity
+	14:00-18:00	Rolotec		Verity
+18.3.	07:30-08:00	TKNY		Filetransfer
+	08:00-08:30	TKF		HIKU-Support
+	08:30-10:00	Shark		Fehlersuche Pf
+	10:00-10:45	Rolotec		Zeiterfassung
+	10:45-11:30	Shark		Support MAC (Ticker)
+	11:30-12:30	Verity		Install.
+	14:15-15:15	Verity		Setup
+	15:15-16:15	Rolotec		MA-Gespr.
+	16:15-17:15	Verity		Setup
+19.3.	08:00-09:00	Vega		Kontrolle/Debug
+	09:00-12:30	Verity		Ausbildung
+	14:00-18:30	Verity		Ausbildung
+	18:30-19:30	Vega		Analyse Bugzilla #137
+20.3.	08:45-10:30	Vega		Analyse Bugzilla #137
+	10:30-12:45	Verity		Serversetup
+	14:15-17:00	Verity		Serversetup
+	17:00-19:30	Vega		Analyse Bugzilla #137
+21.3.	08:00-09:30	Vega		Bugfix #137
+	09:30-10:00	Verity		Test mit mail-Collection
+	10:00-12:30	Vega		Korr. Listing Search
+	14:15-15:00	Vega		Checkin, Report
+	15:00-17:30	Rolotec		unprod.
+	
+----- KW 13 -----
+24.3.	08:00-08:30	INFI		Setup OWKB/URKB
+	08:30-09:00	Borsalino	Korr. CRM
+	09:00-12:30	iD2		ConfigManager
+	14:00-15:00	Vega		Berecht. Contrib. Pages
+	15:00-17:30	Rolotec		unprod.
+25.3.	08:15-12:30	Vega		pginfo
+	14:00-18:30	Vega		Debug Search
+26.3.	08:30-09:30	Vega		Debug Search
+	09:30-10:30	Shark		Support UB
+	10:30-11:45	Vega		Debug Contrib Pages
+	14:30-16:00	TKNY		File upload
+	16:00-16:30	Shark		Support UB
+	16:30-17:00	INFI		File uploads
+	17:00-18:30	Vega		Debug (Search & Page)
+27.3.	08:00-10:30	TKNY		Server update
+	10:30-12:30	Vega		Listing Search
+	14:00-18:30	Vega		Listing Search
+28.3.	08:00-09:00	TKNY		Kontrolle
+	09:00-10:00	Vega		Contrib. Pages
+	10:00-12:30	Vega		Listing Search
+	13:30-15:30	INFI		Update GLKB & SGKB
+	15:30-17:30	Vega		Test Listing Search
+
+----- KW 14 -----
+31.3.	08:30-09:30	Vega		Kontrolle Contrib. Pages
+	09:30-12:00	Vega		Test Listing Search
+	12:00-12:30	TKNY		Kontrolle Upload
+	14:15-16:15	Vega		Test Listing Search
+	16:15-17:15	SGKB		Support (Instrument News)
+	17:15-18:00	Rolotec		unprod.
+1.4.	08:15-09:30	Rolotec		Zeiterf.
+	09:30-10:30	TKNY		Abschlussbericht
+	10:30-11:00	SGKB		Wartung (GNEWS)
+	11:00-13:00	Borsalino	CRM-Fehler (keine Inst.namen)
+	14:00-16:30	Vega		Tests
+	16:30-17:30	INFI		Wartung (GNEWS)
+2.4.	08:15-09:15	Vega		Kontrolle Contrib. Pages
+	09:15-12:15	Borsalino	Wartung (CRM)
+	14:00-16:30	Vega		Support MC (Oracle)
+	16:30-17:30	INFI		Wartung (Vorb. MySQL)
+3.4.	08:30-11:00	Borsalino	Wartung (CRM)
+	11:00-12:30	INFI		Vorb. DB-Update
+	14:15-16:30	INFI		Vorb. DB-Update
+	16:30-17:30	Shark		Fehler client-Tool
+4.4.	07:15-07:45	Borsalino	Kontrolle CRM
+	08:15-09:00	Borsalino	Debug CRM
+	09:00-12:30	Shark		DB-Update (agitest)
+	14:00-17:30	INFI		DB-Update
+	17:30-19:30	Moneycab	Pf-Bereinigung
+5.4.	10:00-12:30	Moneycab	Pf-Bereinigung
+	12:30-15:30	Rolotec		unprod.
+6.4.	10:00-11:00	Pikett		Leitungsproblem IP+
+	13:30-15:00	Pikett		Leitungsproblem IP+
+	19:00-19:30	Borsalino	U.Scherrer: www.borsalino.ch unerreichbar
+	21:00-22:30	Borsalino	Routing-Problem mit T.Ingold behoben
+	
+----- KW 15 -----
+7.4.	07:30-08:00	Pikett		IP+ Unterbruch
+	08:30-11:00	Pikett		IP+ Unterbruch
+	11:00-12:15	Borsalino	manuelles CRM-Update (msteiner)
+	14:00-14:30	Vega		Kontrolle Contrib. Pages
+	14:30-15:00	BEKB		Kontrolle Entitlement (ps)
+	15:00-16:30	TKD		News-Problem
+	16:30-17:00	INFI		Vorb. Update
+	17:30-17:45	Postfinance	Support
+8.4.	08:15-08:30	Rolotec		Mails	
+	08:30-09:00	TK		ARS-Check
+	09:00-10:00	iD2		Config Manager
+	10:00-12:30	Pikett		Moneycab,Borsalino,...
+	14:15-17:45	Pikett		Sarasin, SGKB, BEKB,...
+	17:45-18:15	INFI		Vorb. AIKB
+9.4.	08:00-10:00	iD2		Config Manager
+	10:00-11:30	Rolotec		Entwickler-Meeting
+	11:30-12:30	Pikett		div.
+	14:00-16:30	iD2		Config Manager
+	16:30-17:00	INFI		Vorb. GKB
+	17:00-18:00	iD2		Config Manager
+10.4.	08:30-12:30	iD2		Config Manager
+	14:00-14:30	INFI		Vorb. NWKB
+	14:30-15:30	iD2		Config Manager
+	15:30-16:00	Rolotec		ARS-Check (Server-Ausfall TK)
+	16:00-16:30	Moneycab	Portfolio mit unbek. Titeln
+	16:30-18:30	iD2		Config Manager
+	18:30-19:00	RBA		Pikett (falsches SMS-Layout?)
+11.4.	08:30-08:45	Pikett		ARS-Check
+	08:45-09:30	iD2		Config Manager
+	09:30-12:15	INFI 		Server Update
+	14:00-15:30	iD2		Konzept-Meeting
+
+----- KW 16 -----
+14.4.	09:00-09:30	Rolotec		Mails
+	09:30-10:30	Rolotec		Zeiterf.
+	10:30-11:30	Pikett		TKD:DJ News
+	14:00-15:30	Pikett		INFI, BLKB, Postfinance
+	15:30-15:45	Vega		Kontrolle Contrib. Pages
+	15:45-16:00	TKF		Support TBFWD (Schürch)
+	16:00-17:30	Pikett		SGKB etc.
+15.4.	08:00-12:30	Raiffeisen	Erw. Passwort-Versand (Sprachen)
+	14:30-15:30	INFI		Layout-Debugging
+	15:30-16:30	Raiffeisen	Support MAC
+	16:30-18:00	HIKU		Debugging
+16.4.	08:30-12:30	HIKU		Debugging
+	14:00-18:30	HIKU		Debugging
+17.4.	08:30-09:30	Vega		Update Listing Search
+	09:30-10:00	INFI		News-Check
+	10:00-12:30	HIKU		Erw. Script-Auslösung
+	14:00-17:30	HIKU		Tests
+
+----- KW 17 -----
+22.4.	08:30-11:45	HIKU		Tests
+	14:15-18:00	HIKU		Doku, Lieferung
+23.4.	09:00-12:00	iD2		Meeting
+	14:15-15:00	Rolotec		Zeiterf.
+	15:00-17:30	Rolotec		unprod.
+24.4.	08:30-10:00	Rolotec		unprod.
+	10:00-10:30	Raiffeisen	Support MAC (Portfolio)
+	10:30-11:30	Rolotec		PC Update
+	11:30-12:00	INFI		Support NS
+	15:00-18:00	Rolotec		unprod.
+	18:00-18:30	Raiffeisen	Support MAC
+25.4.	08:15-12:00	Rolotec		unprod.
+	14:00-16:00	Rolotec		unprod.
+	16:00-16:30	Rolotec		Zeiterf.
+	
+----- KW 18 -----
+28.4.-2.5.		Ferien
+
+----- KW 19 -----
+5.5.	08:30-10:00	Rolotec		unprod.
+	10:00-10:30	TKNY		Fehler exch.csv
+	10:30-11:00	TKD		Dok. Accounting
+	11:00-12:30	INFI		Vorb. Update
+	14:30-16:30	INFI		Update
+6.5.	09:30-10:30	Vega1		Support MAC (Listing Search)
+	10:30-11:00	???		Support MAC (Entitlement fims4)
+	11:00-12:30	Vega1		Debug Listing Search
+	14:00-17:30	Vega1		Erw. Listing Search
+7.5.	08:30-12:30	Vega1		Erw. Listing Search
+	14:00-19:00	Vega1		Erw. Listing Search
+8.5.	08:15-12:30	Fresco		Pikettschulung	
+	14:00-15:00	Fresco		Pikettschulung	
+	15:00-16:30	Borsalino	Update limdm
+	16:30-17:30	Vega1		Support MAC (Search)
+9.5.	09:00-12:00	iD2		HSDB-Sitzung
+	13:30-17:00	INFI		Korr. Web-Statistik
+
+----- KW 20 -----
+12.5.	09:15-10:15	Rolotec		Problemanalyse limdm
+	10:15-12:15	HIKU		Vorb. Debugging
+	14:15-15:00	Rolotec		Support MAC (BCEE/BLKB)
+	15:00-18:00	iD2		Setup Workshop
+13.5.	08:45-13:00	Rolotec		div. Pikett
+	14:15-17:30	HIKU		Erw. mdfselect
+	17:30-18:00	BLKB		Support
+14.5.	08:30-09:30	Rolotec		HTA-Setup
+	09:30-10:00	Vega1		Contrib Pages
+	10:00-12:30	Rolotec		div. Pikett	
+	14:00-14:30	BLKB		Support
+	14:30-15:30	HIKU		Support
+	15:30-17:30	iD2		HSDB
+15.5.	08:30-12:00	Fresco		Pikett-Schulung
+	14:00-15:30	HIKU		Fehlersuche
+	15:30-16:30	TBFWD		Support (Fehlalarme)
+	16:30-18:30	iD2		HSDB
+16.5.	08:30-10:00	iD2		HSDB
+	10:00-10:30	INFI		Support (SMS-Limiten)
+	10:30-13:00	iD2		HSDB
+	14:30-15:30	INFI		SMS-"Problem"
+	15:30-17:30	iD2		HSDB
+
+----- KW 21 -----
+19.5.	08:45-09:15	Rolotec		unprod.
+	09:15-13:15	iD2		HSDB
+	14:30-15:30	Shark		Support MAC
+	15:30-18:30	iD2		HSDB
+20.5.	09:00-10:30	iD2		HSDB
+	10:30-12:45	Shark		Timeout CORBA-bind()		
+	14:15-15:15	TBFWD		Support (Schürch)
+	15:15-18:30	Vega1		Contrib. Pages
+21.5.	09:00-10:30	Rolotec		unprod.
+	10:30-12:30	Vega1		Fehlersuche Pagecache
+	14:30-19:00	BLKB		Pf-Wartung
+22.5.	08:30-10:45	BLKB		Pf-Wartung
+	10:45-12:45	Vega1		Fehlersuche Pagecache
+	14:15-18:15	BLKB		Pf-Wartung
+23.5.	08:30-09:00	Rolotec		unprod.
+	09:00-10:00	Vega1		Entwickler-Meeting
+	10:00-12:30	HIKU		Fehlersuche/-korr.
+	14:00-17:45	Vega1		Contrib. Pages
+	
+----- KW 22 -----
+26.5.	09:00-12:30	Rolotec		Eval. log analyzer
+	14:30-18:00	Rolotec		Eval: log analyzer
+27.5.	09:00-10:30	Vega1		Contrib. Pages
+	10:30-11:00	TBFWD		Support Schürch
+	11:00-12:30	Rolotec		log analyzer
+	14:15-19:15	Rolotec		log analyzer
+28.5.	09:00-10:00	Rolotec		log analyzer
+	10:00-10:30	INFI		Wartung (DB)
+	10:30-12:00	Vega1		Contrib. Pages
+	14:15-17:30	Shark		Limit Minder
+29.5.	Auffahrt
+30.5.	09:00-12:00	Shark		Limit Minder
+	12:00-12:30	Borsalino	Support (Aktien SWX)
+	14:15-16:15	Shark		Limit Minder
+	16:15-17:15	Rolotec		Zeiterf.
+
+----- KW 23 -----
+2.6.	09:30-10:30	Vega1		Bugzilla 389
+	10:30-12:30	Shark		Limit Minder
+	14:30-18:00	Vega1		Fehlersuche Page Cache
+3.6.	08:30-13:00	Shark		Limit Minder
+	15:30-19:00	Shark		Limit Minder
+4.6.	09:00-12:30	Shark		Limit Minder
+	14:15-16:30	Shark		Limit Minder
+	16:30-18:15	Vega1		Contrib. Pages (Header)
+5.6.	09:00-10:30	Shark		Limit Minder
+	10:30-12:30	Vega1		Contrib. Pages (Header)
+	14:15-15:30	Rolotec		unprod.
+	15:30-16:30	Vega1		Contrib. Pages (pginfo)
+	16:30-18:30	Vega1		Support MAC (Search)
+6.6.	09:00-12:30	Shark		Limit Minder
+	14:00-15:30	Rolotec		Pikett-Sitzung
+	15:30-17:00	Shark		Limit Minder
+
+----- KW 24 -----
+9.6.	Pfingstmontag
+10.6.	09:00-10:30	Vega1		Kontrolle Pages
+	10:30-12:30	Shark		Limit Minder
+	14:15-16:00	Shark		Limit Minder
+	16:00-17:00	iD2		Bespr. BI/KM
+	17:00-18:30	Shark		Pf-Debugging (HB)
+11.6.	09:15-09:45	Shark		Support MAC (BEKB, Raiffeisen)
+	09:45-12:30	Shark		Pf-Debugging (HB)
+12.6.	08:30-12:45	Vega1		Filterung nach TYPE=0
+	14:30-17:45	Vega1		Sortierung Search
+13.6.	08:15-12:15	Vega1		Sortierung Search
+	14:15-17:30	Vega1		Sortierung Search
+	17:30-18:00	Rolotec		Pikett (LLB)
+
+----- KW 25 -----
+16.6.	08:30-09:00	Rolotec		Mail-Ablage
+	09:00-11:00	Vega1		Sortierung Search
+	11:00-12:30	BLKB		Support MAC (User, Limiten)
+	15:00-15:30	BLKB		Kontrolle Limiten
+	15:30-16:30	Shark		Checkin, Doku
+	16:30-17:30	iD2		Einarb.	
+17.6.	08:30-12:15	iD2		Einarb.
+	14:00-14:30	Borsalino	Pf-Support
+	14:30-17:30	iD2		common
+18.6.	08:30-09:30	BLKB		Pf-Problem
+	09:30-11:30	SGKB		Support Charts
+	11:30-12:30	iD2		common
+	14:15-15:30	Vega1		Debug Page Cache
+	15:30-18:30	iD2		common
+19.6.	08:45-09:30	Fresco		Pikett
+	09:30-10:00	Vega1		Fehlersuche Page Cache
+	10:00-11:00	TBFWD		Ausfall Stammdaten (Vinko)
+	11:00-12:30	iD2		mdfmgr
+	13:00-13:45	Firststocks	Pikett
+	14:15-15:30	iD2		mdfmgr
+	15:30-16:00	TBFWD		Support (Schürch)
+	16:00-18:30	iD2		mdfmgr
+20.6.	08:30-12:30	iD2		mdfmgr
+	14:00-16:45	iD2		mdfmgr
+
+----- KW 26 -----
+23.6.	08:45-10:30	TBFWD		Stammdatenfehler
+	10:30-13:00	iD2		mdfmgr
+	14:30-15:00	Rolotec		unprod.
+	15:00-19:30	iD2		mdfmgr
+24.6.	08:30-12:45	iD2		mdfmgr
+	14:45-15:30	Raiffeisen	Support MAC (Limiten)
+	15:30-18:30	iD2		mdfmgr
+25.6.	08:15-13:00	iD2		mdfmgr
+	14:30-19:30	iD2		mdfmgr
+26.6.	08:30-12:30	iD2		mdfmgr
+	14:15-20:00	iD2		mdfmgr
+27.6.	08:00-11:30	TBFWD		Support
+	11:30-13:30	iD2		mdfmgr
+	14:30-17:00	iD2		mdfmgr
+	
+----- KW 27 -----
+30.6.	08:30-09:00	TBFWD		Kontrolle
+	09:00-13:30	iD2		mdfmgr
+	15:30-18:15	iD2		mdfmgr
+1.7.	08:15-13:00	iD2		mdfmgr
+	14:30-15:30	Rolotec		Zeiterf.
+	15:30-20:00	iD2		mdfmgr
+2.7.	08:15-13:45	iD2		mdfmgr
+	14:30-19:00	iD2		mdfmgr
+3.7.	08:30-09:00	Shark		Korr. lim sent (shark7)
+	09:00-10:00	TBFWD		Vorb. Sitzung
+	10:00-11:30	iD2		mdfmgr
+	12:00-17:30	TBFWD		Sitzung FED, ZH
+4.7.	08:00-12:15	iD2
+	14:15-18:30	iD2
+
+----- KW 28 -----
+7.7.	08:30-12:45	iD2
+	14:30-19:00	iD2
+8.7.	08:30-13:00	iD2
+	14:30-19:30	iD2
+9.7.	08:30-12:30	iD2
+	14:15-19:30	iD2
+10.7.	08:45-12:45	iD2
+	14:15-19:45	iD2
+11.7.	07:30-12:00	iD2
+	13:30-19:00	iD2
+
+----- KW 29 -----
+14.7.	08:30-12:30	iD2
+	14:00-18:30	iD2
+15.7.	08:15-12:45	iD2
+	14:15-20:00	iD2
+16.7.	08:00-12:30	iD2
+	14:15-19:00	iD2
+17.7.	08:00-12:45	iD2
+	14:00-18:30	iD2
+18.7.	08:00-12:30	iD2
+	14:15-18:00	iD2
+
+----- KW 30 -----
+21.7.	08:00-12:30	iD2
+	14:00-20:00	iD2
+22.7.	07:30-11:30	iD2
+	11:30-12:30	Pikett
+	15:00-20:30	iD2
+23.7.	07:00-12:15	iD2
+	14:15-20:30	iD2
+24.7.	08:00-11:15	iD2
+	12:15-19:30	iD2
+25.7.	08:00-13:00	iD2
+	13:00-13:30	Rolotec		Zeiterf.
+
+----- KW 31 -----
+28.7.-1.8.	Ferien
+
+----- KW 32 -----
+4.8.-8.8.	Ferien
+
+----- KW 33 -----
+11.8.	08:30-12:30	Rolotec		Mails
+	14:30-16:30	Shark		Korr. Limiten-Statistik (UB)
+	16:30-18:30	iD2		Einarb.
+12.8.	08:30-12:30	iD2		Setup Env. bire
+	14:30-19:00	iD2		Anp. HLS
+13.8.	08:30-12:45	iD2
+	14:45-19:30	iD2		
+14.8.	08:30-12:45	iD2		
+	14:30-15:30	iD2		Test/Debug
+	15:30-16:00	AGI		Support TGKB (PS)
+15.8.	08:30-13:00	iD2
+	14:15-18:30	iD2
+16.8.	10:00-13:00	iD2		Setup sftmgr/tablemgr
+
+----- KW 34 -----
+18.8.	08:30-12:30	iD2
+	14:00-16:00	Shark		Support UB (Ticker)
+	16:00-19:00	iD2		TAS
+19.8.	08:00-12:30	iD2
+	14:00-18:30	iD2
+20.8.	08:00-12:30	iD2
+	14:00-19:00	iD2
+21.8.	08:00-11:30	iD2
+	13:30-20:00	iD2
+22.8.	07:00-18:30	iD2		Checkin
+	
+----- KW 35 -----
+25.8.	08:30-13:00	iD2		mgrwrbk
+	14:30-19:30	iD2
+26.8.	08:00-12:30	iD2
+	14:00-18:30	iD2
+27.8.	08:00-09:30	Shark		Support UB (Ticker)
+	09:30-12:30	iD2
+	14:30-19:30	iD2
+28.8.	08:15-12:45	iD2
+	14:30-15:30	TBFWD		Support (Tel. Schürch)
+	15:30-19:00	iD2
+29.8.	07:30-12:30	iD2
+	14:00-17:30	iD2
+
+----- KW 36 -----
+1.9.	08:30-09:30	Rolotec		Zeiterfassung
+	09:30-12:30	iD2		XML push
+	14:00-18:30	iD2
+2.9.	09:00-10:30	iD2
+	10:30-12:30	Raiffeisen	Erw. Ticker
+	14:00-18:30	Raiffeisen	Erw. Ticker
+3.9.	08:30-12:30	Raiffeisen	Erw. Ticker
+	14:00-18:30	iD2
+4.9.	08:15-12:45	iD2
+	14:00-18:00	iD2
+5.9.	07:30-11:30	iD2
+	12:30-16:30	iD2
+
+----- KW 37 -----
+8.9.	08:30-12:30	iD2
+	14:00-18:30	iD2
+9.9.	08:00-12:00	iD2
+	12:00-12:30	Raiffeisen	Install.
+	14:00-18:30	iD2
+10.9.	Morgen Ausmusterung
+	13:45-14:30	BEKB		Support HB
+	14:30-17:30	iD2
+11.9.	08:00-12:30	iD2
+	14:00-18:30	iD2
+12.9.	08:00-12:45	iD2
+	14:00-18:30	iD2
+	
+----- KW 38 -----
+15.9.	08:30-12:45	iD2
+	14:15-18:30	iD2
+16.9.	08:30-12:30	iD2
+	14:00-15:00	Raiffeisen	Support MAC
+	15:00-17:00	iD2
+	17:00-17:30	Borsalino	Support PS
+17.9.	08:00-12:30	iD2
+	14:30-19:00	iD2
+18.9.	08:00-11:45	iD2
+	14:00-18:00	iD2
+19.9.	07:30-12:30	iD2
+	14:30-17:00	iD2
+	
+----- KW 39 -----
+22.9.	08:30-12:30	iD2		Dok.
+	14:15-18:30	iD2
+23.9.	08:30-11:30	iD2
+	14:00-18:30	iD2
+24.9.	08:00-12:30	iD2
+	14:00-18:00	iD2
+	18:00-19:00	Raiffeisen	Debug agitest
+25.9.	08:00-12:15	iD2		Release
+	14:00-14:30	BEKB		Option UNKNOWN/DENIED f. PAGELIST (NS)
+	14:30-20:30	iD2
+26.9.	08:30-12:30	iD2
+	14:15-20:15	iD2		Tests
+
+----- KW 40 -----
+29.9.	08:00-12:45	iD2		mgrwrbk
+	14:00-18:30	iD2
+30.9.	08:30-10:00	iD2
+	10:00-11:30	FirstStocks	Pikett (ARS399458)
+	14:00-15:30	Borsalino	Pikett (ARS399369)
+	15:30-20:30	iD2		csfeed
+1.10.	09:00-12:15	iD2
+	14:15-14:45	Borsalino	Pikett (shark4 config)
+	14:45-20:00	iD2
+2.10.	08:00-12:30	iD2
+	14:00-20:00	iD2
+3.10.	08:00-09:00	Rolotec		Zeiterf.
+	09:00-12:30	iD2		TAS
+	14:30-19:00	iD2
+
+----- KW 41 -----
+6.10.	08:00-12:30	iD2
+	14:00-18:30	iD2
+7.10.	08:30-12:00	iD2
+	14:00-18:30	iD2		mdfwin
+8.10.	08:30-12:30	iD2
+	14:00-20:00	iD2
+9.10.	07:30-13:00	iD2
+	14:30-19:30	iD2
+10.10.	09:30-12:30	iD2
+	14:30-17:30	iD2
+	
+----- KW 42 -----
+13.10.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-11:30	iD2
+	11:30-12:30	Rolotec		Müllentsorgung
+	14:00-16:30	iD2		csdisp (TAS, WL)
+	16:30-17:30	Pikett		Postfinance: HIKU-Daten
+14.10.	08:00-12:30	iD2
+	14:00-19:00	iD2
+15.10.	07:45-10:30	iD2
+	10:30-12:45	Pikett		HIKU-Daten
+	14:00-19:30	iD2
+16.10.	08:00-12:30	iD2
+	14:00-16:30	iD2
+	16:30-17:00	Pikett		Sarasin (Utz: ftp funktioniert nicht)	
+17.10.	08:30-12:30	iD2
+	14:00-18:30	iD2
+18.10.	10:30-13:00	iD2
+
+----- KW 43 -----
+20.10.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:30	iD2
+	14:00-18:30	iD2
+21.10.	08:00-10:00	iD2
+	10:00-11:00	TBFWD		Support (out of memory)
+	11:00-12:15	iD2
+	14:00-17:00	iD2
+	17:00-18:30	TBFWD		Support (setup)
+22.10.	08:00-12:30	iD2
+	14:00-17:00	iD2		Search-WS
+	17:00-18:30	iD2
+23.10.	08:15-11:45	iD2
+	14:00-19:00	iD2
+24.10.	08:00-12:30	iD2
+	14:00-17:30	iD2
+	
+----- KW 44 -----
+27.10.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-11:30	iD2		mdfnws
+	11:30-12:30	Raiffeisen	agitest: raiffeisen -> raiffeisen2
+	14:00-18:30	iD2
+28.10.	08:00-12:15	iD2
+	14:15-15:30	iD2		
+	15:30-16:00	iD2		Test Limiten (PK)
+	16:00-16:30	BLKB		Manual prices.
+	16:30-19:30	iD2
+29.10.	08:00-12:30	iD2		
+	14:00-19:30	iD2
+30.10.	07:30-13:00	iD2
+	14:15-20:00	iD2
+31.10.	07:30-11:45	iD2
+	14:00-15:00	iD2
+	15:00-15:30	Rolotec		Zeiterf.
+	15:30-17:30	iD2
+	
+----- KW 45 -----
+3.11.	08:30-12:30	iD2		Debug mdfrp
+	14:00-19:00	iD2		mdfnws
+4.11.	08:00-11:00	iD2
+	11:00-11:45	Rolotec		NIS-Problem
+	14:15-15:00	iD2		mdfnws
+	15:00-16:00	Raiffeisen	Support MAC
+	16:00-20:00	iD2
+5.11.	08:30-12:30	iD2
+	14:30-19:00	iD2
+6.11.	08:30-12:00	iD2
+	12:00-12:30	Raiffeisen	Vorb. update
+	14:00-15:00	Raiffeisen	Update shark10
+	15:00-17:00	iD2
+7.11.	08:00-12:30	iD2
+	14:00-17:00	iD2		Checkin
+
+----- KW 46 -----
+10.11.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-11:30	iD2		Update bire
+	11:30-12:30	iD2		related News
+	14:15-18:30	iD2
+11.11.	08:00-12:30	iD2
+	14:00-18:30	iD2
+12.11.	08:00-12:45	iD2
+	14:15-19:00	iD2
+13.11.	08:00-12:30	iD2
+	13:45-17:45	iD2
+14.11.	08:30-12:30	iD2
+	14:00-18:00	iD2
+	
+----- KW 47 -----
+17.11.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:30	iD2		csdisp
+	14:00-17:30	iD2
+18.11.	08:00-12:30	iD2
+	14:00-18:30	iD2
+19.11.	08:30-12:30	iD2
+	14:00-19:00	iD2
+20.11.	08:00-12:30	iD2
+	14:00-19:30	iD2
+21.11.	08:00-12:30	iD2
+	14:00-15:00	iD2		Support bi (Dok.)
+	15:00-15:30	pf		Support hb (Limiten)
+	15:30-19:00	iD2
+
+----- KW 48 -----
+24.11.	08:45-12:30	iD2
+	14:00-18:30	iD2
+25.11.	08:00-12:30	iD2
+	14:00-19:00	iD2
+26.11.	08:30-12:30	iD2		Tests/Optimierungen
+	14:15-18:00	iD2
+27.11.	08:30-12:30	iD2		Anp. MFCS
+	14:00-17:30	iD2
+28.11.	08:00-12:30	HIKU		mdfselect
+	14:00-17:00	HIKU
+	
+----- KW 49 -----
+1.12.	09:00-09:30	Rolotec		Zeiterf.
+	09:30=10:30	iD2		Bespr. bi (News)
+	10:30-12:30	iD2		Debug/Optimierung
+	14:00-17:30	iD2
+2.12.	08:30-12:45	iD2
+	14:15-18:30	iD2
+3.12.	08:30-12:30	iD2
+	14:00-18:30	iD2
+4.12.	08:00-12:30	iD2
+	14:00-16:30	iD2
+5.12.	08:30-10:00	iD2
+	10:00-10:30	Rolotec		Ausfall MDF
+	10:30-12:30	iD2
+	14:00-18:00	iD2
+
+----- KW 50 -----
+8.12.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:30	iD2		Korr./Erw. csdisp
+	14:00-18:30	iD2
+9.12.	08:15-12:15	iD2
+	14:15-18:30	iD2
+10.12.	08:30-12:30	iD2
+	14:00-17:30	iD2
+11.12.	08:00-12:00	iD2
+	14:00-18:30	iD2
+12.12.	08:00-12:30	iD2		Dok./checkin
+	14:00-17:30	iD2
+		
+----- KW 51 -----
+15.12.	08:30-09:30	iD2		checkin
+	09:30-10:00	Rolotec		Zeiterf.
+	10:00-12:30	iD2
+16.12.	08:00-12:30	iD2	
+	14:00-17:30	iD2
+17.12.	08:00-12:30	iD2
+	14:00-18:00	iD2
+18.12.	08:00-12:30	iD2
+	14:30-19:00	iD2
+19.12.	08:00-11:30	iD2		Search-Meeting
+	13:30-18:00	Rolotec		unprod.
+	
+----- KW 52 -----
+22.12.	Ferien
+23.12.	Ferien
+24.12.	Ferien
+
+----- KW 53/1 -----
+29.12.	Ferien
+30.12.	Ferien
+31.12.	Ferien

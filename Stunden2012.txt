@@ -1,0 +1,808 @@
+----- KW 1 -----
+2.1.	(Berchtoldstag)
+3.1.	08:30-09:30	RCL		Vorb. 1.4.06 f. MPX4 Bug 5953
+	09:30-10:00	DCSRP2		Tel. Lenicka wg. Bug 6808
+	10:00-12:30	MPX4 Bridge	Bug5953 (braucht RCL 1.4.06)
+	(Nachmittag frei)
+	20:00-21:00	MPX Pikett	INC720399 (kein SODHK f. US-Börsen mit Holiday)
+4.1.	09:00-13:30	MPX4 Bridge	Checkin, Changelog, Admin-HB, Spez.
+	14:00-15:30	RCL		Unittests im xUnit-Format
+	15:30-17:00	MPX4 Bridge	erw. SODHK-Logging
+	17:00-19:30	Rolotec		Build-Server (Integr. RCL Unittests)
+5.1.	09:00-09:30	MPX4 Bridge	Kontrolle TDM-Execution
+	09:30-11:30	Rolotec		Bespr. MPX-Erw. f. Magellan
+	11:30-12:00	Rolotec		Zeiterf.
+	12:30-18:30	MPX4 Bridge	Vorb. 4.0.19pre2
+6.1.	08:30-13:30	MPX4 Bridge
+	(Nachmittag frei)
+	20:00-21:00	MPX Pikett	Tel. E. Schwab / A. Mühlethaler (wg. MPX USA)
+
+----- KW 2 -----
+9.1.	08:30-09:00	MPX Pikett	Protokollierung INC723739
+	09:00-11:00	MPX4 Bridge	Vorb. Release 4.0.19pre2
+	11:00-12:30	MPX Pikett	Analyse INC723739
+	13:00-15:30	MPX Pikett
+	15:30-19:30	MPX4 Bridge
+10.1.	08:30-14:00	MPX4 Bridge	Lieferung 4.0.19pre2
+	(Nachmittag frei)
+11.1.	09:00-12:00	MPX Pikett	INC724399 (Analyse, Telco, Report)
+	12:00-13:00	ELIAS		Kontrolle Referenz, Mail F.Keller
+	13:30-14:00	Rolotec		Update Build-Server
+	14:00-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-17:30	MPX Pikett	INC724997
+	17:30-18:30	Rolotec		Wartung Build-Server (nightly MPX builds)
+12.1.	08:30-12:30	MPX Pikett	INC724997 (u.a.)
+	13:00-19:00	MPX Pikett
+	19:00-19:30	Rolotec		Wartung Build-Server
+13.1.	09:00-09:30	MPX Pikett	INC723739 (PSM)
+	09:30-12:30	MPX5		Analyse Crash TK USA (Mail VOB)
+	14:00-14:30	Rolotec		Zeiterf.
+	(Nachmittag frei)
+
+----- KW 3 -----
+16.1.	08:30-09:30	ELIAS		Mail Teo wg. fehlgeschlagenem dba-Deployment
+	09:30-10:00	MPX5		Telco VOB/D.Bosshard wg. 64K-Problem mit MPE
+	10:00-11:00	MPX5		Portierung MPX4 Changes
+	11:00-12:00	RCL		Koordination mit BI/MN
+	12:00-13:00	MPX5
+	13:30-14:30	RCL		Update 1.5.04, Unterhalt Build-Server
+	14:30-17:00	MPX5
+	17:00-18:00	MPX Pikett	Tel. EWP (Altmann)
+	18:00-20:00	MPX5
+17.1.	09:00-12:00	MPX5		Portierung MPX4 Changes
+	12:00-12:30	RCL		Update 1.5.04
+	(Nachmittag frei)
+18.1.	08:00-10:30	MPX5
+	(Thai-Essen)
+	14:00-17:30	MPX5
+19.1.	09:00-10:00	DCSRP2		Support MC (Analyse Testresultate)
+	10:00-13:00	MPX5
+	13:30-19:30	MPX5
+20.1.	09:00-11:00	MPX Wartung	Kontrolle/Setup MDF-Bezug (Mail VOB/R.Schwab)
+	11:00-13:00	ELIAS		Setup K2 Ticket Server (Mail G.Teo)
+	(Nachmittag frei)
+
+----- KW 4 -----
+23.1.	09:00-11:00	MPX5		CR6845/6863
+	11:00-13:00	ELIAS		Setup K2 Ticket Server (Mail G.Teo)
+	13:30-20:00	MPX5		CR6876 (Refactoring MPE Handling)
+24.1.	08:30-13:30	MPX5
+	(Nachmittag frei)
+25.1.	08:30-11:00	MPX5		Lieferung 5.0.00_3 (Bugzilla 6886, 6888)
+	11:00-13:00	MPX Pikett	Update ITSM Task Info (Mail. P.Gammeter vom 17.1.)
+	13:30-16:30	RCL		Update 1.5.04
+	16:30-18:30	MPX5		Vorb. 5.0.01pre1
+26.1.	08:30-09:30	Rolotec		Zeiterf.
+	09:30-10:00	RCL		Antrag RAM-Erweiterung f. fast4/mb-03
+	10:00-10:30	MPX5
+	10:30-11:00	DCSRP2		Besprechungsanfrage ABI/BI/MC
+	11:00-11:30	MPX Wartung	Setup DDM/IDEM-Feeds (Tel. M.Salzmann)
+	11:30-13:00	RCL		Update 1.5.04
+	14:00-16:30	Rolotec		Team-Meeting SrvSys (Präs.  Build-Server)
+	16:30-17:00	MPX5
+	17:00-17:30	MPX Pikett	Support QA (P.Kubinec, Installation 5.0.00_4)
+	17:30-19:30	MPX5		MPE Debugging
+27.1.	07:30-10:30	MPX5
+	10:30-15:00	MPX5		Vorb. 5.0.01pre1 (Bugzillas)
+	(Nachmittag frei)
+
+----- KW 5 -----
+30.1.	08:30-11:00	MPX5		Preview MPX 5.0.01pre1
+	11:00-11:30	DCSRP2		Besprechung weiteres Vorgehen
+	11:30-13:00	MPX5
+	14:00-16:00	Rolotec		MRP-Brainstorming
+	16:00-19:30	MPX5
+31.1.	07:30-08:30	MPX5		Kontrolle HK-Verarbeitung
+	08:30-09:30	Rolotec		Einführung RCL (H.Lindström)
+	09:30-11:00	RCL		Release 1.5.04
+	11:00-12:30	MPX5		Release-Planung, Bugzillas
+	12:30-13:00	Rolotec		Zeiterf.
+	(Nachmittag frei)
+1.2.	08:30-09:00	MPX5		SODHK-Kontrolle
+	09:00-10:30	Rolotec		Ausb. H.Lindström: DEV-/QA-Tools
+	10:30-12:00	MPX4		Preview 4.0.19pre3
+	12:00-13:00	DCSRP2		rpm-Installation auf birg-neu, Mail MC
+	13:30-14:30	ELIAS		Abschlussversuch Installation, Mail G.Teo
+	14:30-15:30	MPX Pikett	EWP-Passworterneuerung (inkl. Reboot & BS)
+	15:30-17:00	MPX5		Analyse 'MPX5 Requirements.docx', V0.5 von MNY
+	17:00-18:00	DCSRP2		Update Admin-HB
+2.2.	08:30-09:30	Rolotec		Maint. Build-Server nach autom. Update (?)
+	09:30-13:00	DCSRP2		Tests, Dok.
+	14:00-16:30	DCSRP2
+	16:30-19:00	MPX4 Bridge	Lieferung 4.0.19pre3 + 4.0.19 (final)
+3.2.	08:00-11:00	DCSRP2
+	11:00-12:00	ELIAS		Dashboard-Security, Update K2-Installationsanleitung
+	(Nachmittag frei)
+	
+
+----- KW 6 -----
+6.2.	08:30-09:30	MPX5		Bugzillas, Arbeitsplanung
+	09:30-10:30	Rolotec		Ausb. H.Lindström: MPX
+	10:30-13:00	MPX4 Bridge	Lieferung 4.0.19 (Iteration 2)
+	13:30-16:00	MPX5
+	16:00-16:30	MPX Pikett	Tel. M.Salzmann: pilatus reagiert nicht mehr (U.Eberhard macht Tests)
+	16:30-17:30	MPX5
+7.2.	07:00-09:30	DCSRP2		Update Admin-HB 2.2.1
+	09:30-13:00	MPX5		Lieferung 5.0.00_5 (Ausb. H.Lindström)
+	(Nachmittag frei)
+8.2.	08:00-08:30	MPX5		Bug6904
+	08:30-09:00	RCL		Build-Server Maint.
+	09:00-13:00	MPX5		Bugzillas, Spez., Admin-HB
+	14:00-18:00	MPX5
+	18:00-20:00	MPX5		CR6902 (Listing Classification)
+9.2.	07:30-13:00	MPX5		CR6902 & 6906 (EID21)
+	14:00-18:00	DQWD		KPI-Evaluation
+	18:00-20:00	MPX5		Vorb. Release 5.0.01pre1
+10.2.	08:30-13:00	MPX5		Lieferung 5.0.01pre1
+	(Nachmittag frei)
+
+----- KW 7 -----
+13.2.	08:30-10:30	RCL		Auswertung Performance Tests
+	10:30-11:00	MPX5		FENT-Support (Tel. Salzmann)
+	11:00-12:30	RCL
+	13:00-14:00	MPX5		FENT-Support (Tel. Salzmann)
+	14:00-19:30	RCL
+14.2.	08:30-10:00	MPX5		Abschluss Entwicklung
+	10:00-11:30	RCL
+	11:30-12:00	OBS		Support MF
+	12:00-12:30	Rolotec		Zeiterf.
+	(Nachmittag frei)
+15.2.	09:00-11:00	MPX Pikett	Test Zugänge (citrix, RAS)
+	11:00-13:00	RCL
+	13:30-18:30	QA-Tools	Vorb. Release 3.1
+16.2.	08:30-12:30	QA-Tools	Test
+	13:30-18:00	QA-Tools	Dok. Packaging, Lieferung
+17.2.	07:30-09:30	QA-Tools	Ablage
+	09:30-11:30	MPX Wartung	Tel. Marano, Lenicka, Rezvani
+	11:30-12:30	MPX5		Integr. updateEoeSymbol() in svcstd.so (keine Locks in SymbolConverter)
+	(Nachmittag frei)
+
+----- KW 8 -----
+20.2.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-09:30	MPX5		Bug6891
+	09:30-10:00	MPX Pikett	Vorb. Bespr. Patch-Lieferung als rpm
+	10:00-11:00	RCL		Update Performancetest-Scripts
+	11:00-11:30	RCL		Koordination BI, MN, SCU (NonBlockingQueue)
+	11:30-13:00	RCL		Testauswertung
+	13:30-15:00	RCL
+	15:00-15:30	MPX Pikett	Bespr. Patch-Lieferung als rpm
+	15:30-18:30	RCL
+21.2.	08:30-12:30	MPX Pikett	Lieferung 5.0.00_5 als rpm
+	(Nachmittag frei)
+22.2.	08:00-11:00	MPX5		Update Admin-HB, Changelog, Bugzilla
+	11:00-11:30	MPX Support	Tel. Reza (fehlende Abhängikeiten im optimierten SVC-Modul)
+	12:00-12:30	MPX5
+	14:00-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-18:00	MPX5
+	18:00-18:30	MPX Support	Support Reza (missing symbols in svc41.so)
+23.2.	08:00-09:00	MPX Support	Release 5.0.01pre2
+	09:00-10:30	Rolotec		unprod. (Review SIX C++ Coding Guidelines)
+	10:30-13:00	RCL		Anwendungsbeispiel f. NonBlockingQueue (SCU)
+	13:30-16:00	RCL		Checkin, Dok. update
+	16:00-17:00	ESTV		Tel. Teo/Spieler (Ablauf SW-Lieferung)
+24.2.	08:30-12:30	RCL		Auswertung Performance-Tests
+	(Nachmittag frei)
+
+----- KW 9 -----
+27.2.	08:00-09:30	RCL		Auswertung Performance-Tests
+	09:30-10:00	DCSRP		Tel. Lenicka (Fragen zu DCSRP)
+	10:00-10:30	MPX Pikett	INC757977
+	10:30-11:00	ELIAS		Tel. MHA wg. Lieferprozess
+	11:00-12:30	RCL
+	13:30-17:00	OBS3 		RCL: erw. List::Iterator::insert()
+	17:00-18:30	DEV-Tools	Update asn1cc f. FlexeLint, Jenkins-Jobs
+28.2.	08:00-10:00	OBS3		Vorb. RCL Release 1.5.05
+	10:00-10:30	MPX Pikett	Tel. Lenicka (cmdsvc via xinetd)
+	10:30-12:30	RCL		Release 1.5.05
+	(Nachmittag frei)
+29.2.	08:00-11:00	MPX5		Release 5.0.01 (Admin-HB)
+	11:00-11:30	MPX Pikett	Tel. Lenicka (Fragen zu DCSRP Restart)
+	11:30-12:30	MPX5
+	13:30-19:00	MPX5		Lieferung Release 5.0.01
+	19:00-19:30	Rolotec		Zeiterf.
+	19:30-20:00	RCL		Release 1.5.06 ohne fixe openldap/mysql-Versionen
+1.3.	08:00-10:00	Rolotec		Vorb. MA-Gespr.
+	10:00-11:30	Rolotec		MA-Gespr.
+	12:00-18:00	Rolotec		Review SIX C++ Coding Guidelines
+2.3.	08:30-09:00	MPX Pikett	Anfrage MNY wg. case-sensitive Symbol/Valor-Conversion
+	09:00-10:00	MPX5		Vorb. Release 5.0.02 mit RCL 1.5.06
+	(Nachmittag frei)
+
+----- KW 10 -----
+5.3.	09:00-11:00	RCL		Erw. BBuffer f. iD2
+	11:00-11:30	MPX Pikett	Tel. Reza wg. SODHK-Problemen in USA
+	11:30-12:30	RCL
+	13:30-14:00	MPX5		Tel. Marano wg. div. Bugzillas
+	14:00-15:00	MPX5		Bugzillas 6632, 6926
+	15:00-18:00	RCL		Release 1.5.06pre1
+	18:00-19:00	MPX5		Vorb. 5.0.02pre1 mit RCL 1.5.06pre1
+6.3.	08:00-11:30	RCL		Release 1.5.06pre2
+	11:30-14:00	MPX5		Rebuild mit RCL 1.5.06pre2, Test
+	(Nachmittag frei)
+7.3.	07:00-08:00	RCL		Update Release 1.5.06
+	08:00-08:30	Rolotec		Info PIP 2012 (JB)
+	08:30-10:00	MPX5		Checkin, Rebuild mit RCL 1.5.06
+	10:00-10:30	Rolotec		MPS-Bespr. wg. LDAP-Problemen (abgesagt)
+	10:30-11:00	MPX5		Bespr. weiteres Vorgehen Bug6632
+	11:00-12:30	MPX4 Wartung	Vorb. ahorn f. SODHK-Tests (Bug6632)
+	13:30-19:30	MPX4 Wartung	Analyse Bug6632 (nicht reproduzierbar)
+8.3.	08:00-12:30	MPX5		CRs, Bug6955 (aka Bug6632)
+	13:30-19:00	MPX5		Analyse Bug6955
+9.3.	08:00-12:30	MPX5
+	(Nachmittag frei)
+
+----- KW 11 -----
+12.3.	08:00-12:30	MPX5		Bug6955
+	13:00-17:30	MPX5
+13.3.	08:30-13:00	MPX5
+	(Nachmittag frei)
+14.3.	08:00-10:00	MPX5		svcstd.so 5.0.00_6
+	10:00-10:30	OBS3		Tel. Lenicka (Fragen wg. GSN pro Listing und fehlenden mtimes)
+	10:30-11:00	Rolotec		Bespr. YVO wg. Börsenfeiertagen (ITSM771511)
+	11:00-12:30	RCL		Release 1.5.07 f. iD2
+	14:00-18:30	MPX5
+15.3.	08:00-13:00	MPX5
+	14:00-18:00	MPX5
+16.3.	08:00-14:00	MPX5
+	(Nachmittag frei)
+
+----- KW 12 -----
+19.3.	08:30-12:30	RCL		Koordination, Fertigstellung Release 1.5.08
+	14:00-18:30	MPX5		Release 5.0.00_6
+20.3.	08:30-13:00	MPX5		Lieferung 5.0.00_6
+	(Nachmittag frei)
+21.3.	08:00-12:30	MPX5		Update Dok. f. 5.0.02
+	13:30-20:30	MPX5		Lieferung Release 5.0.02pre1
+22.3.	07:30-08:30	MPX5		Ablage Release 5.0.02pre1
+	08:30-09:30	Rolotec		Abwesenheitsplanung mit BI
+	09:30-11:00	Rolotec		Zeiterf.
+	11:00-12:30	RCL		erw. Funktions- & Performance-Tests
+	14:00-17:30	RCL
+23.3.	08:00-12:00	RCL
+	(Nachmittag frei)
+
+----- KW 13 -----
+26.3.	08:00-12:00	RCL		verb. Auswertung Performance-Tests
+	12:00-18:00	Rolotec		Indexium
+27.3.	08:00-09:00	RCL
+	09:00-13:00	MRP Bridge	QA, Tests
+	(Nachmittag frei)
+28.3.	08:00-12:30	MRP Bridge	Code Review, Tests
+	14:00-20:30	MRP Bridge
+29.3.	08:00-12:30	MRP Bridge
+	13:30-19:30	MRP Bridge
+30.3.	07:30-13:30	MPX5		Release 5.0.02pre2 (Bug6975)
+	14:00-14:30	Rolotec		Zeiterf.
+	(Nachmittag frei)
+
+----- KW 14 -----
+2.4.	08:00-10:00	MRP Bridge
+	10:00-13:00	MPX5		Lieferung 5.0.02
+	14:00-17:30	RCL
+3.4.	08:00-10:00	MRP Bridge
+	10:00-13:30	QA-Tools	Erw. lana (throughput), mdfstat
+	14:00-18:30	QA-Tools	
+	(Nachmittag frei)
+4.4.	08:00-09:30	MRP Bridge
+	09:30-10:00	Rolotec		Info AH: neue Projekte
+	10:00-12:30	QA-Tools
+	(Nachmittag krank)
+5.4.	08:00-09:30	MRP Bridge
+	09:30-11:30	MTI		Zwischenbericht, Bespr. mit YVO
+	11:30-12:30	QA-Tools	Checkin
+	14:00-15:00	RCL
+	15:00-16:30	Rolotec		Bürowechsel
+	16:30-17:00	Rolotec		Zeiterf.
+	17:00-18:00	RCL		Checkin, Update Build-Server
+6.4.	(Karfreitag)
+	
+----- KW 15 -----
+9.4.	(Ostermontag)
+10.4.-13.4.	(Ferien)
+
+----- KW 16 -----
+16.4.	08:00-14:00	Magellan	Bewerbungsgespr.
+	14:30-17:30	MPX5		Analyse Crash Failover-Slave
+17.4.	08:00-15:00	MPX5		Bug6978
+18.4.-20.4.	(Ferien)
+
+----- KW 17 -----
+23.4.-27.4.	(Ferien)
+
+----- KW 18 -----
+30.4.	08:00-10:30	Rolotec		Vorb. Abbau birg/burg
+	10:30-12:30	MPX5		Bug6986
+	13:00-15:15	MPX5		Update Admin-HB (Merge 5.0.03 Changes)
+	15:15-15:45	Rolotec		Team-Meeting SrvSys
+	15:45-17:00	MPX5		CR6979
+	17:00-17:30	Rolotec		Zeiterf.
+1.5.	08:30-13:00	RCL		Config: Korr./Erw. Unittests
+	14:00-17:30	RCL		Vorb. Release 1.5.10
+2.5.	08:00-10:30	MPX		Decomissioning birg/burg, Update DevWiki
+	10:30-11:00	Magellan	Tel. G.Stark, R.End, R.Chartois
+	11:00-13:30	MPX5		Vorb. 5.0.04 (mit RCL 1.5.10)
+	14:00-14:45	Rolotec		Bespr. Magellan-Administrativa (YVO)
+	14:45-15:15	(abwesend)
+	15:15-18:00	MPX5		Tel. Marano, Analyse Bugzillas
+3.5.	08:00-09:00	Rolotec		Build-Server Maint.
+	09:00-12:30	MPX5		Update Dok. f. 5.0.04 (Merge von 5.0.03)
+	13:00-15:00	MPX5		Preview 5.0.04
+4.5.	07:15-11:00	Magellan	Einarbeitung (ZH)
+	12:00-17:15	Magellan
+
+----- KW 19 -----
+7.5.	08:30-12:30	MPX5		Analyse CRs
+	13:30-14:30	RCL
+	14:30-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-17:45	Rolotec		
+8.5.	07:15-13:00	Magellan	Einarbeitung
+	13:30-17:45	Magellan
+9.5.	07:15-13:00	Magellan
+	13:30-18:15	Magellan
+10.5.	07:15-13:00	Magellan	Centralized Logging
+	13:45-17:45	Magellan
+11.5.	07:15-12:30	Magellan
+	13:00-18:15	Magellan
+
+----- KW 20 -----
+14.5.	08:00-08:30	ELIAS		Vorb. IDOL-Evaluation
+	08:30-09:30	RCL		Dok., Checkin
+	09:30-10:30	(abwesend)
+	10:30-11:30	RCL
+	11:30-12:00	RCL		Koordination
+	14:30-15:30	Rolotec		Team-Meeting
+	15:30-16:30	MPX5		Review MPE-Changes (SCU)
+	16:30-17:30	MPX5		Update 5.0.04 (RCL 1.5.10)
+15.5.	07:45-12:45	Magellan	Centralized Logging
+	13:15-17:45	Magellan
+16.5.	07:45-12:45	Magellan
+	13:15-17:15	Magellan
+17.5.	(Auffahrt)
+18.5.	07:45-12:45	Magellan
+	13:15-17:15	Magellan
+
+
+----- KW 21 -----
+21.5.	08:00-09:30	Rolotec
+	09:30-11:30	ELIAS		Abnahme (BIT)
+	12:30-14:00	Magellan 	Townhall Meeting
+	14:00-17:45	Magellan	Centralized Logging
+22.5.	07:45-12:45	Magellan
+	13:15-17:15	Magellan
+23.5.	07:45-12:45	Magellan
+	13:15-17:15	Magellan
+24.5.	07:45-11:45	Magellan
+	12:45-17:15	Magellan
+25.5.	08:00-12:30	Magellan	Conflation (Arbeit von Biel aus)
+	13:30-18:30	MPX5		Pre-Release 1 f. MPX 5.0.04
+
+----- KW 22 -----
+28.5.	(Pfingstmontag)
+29.5.	07:45-12:30	Magellan 	Conflation
+	13:30-14:00	Magellan	Vorb. Code Review Centralized Logging
+	14:00-14:30	(Bespr. mit JB)
+	14:30-17:45	Magellan	Logging Code Review
+30.5.	07:45-12:30	Magellan	Update Centralized Logging
+	13:00-17:45	Magellan
+31.5.	07:45-12:30	Magellan	Checkin Centralized Logging
+	13:00-17:45	Magellan	Conflation
+1.6.	07:00-08:00	Rolotec		Zeiterf.
+	08:00-12:45	Magellan
+	14:00-17:00	Magellan
+
+----- KW 23 -----
+4.6.	07:30-08:30	RCL		Release 1.5.10
+	08:30-13:00	MPX5		Release 5.0.04 (basierend auf RCL 1.5.10)
+	13:00-13:30	MPX Wartung	Update Bugzilla 5654 (Missing MDF/DCS Input)
+	14:00-14:30	ELIAS		Bespr. mit YVO
+	14:30-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-17:00	MPX Wartung	MDF-Empfang im r2-Netz (Bug5654)
+5.6.	07:45-13:00	Magellan	Conflation Plugin
+	13:30-18:15	Magellan
+6.6.	07:45-13:30	Magellan
+	14:00-17:45	Magellan
+7.6.	07:45-13:00	Magellan
+	13:30-17:45	Magellan
+8.6.	08:00-13:00	Magellan	Release Preparation (Wiki)
+	14:00-17:30	Magellan	Code Review (Biel)
+
+----- KW 24 -----
+11.6.	08:00-09:00	MPX5		Vorb. 5.0.04, Build 2
+	09:00-14:30	(abwesend)
+	14:30-15:00	Rolotec		Team-Meeting SrvSys
+	15:00-16:30	MPX5
+	16:30-17:00	MPX Pikett	Probleme mit DCSRP-Restart ab DSN (2.0.6)
+	17:00-17:30	MPX5		Lieferung 5.0.04-2
+12.6.	07:45-12:30	Magellan	Vorb. Release 0.2.1
+	13:00-18:45	Magellan	Ranko Handover
+13.6.	07:45-13:00	Magellan	Vorb. Release 0.2.1
+	14:00-18:45	Magellan
+14.6.	07:45-12:30	Magellan
+	13:00-14:00	Magellan	Lieferung Release 0.2.1
+	14:00-17:45	Magellan	Ranko Handover
+15.6.	07:00-08:00	MPX		Mail ABI wg. rejected deliveries
+	08:00-10:00	Rolotec		Statusbericht Magellan f. JB
+	10:00-10:30	Rolotec		Bespr. mit YVO 
+	10:30-12:30	Magellan	Conflation
+	13:30-17:30	Magellan
+
+----- KW 25 -----
+18.6.	08:00-11:00	MPX5		Test MPX 5.0.04, Build 3 (Bug7010)
+	11:00-12:30	RCL		Koordination mit BI/MN
+	13:00-17:30	MPX5		Vorb. Package 5.0.04, Build 3
+19.6.	07:45-12:30	Magellan	Vorb. Testsysteme ds02/ds04
+	13:00-17:15	Magellan
+20.6.	08:00-12:30	Magellan	(Biel)
+	13:00-17:00	Magellan
+21.6.	07:45-12:30	Magellan	
+	13:00-17:15	Magellan
+22.6.	08:00-13:30	Magellan	(Biel)
+	14:00-17:00	Magellan	Code Review (SIN classes)
+
+----- KW 26 -----
+25.6.	08:30-12:30	ELIAS		Lieferung DBA-Undeployment (mit DGI)
+	(abwesend)
+	15:30-17:30	Rolotec		unprod.
+26.6.	07:45-12:30	Magellan	Conflation
+	13:00-17:15	Magellan
+27.6.	07:45-12:30	Magellan
+	13:00-17:15	Magellan
+28.6.	08:00-12:30	Magellan	Merge with Rene (Biel)
+	14:00-16:30	Rolotec		Bi-Annual Infomeeting (YVO)
+	16:30-17:30	Magellan
+29.6.	07:45-12:30	Magellan
+	13:00-17:15	Magellan	Telco: "One Client Problem"
+
+----- KW 27 -----
+2.7.	08:00-09:30	Rolotec		Zeiterf.
+	09:30-12:30	MPX5		Bug7013
+	13:00-17:00	MPX5
+3.7.	09:00-09:30	Magellan	Status-Mail f. Ronan
+	09:30-11:30	MPX5		Vorb. MPX 5.0.04, Build 4
+	(Nachmittag frei)
+4.7.	07:00-07:30	ELIAS		Anp. Lieferverfahren
+	07:30-13:00	Magellan	Conflation, CI
+	13:30-17:00	Magellan
+5.7.	07:45-12:30	Magellan	Perf.tests, CI
+	13:00-17:15	Magellan
+6.7.	07:45-12:30	Magellan
+	13:00-17:15	Magellan
+	
+----- KW 28 -----
+9.7.	08:00-09:00	Magellan	Mail KSC wg. Time Reporting (L.Dossetto)
+	09:00-12:30	Rolotec
+	13:00-17:00	Rolotec
+10.7.	07:45-12:30	Magellan	WS Planning R1.5 (Features)
+	13:00-17:15	Magellan	CI
+11.7.	07:45-13:00	Magellan	(Biel)
+	13:30-17:45	Magellan
+12.7.	07:45-12:30	Magellan	Perf.tests
+	13:00-18:15	Magellan
+13.7.	07:15-12:30	Magellan	Perf.tests, GIT Handover from Glen
+	13:00-17:15	Magellan	Setup Build-Server
+
+----- KW 29 -----
+16.7.	08:00-09:00	MPX Pikett	PBI16744
+	09:00-10:00	Rolotec		Zeiterf.
+	10:00-12:30	Rolotec		unprod.
+	13:00-14:30	RCL		Analyse Erw. CommandApi2 (SCU)
+	14:30-15:30	Rolotec		Team-Meeting SrvSys
+	15:30-17:30	RCL		Impl. Erw. CommadApi2 (addCommand)
+17.7.	07:45-12:45	Magellan	Planung R1.x
+	13:30-18:15	Magellan
+18.7.	08:00-12:30	Magellan	Analyse logging performance (Biel)
+	13:00-18:30	Magellan
+19.7.	08:00-12:30	Magellan	Conflation plugin unit tests (Biel)
+	13:00-17:30	Magellan
+20.7.	07:45-13:00	Magellan	Build-Server, Wiki
+	13:30-17:45	Magellan
+
+----- KW 30 -----
+23.7.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:30	Rolotec		Support HLI
+	13:30-17:30	Rolotec
+24.7.	07:45-13:00	Magellan	(ZH)
+	13:30-17:45	Magellan
+25.7.	08:00-12:30	Magellan	(Biel)
+	13:00-18:00	Magellan
+26.7.	08:00-12:30	Magellan	(Biel)
+	13:00-17:30	Magellan
+27.7.	07:45-12:30	Magellan	(ZH) Planung Sprint 1
+	13:30-18:45	Magellan
+
+
+----- KW 31 -----
+30.7.	08:30-12:30	RCL		LdapApi2
+	13:30-18:30	Magellan	(Biel)
+31.7.	07:45-12:30	Magellan	(ZH)
+	13:00-18:15	Magellan
+1.8.	(Nationalfeiertag)
+2.8.	07:00-07:30	Rolotec		Zeiterf.
+	07:30-12:30	Magellan	(Biel)
+	13:00-17:30	Magellan
+3.8.	07:45-11:30	Magellan	(ZH)
+	12:00-17:15	Magellan
+
+----- KW 32 -----
+6.8.	09:00-10:00	Rolotec		RCL (LdapApi2)
+	10:00-13:00	MPX Wartung	Bug7018
+	13:00-17:00	MPX Wartung
+7.8.	07:45-11:30	Magellan	(ZH) Comm. Protocol, Build Server
+	12:00-17:15	Magellan
+8.8.	09:00-10:00	MPX Wartung	Bug7018
+	10:00-12:30	Magellan	(Biel) Multi-Channel Clients
+	13:00-18:30	Magellan
+9.8.	08:00-09:00	MPX Wartung
+	09:00-12:30	Magellan	(Biel)
+	13:00-17:30	Magellan
+10.8.	07:45-11:30	Magellan	(ZH) Planung Sprint 2
+	12:30-18:45	Magellan
+	
+----- KW 33 -----
+13.8.	09:00-12:30	RCL		erw. LdapApi (basierend auf LdapApi2)
+	13:30-14:30	RCL
+	14:30-15:00	Rolotec		Team-Meeting SrvSys
+	15:00-16:00	Magellan	Mail High-Level Design
+	16:00-18:00	RCL
+14.8.	07:45-12:00	Magellan	(ZH)
+	12:30-17:15	Magellan
+15.8.	07:45-12:30	Magellan	(ZH)
+	13:00-17:45	Magellan
+16.8.	08:00-12:30	Magellan	(Biel)
+	13:00-17:30	Magellan
+17.8.	07:15-11:30	Magellan	(ZH)
+	12:00-18:15	Magellan
+
+----- KW 34 -----
+20.8.	09:00-12:30	Rolotec
+	14:00-18:30	DCSRP2		Bug 7018 (Vorb. Package)
+21.8.	07:45-11:30	Magellan	(ZH)
+	12:00-17:15	Magellan
+22.8.	08:00-12:30	Magellan	(Biel)
+	13:00-18:00	Magellan
+	18:00-19:00	DCSRP2		Lieferung 2.2.1_1
+23.8.	07:45-11:30	Magellan 	(ZH)
+	12:00-17:45	Magellan
+24.8.	07:45-12:00	Magellan	(ZH) Planung Sprint 3
+	12:30-17:15	Magellan
+25.8.	09:00-13:00	Magellan	Pre-holiday cleanup
+	13:00-13:30	Rolotec		Zeiterf.
+
+----- KW 35 -----
+27.-31.8	(Ferien)
+
+----- KW 36 -----
+3.9.	09:00-10:30	RCL		Vorb. Release 1.5.11
+	10:30-12:30	MPX5		Analyse Bugzillas 7019-7021
+	13:00-17:30	Magellan	Patrol Format B	
+4.9.	07:45-13:00	Magellan	(ZH)
+	13:30-17:15	Magellan
+5.9.	08:00-12:30	Magellan	(Biel)
+	13:00-18:00	Magellan
+6.9.	07:45-11:30	Magellan	(ZH) Planung Sprint 4
+	12:30-17:15	Magellan
+7.9.	08:00-12:30	Magellan	(Biel) Erw. Conflation Plugin Stats
+	13:00-17:30	Magellan
+
+----- KW 37 -----
+10.9.	08:00-08:30	Magellan	Mail ENR (Conflation)
+	08:30-11:30	MPX5		Bugzillas 7019, 7020
+	11:30-12:30	RCL		
+	13:00-14:30	Rolotec		???
+	14:30-16:00	Rolotec		Team-Meeting SrvSys
+	16:00-17:30	Rolotec
+11.9.	07:45-11:30	Magellan	(ZH)
+	12:00-17:15	Magellan
+12.9.	08:00-12:30	Magellan	(Biel)
+	13:00-18:30	Magellan
+13.9.	08:00-13:00	Magellan	(Biel)
+	13:30-20:00	Magellan
+14.9.	07:45-11:30	Magellan	(ZH)
+	11:30-13:00	MPX Wartung	omrp-Problem Singapur
+	13:30-17:15	Magellan
+
+----- KW 38 -----
+17.9.	08:00-12:30	MPX Wartung	omrp-Problem Singapur
+	13:00-14:00	RCL		Freigabe Release 1.5.11
+	14:00-17:30	MPX Wartung
+18.9.	07:45-13:00	Magellan	(ZH)
+	13:30-17:45	Magellan
+19.9	08:00-12:30	Magellan	(Biel)
+	13:00-21:00	Magellan
+20.9.	08:00-12:30	Magellan	(Biel) Abschl. Sprint 4
+	13:00-20:30	Magellan	Vorb. Demo
+21.9.	06:45-11:30	Magellan	(ZH) Review Sprint 4
+	12:30-17:15	Magellan	Planung Sprint 5
+
+----- KW 39 -----
+24.5.	08:30-13:30	MPX Wartung	Lieferung MPX 4.0.19_1
+	14:30-15:00	Rolotec		Team-Meeting SrvSys
+	15:00-17:30	Magellan	Korr. MDF/SIN Mapping
+25.5.	07:45-12:30	Magellan	(ZH) Sprint 5
+	13:00-17:45	Magellan
+26.5.	08:00-12:30	Magellan	(Biel)
+	13:00-18:30	Magellan
+27.5.	07:30-12:30	Magellan	(Biel)
+	13:00-18:00	Magellan
+28.5.	07:45-11:30	Magellan	(ZH)
+	12:30-18:45	Magellan
+	
+----- KW 40 -----
+1.10.	07:30-08:00	Rolotec		Zeiterf.
+	08:00-12:30	MPX Wartung	Bug 7019
+	14:00-14:30	MPX Wartung
+	14:30-15:00	Rolotec		Team-Meeting SrvSys
+	15:00-15:30	RCL		Bespr ASA wg. Problemen mit GCC 4.7
+	15:30-17:30	MPX Wartung
+	17:30-19:00	Magellan	DATETIME SIN writing
+2.10.	07:45-11:30	Magellan	(ZH) Sprint 5
+	12:00-18:30	Magellan
+3.10.	08:00-12:30	Magellan	(Biel)
+	13:00-20:30	Magellan	Support TK USA (MDDS client)
+4.10.	08:00-12:30	Magellan	(Biel) Support TK USA (GIT update)
+	13:00-15:30	Magellan	Packaging
+5.10	07:45-11:00	Magellan	Sprint 5 review
+	11:00-12:00	Magellan	Town Hall Meeting
+	12:30-18:15	Magellan	Sprint 6 planning
+
+----- KW 41 -----
+8.10.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-10:30	RCL		Erw. XLog2 gem. ASA Patch
+	10:30-12:30	MPX Wartung	Bug 7019
+	13:30-14:00	MPX Wartung
+	14:00-14:30	Rolotec		Team-Meeting SrvSys
+	14:30-18:00	MPX Wartung	Vorb. Release 5.0.04_2
+9.10.	07:45-11:00	Magellan	(ZH) Sprint 6
+	12:00-20:00	Magellan
+10.10.	08:30-13:00	Magellan	(Biel)
+	13:30-19:30	Magellan
+11.10.	07:45-11:00	Magellan	(ZH)
+	11:30-17:45	Magellan
+12.10.	08:00-12:30	Magellan	(Biel)
+	13:00-18:30	Magellan
+
+----- KW 42 -----
+15.10.	08:00-12:30	Rolotec
+	13:00-18:00	Rolotec
+16.10.	08:00-12:30	Magellan	(Biel)
+	13:00-18:30	Magellan
+17.10.	07:45-11:00	Magellan	(ZH)
+	12:00-18:45	Magellan	
+18.10.	07:45-11:30	Magellan	(ZH) Review Sprint 6
+	12:00-17:45	Magellan	Planung Sprint 7
+19.10.	08:00-12:30	Magellan	(Biel) Maintenance Build-Server
+	13:00-14:30	Magellan	Review Delay-Design
+	14:30-17:30	Magellan	Maintenance
+
+----- KW 43 -----
+22.10.	08:30-13:00	Rolotec		Vorb. RCL 1.5.12
+	14:00-18:00	MPX5		Konsolidierung Patches, CR7026
+23.10.	08:30-12:30	Magellan	(Biel) Sprint 7
+	13:30-18:30	Magellan
+24.10.	07:45-11:30	Magellan	(ZH)
+	12:00-17:00	Magellan
+	(Team-Event: Bodega Espanol)
+25.10.	08:30-13:00	Magellan	(Biel)
+	13:30-19:00	Magellan
+26.10.	07:45-11:30	Magellan	(ZH)
+	12:00-18:15	Magellan
+
+----- KW 44 -----
+29.10.	08:00-12:30	MPX5		Release 5.0.05 (CR7026)
+	13:00-17:00	MPX5
+	17:00-18:30	Magellan	(Biel) Defect fixing
+30.10.	07:45-11:30	Magellan	(ZH)
+	12:00-19:30	Magellan
+31.10.	08:00-12:30	Magellan	(Biel)
+	13:00-20:30	Magellan
+1.11.	07:45-11:00	Magellan	(ZH) Sprint 7 Review
+	12:00-17:30	Magellan	Sprint 8 Planning
+2.11.	08:00-09:00	Rolotec		Zeiterf.
+	09:00-12:30	Magellan	(Biel) Design indirect selection
+	13:00-17:30	Magellan
+
+----- KW 45 -----
+5.11.	08:00-13:00	Magellan	(Biel) Design indirect selection
+	14:00-18:30	Magellan	Vorb. design reviews
+6.11.	07:45-11:30	Magellan	(ZH) design reviews delay/replay/indir. selection
+	12:30-15:30	Magellan
+	16:00-19:30	Magellan	(Biel) Dok., Wiki
+7.11.	08:00-12:30	Magellan	(Biel) Erw. FIAM header
+	13:00-16:00	Magellan	Defect fixing
+	(Abschiedsapero Peter Bögli)
+	18:00-19:30	Magellan
+8.11.	07:45-11:30	Magellan	(ZH) Design refdata storage
+	12:00-18:30	Magellan	Refdata storage
+9.11.	07:30-12:30	Magellan	(Biel)
+	13:00-20:30	Magellan
+10.11.	10:00-14:00	Magellan	(Biel)
+
+----- KW 46 -----
+12.11.	07:30-12:30	Magellan	(Biel) Refdata processing
+	13:30-18:30	Magellan
+13.11.	07:45-11:30	Magellan	(ZH)
+	12:00-18:15	Magellan
+14.11.	08:00-13:00	Magellan	(Biel)
+	13:30-18:00	Magellan
+15.11.	07:45-11:30	Magellan	(ZH) Abschluss Sprint 8
+	12:00-18:15	Magellan	Vorb. Sprint 9
+16.11.	08:00-13:00	Magellan	(Biel)
+	13:30-18:00	Magellan
+
+----- KW 47 -----
+19.11.	08:00-11:30	Magellan	(Biel)
+	11:30-12:00	Rolotec		RCL Koordination
+	13:00-15:00	Magellan
+	15:00-15:30	Rolotec		Team Meeting SrvSys
+	15:30-17:30	Magellan
+20.11.	07:45-12:30	Magellan	(ZH)
+	13:00-17:45	Magellan
+21.11.	08:00-13:30	Magellan	(Biel)
+	14:00-18:00	Magellan
+22.11.	07:45-13:00	Magellan	(ZH)
+	13:30-18:15	Magellan
+23.11.	08:00-13:00	Magellan	(Biel)
+	13:30-17:30	Magellan
+
+----- KW 48 -----
+26.11.	08:00-12:30	Magellan	(Biel)
+	13:00-17:30	Magellan
+27.11.	08:00-14:00	Magellan	(Biel)
+	(Nachmittag krank)
+28.11.	(krank)
+29.11.	(krank)
+30.11.	11:00-14:00	Magellan	(Biel) Vorb. Sprint 10
+	14:00-14:30	Rolotec		Zeiterf.
+
+----- KW 49 -----
+3.12.	07:45-11:30	Magellan	(ZH) Planung Sprint 10
+	12:00-17:45	Magellan	(ZH) Abschl./Review Sprint 9
+4.12.	08:00-12:30	Magellan	(Biel) Sprint 10
+	13:00-14:00	Magellan
+	14:00-15:30	Rolotec		Biannual Developer-Info
+	15:30-18:00	Magellan
+5.12.	07:45-12:30	Magellan	(ZH)
+	13:00-18:15	Magellan
+6.12.	07:45-12:30	Magellan	(ZH)
+	13:30-18:00	Magellan
+7.12.	08:00-13:30	Magellan	(Biel)
+	14:00-20:00	Magellan
+
+----- KW 50 -----
+10.12.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-13:00	Magellan	(Biel)
+	13:30-18:00
+11.12.	08:00-13:00	Magellan	(Biel)
+	14:00-18:30
+12.12.	07:45-11:00	Magellan	(ZH)
+	11:30-14:00	Magellan
+	14:00-15:00	MPX5		Bespr. offene CRs
+	15:00-17:45	Magellan
+13.12.	07:45-11:00	Magellan	(ZH)
+	11:30-17:45
+14.12.	08:00-13:00	Magellan	(Biel)
+	13:30-18:00
+
+----- KW 51 -----
+17.12.	08:30-09:00	Rolotec		Zeiterf.
+	09:30-13:00	Magellan	(Biel)
+	14:00-18:30	
+18.12.	08:00-12:30	Magellan	(Biel)
+	13:00-17:30
+19.12.	07:45-12:30	Magellan	(ZH)
+	13:00-18:15
+20.12.	07:45-12:30	Magellan	(ZH) Abschluss Sprint 10
+	13:00-17:00	Magellan
+21.12.	08:30-12:30	RCL
+	14:00-17:00	RCL
+
+----- KW 52 -----
+24.12.	09:00-12:30	Magellan	(Biel) Support QA, Chr. Dax
+25.12.	(Weihnacht)
+26.12.	(Stefanstag)
+27.12.	08:00-13:00	MPX5		CR6982
+28.12.	09:00-14:30	MPX5
+
+----- KW 53 -----
+31.12.	09:00-11:00	MPX5		Vorb. Release 5.0.06
+	11:00-11:30	Rolotec		Zeiterf.

@@ -1,0 +1,880 @@
+----- KW 1 -----
+3.1.	08:00-12:30	TBFWD		Portierung Tasks
+	14:00-17:30	TBFWD
+4.1.	09:30-13:30	TBFWD
+	14:30-18:00	TBFWD
+5.1.	07:30-12:30	TBFWD
+	14:00-18:30	TBFWD
+6.1.	08:00-13:00	TBFWD		Portierung DB-Editoren
+	14:00-16:30	TBFWD
+	16:30-18:00	iD2		Support TK (Erw. CS-Memory)
+	18:00-18:30	ESTV		Vorb. Abnahmetests
+7.1.	09:00-11:30	ESTV		ELIAS Abnahme
+	nachmittag frei
+	
+----- KW 2 -----
+10.1.	08:00-08:30	iD2		Bugzilla
+	08:30-09:00	Rolotec		Zeiterf.
+	09:00-13:00	TBFWD
+	14:00-18:30	TBFWD
+11.1.	08:00-09:00	TBFWD
+	09:00-10:00	iD2		Fehlersuche fehlende Contrib.-Stammdaten
+	10:00-12:30	TBFWD
+	14:00-18:30	TBFWD
+12.1.	08:30-12:30	TBFWD
+	14:00-14:30	TBFWD		Wartung (Korr. exch.tcl)
+	14:30-16:30	iD2		Korr. csfeed (entitlements)
+	16:30-20:30	TBFWD		Code cleanup & Doku
+13.1.	08:15-12:30	TBFWD		Feed Handler
+	14:00-17:30	TBFWD		Package-Building & Install.
+14.1.	08:00-12:30	TBFWD		Tests
+	14:00-16:30	TBFWD
+
+----- KW 3 -----
+17.1.-21.1.		Ferien
+
+----- KW 4 -----
+24.1.	09:00-10:30	TBFWD		ARS 473425: zu viele Listings
+	10:30-11:30	Rolotec		unprod. (Mails)
+	11:30-12:00	Rolotec		Zeiterf.
+	14:00-17:30	TBFWD		Fehlersuche Stammdaten
+25.1.	08:00-12:30	TBFWD		Korr. Feed Handler (FIAMs)
+	14:00-17:30	TBFWD
+26.1.	08:00-12:00	TBFWD		Support
+	nachmittag krank
+27.1.	krank
+28.1.	08:15-12:15	TBFWD		Kontr. Stammdaten
+	14:00-15:00	iD2		Bespr. Search-Strategie (Bug 1599)
+	15:00-15:30	Pikett		LLB: leere Seiten auf llb_e (Ber.)
+	15:30-16:00	PEP-Check	ARS 474641
+	16:00-17:30	TBFWD
+
+----- KW 5 -----
+31.1.	08:00-12:00	TBFWD		2-Byte VAT (Korr. Stammhandler)
+	13:30-16:00	ESTV		Abschlussbespr. ELIAS
+1.2.	08:15-12:45	TBFWD
+	14:00-14:30	Pikett		Postfinance
+	14:30-17:30	iD2		Korr. csdisp
+2.2.	08:30-10:30	ESTV		Vorb. DBA-Portierung
+	10:30-11:00	TBFWD		Support: Kontrolle Stammdaten
+	11:00-12:30	TBFWD	
+	14:00-16:00	ELIAS		Restanzen
+	16:00-16:30	Rolotec		Zeiterf.
+	16:30-17:30	iD2		Update birg (smarthouse)
+3.2.	08:00-10:30	Rolotec		unprod.
+	10:30-12:30	Pikett
+	14:00-16:00	Pikett
+	16:00-17:00	Rolotec		unprod.
+4.2.	08:00-12:30	Rolotec		unprod.
+	14:00-15:00	ELIAS		Patchlieferung
+	15:00-17:30	NMA		Einarb.
+	
+----- KW 6 -----
+7.2.	09:00-12:30	NMA		Messtool 
+	14:00-14:30	Rolotec		Zeiterf.
+	14:30-17:30	NMA		
+8.2.	08:00-12:30	NMA
+	14:00-18:30	NMA
+9.2.	08:15-12:45	TBFWD		FIAM-Fehlersuche
+	14:00-19:00	NMA		Latenzmessungen (HP & Sun m. Linux)
+10.2.	09:30-11:00	ESTV		Bespr. DBA (Hostettler)
+	13:30-16:00	ESTV		ELIAS: Korr. gem. Mängelliste
+11.2.	08:00-09:00	TBFWD
+	09:00-11:00	NMA		Bespr. Messtool
+	11:00-12:30	TBFWD
+	14:00-16:00	ESTV		Bespr. DBA (fi & bot)
+
+----- KW 7 -----
+14.2.	09:00-10:30	Rolotec		Zeiterf.
+	10:30-12:00	NMA		Vorb. Latenzzeitmessung
+	14:00-19:00	NMA		Latenzzeitmessungen
+15.2.	08:00-12:30	NMA
+	14:00-18:30	NMA		Auswertungen
+16.2.	08:00-08:30	NMA
+	08:30-11:30	TBFWD		Feed Handler m. FIAM trace
+	11:30-12:00	ESTV		Verity Tickets (View.java & rcadmin)
+	14:00-17:30	NMA		Spez. Messtool
+17.2.	08:30-11:30	TBFWD		Auswertung Tracefile
+	11:30-12:30	NMA
+	14:00-18:00	NMA
+18.2.	08:00-12:30	NMA
+	14:00-16:00	NMA
+	16:00-16:30	TBFWD		Umst. Filter-Adresse
+	16:30-17:00	ESTV		Pendenzen (Verity-Ticket)
+	
+----- KW 8 -----
+21.2.	09:30-11:00	NMA
+	11:00-11:30	Rolotec		Zeiterf.
+	11:30-12:30	NMA
+	14:00-17:30	NMA
+22.2.	08:45-12:45	NMA
+	13:15-14:15	TBFWD		Stammdatenproblem
+	14:15-17:45	NMA
+23.2.	08:00-10:30	TBFWD		Doku.
+	10:30-11:00	iD2		
+	11:00-12:30	TBFWD
+	14:00-17:30	TBFWD
+24.2.	08:00-09:00	Rolotec		unprod.
+	09:00-12:30	Rolotec		Oracle Kurs
+	13:30-17:00	Rolotec		Oracle Kurs
+25.2.	09:00-12:00	Rolotec		Oracle Kurs
+	13:30-17:00	Rolotec		Oracle Kurs
+
+----- KW 9 -----
+28.2.	08:30-09:00	Shark		Support PS (PFSUMCASH)
+	09:00-10:00	iD2		Support BI (Linux-Package)
+	10:00-10:30	Rolotec		Zeiterf.
+	10:30-12:30	iD2		Fehlersuche Linux-Blockierung
+	14:00-15:00	NMA		Diagramme (TME)
+	15:00-16:30	iD2		Debug Linux-Locks
+	16:30-17:30	TBFWD
+1.3.	08:00-10:30	TBFWD
+	10:30-13:00	iD2		Korr. chklim/csdisp
+	14:00-16:00	NMA		Bespr. + Spez.
+	16:00-17:30	iD2		Inst. csdisp (vegacore)
+2.3.	08:45-09:15	Rolotec		Zeiterf.
+	09:15-12:30	NMA		Spez. f. TK
+	14:00-15:30	NMA
+	15:30-16:00	NMA		Bespr. Latencymessresultate (LM)
+	16:00-17:30	iD2		Check Linux-Portierung (suniddev)
+3.3.	08:00-08:30	iD2		Changelog 2005-1
+	08:30-12:30	TBFWD		Administrationshandbuch
+	14:00-18:00	TBFWD
+4.3.	08:00-12:30	TBFWD
+	14:00-17:30	TBFWD
+
+----- KW 10 -----
+7.3.	08:30-09:30	iD2		Support BI (Reboot suniddev)
+	09:30-10:00	Rolotec		Zeiterf.
+	10:00-12:30	NMA		Portierung f. PPC64
+	14:00-17:30	Rolotec		Pikett
+8.3.	08:30-12:30	Rolotec		Pikett ARS (BEKB, Infi, Smarthouse)
+	14:00-16:30	Rolotec		Pikett ARS
+	16:30-18:00	NMA		PPC64-Port (ohne LDAP)
+9.3.	08:00-08:30	Rolotec		Pikett ARS
+	08:30-12:30	NMA		PPC64-Port
+	14:00-17:00	Rolotec		Pikett ARS
+	17:00-18:30	NMA		PPC64-Port
+10.3.	08:00-08:30	Rolotec		Pikett ARS
+	08:30-10:30	NMA		Setup hpiddev f. Latenzmessungen
+	10:30-12:30	NMA		Latenzmessungen hpiddev
+	13:30-17:30	NMA
+11.3.	08:00-09:30	iD2		Korr. csfeed (MDF Tables)
+	09:30-12:30	NMA	
+	14:00-16:30	NMA
+	16:30-17:30	Rolotec		Pikett (Abschluss ARS)
+	
+----- KW 11 -----
+14.3.	08:30-12:30	NMA		Latenzmessungen
+	14:00-18:30	NMA
+15.3.	08:00-12:30	NMA
+	14:00-17:00	NMA
+16.3.	08:00-13:00	NMA
+	14:30-15:30	TBFWD		Analyse BC117 Unterbruch
+	15:30-19:00	NMA
+17.3.	07:30-12:30	NMA
+	14:00-20:00	NMA
+18.3.	07:30-12:30	NMA
+	14:00-16:30	NMA
+	16:30-17:00	Rolotec		Zeiterf.
+
+----- KW 12 -----
+21.3.	09:00-12:30	NMA		Dok.Studium
+	14:00-15:30	NMA
+	15:30-17:30	Shark		Korr. Gain/Loss f. Bonds (Borsalino)
+22.3.	08:00-11:00	NMA
+	11:00-12:00	Rolotec		MA-Gespr.
+	14:00-18:00	NMA		x86-Solaris Port.
+23.3.	08:00-12:30	NMA
+	14:00-16:00	NMA		x86-Solaris Messungen (first)
+24.3.	08:30-11:00	Shark		Pf-Sort by Chg (Raiffeisen)
+	11:00-12:30	NMA
+	14:00-16:00	Rolotec		unprod.
+
+----- KW 13 -----
+29.3.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-10:00	TBFWD		Routing f. TKNY falsch (TK)
+	10:00-12:30	NMA		dyn. Reload von Libraries
+	14:00-18:30	NMA
+30.3.	08:00-12:30	NMA
+	14:00-14:30	Shark		Dok. Update
+	14:30-16:00	NMA
+	16:00-16:30	iD2		XML Trace f. TK Singapur
+	16:30-18:30	NMA
+31.3.	08:30-10:30	iD2		Korr. Loglevels (csdisp, csfeed, limits)
+	10:30-12:00	NMA		SAD Studium
+	14:00-18:00	iD2		Checkin, Changelog
+1.4.	08:30-12:30	iD2		XML Trace f. TK Singapur
+	14:30-15:00	iD2
+	15:00-15:30	TBFWD		Stamm Handler ohne Delete
+	15:30-16:00	Rolotec		Zeiterf.
+2.4.	18:00-19:00	Rolotec		Pikett (Ausfall bekb.ch)
+
+----- KW 14 -----
+4.4.-8.4.		Ferien
+
+----- KW 15 -----
+11.4.	08:30-09:30	Rolotec		Zeiterf., Mailcheck
+	09:30-12:30	NMA		PPS-Prototyp
+	14:00-15:30	Pikett		ARS Tickets
+	15:30-17:30	NMA
+12.4.	08:00-09:30	NMA
+	09:30-11:00	TBFWD		BufOut f. feed_handler
+	11:00-12:30	NMA
+	14:00-16:30	NMA
+	16:30-17:30	Pikett		ARS
+13.4.	08:00-10:00	TBFWD		Inst. orchid
+	10:00-11:00	iD2		Korr. MpsCtrl (config)
+	11:00-12:30	NMA		
+	14:00-16:00	NMA		Bespr.
+	16:00-17:30	TBFWD		BufOut-Integr.
+14.4.	08:00-10:30	Pikett
+	10:30-12:30	NMA		PPS Prototyp
+	14:00-18:30	NMA
+15.4.	08:00-12:00	NMA
+	12:00-13:00	iD2		offene Bugs (PK)
+	15:00-19:00	NMA
+
+----- KW 16 -----
+18.4.	09:00-10:00	Rolotec		unprod.
+	10:00-12:30	NMA
+	14:00-18:00	NMA
+19.4.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:30	NMA
+	14:00-17:30	NMA
+20.4.	08:00-12:30	NMA
+	14:00-18:00	NMA
+21.4.	08:30-12:30	NMA
+	14:00-18:30	NMA
+22.4.	08:00-12:30	NMA
+	14:00-16:30	NMA		Inst. hpiddev, checkin
+
+----- KW 17 -----
+25.4.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:30	NMA		Test, debug
+	15:00-18:30	ESTV		Mini-BHB
+26.4.	08:00-11:00	ESTV
+	11:00-11:30	NMA
+	14:30-17:30	Rolotec		PC-Update (SuSE 9.3)
+27.4.	08:00-09:30	Rolotec
+	09:30-12:30	ESTV
+	14:00-17:30	NMA		Vorb. Package
+28.4.	08:30-12:30	NMA	
+	14:30-16:30	NMA		Testinstall. nma01
+	16:30-19:00	iD2		Analyse delays
+29.4.	08:00-09:00	NMA		Install nma02
+	09:00-10:00	iD2		Bespr. delays
+	10:00-12:00	NMA		Bespr. I2
+	14:00-15:30	NMA		Vorb. Package
+	15:30-17:30	iD2		delay-Analyse
+	17:30-18:00	NMA		Lieferung
+	
+----- KW 18 -----
+2.5.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:30	NMA		Stammdaten in HLS
+	14:00-18:30	NMA
+3.5.	08:00-12:30	NMA
+	14:00-17:30	NMA
+4.5.	08:00-12:30	NMA
+	15:00-18:00	NMA
+5.5.	Auffahrt
+6.5.	08:30-10:00	NMA		Eval. XL C++ f. ibmiddev
+	10:00-12:30	iD2		Bespr. Optimierungen
+	14:00-16:30	NMA		Eval. XL C++
+
+----- KW 19 -----
+9.5.	08:00-09:00	Rolotec		Zeiterf.
+	09:00-12:15	NMA		HLS-Portierung
+	14:00-18:45	NMA		Masterfields in HLS
+10.5.	08:00-12:00	NMA
+	14:00-18:30	NMA
+11.5.	07:00-12:30	NMA
+	14:00-17:30	NMA
+12.5.	08:00-12:30	NMA
+	14:00-17:30	ESTV		Inst. K2 Patches (30 km Auto)
+13.5.	08:00-10:00	ESTV		Dok. update
+	10:00-12:30	NMA
+	14:00-17:00	NMA
+
+----- KW 20 -----
+16.5.	Pfingsmontag
+17.5.	07:30-07:30	Rolotec		Password Change
+	08:00-08:30	Rolotec		Zeiterf.
+	08:30-09:00	Pikett		ARS 489940
+	09:00-12:30	NMA
+	14:00-19:00	NMA
+18.5.	07:30-10:00	NMA
+	10:00-12:30	NMA		Bespr. BI, KM
+	14:00-18:30	NMA
+19.5.	07:00-09:00	NMA		Anp. DCS API (MDF-Clash)
+	09:00-12:30	NMA
+	14:00-19:00	NMA
+20.5.	07:00-11:00	NMA
+	11:00-12:30	iD2		Support NO (csfeed-Optim.)
+	14:00-17:30	NMA
+
+----- KW 21 -----
+23.5.	07:30-08:00	Rolotec		Zeiterf.
+	08:00-12:30	NMA
+	14:00-19:00	NMA
+24.5.	07:30-12:30	NMA
+	14:00-18:30	NMA
+25.5.	07:30-12:15	NMA
+	13:30-17:30	NMA
+26.5.	07:30-09:00	NMA
+	09:00-11:45	Rolotec		Intro BST (Latenzzeitmessungen)
+	11:45-12:15	TBFWD
+	13:30-14:30	NMA		
+	14:30-16:00	Rolotec		Intro BST
+	16:00-18:30	NMA
+27.5.	07:00-12:30	NMA
+	14:00-15:00	Rolotec		Tests mit BST
+	15:00-16:00	NMA		Checkin
+	16:00-16:30	Rolotec		Zeiterf.
+
+----- KW 22 -----
+30.5.-3.6.		Ferien
+
+----- KW 23 -----
+6.6.	08:15-09:00	Rolotec		Mailablage, Zeiterf.
+	09:00-12:30	Borsalino	Pf-Konsolidierung
+	14:00-17:30	Borsalino
+7.6.	08:30-12:15	NMA		Eval. IBM
+	12:45-17:30	NMA
+8.6.	08:15-13:00	NMA		Integr. HLS
+	14:00-18:30	NMA
+9.6.	07:00-12:45	NMA
+	14:15-19:30	NMA
+10.6.	07:00-12:30	NMA		Framework f. Pluggable Modules (msgmgr)
+	14:00-19:00	NMA
+
+----- KW 24 -----
+13.6.	07:30-08:15	NMA
+	08:15-08:45	Rolotec		Zeiterf.
+	08:45-13:00	NMA
+	14:00-18:30	NMA
+14.6.	08:45-12:15	NMA
+	14:00-20:00	NMA
+15.6.	07:30-12:30	NMA
+	14:15-17:15	NMA
+16.6.	07:00-12:30	NMA
+	14:00-18:30	TBFWD		Korr. Housekeeping
+17.6.	07:30-10:00	NMA
+	10:00-12:30	TBFWD
+	14:00-17:00	TBFWD		Lieferung
+18.6.	10:00-13:00	NMA
+
+----- KW 25 -----
+20.6.	08:00-09:00	Rolotec		Zeiterf. & Mailablage
+	09:00-12:00	NMA
+	13:30-18:00	NMA
+	0:30		Pikett
+21.6.	08:00-12:30	NMA
+	14:00-18:30	NMA
+	0:30		Pikett
+22.6.	07:00-11:00	NMA
+	11:00-11:30	Borsalino	Korr. CRM
+	11:30-12:30	NMA
+	14:00-17:30	NMA
+	0:30		Pikett
+23.6.	07:00-10:00	NMA
+	10:00-11:00	TBFWD		Korr. Feed Handler
+	11:00-13:00	NMA
+	14:30-18:00	NMA
+	0:30		Pikett
+24.6.	07:00-12:30	NMA
+	14:00-17:30	NMA
+
+----- KW 26 -----
+27.6.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:30	NMA		Integr. f. Packaging
+	14:00-18:00	NMA
+28.6.	08:00-12:30	NMA
+	14:00-19:00	NMA
+29.6.	07:30-12:30	NMA		Packaging (BST)
+	14:00-15:30	NMA
+	15:30-18:00	TBFWD		FIAM-Problem
+30.6.	08:30-09:30	TBFWD
+	09:30-12:30	NMA		Ausb. EBU
+	14:00-15:00	NMA		Ausb. EBU & BCI
+	15:00-17:30	TBFWD
+1.7.	08:30-10:30	TBFWD		Lieferung 5.1.3
+	10:30-12:30	NMA		Dok.
+	14:00-15:00	NMA		Vorb. IBM-Messung mit GCC4
+	15:00-17:30	NMA		Bespr. I3 (BI, BOT)
+	
+----- KW 27 -----
+4.7.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-13:00	NMA		Multi-DCS, MDM
+	14:00-17:30	NMA
+5.7.	08:15-12:45	NMA
+	14:00-18:00	NMA
+6.7.	08:00-11:30	NMA
+	11:30-12:30	iD2		Fehlersuche nextview (BK 568 kommt nicht)
+	14:00-15:00	NMA
+	15:00-16:00	TBFWD		Fehleranalyse
+	16:00-17:00	NMA	
+7.7.	06:15-12:15	NMA
+	13:15-15:30	NMA
+	15:30-16:30	TBFWD		Tel.-Support Schürch
+	16:30-17:30	NMA
+8.7.	07:30-10:00	NMA
+	10:00-12:00	Rolotec		Entwickler-Meeting
+	12:00-12:30	unprod.		Eval. Purify (NLE)
+	13:30-16:30	NMA
+	
+----- KW 28 -----
+11.7.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:30	NMA
+	14:00-17:30	NMA
+12.7.	08:15-12:15	NMA		Market Events
+	13:30-15:30	NMA
+13.7.	07:30-12:30	NMA
+	14:00-14:30	Shark		Support MAC (dbsg)
+	14:30-19:00	NMA
+14.7.	07:30-08:00	ESTV		Statusbericht ELIAS
+	08:00-12:30	NMA
+	14:00-18:00	NMA
+15.7.	07:30-12:30	NMA		Checkin
+	14:00-17:30	NMA		Debug & hlswrbk
+
+----- KW 29 -----
+18.7.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-11:30	NMA		Konsolidierung PM-API
+	14:00-15:30	NMA		Bespr. BI/BOT
+	15:30-18:30	NMA
+19.7.	09:00-13:00	NMA
+	14:30-17:30	NMA
+20.7.	07:00-09:00	NMA
+	09:00-09:30	TBFWD		Support (Lässer, QA)
+	09:30-12:15	NMA
+	13:15-14:30	NMA
+	14:30-15:00	iD2		Bug 2131
+	15:00-16:45	NMA
+21.7.	07:30-11:00	NMA
+	11:00-12:00	Shark		Support BLKB (PS, Login)
+	12:00-13:00	NMA
+	14:00-17:30	NMA
+22.7.	07:30-12:30	NMA		Checkin, Dok.
+	14:00-17:30	NMA
+23.7.	11:00-13:00	NMA		Kontrolle, Bugfixes
+
+----- KW 30 -----
+25.7.	08:00-08:30	Shark		ARS 501667
+	08:30-09:00	Rolotec		Zeiterf.
+	09:30-13:30	NMA		HLS Writeback
+	14:45-19:30	NMA
+26.7.	07:00-07:30	NMA
+	07:30-08:30	Pikett		TK Singapore, AGI
+	08:30-13:00	NMA
+	14:00-17:30	NMA
+	17:30-19:00	Pikett		iD-HTML
+27.7.	07:00-11:30	NMA		Messungen, Bespr.
+	11:30-12:30	Pikett		iD-HTML
+	13:30-15:30	NMA
+	15:30-16:30	Pikett		falscher Chart bei Swissquote
+	16:30-18:00	NMA
+28.7.	07:30-12:30	NMA		Integration, Debugging, Optimierung
+	13:30-15:30	Pikett		ARS
+	15:30-18:30	NMA
+29.7.	07:30-12:30	NMA		Checkin, Dok
+	14:00-16:30	NMA
+	16:30-17:00	Rolotec		Zeiterf.
+
+----- KW 31 -----
+2.8.-5.8.		Ferien
+
+----- KW 32 -----
+8.8.-12.8.		Ferien
+
+----- KW 33 -----
+15.8.	08:30-10:00	Rolotec		unprod.
+	10:00-12:30	NMA		Bespr. Open Issues
+	14:00-15:30	NMA
+	15:30-18:00	NMA		Impl. Open Issues
+16.8.	08:00-12:30	NMA
+	14:00-14:30	TBFWD		Kontrolle TKNY (Server deaktiviert)
+	14:30-19:00	NMA
+17.8.	07:30-12:30	NMA
+	14:00-18:30	NMA
+18.8.	08:00-10:30	NMA
+	10:30-11:00	TBFWD		Tel-Support (Bosshard)
+	11:00-12:30	NMA
+	14:00-18:30	NMA
+19.8.	07:30-12:30	NMA
+	14:00-17:30	NMA
+
+----- KW 34 -----
+22.8.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-10:00	NMA
+	10:00-10:30	RBA		Problem mit NEWPASSWD (mac)
+	10:30-11:00	NMA
+	11:00-11:30	iD2		Korr. csdispsrch.c
+	11:30-12:30	NMA
+	14:00-18:30	NMA
+23.8.	07:30-09:30	NMA
+	09:30-12:30	NMA		Bespr. Horn
+	13:00-16:00	NMA		
+	16:00;18:30	NMA		Debug msgmgr
+24.8.	08:30-12:30	NMA
+	14:15-18:15	NMA
+25.8.	08:00-12:30	NMA
+	13:30-18:00	NMA
+26.8.	08:00-11:30	NMA
+	11:30-13:00	RBA		Site-Update
+	13:30-15:00	NMA
+	15:00-17:30	TK		Datamania
+27.8.	09:00-12:00	NMA		Rewrite PM-Loader
+28.8.	16:00-17:00	Rolotec		Pikett
+
+----- KW 35 -----
+30.8.	08:30-12:30	NMA
+	14:00-19:30	NMA
+31.8.	07:30-11:30	NMA		Abgabe
+	14:00-17:00	Rolotec		Büromaintenance
+1.9.	07:30-09:00	Rolotec
+	09:00-13:00	NMA		Ausbildung QA (Costa, Lenicka)
+	13:00-15:00	NMA		Korr. I3
+	15:00-15:30	Rolotec		Zeiterf.
+	15:30-16:30	iD2		Bespr. Listing Events in HLS
+2.9.	08:30-10:30	NMA		Korr., svcnull
+	10:30-12:30	ESTV		DBA-Portierung
+	14:00-17:30	ESTV		 "    "   "    (Aktualisierung Ländercodes)
+
+----- KW 36 -----
+5.9.	08:30-12:30	ESTV		DBA-Portierung (WebApp)
+	14:30-19:00	ESTV
+6.9.	08:30-12:30	ESTV
+	14:00-17:30	ESTV
+7.9.	08:00-12:30	ESTV
+	14:00-18:30	ESTV
+8.9.	08:30-10:30	ESTV
+	10:30-12:30	NMA		Optim. Masterfields
+	14:00-16:00	NMA
+9.9.	09:00-09:30	RBA		Analyse Suchprobleme (MFCS)
+	09:30-12:30	DBA		Vorb. Packaging
+	14:15-17:15	DBA
+
+----- KW 37 -----
+12.9.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:30	NMA		Optim. Mastertable
+	14:00-16:30	iD2		Konzept Listing Events
+13.9.	08:30-11:30	NMA
+	14:30-16:30	NMA		Support TK-MA
+	16:30-17:30	RBA		Support MAC
+14.9.	09:00-10:30	NMA		Optim. Mastertables
+	10:30-12:30	iD2		Tab. 804 f. Searches
+	14:00-17:30	NMA		Debugging, Korr. MDF Coder
+15.9.	08:30-10:30	iD2		Socket-Optim. TmoSockNoDelay
+	10:30-12:30	NMA		Integr. TmoSockNoDelay
+	14:00-17:30	iD2		Optim. csfeed (Locking, Unsubscriptions, Admin-If)
+16.9.	08:00-11:30	iD2		Bugfixes, Search Enh.
+	14:00-17:00	iD2		Tests auf bire
+
+----- KW 38 -----
+19.9.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-10:00	iD2		Debug mfcsserver
+	10:00-10:30	NMA		Vorb. Patchlieferung
+	10:30-12:30	NMA		Admintools: hlsdump
+	14:00-17:30	NMA
+20.9.	08:30-12:30	NMA
+	14:00-16:00	NMA
+	16:00-17:30	ESTV		DBA-Package
+21.9.	08:00-12:30	ESTV		Referenz-Install. (70km Auto)
+	13:00-17:00	ESTV
+22.9.	08:00-09:00	ESTV		Mail
+	09:00-13:00	NMA		Admintools: hlsinit
+	14:30-17:30	NMA
+23.9.	08:00-12:30	NMA
+	14:00-17:30	NMA		Debug msgmgr (OutBuf*)
+
+----- KW 39 -----
+26.9.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:30	NMA		Admintools: cmd msgmgr read
+	14:00-15:30	NMA
+	15:30-16:00	iD2		Wartung (first)
+	16:00-17:30	NMA		Vorb. Reviews
+27.9.	08:30-12:30	NMA		Admintools: DCSInput
+	14:00-17:30	NMA
+28.9.	08:30-12:00	NMA		Vorb. Review0
+	12:30-19:30	NMA		Review0 (Fr. 78.80)
+29.9.	08:00-12:30	NMA		Admintools: DCSInput
+	14:00-17:00	NMA		Admintools: hlsfind
+30.9.	08:00-10:30	iD2		Fehlersuche birg/first (Fehler in getQuote)
+	10:30-11:00	NMA		Mail jum/bci wg. PM-getVersion()
+	11:00-12:30	NMA		Admintools: hlsfind
+	14:00-17:00	NMA
+
+----- KW 40 -----
+3.10.	08:30-11:00	NMA		Vorb. Review1
+	11:00-11:30	Rolotec		Zeiterf.
+	11:30-12:30	NMA
+	14:00-18:00	NMA
+4.10.	08:00-12:30	NMA
+	14:00-18:30	NMA		Admintools: DCSInput
+5.10.	08:30-11:30	NMA		Vorb. Review 1
+	12:30-19:00	NMA		Review1 (70.80 + 54.80)
+6.10.	08:30-11:00	NMA		Vorb. Review2
+	11:00-12:30	Rolotec		unprod.
+	14:00-17:30	NMA		Admintools: cmd msgmgr read
+7.10.	07:30-09:30	NMA
+	09:30-12:30	NMA		SCS Workshop
+	14:00-16:30	NMA		SCS Workshop
+	16:30-17:30	NMA
+
+----- KW 41 -----
+10.10.	08:30-09:30	Rolotec		Zeiterf. (Umbuchungen)
+	09:30-12:30	NMA		Admintools
+	14:00-17:30	NMA
+11.10.	08:00-12:30	NMA
+	14:15-15:15	iD2		Bespr. Listing Search
+	15:15-17:15	iD2		Vorb. vegacore f. Debugging
+12.10.	08:30-10:00	iD2		Debugging (vegacore)
+	10:00-12:30	NMA		Test Admintools
+	14:15-17:45	iD2		Korr. csdisp
+13.10.	08:15-10:00	iD2
+	10:00-10:15	NMA		Erw. ValuesSegmentClass
+	10:15-11:30	iD2		Support TK Singapur (ARS 513152)
+	11:30-12:30	NMA		CVS checkin
+	14:00-15:00	NMA
+	15:00-17:00	NMA		Vorb. Review3 (HLS)
+	17:00-19:00	NMA		Vorb Lieferung 2005-3-3
+14.10.	08:15-10:15	NMA		Test 2005-3-3	
+	10:15-12:30	OBS		Einarbeitung
+	14:00-17:30	NMA		Release 2005-3-3	
+
+----- KW 42 -----
+17.10.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:30	Shark		Korr. manprice (AGKB)
+	14:00-17:30	Rolotec		Svizzer-Eval.
+18.10.	08:30-10:30	Rolotec		Svizzer-Eval.
+	10:30-11:00	NMA		Bespr. BI
+	11:00-12:30	Shark		Korr. manprice (BLKB)
+	14:30-16:30	Shark		Korr. manprice (BLKB)
+	16:30-17:00	Rolotec		Svizzer-Setup
+	17:00-17:45	Shark		Korr. manprice (BLKB)
+19.10.	08:15-11:45	Rolotec		unprod.
+	12:30-18:00	NMA		Review3
+20.10.	09:00-12:30	iD2		Search-Bugs
+	14:15-16:30	iD2
+	16:30-17:00	iD2		Support (Fehl-ARS)
+	17:00-18:45	iD2		Search-Bugs
+21.10.	08:30-12:30	iD2		Patch 2005-1-00-pre3
+	14:15-16:15	iD2
+	16:15-18:15	OBS		Support MN
+
+----- KW 43 -----
+24.10.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:30	NMA
+	14:00-17:30	NMA
+25.10.	09:00-10:00	ESTV		DBA-Termin
+	10:00-12:30	NMA		Tests, Cleanup
+	14:00-17:30	Rolotec		
+26.10.	08:30-12:30	Rolotec
+	14:00-18:00	Rolotec
+27.10.	11:30-12:30	iD2		Rüd Blass (ARS501834)
+	11:30-12:30	NMA		Support QA (Renggli)
+	14:00-15:00	iD2		Rüd Blass (ARS501834)
+	15:00-17:30	Rolotec
+28.10.	08:00-12:30	Rolotec
+	14:00-16:00	iD2		Bug 858: Analyse CR
+	16:00-17:30	OBS
+
+----- KW 44 -----
+31.10.	09:00-11:00	OBS		Einarb.
+	11:00-12:30	ESTV		Testunterlagen DBA (Hostettler)
+	14:00-16:00	iD2		Korr. Wildcard-Abfragen (ARS515222)
+	16:00-18:00	OBS		Debug msgmgr (mn)
+	18:00-19:00	iD2		Bug 858: Bespr. AH, PK
+1.11.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-10:00	OBS		Debug msgmgr
+	10:00-12:30	iD2		Bug 858: Spez.
+	14:00-19:00	OBS	
+2.11.	08:00-09:30	iD2		Bug 858: Spez.
+	09:30-11:30	iD2		Spez. csfeed + recovery
+	11:30-12:30	iD2		Test csfeed 2005-1-00-pre3-branch (ARS515222)
+	14:00-15:30	iD2
+	15:30-19:00	OBS		Support mn
+3.11.	08:00-12:30	OBS
+	14:00-16:30	iD2		Bug 858: Impl. HLS-Erw.
+	16:30-17:30	OBS
+	17:30-18:30	iD2
+4.11.	07:30-10:00	iD2
+	10:00-12:30	iD2		Vorb. Update first (ARS515222)
+	14:00-17:00	iD2		Bug 858 (Request-IF)
+	17:00-18:00	iD2		Update first (ARS515222)
+
+----- KW 45 -----
+7.11.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-11:00	OBS		Aufwandschätzung iCS
+	11:00-12:30	iD2		Bug 858: Test Request-IF
+	14:00-15:30	OBS		Projektsitzung
+	15:30-18:30	iD2		Bug 858: Abschluss
+8.11.	08:15-10:00	iD2		Bug 858: Nachbearbeitung
+	10:00-13:00	Rolotec		Pikett: Baloise (Valorendaten)
+	14:30-16:30	Rolotec		Pikett: Postfinance (Limiten)
+	16:30-17:00	iD2		Dok. Search-Optionen (MAC)
+	17:00-19:00	OBS		Konzept/Design
+9.11.	08:00-08:30	Pikett		gem. ARS
+	08:30-10:00	OBS
+	10:00-12:30	iD2		Stress-Test csfeed
+	14:00-18:00	OBS
+	18:00-18:30	Postfinance	SMS-Abkl. (Wenger)
+10.11.	07:00-09:30	OBS		Setup nma02 f. iCS-Portierung
+	09:30-10:00	OBS		Meeting m. netcetera
+	10:00-12:45	OBS		Anpassung iCS (csfeed)
+	14:15-19:00	OBS
+11.11.	07:30-13:00	OBS
+	14:00-18:30	OBS		Anpassung iCS (HLS)		
+
+----- KW 46 -----
+14.11.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-13:00	OBS		csfeed
+	14:00-18:00	OBS
+15.11.	08:30-12:30	OBS
+	14:00-16:30	OBS
+	16:30-17:30	OBS		Mail kk
+	17:30-19:00	DBA		Korrekturen gem. Befundliste
+16.11.	08:30-09:00	iD2		Analyse Bug 2165
+	09:00-12:30	OBS		csdisp/csfeed
+	14:00-17:30	OBS
+17.11.	08:00-12:00	OBS
+	14:00-16:00	ESTV		DBA-Installation (70km Auto)
+	16:00-19:00	OBS		mdfobs
+18.11.	08:00-10:30	OBS		Spez.
+	10:30-12:30	OBS		mdfobs
+	14:00-18:30	OBS
+	
+----- KW 47 -----
+21.11.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:30	OBS
+	14:00-17:00	OBS
+	17:00-17:30	Shark		Support Postfinance (Alarming)
+	17:30-18:00	OBS
+22.11.	08:00-11:00	OBS
+	11:00-12:30	iD2		Bug 2440 (Search)
+	13:30-14:00	iD2
+	14:00-16:30	OBS		Projektmeeting
+	16:30-18:30	iD2
+23.11.	07:15-10:00	iD2		Test Bug 2440
+	10:00-10:30	Borsalino	Pf-Problem
+	10:30-11:30	Shark		Limit Minder f, Fonds-Titel
+	11:30-12:15	iD2		div. Bugs (Mails PK)
+	13:30-18:30	Shark		limdm (Setupversuch Test-/Entw.-Umgebung)
+24.11.	08:30-11:30	Shark		Debug Portfolio
+	11:30-12:00	OBS		Setup obs1
+	12:00-12:30	iD2		Test searchListings
+	14:30-16:00	iD2		Korr. searchListings (Upgrade vegacore)
+	16:00-16:30	Shark		Inst. limdm (shark1)
+	16:30-17:30	iD2		Test searchListings
+25.11.	09:00-12:30	Shark		Analyse Portfolio-Auswertung
+	14:00-16:00	iD2		Analyse Bug 2131
+	16:00-17:30	Rolotec		Pikett gem. ARS
+	
+----- KW 48 -----
+28.11.	08:00-08:30	iD2		ARS 519786
+	08:30-09:00	Rolotec		Zeiterf.
+	09:00-09:45	OBS		HK
+	09:45-10:00	Shark		RBA: ARS 520047
+	10:00-12:30	OBS
+	15:00-18:00	OBS
+29.11.	08:30-10:00	OBS
+	10:00-10:30	Pikett		ARS 520366
+	10:30-12:30	iD2		Test 2005-2
+	14:00-14:30	Pikett 		ARS 520412
+	14:30-15:30	OBS		Setup OBS1 f. iCS
+	15:30-19:00	iD2		Upgrade bire (I2005-2)
+30.11.	08:00-09:00	iD2
+	09:00-11:00	DBA		Release 1.2
+	11:00-13:00	OBS		OBS Heartbeat
+	14:00-19:00	OBS
+1.12.	08:30-11:00	OBS
+	11:00-13:00	Shark		Cash: Bespr. U. Scherrer (erw. Alarming)
+	14:00-17:30	OBS
+2.12.	07:30-12:30	OBS
+	14:00-17:00	OBS
+	
+----- KW 49 -----
+5.12.	08:30-09:00	RBA		Support MAC (Syspage Nebenwerte)
+	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:30	Shark		Cash: erw. Alarming (Mail SUT)
+	14:00-14:30	Rolotec		Mailablage
+	14:30-16:00	iD2		Bespr. Erw. searchListings
+	16:00-17:00	OBS		Setup obsrp + Trace (obs1)
+	17:00-18:00	iD2		Erw. mdflist (EID56)
+6.12.	08:00-12:30	OBS		Debug/Test csfeed
+	14:00-16:30	iD2		Bug 1338
+	16:30-17:30	iD2		Support BST (Packaging)
+7.12.	08:00-10:30	OBS		Test csfeed
+	10:30-12:30	iD2		Debug csdisp (searchListings)
+	14:00-19:00	iD2
+8.12.	08:00-12:30	iD2
+	15:15-19:15	OBS		Solaris-Port.
+9.12.	08:00-10:00	iD2		Support NLE (Exch-Stat.)
+	10:00-12:15	OBS
+	15:15-17:30	OBS
+	
+----- KW 50 -----
+12.12.	09:00-10:30	Pikett		Ausfall niesen, Fintop,
+					ARS 512224/520669/522173
+	10:30-11:00	Rolotec		Zeiterf.
+	11:00-12:30	iD2		Test csdisp
+	14:00-14:30	Borsalino	Bespr. Alaraming
+	14:30-15:00	iD2		
+	15:00-15:30	ESTV		Tel. Jungo wg. Abgabetermin DBA (verschoben)
+	15:30-18:15	Pikett		Telefondienst
+13.12.	08:30-10:30	ESTV		DBA: Abnahmeprotokoll, Mini-BHB
+	10:30-12:30	Rolotec		unprod. (Pikett)
+	14:00-15:30	TBFWD		Analyse Fehlalarme wg. Holiday
+	15:30-17:30	Rolotec		unprod. (Pikett)
+14.12.	09:00-10:00	Pikett		ARS 523254, apID (Push News Topics 736)
+	10:00-12:30	ESTV		Mini-BHB
+	14:00-16:30	ESTV		  "   "  , Abnahmeprotokoll
+	16:30-18:30	OBS		mdflist/mdfgen
+15.12.	07:45-13:45	OBS
+	14:45-15:15	Pikett		HBCS, ARS
+	15:15-17:15	Pikett		BCEE, Raiffeisen
+	17:15-18:45	OBS		Codebereinugung mit 'gcc -Wall'
+16.12.	07:30-08:00	Pikett		Kontrolle Sharks
+	08:00-10:00	OBS		mdfgen
+	10:00-12:15	Rolotec		Infotreff Entw.
+	14:00-15:00	Pikett		Berechtigungen birg
+	15:00-15:30	TBFWD		Mail Schürch wg. Prov. 648
+		
+----- KW 51 -----
+19.12.	09:00-12:30	iD2		Debug mfcsserver (MC)
+	14:00-17:30	OBS		Integration csfeed-Recovery
+20.12.	09:00-11:30	NMA		Bespr. Bi
+	11:30-12:30	iD2		Update vegacore
+	14:00-18:00	OBS		Datentests
+21.12.	08:00-09:30	OBS		
+	09:30-13:00	Pikett		ARS 522173
+	14:30-18:00	OBS		Korrekturen
+22.12.	07:30-08:00	Rolotec		Zeiterf.
+	08:00-11:30	OBS		Tests
+	11:30-13:00	Pikett		ARS 522173
+	14:45-15:30	Pikett
+	15:30-18:00	iD2		Integration csfeed-Changes (DT)
+23.12.	07:45-08:30	OBS		Kontrolle
+	08:30-10:30	iD2		Fehlersuche Search-Statistik (Mail MC)
+	10:30-11:30	iD2		Update csfeed (Korr. admin-cmd "loglevel")
+	11:30-12:30	NMA		Einarb. Iteration 1
+	14:00-16:30	NMA		Prozess-Skeleton
+	
+----- KW 52 -----
+27.12.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:30	NMA		Thread-Skeleton
+	14:00-17:30	NMA
+28.2.	08:30-09:00	NMA
+	09:00-09:30	OBS		Abkl. VAR f. Calculated Prices (AH)
+	09:30-12:30	NMA
+	14:30-17:30	NMA
+29.12.	08:30-12:30	NMA
+	14:00-18:00	NMA
+30.12.	09:00-09:30	iD2		Problem mit niesen (TKSGP)
+	09:30-11:30	OBS		Checkin OBS-iCS
+	11:30-12:00	iD2		Support MF (Search)
+	12:00-13:00	OBS		Checkin OBS-iCS
+	14:00-15:30	OBS
+	15:30-16:00	Rolotec		Zeiterf.
+

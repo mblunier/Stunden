@@ -1,0 +1,985 @@
+----- KW 1 -----
+3.1.	08:00-10:00	Rolotec		unprod.
+	10:00-12:30	HPSBP
+	14:00-18:30	HPSBP
+4.1.	08:00-12:30	HPSBP
+	14:00-15:30	HPSBP
+	15:30-16:00	iD2		Checkin
+	16:00-18:30	HPSBP
+5.1.	08:00-08:30	Rolotec		Zeiterf.
+	08:30-12:30	HPSBP
+	14:00-18:30	HPSBP
+
+----- KW 2 -----
+8.1.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-11:15	HPSBP
+	11:15-11:30	TBFWD		Feiertagsproblem mit BC 13 (Tel. Schürch)
+	14:00-14:30	HPSBP		Bespr. AH, PNO
+	14:30-15:00	ESTV		Nachlieferung ELIAS
+	15:00-18:00	HPSBP
+9.1.	frei (Ankunft Nid)
+10.1.	08:15-09:00	ESTV		Mail Beyeler
+	09:00-12:00	Rolotec		Bespr. Chr. Scheurer (FAST)
+	12:00-12:15	Rolotec		Zeiterf.
+	14:00-17:30	Rolotec		unprod.
+11.1.	08:00-09:30	FAST		Content-API
+	09:30-12:30	iD2		Bug 3094 (mgrsrch)
+	14:00-17:00	FAST
+12.1.	08:00-11:00	FAST		Doku update
+	11:00-13:30	FAST		Compliance-Demo
+	14:00-16:00	FAST
+	16:00-17:30	FAST		Backup k2
+
+----- KW 3 -----
+15.1.	09:00-09:30	FAST		Maintenance k2
+	09:30-09:45	Rolotec		Zeiterf.
+	09:45-12:30	Rolotec		unprod.
+	12:30-17:45	FAST		Eval. HW-Bedarf
+16.1.	08:15-08:30	Rolotec		Zeiterf.
+	08:30-11:00	FAST		Setup t2001
+	11:00-11:30	Shark		ARS 587990
+	11:30-12:30	FAST		Spez. Suchplattform
+	14:00-15:30	FAST
+	15:30-16:00	TBFWD		Mail wg. Watchlist-Limite
+	16:00-18:30	FAST		Vorb. ochsen f. FAST-Install
+17.1.	08:00-12:30	FAST		Install. ochsen
+	14:00-17:30	FAST
+18.1.	08:30-12:30	FAST
+	14:15-18:15	FAST
+19.1.	08:30-09:00	FAST
+	09:00-09:30	FAST		Bespr. weiteres Vorgehen
+	09:30-12:30	FAST		Dok. Inhouse-Installation
+	14:00-17:00	Rolotec		Eclipse-Update
+	17:00-17:15	Rolotec		Zeiterf.
+
+----- KW 4 -----
+22.1.	08:15-09:30	FAST		Maintenance ochsen
+	09:30-12:30	NMA		I15 (CPU-Bind, K-DirS)
+	14:00-18:30	NMA
+23.1.	08:00-09:00	TBFWD		Analyse MDF-Probleme
+	09:00-12:00	NMA
+	14:00-17:30	NMA		Leistungsmessungen hpiddev (AMD64)
+24.1.	08:30-08:45	Rolotec		Zeiterf.
+	08:45-09:45	NMA
+	09:45-10:00	FAST		Mail wg. SW-Download f. Solaris
+	10:00-12:30	NMA		Messungen auf T2000 & AMD64
+	14:00-17:00	NMA
+25.1.	08:30-09:30	FAST		Vorb. Upgrade
+	09:30-12:00	NMA
+	14:00-17:30	NMA		optim. Kompilierung
+	17:30-18:00	TBFWD
+	18:00-19:00	NMA		Messungen mit optim. SW, Debugging
+26.1.	08:30-10:00	NMA		Messungen mit optim. SW
+	10:00-12:15	NMA		Erw. gem. MDF+3 0.97
+	12:15-12:30	Rolotec		Zeiterf.
+	14:00-17:30	NMA		I15
+
+----- KW 5 -----
+29.1.	08:30-13:00	NMA
+	14:00-19:00	NMA		Abschluss I15
+30.1.	08:15-08:30	Rolotec		Zeiterf.
+	08:30-12:30	TBFWD		Patch-Lieferung (ARS 588612)
+	14:00-17:30	FAST		Update ochsen
+31.1.	08:15-08:30	FAST		Relaunch ochsen
+	08:30-10:30	TBFWD		Analyse MDF-Unterbrechungen
+	10:30-11:00	NMA		Support BI (Debugging)
+	11:00-12:00	FAST		Konzept Demo-Plattform
+	14:00-16:30	TBFWD		Verb. feed_handler
+	16:30-17:30	FAST
+1.2.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-09:00	TBFWD		Kontrolle feed_handler
+	09:00-10:30	FAST
+	10:30-12:30	TBFWD		Verb. feed_handler (GetMessageBuffered)
+	14:00-16:30	TBFWD
+	16:30-18:30	FAST
+2.2.	08:00-09:30	TBFWD		Debug feed_handler
+	09:30-11:30	iD2		Korr. csdisp (search)
+	11:30-12:30	FAST
+	14:00-16:30	FAST
+	16:30-17:30	NMA		Support JUM
+
+----- KW 6 -----
+5.2.	08:45-09:00	FAST		Relaunch Indexierung
+	09:00-09:15	Rolotec		Zeiterf.
+	09:15-10:30	TBFWD		Erw. MRP 2.0.8 f. feed_handler
+	10:30-11:45	NMA		Debug HLS I/O
+	13:15-17:45	NMA
+	17:45-18:00	ESTV		Abnahmeprotokoll ELIAS-Update
+	18:00-18:15	FAST		Kontrolle Mail-Indexierung
+6.2.	08:15-08:30	Rolotec		Zeiterf.
+	08:30-09:00	TBFWD		Korr. feed_handler (reconnect)
+	09:00-11:00	FAST		Bespr. Demoplattform
+	11:00-12:30	FAST		Mailarchiv
+	14:00-17:30	FAST		Mail-Attachments
+7.2.	08:00-10:30	TBFWD		Debug feed_handler
+	10:30-11:00	NMA		Bespr. BI
+	11:00-12:30	TBFWD		Flush-Thread f. feed_handler
+	14:00-16:30	TBFWD
+	16:30-17:00	iD2		Bug 3096
+	17:00-17:30	FAST		Mail Niedermeier
+	17:30-19:00	TBFWD
+8.2.	08:00-08:45	Rolotec		Maintenance Intranet (Logs)
+	08:45-09:00	Rolotec		Zeiterf.
+	09:00-12:30	FAST		Scans
+	14:00-19:00	iD2		ARS 591974
+9.2.	08:00-08:30	Pikett		Raiffeisen
+	08:30-09:45	iD2		Test/Checkin
+	09:45-10:00	Rolotec		Zeiterf.
+	10:00-12:00	TBFWD
+	14:00-17:30	Rolotec		unprod.
+
+----- KW 7 -----
+12.2.	08:00-11:30	FAST		Aufwandschätzung Demo-Plattform
+	14:00-15:30	FAST		Installationsversuch nma02
+	15:30-17:45	iD2		Bug 3143 (ARS 592367)
+	17:45-18:00	Rolotec		Zeiterf.
+13.2.	08:00-08:30	FAST		Install. nma01
+	08:30-09:00	TBFWD		Optim. buffersize f. feed_handler
+	09:00-12:30	iD2		Bug 3143
+	14:00-15:30	iD2		Tests
+	15:30-18:00	FAST		Setup nma01
+14.2.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-08:30	FAST		Kontrolle nma01
+	08:30-08:45	TBFWD		Package-Build
+	08:45-12:00	FAST		Spez. Demo-Plattform
+	14:00-18:00	FAST
+15.2.	08:00-09:00	TBFWD		Korr. Socket_Server::send/write
+	09:00-12:30	FAST
+	14:00-15:00	FAST
+	15:00-15:30	NMA		Korr. hlsio.cpp (Zeitreihen)
+	15:30-16:00	EA1		Support KK (Offerte)
+	16:00-16:30	NMA		Test Zeitreihen I/O
+	16:30-17:00	NMA		Single-Threaded PPC
+	17:00-18:30	EA1		Support MH (Offerte)
+	18:30-19:00	NMA		Korr. hlsio
+16.2.	08:00-08:45	TBFWD		Checkin
+	08:45-09:00	Rolotec		Zeiterf.
+	09:00-11:30	EA1		Offerte vorb.
+	11:30-12:30	TBFWD		Upload inst-DB
+	14:00-14:30	EA1		Offerte
+	14:30-15:00	TBFWD		Inst. neue inst-DB
+	15:00-17:30	NMA		Single-Threaded PPC
+	
+----- KW 8 -----
+19.2.	08:30;09:00	Rolotec		SW-Update santorini
+	09:00-09:15	Rolotec		Zeiterf.
+	09:15-12:00	NMA
+	13:30-18:30	NMA
+20.2.	08:30-08:45	Rolotec		Zeiterf.
+	08:45-09:00	iD2		Korr. Bug 3143
+	09:00-12:15	NMA
+	14:15-16:30	NMA
+	16:30-18:30	NMA		Support JUM
+21.2.	08:30-09:00	iD2		Checkin Bug 3143 + Changelog
+	09:00-10:00	NMA		Support JUM
+	10:00-12:30	NMA		Single-Threaded PPC
+	14:15-18:30	NMA		   "      "      "   (Checkin)
+22.2.	07:15-08:15	NMA		   "      "      "   (Messungen)
+	08:15-08:30	Rolotec		Zeiterf.
+	08:30-12:15	NMA		Setup interne Teststrecke
+	14:00-17:15	NMA		Messungen mit Netzwerk
+23.2.	08:30-09:00	Rolotec		Setup Search-Demo f. Intranet
+	09:00-12:00	NMA
+	14:00-17:30	NMA
+
+----- KW 9 -----
+26.2.	08:15-11:45	NMA
+	13:15-17:15	NMA		Messbericht
+	17:15-17:30	Rolotec		Zeiterf.
+	17:30-19:00	TBFWD		Integr. MRP 2.1.1
+27.2.	08:30-10:30	TBFWD
+	10:30-12:00	FAST		Setup search.rolotec.ch (nma02)
+	13:30-16:30	FAST
+	16:30-19:30	NMA		Split ppc/pps
+28.2.	08:30-09:00	TBFWD
+	09:00-12:00	NMA
+	12:00-12:30	EA1		Support PNO (Offerte)
+	14:00-18:30	NMA
+1.3.	08:30-09:00	NMA		Support BI (Load Generator)
+	09:00-09:15	ESTV		Support BIT (Beyeler)
+	09:15-09:30	Rolotec		Zeiterf.
+	09:30-12:30	NMA		Test I16
+	14:00-18:30	NMA
+	18:30-19:00	iD2		Restart tomcat (pidsa)
+2.3.	08:00-09:00	iD2		Support MN (vegacore)
+	09:00-09:30	NMA		Support TKEBU (Config-Files)
+	09:30-12:30	NMA		verb. Exception-Handling
+	14:00-18:00	NMA
+
+----- KW 10 -----
+5.3.	08:15-08:30	Rolotec		Zeiterf.
+	08:30-11:45	NMA		Optim. HLS-I/O
+	13:00-15:00	Zahnarzt	---
+	15:00-16:30	NMA		Korr. ListingData::insertValue()
+	16:30-17:15	FAST		Mail, Tests auf search.rolotec.ch
+6.3.	08:15-08:30	Rolotec		Zeiterf.
+	08:30-10:30	TBFWD		Lieferung TBFWD 5.1.4
+	10:30-11:00	ESTV		Patch-Download
+	11:00-11:30	Rolotec		Mail-Archivierung
+	11:30-12:00	EA1		Vorb. Kickoff
+	14:00-17:00	EA1		Kickoff-Meeting
+	17:00-18:30	NMA		Analyse MCL-Unterbr.
+7.3.	08:15-12:15	ESTV		Vorb. Patch-Lieferung (Setup k2)
+	14:00-18:30	ESTV
+8.3.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-08:30	TBFWD		Kontrolle TBFWD (ZH)
+	08:30-12:30	ESTV		Vorb. ELIAS-/DBA-Package
+	14:00-15:30	ESTV
+	15:30-18:00	Rolotec		Verity-Update k2
+9.3.	08:00-08:15	TBFWD		Kontrolle ZH
+	08:15-10:30	Rolotec		FAST-Wartung ochsen (rolotecQ)
+	10:30-10:45	Rolotec		Zeiterf.
+	10:45-12:15	FAST		Install. unter VMware
+	14:00-17:30	FAST	
+
+----- KW 11 -----
+12.3.	08:00-08:15	Pikett		pending Tickets, limdm auf shark2
+	08:15-11:45	FAST
+	14:00-16:30	FAST		Setup f. BAKOM auf nma01
+	16:30-19:30	EA1		Vorb. Meeting GAE (GUR)
+13.3.	08:00-08:30	Pikett		ARS-Check
+	08:30-08:45	Rolotec		Zeiterf.
+	08:45-12:30	EA1		Sitzung GAE/GUR
+	14:00-14:30	EA1		Abklärungen Infrastruktur
+	14:30-15:00	Pikett		SGKB, Limitenlayout auf shark3
+	15:00-17:30	EA1		Aufwandschätzung (GUR)
+	17:30-18:30	NMA		Bug 2234
+14.3.	08:00-09:30	Pikett
+	09:30-11:30	EA1		System-Design
+	11:30-12:30	iD2		Support MN (Delayfiles)
+	14:00-18:30	EA1
+15.3.	08:00-08:30	ESTV		Vorb. K2 Upgrade
+	08:30-12:30	NMA		Bugzilla
+	14:00-18:00	ESTV		K2 Teil-Upgrade (Fr. 47.20)
+16.3.	08:00-09:00	Pikett		SGKB, etc.
+	09:00-10:30	NMA		Bugzilla, QA-Tel.konferenz
+	10:30-12:45	NMA		Setup Teststrecke/QA-Tools
+	13:45-16:00	EA1		div. Mails
+	16:00-16:30	Rolotec		Zeiterf.
+	16:30-17:30	NMA		Perf.messungen mit Load Generator
+
+----- KW 12 -----
+19.3.	08:00-09:00	ESTV		Test K2 5.5.0 mit ESTV-Lizenz
+	09:00-11:30	NMA		Bug-Analyse (PoC)
+	11:30-12:15	EA1		Offerte
+	14:00-18:30	NMA		Bug-Analyse (PoC)
+20.3.	08:00-12:30	EA1		Offerte
+	14:00-19:00	NMA		Bug 2246
+21.3.	08:00-09:00	EA1		Projekt-Wiki
+	09:00-09:15	Rolotec		Zeiterf.
+	09:15-12:30	NMA		Suche Memory Leaks
+	13:30-20:00	NMA
+22.3.	07:00-12:30	NMA
+	13:30-19:30	NMA
+23.3.	08:00-10:00	NMA
+	10:00-10:30	EA1		Offerte (GUR)
+	10:30-13:00	NMA		Checkin
+	13:30-15:30	NMA		QA-PoC Telefonat
+	15:30-15:45	Rolotec		Zeiterf.
+	15:45-17:15	NMA		Korr. Rollback
+
+----- KW 13 -----
+26.3.	08:15-08:30	ESTV		Termin K2-Installation (BIT)
+	08:30-09:00	NMA		Mail NMA-Team
+	09:00-09:15	Rolotec		Zeiterf.
+	09:15-12:15	EA1		Spez.
+	14:00-15:30	EA1
+	15:30-18:30	EA1		Offerte (GUR)
+27.3.	08:30-12:15	EA1		Spez.
+	13:15-16:00	EA1		Meeting GAE/GUR
+	16:00-17:00	Shark		Support MAC (Pf)
+	17:00-19:30	EA1		Spez.
+28.3.	08:30-09:30	FAST		Mail: ESP auf search.rolotec.ch 
+	09:30-10:00	EA1		Analyse Tracefiles
+	10:00-12:15	EA1		Spez.
+	14:00-16:30	EA1
+	16:30-19:00	NMA		Retrieve Value by Timestamp (JUM)
+29.3.	08:00-12:30	EA1		Spez.
+	13:15-17:15	EA1
+30.3.	08:00-12:30	ESTV		K2 Upgrade
+	14:00-14:30	ESTV		Mail FI, Update coll-Package
+	14:30-15:00	TBFWD		Check Testbit, Mail LM
+	15:00-16:30	EA1		Setup Development-Env.
+	16:30-17:00	NMA		Test/Korr. Zeitreihen (TKJUM)
+	17:00-18:00	EA1
+
+----- KW 14 -----
+2.4.	08:30-09:00	Rolotec		Zeiterf.
+	09:00-12:15	EA1		Basis-SW
+	14:00-19:30	EA1
+3.4.	08:00-09:30	EA1		Bespr. GAE/GUR
+	09:30-11:30	EA1
+	11:30-12:00	FAST		Payoff-Collection
+	13:30-19:00	EA1
+4.4.	07:30-12:15	EA1		mdmgr, tablemgr
+	13:45-18:30	EA1
+5.4.	07:00-09:00	EA1		Setup mrp2 (tuba)
+	09:00-10:30	EA1		Stammdaten Verarbeitung (mdmgr)
+	10:30-11:00	Rolotec		Korr. Zeiterf. 7./8. März
+	11:00-11:30	NMA		Support BI (dbx)
+	11:30-12:45	EA1		msgmgr
+	13:15-16:30	EA1
+6.4.	Karfreitag
+
+----- KW 15 -----
+9.4.	Ostermontag
+10.4.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-12:15	EA1		msgmgr
+	14:00-14:15	Shark		falsches Limiten-Layout auf shark3 (text2)
+	14:15-18:30	EA1
+11.4.	08:00-09:00	EA1
+	09:00-09:30	EA1		Tel.konferenz
+	09:30-12:15	EA1
+	14:00-15:00	Rolotec		Info-Veranstatltung
+	15:00-16:30	iD2		Bespr. csfeed-Optim.
+	16:30-17:00	Rolotec		MA-Gespr.
+	17:00-19:00	EA1
+12.4.	07:15-09:30	FAST		Wartung (Ressourcenbedarf)
+	09:30-12:15	EA1
+	14:00-15:00	FAST		Tel. mit Torstein Thorsen
+	15:00-19:00	EA1
+13.4.	08:00-08:30	FAST		Wartung
+	08:30-10:30	EA1
+	10:30-11:30	FAST		Bespr. Suva-PoC
+	11:30-11:45	Rolotec		Zeiterf.
+	13:15-15:30	EA1		Trace-Verarb.
+	15:30-16:00	iD2		Support NO (csfeed)
+	16:00-17:30	EA1
+
+----- KW 16 -----
+16.4.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-13:15	EA1		Umbau dcsrp
+	14:30-19:00	EA1
+17.4.	07:45-08:00	Rolotec		Zeiterf.
+	08:00-12:00	EA1
+	14:00-17:00	EA1
+	17:00-17:30	SUVA		Ablage PoC-Daten
+	17:30-19:00	EA1
+18.4.	07:00-08:00	SUVA		Analyse PoC-Daten
+	08:00-08:15	FAST		Lizenz-Update (search.intern)
+	08:15-10:00	EA1
+	10:00-10:15	NMA		Support BI
+	10:15-11:45	EA1
+	11:45-12:00	NMA		Korr. ValueSeg-ctor
+	13:30-19:00	EA1
+19.4.	08:00-10:00	EA1		Umbau MDF output handler
+	10:00-10:30	SUVA		Bespr. CSC
+	10;30-12:30	EA1
+	14:00-15:00	NMA		Support BI (Analyse Bug 2233)
+	15:00-15:30	SUVA		Vorb. PoC
+	15:30-19:30	EA1
+20.4.	07:30-12:00	EA1		Umbau MDF coder
+	12:00-12:30	Shark		Support NO (Portfolio)
+	13:30-16:00	EA1
+	16:00-16:15	Rolotec		Zeiterf.
+	16:15-17:30	SUVA		Vorb. PoC
+
+----- KW 17 -----
+23.4.	08:00-12:00	SUVA		PoC-Meeting mit FAST (Mittagessen: Fr. 54.-)
+	13:00-17:30	SUVA
+24.4.	08:00-09:00	EA1		Kontrolle Tracefiles
+	09:00-12:00	SUVA
+	13:00-17:30	SUVA
+25.4.	08:00-11:30	EA1		DCS-start/stop scripts
+	11:30-11:45	Rolotec		Zeiterf.
+	11:45-12:45	EA1
+	14:15-19:30	EA1		BC-Filter f. mdmgr
+26.4.	08:00-12:30	EA1		Admin-Guide
+	14:00-19:30	EA1		Datentests
+27.4.	07:30-12:00	EA1		Timer thread
+	13:30-18:30	EA1		Korr. MDF+2 Coder/Output handler
+
+----- KW 18 -----
+30.4.	08:15-08:30	Rolotec		Zeiterf.
+	08:30-11:00	EA1		Datentests
+	11:00-11:30	Rolotec		Bespr. GUR (EA1 f. Singapur)
+	11:30-12:30	EA1		GSN-Backup/-Restore
+	14:00-19:45	EA1		BC-Statistik
+1.5.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-13:00	EA1
+	14:00-18:00	EA1
+	18:00-19:00	NMA		Multi-Input MOPS-Subscriber
+2.5.	08:00-09:00	EA1
+	09:00-09:30	EA1		Tel.konf.
+	09:30-13:00	EA1
+	14:30-18:00	EA1		Admin-Guide
+3.5.	07:45-08:30	EA1		Kontrolle/Korr. tablemgr
+	08:30-13:00	NMA		Multi-Input MOPS-Subscriber 
+	14:00-15:30	NMA
+	15:30-19:00	NMA		Support BI (Memoryleak-Analyse)
+4.5.	07:30-08:00	EA1		Empfangskontrolle
+	08:00-08:30	abwesend
+	08:30-09:00	NMA		Multi-Input MOPS-Subscriber
+	09:00-09:15	Rolotec		Zeiterf.
+	09:15-12:30	NMA		Test Multi-Input MOPS-Subscriber
+	13:30-17:45	NMA
+
+----- KW 19 -----
+7.5.	07:30-10:00	NMA		Tests
+	10:00-12:30	NMA		Korr. processing (TabDelSttVat)
+	14:00-16:45	NMA		Tests, Checkin
+	16:45-17:30	Volvo Center Worben
+	17:30-18:30	EA1		Umbau dcsrp
+8.5.	07:30-09:00	NMA
+	09:00-09:30	EA1		Tel.konf.
+	09:30-12:30	EA1		Umbau dcsrp
+	13:30-14:00	FAST		BAKOM-Collection auf search.intern.rolotec.ch
+	14:00-15:30	EA1
+	15:30-18:30	NMA		Lasttests
+9.5.	08:00-09:00	NMA		Logger-Problem (Disk full)
+	09:00-10:30	EA1
+	10:30-11:00	NMA		Restart Logger/Lasttests
+	11:00-11:15	Rolotec		Zeiterf.
+	11:15-12:30	EA1		
+	14:00-19:00	EA1
+10.5.	07:30-10:00	EA1
+	10:00-11:30	NMA		Bespr. PoC
+	11:30-12:30	EA1
+	14:00-19:30	EA1
+11.5.	07:30-12:30	NMA		Log-Analyse
+	14:00-18:30	EA1
+	
+----- KW 20 -----
+14.5.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-12:00	EA1		Test Latenztools
+	14:00-15:30	Shark		Limiten-Problem Raiffeisen
+	15:30-16:30	EA1		dcsrp
+	16:30-18:00	Shark
+15.5.	08:00-09:30	EA1
+	09:30-10:00	EA1		Tel.konf.
+	10:00-12:30	EA1		dcsrp
+	14:00-15:30	EA1
+	15:30-17:30	Shark		limdm
+16.5.	07:00-08:00	ESTV		Install. K2 6.1 (k2)
+	08:00-09:00	NMA		Fehlersuche MoPS
+	09:00-09:45	ESTV
+	09:45-10:15	iD2		Fehlersuche (11G csdisp)
+	10:15-11:30	EA1
+	11:30-13:00	NMA		
+	14:15-15:30	Shark		limdm
+	15:30-15:45	Rolotec		User mradm auf k2 definiert
+	15:45-19:30	NMA		MCL Debugging
+17.5.	Auffahrt
+18.5.	07:30-08:30	Shark		Test limdm
+	08:30-12:30	NMA
+	14:00-17:30	NMA
+	17:30-18:00	EA1		Test DCS-Anbindung
+	18:00-18:15	Rolotec		Zeiterf.
+
+----- KW 21 -----
+21.5.	08:30-09:30	NMA		Mail Probleme PPS-PoC
+	09:30-10:00	EA1		Test DCS-Anbindung
+	10:00-12:00	Pikett		div. ARS
+	13:30-14:30	FAST		SUVA-PoC (Schmidiger)
+	14:30-15:15	Pikett
+	15:15-16:00	abwesend (Volvo Center Worben)
+	16:00-16:30	Shark		Setup Entw.umg. f. Solaris 10 (failed)
+	16:30-17:00	Pikett
+	17:00-17:30	EA1		Vorb. Tel.konf.
+22.5.	08:30-09:00	Pikett
+	09:00-09:30	EA1		Tel.konf.
+	09:30-10:30	Pikett
+	10:30-12:15	EA1		Setup/Test DCS-Anbindung
+	14:00-16:30	EA1		Package Building, Test auf birg
+	16:30-17:30	Pikett
+23.5.	06:15-07:30	EA1		Erw. Packaging
+	07:30-10:00	Pikett		ics[123]
+	10:00-11:15	iD2		Support MN (ics1)
+	11:15-11:30	Rolotec		Zeiterf.
+	11:30-11:45	EA1		Bespr. GUR
+	11:45-12:30	EA1		Vorb. cfg-Templates
+	14:00-16:30	Pikett
+	16:30-17:30	EA1		Test DCS-Anbindung
+	17:30-18:30	Shark		limdm
+24.5.	07:15-09:30	EA1		Dummy-dcsrp
+	09:30-13:00	Shark		limdm-Problem
+	14:00-20:00	Shark
+25.5.	07:15-14:30	Shark
+	14:30-15:00	EA1		Bespr. GUR (Erw. Release 1)
+	15:00-18:15	Shark
+	18:15-18:30	Rolotec		Zeiterf.
+
+----- KW 22 -----
+28.5.	Pfingstmontag
+29.5.	08:00-09:30	EA1		dummy-DCSRP
+	09:30-13:00	Shark		limdm
+	14:15-17:00	EA1		Workshop (GAE, GUR)
+	17:00-19:00	EA1		Erw. Spez.
+30.5.	08:00-09:00	EA1		verb. MDFInput (bufsz)
+	09:00-09:30	Shark		Lizenzproblem mit Debugger
+	09:30-12:00	EA1		dummy-DCSRP
+	12:00-12:30	ESTV		Install. K2 6.1.1.1
+	14:00-15:30	EA1		DCS-Anbindung
+	15:30-20:00	EA1		Packaging: Dummy-DCSRP
+31.5.	08:00-11:00	EA1		Lieferung Dummy-DCSRP
+	11:00-11:30	Shark		Setup sharkdev
+	11:30-12:30	EA1		Install. Dummy-DCSRP auf birg
+	14:00-14:30	Shark		Debug-Versuch auf sharkdev
+	14:30-16:30	EA1		Erw. dcsrp
+	16:30-19:15	EA1		Performance-Messungen
+	19:15-19:30	Rolotec		Zeiterf.
+	19:30-20:00	EA1		Debug mdmgr/tablemgr
+1.6.	08:00-11:30	EA1
+	11:30-13:00	Shark		limdm
+	14:15-15:30	Shark
+	15:30-16:30	EA1		Erw. dcsrp2
+	16:30-16:45	iD2		Support NO (csfeed linking)
+	16:45-18:00	EA1
+	18:00-19:00	Shark
+2.6.	12:00-13:00	Shark
+	13:00-14:00	EA1		
+
+----- KW 23 -----
+4.6.	07:45-08:00	Rolotec		Zeiterf.
+	08:00-10:00	EA1
+	10:00-13:15	Shark
+	14:15-15:00	Shark
+	15:00-19:30	EA1
+5.6.	08:00-10:30	EA1		dcsrp2 (inkl. 15 Min. Tel.konf.)
+	10:30-11:00	iD2		Support NO
+	11:00-13:00	EA1
+	14:00-18:00	EA1
+6.6.	08:00-12:30	EA1
+	14:00-20:00	EA1
+7.6.	07:00-13:00	EA1
+	14:15-19:00	EA1
+8.6.	07:30-12:30	EA1
+	14:00-18:30	EA1
+	
+----- KW 24 -----
+11.6.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-12:30	EA1
+	14:00-19:30	EA1
+12.6.	08:00-13:00	EA1
+	14:30-19:00	EA1
+13.6.	08:00-11:30	EA1		Erw. dcsrp2 (kein Live-Input)
+	13:00-20:00	EA1
+14.6.	08:15-08:30	Rolotec		Zeiterf.
+	08:30-13:00	EA1
+	14:00-18:30	EA1
+15.6.	06:30-08:00	EA1		Update Spez.
+	08:00-08:15	Rolotec		Zeiterf.
+	08:15-16:30	EA1
+16.6.	14:15-16:15	EA1		Verb. shutdown
+
+----- KW 25 -----
+18.6.	08:00-12:15	EA1
+	14:00-19:00	EA1
+19.6.	07:30-12:30	EA1
+	14:00-20:00	EA1		Lieferung Package DCSRP2-1.0
+20.6.	07:30-08:00	EA1		Kontrolle
+	08:00-08:15	Rolotec		Zeiterf.
+	08:15-09:00	EA1		CVS update , Tagging
+	09:00-11:30	EA1		QA-Meeting
+	13:30-14:00	FAST		Erst. Espace Media Coll.
+	14:00-18:00	EA1		Vorb. EA1 Lieferung (Admin-Guide)
+21.6.	07:30-12:30	EA1
+	14:00-15:00	Rolotec		Info-Veranst.
+	15:00-17:30	EA1
+22.6.	08:00-09:00	EA1		QA Tel.konf.
+	09:00-12:30	EA1		Trennung CPPLIB/DCSRP/EA1
+	14:00-18:30	EA1		
+23.6.	14:00-17:00	EA1
+
+----- KW 26 -----
+25.6.	08:00-12:30	EA1
+	14:00-19:00	EA1		Lieferung EA1-1.0.0
+	19:00-19:15	Rolotec		Zeiterf.
+26.6.	08:00-09:30	EA1		Backup, Checkin & Tel.konf.
+	09:30-10:15	NMA		handle LOSTRACE notification
+	10:15-11:45	EA1		CVS update, tagging, cleanup
+	13:30-17:00	NMA		Trennung MCL-Input ab Netzwerk/Tracefile
+	17:00-17:30	EA1		Update Admin-HB (Visio2002-Diagramm)
+	17:30-18:00	ESTV		Mails F.Keller/G.Marfurt (K2 Upgrade)
+27.6.	07:00-09:00	EA1		Cleanup CVS, Korr. Packaging
+	09:00-12:30	EA1		einf. Filtering
+	14:00-19:00	EA1
+28.6.	07:00-11:30	EA1		EUREX-/ALEX-Traces
+	13:30-18:30	EA1
+29.6.	07:00-08:15	EA1		Erw./Korr. OutputMgr
+	08:15-08:30	Rolotec		Zeiterf.
+	08:30-09:00	EA1		EA1/MRP QA-Tel.konf.
+	09:30-12:30	EA1		
+	14:00-14:30	EA1		Umst. MRP-Anbindung
+	14:30-17:30	EA1
+
+----- KW 27 -----
+2.7.	07:45-08:00	Rolotec		Zeiterf.
+	08:00-12:15	EA1		Debugging
+	13:45-19:15	EA1
+3.7.	07:30-11:30	EA1
+	13:30-17:30	EA1		Meeting Release2-Spez.
+	17:30-18:30	EA1
+4.7.	08:00-12:15	EA1		(inkl. 15 Min. f. MRP/EA1-QA Meeting)
+	13:30-18:30	EA1
+5.7.	07:15·12:30	EA1
+	14:00-20:00	EA1
+6.7.	07:30-12:30	EA1		Packaging
+	14:00-17:30	EA1		Lieferung EA1 & DCSRP 1.1.0, Tools 1.3.0
+7.7.	09:00-11:15	ESTV		Vorb. K2 Upgrade
+	11:15-11:30	Rolotec		Zeiterf.
+
+----- KW 28 -----
+9.7.	07:30-12:30	ESTV		Upgrade K2 6.1.1.1
+	14:00-18:30	ESTV
+10.7.	09:00-10:00	ESTV		Ablage, Doku
+	10:00-11:30	EA1		Fertigst. Release 1
+	11:30-12:00	ESTV
+	14:00-15:15	ESTV		Mail weiteres Vorgehen
+	15:15-17:45	MPX		Vorb. Release 2
+	17:45-18:00	ESTV
+	18:00-18:45	MPX		Testbit & Ext. Header
+11.7.	07:45-11:00	MPX
+	11:00-12:15	MPX		Filtering pro BC
+	14:00-18:15	MPX
+12.7.	08:15-12:15	MPX
+	13:30-18:00	MPX		Adaptive MDF-Generierung
+13.7.	08:30-09:15	Rolotec		unprod.
+	09:15-09:30	Rolotec		Zeiterf.
+	09:30-12:30	MPX
+	14:00-18:00	MPX
+
+----- KW 29 -----
+16.7.	07:15-12:30	ESTV		Upgrade K2, Phase 2
+	13:15-18:30	ESTV
+17.7.	07:30-10:30	ESTV		Checkin, Mails
+	10:30-10:45	Rolotec		Zeiterf.
+	10:45-13:00	EA1		Bugfixes
+	14:00-18:15	MPX		Bugfixes, Support BI
+18.7.	07:00-12:00	MPX		Nullkurse und Löschungen
+	13:30-17:00	MPX
+	17:00-18:00	FAST		Support MH (Handelszeitung)
+19.7.	07:30-12:15	MPX
+	14:00-17:45	MPX
+	17:45-18:15	ESTV		Nachlieferung DBA
+20.7.	08:00-12:15	MPX
+	13:30-17:00	MPX		Optim. MDF Coder
+
+----- KW 30 -----
+23.7.	08:00-08:15	Rolotec		Zeiterf.
+	08:15-11:45	MPX
+	13:30-17:30	MPX		Schlusskurs-Versand
+24.7.	07:00-08:30	MPX		Analyse HLS-Optimierungen (2.2.2)
+	08:30-13:00	MPX		Schlusskurs-Versand
+	14:15-18:00	MPX
+	18:00-18:15	ESTV		Support G.Teo
+25.7.	07:00-08:30	MPX		Checkin
+	08:30-12:30	EA1		Debug DCSRP2
+	14:00-19:00	EA1
+26.7.	07:15-08:15	EA1		Kontrolle DCSRP2
+	08:15-12:15	EA1		DCSRP2
+	13:30-19:00	EA1		DCSRP2 1.2 Package
+27.7.	07:45-08:00	Rolotec		Zeiterf.
+	08:00-11:00	EA1		Support BI (Latenzmess.)
+	11:00-12:30	EA1		Test DCSRP2
+	14:00-17:00	Pikett		Ausfall Ltg. ZH
+	17:00-18:30	EA1		Packaging DCSRP2
+
+----- KW 31 -----
+30.7.	08:30-11:00	EA1		Lieferung DCSRP2 1.2.0
+	11:00-11:30	Pikett		div. ARS
+	11:30-12:30	EA1		Vorb. Release 1.2
+	13:30-14:00	EA1		Support BI (Latenzmess.)
+	14:00-18:30	EA1		
+31.7.	07:30-08:00	Pikett		div. ARS
+	08:00-09:30	EA1		
+	09:30-10:00	Shark		Support MAC (BEKB-Performance)
+	10:00-12:30	EA1		Lieferung Release 1.2
+	14:00-15:15	Pikett		div. ARS
+	15:15-15:30	Rolotec		Zeiterf.
+	15:30-16:00	MPX		Checkin
+1.8.	Nationalfeiertag
+2.8.	08:00-08:30	Pikett		ARS-Check
+	08:30-12:30	MPX		Failover & Output Handling
+	14:00-14:30	Shark		Pf-Problem Oberbank
+	14:30-18:30	MPX
+3.8.	08:00-08:30	Pikett		XML-Push Singapur, RBA
+	08:30-12:30	MPX
+	14:00-19:30	MPX
+
+----- KW 32 -----
+6.8.	08:30-12:30	MPX
+	14:00-18:30	MPX
+7.8.	07:30-12:00	EA1		Debug/Erw. DCSRP2
+	14:00-18:30	EA1
+8.8.	07:30-09:15	EA1
+	09:15-10:15	ESTV		Nachlieferung ELIAS-Web
+	10:15-10:30	Rolotec		Zeiterf.
+	10:30-12:30	EA1
+	14:00-18:45	EA1
+9.8.	07:30-09:30	EA1
+	09:30-10:30	iD2		ARS625500 (Zero-Bond Search f. ZKB)
+	10:30-11:30	Rolotec		unprod. (burg blockiert, iD2 GUI fehlerhaft)
+	13:30-18:00	EA1
+10.8.	07:30-08:30	EA1
+	08:30-08:45	Rolotec		Zeiterf.
+	08:45-12:30	EA1
+	14:00-18:30	EA1
+
+----- KW 33 -----
+13.8.	07:30-12:00	EA1		Konsolidierung R1/R2
+	13:30-18:30	EA1
+14.8.	07:30-12:15	EA1		Vorb. DCSRP2/EA1 1.3
+	14:00-19:00	EA1
+15.8.	08:00-12:30	MPX		Failover & Output Handling
+	14:00-18:30	MPX
+16.8.	07:30-12:45	MPX
+	14:00-18:00	MPX
+17.8.	frei
+
+----- KW 34 -----
+20.8.	09:00-12:30	MPX
+	14:00-18:00	MPX
+	18:00-18:30	ESTV		Support BIT
+21.8.	07:00-07:30	Rolotec		Zeiterf.
+	07:30-12:30	SRG/PACTE	Kickoff Pilot
+	14:00-19:00	MPX
+22.8.	07:30-12:30	EA1		Support BI (Packaging)
+	14:00-18:30	MPX
+23.8.	08:00-09:00	EA1		Setup Routing in TK-Prod.
+	09:00-12:00	MPX
+	12:00-12:30	Shark		Pikett BKB
+	14:00-19:00	MPX
+24.8.	07:00-08:30	MPX
+	08:30-08:45	Rolotec		Zeiterf.
+	08:45-12:30	MPX
+	14:00-18:30	MPX
+25.8.	09:00-11:00	MPX
+	
+----- KW 35 -----
+27.8.	08:15-08:30	Shark		Problem mit cash.ch (DB)
+	08:30-12:00	MPX
+	14:30-18:30	MPX
+	20:30-21:00	Shark		Pikett COL
+28.8.	08:00-12:30	MPX
+	14:15-19:00	MPX		Test, Doku, Checkin
+29.8.	09:15-13:15	MPX
+	14:30-20:30	MPX		Vorb. Package 2.0.0 (mit MRP)
+30.8.	07:30-13:00	MPX
+	14:00-20:30	MPX
+31.8.	10:30-19:00	MPX		Lieferung DCSRP2/EA1 1.3.1, MPX 2.0.0
+	19:00-19:15	Rolotec		Zeiterf.
+
+----- KW 36 -----
+----- KW 37 -----
+----- KW 38 -----
+----- KW 39 -----
+	Ferien bis 3.10.
+
+----- KW 40 -----
+4.10.	09:00-11:00	Rolotec		Email-Check
+	13:30-17:30	Rolotec		Einarb.
+5.10.	09:00-10:30	Rolotec
+		Post, Bank, Gemeinde
+	14:30-15:30	MPX		Bespr. Release 3 (Bi)
+	15:30-17:30	Rolotec		unprod., Pikett
+
+----- KW 41 -----
+8.10.	09:00-12:30	MPX		Bugfixes
+	14:30-17:30	MPX
+	17:30-18:30	Pikett		div. ARS, OBS-Problem (kein HK f. BC 361)
+9.10.	08:45-09:00	Pikett		SGKB, ZGKB, Raiffeisen
+	09:00-10:30	MPX		Bespr. Release 3 Failover (Bi)
+	10:30-12:30	MPX		Bugfixes, Test
+	15:00-19:00	MPX
+10.10.	08:15-08:30	Rolotec		Zeiterf.
+	08:30-11:15	MPX		MTI-Integr.
+	14:15-18:30	MPX
+11.10.	08:30-12:30	MPX
+	14:00-15:30	Pikett
+	15:30-19:30	MPX
+12.10.	08:00-12:30	MPX		HLS-Optim.	
+	14:00-18:30	MPX
+
+----- KW 42 -----
+15.10.	09:00-13:00	MPX		
+	14:30-19:30	MPX
+16.10.	08:30-11:00	MPX		
+	11:00-12:30	NMA		Bespr. MRP-Integr. in PPS (Bi)
+	14:30-18:30	MPX
+17.10.	09:00-14:00	MPX		Optim., Test, Debug
+	15:30-20:00	MPX
+18.10.	09:00-13:00	MPX
+	14:30-19:30	MPX
+19.10.	09:15-10:15	MPX
+	10:15-10:30	Rolotec		Zeiterf.
+	10:30-11:30	Rolotec		unprod (Netzwerkunterbruch)
+	11:30-13:30	MPX
+	15:00-19:30	MPX
+
+----- KW 43 -----
+22.10.	08:30-13:30	MPX
+	15:00-19:30	MPX
+23.10.	09:00-14:00	MPX
+	15:00-20:00	MPX		Tests mit Insure++
+24.10.	09:15-14:00	MPX
+	15:30-21:00	MPX		Doku
+25.10.	09:00-14:00	MPX
+	15:15-21:00	MPX		Vorb. Package/Testing
+26.10.	08:30-13:30	EA1		Backport Bugfixes
+	15:00-19:30	EA1
+
+----- KW 44 -----
+29.10.	08:00-13:00	EA1
+	14:30-20:30	EA1
+30.10.	08:00-12:30	EA1
+	14:00-19:30	EA1
+31.10.	09:00-13:30	EA1		Lieferung DCSRP2/EA1
+	14:30-18:15	MPX		Lieferung MPX
+	18:15-18:30	Rolotec		Zeiterf.
+1.11.	09:15-12:30	MPX		Cleanup, Dok.-Ablage
+	13:30-15:30	MPX		Bug 2567
+	15:30-17:00	ESTV		Korr. abfrage_f.jsp
+	17:00-17:30	MPX
+2.11.	08:00-10:00	MPX
+	10:00-11:30	PACTE		Support CSC
+	11:30-12:30	Shark		Erw. COL (Vorb.)
+	14:00-17:30	TBFWD		Integr. MRP-API 2.4
+
+----- KW 45 -----
+5.11.	08:30-08:45	Rolotec		Zeiterf.
+	08:45-12:30	MPX		Bugfixes, Optim., Code cleanup
+	14:00-18:30	MPX
+6.11.	08:00-12:30	MPX
+	14:00-18:00	MPX
+7.11.	08:30-12:30	MPX
+	14:00-18:30	MPX
+8.11.	09:00-12:30	MPX		Locking-Problem mit Master-Feldern
+	14:00-16:00	MPX3		Bespr. Bi
+	16:00-16:30	TBFWD		ARS
+	16:30-19:30	MPX
+9.11.	08:15-12:30	MPX
+	14:15-18:30	MPX
+10.11.	10:00-12:00	MPX
+
+----- KW 46 -----
+12.11.	08:30-12:00	MPX		Bugfixes, Tests
+	12:00-13:00	Pikett		div. ARS
+	14:30-15:00	Pikett
+	15:00-19:00	MPX		Test EOD
+13.11.	08:00-10:00	MPX
+	10:00-10:30	Pikett
+	10:30-12:30	MPX3		Studium Spez. Bi
+	14:30-14:45	Rolotec		Zeiterf.
+	14:45-19:30	MPX
+14.11.	08:15-11:30	MPX
+	11:30-12:30	RCL		Design (mn)
+	14:00-14:30	Pikett
+	14:30-17:00	RCL		base
+	17:00-18:30	MPX
+15.11.	08:00-08:30	Pikett
+	08:30-12:30	RCL		concurrent
+	14:00-18:30	RCL
+16.11.	08:00-09:30	RCL
+	09:30-10:00	Pikett
+	10:00-12:30	RCL		RCL Building
+	14:00-18:00	RCL
+
+----- KW 47 -----
+19.11.	09:00-10:00	Rolotec		Mail-Ablage
+	10:00-10:45	RCL		container
+	10:45-11:00	Rolotec		Zeiterf.
+	11:00-13:00	RCL
+	14:00-18:30	OBS2
+20.11.	08:00-12:30	COL		Erw. Userpage-Limiten
+	14:00-17:30	RCL
+21.11.	09:00-13:00	RCL
+	14:15-19:30	RCL
+22.11.	08:30-08:45	Rolotec		Zeiterf.
+	08:45-13:00	RCL
+	14:00-19:00	RCL
+23.11.	09:00-13:00	RCL
+	14:00-15:00	Shark		Korr. aspsmsdm/maildm
+	15:00-18:30	RCL
+
+----- KW 48 -----
+26.11.	08:30-08:45	Rolotec		Zeiterf.
+	08:45-13:00	MPX3		Port. f. RCL
+	14:00-18:30	MPX3
+27.11.	08:30-12:30	MPX3
+	14:00-19:00	MPX3
+28.11.	08:00-12:30	MPX3
+	13:30-18:30	MPX3
+29.11.	morgens Flughafen ZH
+	14:00-19:00	MPX3
+30.11.	09:00-12:45	MPX3
+	14:00-14:15	Rolotec		Zeiterf.
+	14:15-18:00	MPX3
+
+----- KW 49 -----
+3.12.	09:00-12:45	MPX3
+	14:00-18:45	MPX3
+4.12.	08:30-09:30	OBS2		Anlyse BOAT-Trace, Tel. Schwendimann
+	09:30-11:30	ESTV		Erw. DBA-Layouts
+	11:30-12:30	MPX3
+	14:00-19:00	MPX3
+5.12.	08:30-10:30	MPX3
+	10:30-11:30	OBS2		Tracefile-Analyse
+	11:30-13:00	MPX3
+	14:15-18:15	MPX3
+6.12.	08:00-13:00	MPX3
+	14:00-18:00	MPX3
+7.12.	08:15-09:00	OBS2		Tracefile-Analyse
+	09:00-12:30	MPX3
+	14:00-16:30	MPX3/OBS2	Koord.meeting
+	16:30-18:30	MPX3
+	18:30-19:00	Pikett 		Support MN (Postfinance)
+
+----- KW 50 -----
+10.12.	08:30-08:45	Rolotec		Zeiterf.
+	08:45-10:30	Pikett		ARS648275
+	10:30-12:30	RCL		Korr. container
+	14:00-18:30	MPX3
+11.12.	08:00-11:30	MPX3		Setup Entw.umg. tuba (RCL)
+	11:30-12:30	OBS2		Beschr. Entw.ressourcen (MF)
+	14:00-17:00	MPX2		Package 2.1.1
+	17:00-17:30	ESTV		Setup login.bfi.admin.ch, Upload dba
+12.12.	08:30-09:15	Rolotec		unprod. (Mail, etc.)
+	09:15-09:45	ESTV		Abschluss DBA (Mail Teo/Marfurt)
+	09:45-11:00	MPX3		Bespr. BI
+	11:00-11:15	Pikett		ARS648275	
+	11:15-11:30	RCL		Korr. POSIX-Threading f. Solaris
+	11:30-14:15	MPX3		Aufwandsch. BI
+	15:30-18:30	MPX2		Lieferung MPX 2.1.1 & Tools
+	18:30-19:30	DCSRP2		Port. f. RCL
+13.12.	08:15-08:45	Rolotec		Zeiterf.
+	08:45-12:30	MPX3
+	14:00-19:30	MPX3
+14.12.	08:00-12:30	MPX3
+	14:00-18:30	MPX3
+	
+----- KW 51 -----
+17.12.	08:15-12:45	MPX3		inkl. Support BI
+	13:45-14:00	Rolotec		Zeiterf.
+	14:00-18:00	MPX3
+18.12.	08:30-11:00	RCL
+	11:00-11:30	MPX2		Bugzillas
+	11:30-12:15	RCL		Tests
+	14:15-18:30	MPX3
+19.12.	08:30-10:30	RCL		Upgrade f. MPX3
+	10:30-12:30	MPX2		Bug 2630
+	14:00-14:30	MPX2
+	14:30-15:00	Pikett		div. ARS
+	15:00-17:00	MPX2
+	17:00-18:30	MPX3
+20.12.	08:30-08:45	Pikett
+	08:45-12:30	MPX3
+	14:00-18:30	MPX3
+21.12.	08:00-09:00	MPX2		Bugzilla 2626 & 2630
+	09:00-10:00	OBS2		Koord.meeting
+	10:00-13:00	MPX2		
+	14:00-17:00	MPX2		Bugfixes
+	17:00-19:00	MPX3		Support BI
+
+----- KW 52 -----
+24.12.	09:00-11:30	MPX3		Port. TPF1-Klassen MPX3 -> RCL
+	11:30-12:00	Rolotec		Zeiterf.
+	15:00-17:00	MPX3
+25.12.	frei
+26.12.	frei
+27.12.	Ferien
+28.12.	Ferien
+
+----- KW 1 -----
+31.12.	frei
+

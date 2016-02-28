@@ -1,0 +1,981 @@
+----- KW 2 -----
+5.1.	09:00-10:00	Rolotec		unprod. (Mails, PC-Maintenance, PW-Change)
+	10:00-11:00	LSEG		Re-Kickoff
+	11:00-11:30	Rolotec		unprod.
+	11:30-12:00	ELIAS		Mail B.Iseli
+	12:00-13:00	Rolotec
+	14:00-19:00	MRP		Tracing-Tool
+6.1.	09:00-11:00	MFC2		Bespr. Sprint 3
+	11:00-13:00	MFC2		dmd
+	14:00-18:30	MFC2
+7.1.	09:00-11:00	Infoscreen	Handover R.Plüss
+	11:00-13:00	MFC2
+	14:00-18:30	MFC2
+8.1.	08:30-12:30	MFC2
+	13:30-16:00	MFC2
+	16:00-17:00	Rolotec		Team-Meeting
+	17:00-19:30	MFC2
+9.1.	09:00-12:45	MFC2
+	13:30-17:00	CS DPB		MFC2 pushd
+
+----- KW 3 -----
+12.1.	09:00-09:30	DFI		Support tkenr wg. GMS-Scripts
+	09:30-10:00	Rolotec		Check Infrastruktur (mb-02)
+	10:00-11:00	MFC2		Checkpoint (Dok.)
+	11:00-13:00	LSEG		Requirements-Analyse
+	14:00-16:00	LSEG
+	16:00-18:30	MFC2
+13.1.	09:00-13:00	MFC2		Korr. dmd
+	14:00-19:00	LSEG		Vorb. Mapping (Shares)
+14.1.	09:00-13:00	LSEG
+	14:00-16:00	LSEG
+	16:00-17:00	MRP		Vorb. Bespr.
+	17:00-18:00	MFC2
+15.1.	09:00-11:30	MRP		Bespr. Handover
+	11:30-13:00	LSEG	
+	14:00-18:00	LSEG
+16.1.	09:00-12:00	LSEG
+	12:00-13:00	MFC2
+	14:00-17:00	MFC2
+
+----- KW 4 -----
+19.1.	09:00-11:00	LSEG
+	11:00-11:30	DFI		VPN-Problem SIX Laptop
+	11:30-12:30	MFC2
+	13:30-16:00	Rolotec		MA-Gespr.
+	16:00-18:00	MFC2
+20.1.	09:00-11:00	LSEG
+	11:00-11:30	MFC2
+	11:30-13:00	MRP		Tracing Tool
+	14:00-18:00	MRP
+	18:00-19:30	MFC2
+21.1.	09:00-10:00	MFC2
+	10:00-11:00	TASS		Know-How Transfer INC2447337 (PER)
+	11:00-13:00	MFC2
+	14:00-15:00	MRP
+	15:00-19:00	LSEG		Mapping-Updates
+22.1.	09:00-12:30	LSEG		Datentests und -verifikation
+	14:00-18:30	MRP
+23.1.	08:00-10:00	MRP
+	10:00-12:00	MFC2		Abschluss Sprint 3, Planung Sprint 4
+	12:00-12:30	MRP
+	13:30-15:00	MRP
+	15:00-19:30	MFC2		XMFC-41, XMFC-49
+
+----- KW 5 -----
+26.1.	09:00-12:30	MFC2		XMFC-41, XMFC-49
+	13:30-17:30	MFC2
+27.1.	09:00-12:00	DFI		Vorb. MRP Handover
+	13:00-15:00	DFI
+	15:00-18:00	MRP		Tracing Tool
+	18:00-18:30	Rolotec		Zeiterf.
+28.1.	09:00-12:00	DFI		MRP Handover (Release 3.1)
+	12:00-13:00	MRP		Tracing Tool
+	14:00-19:00	MRP
+29.1.	09:00-10:30	MRP
+	10:30-12:30	MFC2		XMFC-23/45
+	13:30-19:30	MFC2
+30.1.	09:00-12:30	MFC2
+	13:30-15:00	MFC2
+	15:00-15:30	LSEG		AN1-Testfiles f. DMA
+	15:30-18:00	MFC2
+	18:00-18:30	Rolotec		Zeiterf.
+
+----- KW 6 -----
+2.2.	09:00-12:30	MFC2		XMFC-23/45
+	13:30-18:00	MFC2		XMFC-52
+3.2.	09:00-13:00	MFC2
+	14:00-20:00	MFC2
+4.2.	09:00-12:30	MFC2
+	13:30-19:30	MFC2
+5.2.	08:30-13:00	MFC2
+	14:00-16:00	MFC2
+	16:00-16:30	LSE		Aufteilung nach Instrument Type
+	16:30-19:30	MFC2
+6.2.	09:00-13:00	MFC2		XMFC-38
+	14:00-19:00	MFC2
+
+----- KW 7 -----
+9.2.	09:00-12:45	MFC2
+	13:45-18:00	MFC2
+10.2.	09:00-13:00	MFC2
+	14:00-19:30	MFC2
+11.2.	09:00-15:00	MFC2
+	(krank)
+12.2.	krank
+13.2.	krank
+
+----- KW 8 -----
+16.2.	krank
+17.2.	09:00-10:00	Rolotec		unprod.
+	10:00-10:30	MFC2
+	10:30-11:00	LSEG		Planung mit Deniz
+	11:00-12:00	DCSRP		Anfrage U.Hess wg. unterschiedlicher MPX Zähler
+	13:00-18:00	MFC2		XMFC-38/42
+18.2.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+19.2.	09:00-10:00	MFC2
+	10:00-10:30	Rolotec		Ausfall kamel
+	10:30-13:00	MRP		Tracing-Tool
+	14:00-16:00	MRP
+	16:00-17:00	Rolotec		Team-Meeting (Intro neue Zielvereinbarung)
+	17:00-18:30	MRP
+20.2.	09:00-12:30	MRP
+	13:30-16:30	MRP
+	16:30-17:30	MFC		Setup tossen, Test Installation
+	17:30-18:00	Rolotec		Zeiterf.
+
+----- KW 9 -----
+23.2.	09:00-12:30	MFC2
+	13:30-17:30	MFC2
+24.2.	09:00-13:00	MFC2
+	14:00-18:30	MFC2
+25.2.	09:00-13:00	MFC2
+	14:00-19:00	MFC2
+26.2.	09:00-13:00	MFC2
+	14:00-19:30	MFC2
+27.2.	09:00-13:00	MFC2
+	14:00-17:00	MRP		MDF Trace Tool
+	17:00-17:30	Rolotec		Zeiterf.
+
+----- KW 10 -----
+2.3.	09:00-10:00	MFC2		Debug core
+	10:00-10:30	Rolotec		e-learning Worktime
+	10:30-11:00	MRP		cron job z. Löschen alter Tracefiles
+	11:00-12:30	PassionFruit	Vorb. Kickoff
+	12:30-13:00	MFC2		Expand swap (tossen)
+	14:30-15:30	PassionFruit	Kickoff
+	15:30-16:00	ESTV		Test RAS-Zugang (blockiert)
+	16:00-18:30	PassionFruit	Table-Def gem. Resultfile
+3.3.	09:00-11:00	MFC2		Debug core
+	11:00-11:30	OBS		Support Vladi (Source 3.0)
+	11:30-12:00	ESTV		Restore RAS-Zugriff
+	12:00-13:00	MFC2		Debug/Reboot tossen
+	14:00-14:30	ESTV
+	14:30-15:00	MFC2
+	15:00-19:00	PassionFruit
+4.3.	09:00-10:00	Rolotec		unprod. (Planung citrin, VDF-Ausb., BIT-Zugang, ZV, LSE)
+	10:00-13:00	PassionFruit
+	14:00-16:00	PassionFruit
+	16:00-17:00	ESTV		RAS-Zugriff geht, SSH nicht (PW expired, neues kann nicht gesetzt werden)
+	17:00-19:00	PassionFruit
+5.3.	09:00-12:30	MRP		Dok. QA-Tools 3.3
+	13:30-16:00	MRP
+	16:00-16:30	Rolotec		Team-Meeting
+	16:30-18:00	MRP		QA-Tools Release 3.3
+6.3.	09:00-09:30	MRP		Build-Job mb-03
+	09:30-13:00	PassionFruit
+	14:00-15:30	MFC2		Neulieferung Release 9.0.00
+	15:30-17:30	PassionFruit
+	
+----- KW 11 -----
+9.3.	09:00-09:30	MFC2		Mail D.Boche
+	10:00-11:00	Rolotec		ZV
+	11:00-13:00	PassionFruit	VDPS Setup redavdps2
+	14:00-18:00	PassionFruit
+10.3.	09:00-12:00	PassionFruit
+	12:00-12:30	MFC2		Kontrolle tossen
+	13:30-17:00	PassionFruit	Abschluss Mappings, Statusbericht LGE
+	17:00-18:30	PassionFruit	Workflow
+11.3.	09:00-13:00	PassionFruit
+	14:00-19:00	PassionFruit
+12.3.	09:00-11:00	PassionFruit	erw. Mappings gem. Mail LGE
+	11:00-13:00	PassionFruit	Workflow
+	14:00-19:00	PassionFruit
+13.3.	09:00-09:30	MFC2		Mem-Check tossen
+	09:30-11:30	MRP		Handover Tracing Tool an B+S
+	11:30-12:30	PassionFruit
+	13:30-17:30	MRP
+
+----- KW 12 -----
+16.3.	09:00-09:30	MFC2		Mem-Check
+	09:30-13:00	PassionFruit	Requirements-Analyse
+	14:00-18:30	PassionFruit	Update processing gem. Requirements
+17.3.	09:00-12:45	PassionFruit
+	14:00-17:30	PassionFruit
+	17:30-18:00	MRP		Negativ-Filter
+18.3.	09:00-12:15	PassionFruit	FLOATER
+	13:30-17:30	PassionFruit
+19.3.	09:00-10:30	MFC2		Test Memory-Verbrauch
+	10:30-12:30	PassionFruit
+	13:30-14:30	PassionFruit
+	14:30-15:00	DFI		Tel. Bellotti wg. MRP-Problem in Schweden
+	15:00-16:00	PassionFruit
+	16:00-16:30	Rolotec		Team-Meeting
+	16:30-18:30	MFC2		std::string statt RString f. subkeys
+20.3.	09:00-11:00	PassionFruit
+	11:00-12:30	MFC2		XMFC-56
+	12:30-13:00	DFI		RAS-Verb.problem SIX-Laptop 
+	14:00-18:30	PassionFruit
+
+----- KW 13 -----
+23.3.	07:15-13:00	Rolotec		VDF Ausbildung (ZH)
+	14:00-18:15	Rolotec
+	18:30-19:00	MFC2		Relaunch DMD (shm read-locked)
+24.3.	07:15-13:00	Rolotec		VDF Ausbildung (ZH)
+	14:00-17:15	Rolotec
+	17:30-18:30	MFC2		Erw. Search-DB
+25.3.	09:00-09:30	DFI		PWD-Change SIX-Laptop
+	09:30-13:00	PassionFruit	RECENT_VOLUME
+	14:00-17:00	PassionFruit	Tests
+26.3.	09:00-12:45	PassionFruit
+	13:45-17:30	PassionFruit	ftp Houskeeping (PASFRU-1)
+	17:30-19:00	MFC2		XMFC-54
+27.3.	09:00-12:30	MFC2
+	13:30-15:00	MFC2
+	15:00-15:30	OBS		Tel. Vladi wg. CME-Patches
+	15:30-18:00	MFC2
+
+----- KW 14 -----
+30.3.	09:00-11:30	PassionFruit
+	11:30-12:30	MFC2
+	13:30-17:30	MFC2
+31.3.	09:00-09:30	PassionFruit	Vergleich Vortagesresultat (kaum neue Durations)
+	09:30-12:30	MFC2
+	13:30-18:30	MFC2
+	18:30-19:00	Rolotec		Zeiterf.
+1.4.	09:00-11:00	MFC2
+	11:00-11:30	DFI		Support René Harsch (MRP API Doc auf englisch)
+	11:30-12:00	PassionFruit	Datenvergleich zu Vortag (keine US-Bonds mehr)
+	12:00-12:30	MFC2
+	13:30-16:00	LSEG		Vorb. Tabledefinition & -view f. Bonds
+	16:00-16:30	MPS		Support ENR (MPS Logging)
+	16:30-18:30	LSEG
+2.4.	09:00-12:00	MFC2		Test Search
+	12:30-15:00	LSEG
+	15:00-15:30	Rolotec		Team-Meeting
+	15:30-16:00	Rolotec		Zeiterf.
+
+----- KW 15 -----
+7.4.-10.4.	Ferien
+
+----- KW 16 -----
+13.4.	09:00-11:30	PassionFruit	PASFRU-4
+	11:30-12:00	Rolotec		INC2521178
+	12:00-13:00	MFC2
+	14:00-19:30	LSEG		AN2
+14.4.	09:00-09:30	OBS		Support Vladi (Preis-Normalisierung)
+	09:30-10:00	PassionFruit	verb. Logging (cron scripts)
+	10:00-12:30	LSEG
+	13:30-15:00	LSEG
+	15:00-17:00	Rolotec		Support B+S (MFC, TASS)
+	17:00-19:00	LSEG
+	19:00-19:15	PassionFruit	Kontrolle cron Logging
+15.4.	09:00-12:00	TASS		Korr. tsreq
+	12:00-12:30	PassionFruit	Kontrolle cron Logging, Checkin
+	12:30-13:15	LSEG
+	14:15-18:30	LSEG		AN2 mapping f. alle Felder
+16.4.	09:00-09:30	PassionFruit
+	09:30-13:30	LSEG		Review AN1/AN2 mappings
+	14:00-17:30	LSEG		Unification AN1/AN2 output formatting
+	17:30-18:00	MFC2		Kontrolle tossen
+17.4.	09:00-10:00	PassionFruit	Korr. cron job (verb. Logging)
+	10:00-12:00	TASS		Korr. fehlerhafte Preise
+	13:00-13:30	TASS
+	13:30-18:30	MFC2		push2searchdb
+
+----- KW 17 -----
+20.4.	09:00-10:00	PassionFruit	cron-Problem (?)
+	10:00-11:00	MFC2		Deltas f. Search
+	11:00-13:00	MFC2		Status
+	14:00-15:00	PassionFruit	PASFRU-5
+	15:00-18:00	MFC2		push2searchdb
+	18:00-18:30	LSEG		Jira update
+21.4.	09:00-10:00	RCL		Support NLE (SuspendableWorker)
+	10:00-13:00	MFC2		verb. Search-Queries
+	14:00-18:00	MFC2
+22.4.	09:00-12:00	MFC2
+	12:00-13:00	LSEG		LSE-23
+	14:00-19:00	MFC2
+23.4.	08:00-09:30	PassionFruit	Troubleshooting doc (DevWiki), Mail Louis wg. PBI2003214
+	09:30-13:00	MFC2
+	14:00-18:30	MFC2
+24.4.	09:00-10:00	MPS		Support R.Eng (Moneyness f. BC 67)
+	10:00-13:00	MFC2
+	14:00-15:30	MFC2
+	15:30-17:00	Rolotec		Global IT Vernissage
+	17:00-18:00	MFC2
+
+----- KW 18 -----
+27.4.	09:00-13:00	MFC2		verb. Search
+	14:00-20:00	MFC2
+28.4.	09:00-13:00	MFC2
+	14:00-17:00	MFC2
+	17:00-18:00	Rolotec		Zeiterf.
+	18:00-19:30	MFC2		Search Statistics
+29.4.	09:00-10:00	MFC2
+	10:00-10:30	PassionFruit	Kontrolle HK
+	10:30-13:00	MFC2
+	14:00-18:00	MFC2
+30.4.	09:00-11:00	MRP		Support B+S (Delays wg. langsamer Kompression/kleinem Sendbuffer)
+	11:00-13:00	MFC2
+	14:00-16:00	MFC2
+	16:00-17:00	Rolotec		Team-Meeting
+	17:00-18:30	MFC2
+	18:30-19:00	Rolotec		Zeiterf.
+1.5.	09:00-13:00	MFC2
+	14:00-18:30	MFC2		checkin statistics
+
+----- KW 19 -----
+4.5.	09:00-12:30	MFC2		Global Search
+	12:30-13:00	DFI		Vorb. Laptop-Austausch
+	14:00-18:30	MFC2
+5.5.	09:00-13:00	MFC2
+	14:00-18:30	MFC2
+6.5.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+7.5.	09:00-13:00	MFC2
+	14:00-15:00	DFI		Austausch Laptop
+	15:00-19:30	MFC2
+8.5.	08:00-10:00	MFC2
+	10:00-11:30	PassionFruit	Abkl. Produktionsserver (B+S erwartet mandantenfähiges VDPS)	
+	11:30-13:00	MFC2
+	14:00-18:00	MFC2
+9.5.	11:00-14:00	MFC2		Global Search mit Restrictions
+
+----- KW 20 -----
+11.5.	09:00-10:30	MFC2
+	10:30-11:30	TASS4		Korr. tsreq (negative short PRL)
+	11:30-13:00	MFC2
+	14:00-15:00	TASS4
+	15:00-19:00	MFC2
+12.5.	09:00-11:30	MFC2
+	11:30-12:30	DFI		VPN-Probleme EWP-Laptop
+	13:30-17:30	MFC2		LSS/HLS Search
+13.5.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+	18:00-18:30	DFI		Verb.test EWP-Laptop (ok)
+14.5.	(Auffahrt)
+15.5.	09:00-12:30	MFC2		Search-DB update
+	12:30-13:00	Rolotec		Zeiterf.
+	14:00-19:00	MFC2
+
+----- KW 21 -----
+18.5.	09:00-11:30	Passionfruit	PASFRU-7
+	11:30-12:00	Rolotec		Support EHA (rolo_cmake)
+	12:00-13:00	Rolotec		RCL (Bugfix RString::printf)
+	14:00-16:00	PassionFruit
+	16:00-17:00	RCL		Vorb. Release 1.7.02
+	17:00-18:30	PassionFruit	Vorb. CALL_FLAG, Inaktivierung alle PASFRU-7 Changes
+	18:30-19:30	RCL		SLES11-Builds
+19.5.	09:00-09:30	DFI		Best. lokale Adminrechte f.  Laptop-Migration
+	09:30-10:00	PassionFruit	Korr. Lieferfile (Spalte CALL_FLAG entf.)
+	10:00-10:30	PassionFruit	Update Specs & PASFRU-7
+	10:30-13:00	MFC2
+	14:00-19:30	MFC2
+20.5.	09:00-10:00	MFC2
+	10:00-13:00	DFI		Migration EWP-Laptop
+	14:00-16:00	DFI
+	16:00-20:30	MFC2
+21.5.	09:00-11:00	DFI		Migration EWP-Laptop
+	11:00-13:00	MFC2
+	14:00-19:30	MFC2
+22.5.	09:00-13:00	MFC2
+	14:00-17:30	MFC2
+
+----- KW 22 -----
+25.5.	(Pfingstmontag)
+26.5.	09:00-11:30	PassionFruit	PASFRU-7
+	11:30-12:30	PassionFruit	Stv. Projektleitung (Ferien)
+	12:30-13:00	Rolotec		Zeiterf.
+	14:00-20:30	MFC2
+27.5.	09:00-12:00	PassionFruit	kl. Changes, Packaging mit CMake (2 Varianten)
+	13:00-16:30	PassionFruit
+	16:30-17:30	TASS		Workaround f. close()-Problem
+	17:30-20:30	MFC2
+28.5.	09:00-12:30	MFC2		Query-Optimierung
+	13:30-16:00	MFC2
+	16:00-16:30	Rolotec		Team-Meeting
+	16:30-19:00	MFC2
+29.5.	08:30-12:30	MFC2
+	13:30-19:00	MFC2
+	19:00-19:30	Rolotec		Zeiterf.
+
+----- KW 23 -----
+1.6.	09:00-13:00	MFC2
+	14:00-19:30	MFC2
+2.6.	09:00-13:00	MFC2
+	14:00-15:00	MFC2
+	15:00-16:30	Rolotec		PK-Veranstaltung
+	16:30-17:30	MFC2
+3.6.	09:00-13:00	MFC2
+	14:00-19:30	MFC2
+4.6.	09:00-09:30	TASS		Planung Handover
+	09:30-10:00	DFI		Netzwerkprobleme mit EWP-Laptop
+	10:00-13:00	PassionFruit	Install. redavdps3 (dummy mode)
+	14:00-16:00	PassionFruit
+	16:00-19:30	MFC2
+5.6.	09:00-10:30	PassionFruit	Vergleich redavdps2/3, Korr.
+	10:30-13:00	MFC2		XMFC-57 (delayed deletions)
+	14:00-17:00	MFC2
+
+----- KW 24 -----
+8.6.	09:00-09:30	PassionFruit	Vergleich redavdps2/3
+	09:30-13:00	MFC2		XMFC-75 (optim. global & listing search)
+	14:00-19:30	MFC2
+9.6.	09:00-10:00	PassionFruit	Vorb. Betriebsübergabe
+	10:00-13:00	MFC2
+	14:00-17:00	MFC2
+10.6.	06:00-10:00	MFC2
+	10:00-11:00	TASS		Vorb. Handover (SVN)
+	11:00-13:00	MFC2
+	14:00-17:00	MFC2
+	17:00-18:00	PassionFruit	Vorb. IT-Wiki (B+S)
+11.6.	09:00-11:30	PassionFruit	IT-Wiki update
+	11:30-13:30	MFC2
+	14:30-16:00	MFC2
+	16:00-17:00	Rolotec		Team-Meeting
+	17:00-18:30	MFC2
+12.6.	09:00-11:00	MFC2
+	11:00-12:30	RefData		Support ASA (CMake, RCL)
+	13:30-18:30	MFC2		XMFC-14/62
+
+----- KW 25 -----
+15.6.	09:00-09:30	PassionFruit	Check
+	09:30-12:00	MFC2
+	12:00-13:30	Rolotec		Wave 3 Vernissage #2
+	14:00-15:00	MFC2
+	15:00-16:00	PassionFruit	B+S Workshop
+	16:00-19:30	MFC2
+16.6.	06:30-11:45	MFC2
+	13:00-17:30	MFC2
+17.6.	07:00-09:00	MFC2
+	09:00-10:00	Rolotec 	SOLID Assessment Info (mac)
+	10:00-13:00	MFC2
+	14:00-15:00	MFC2		Abschluss XMFC-14/62
+	15:00-16:00	Rolotec		Support (RCL-Linking in RefCalc, Jenkins-Probleme)
+	16:00-19:30	PassionFruit	PASFRU-11
+18.6.	09:00-09:30	PassionFruit
+	09:30-10:30	Rolotec		RD Review Meeting
+	10:30-12:45	PassionFruit
+	14:00-14:30	LSEG		Catchup (DMA)
+	14:30-17:30	PassionFruit
+19.6.	09:00-09:30	PassionFruit	Kontrolle
+	09:30-12:30	MFC2		erw. MRI-Logik
+	13:30-14:00	DFI		PW-Wechsel (base & domain01)
+	14:00-14:30	MFC2
+	14:30-15:00	TASS		i-request 063423 (FEXI Dev Rolle f. Handover)
+	15:00-17:00	LSEG		Analyse Requirements
+	(Jubiläumsessen 30 Jahre Rolotec)
+
+----- KW 26 -----
+22.6.	09:00-09:30	PassionFruit	Aktivierung redavdps3
+	09:30-13:00	LSEG
+	14:00-14:30	PassionFruit	INC2590428
+	16:00-18:30	LSEG		LSE-13/14
+23.6.	(Zug verpasst)
+	09:30-13:00	LSEG		Analyse Specs/Design
+	14:00-15:00	MFC2		Test Rebuild Search-DB
+	15:00-16:00	LSEG
+	16:00-20:00	MFC2		
+24.6.	09:00-13:00	LSEG
+	14:00-18:30	MFC2
+25.6.	09:00-09:30	MFC2		Search-DB rebuild incomplete (again)
+	09:30-10:30	Rolotec		RD Review Meeting
+	10:30-12:45	LSEG
+	14:00-16:00	LSEG
+	16:00-17:00	Rolotec		Team-Meeting
+	17:00-20:00	MFC2
+26.6.	09:00-13:00	TASS		Vorb. Handover (mdzhlrtds09)
+	14:00-18:00	TASS
+
+----- KW 27 -----
+29.6.	09:00-10:00	TASS		Handover Dok.
+	10:00-13:00	LSEG
+	14:00-20:00	LSEG
+30.6.	09:00-12:00	LSEG
+	12:00-13:00	Rolotec		Zeiterf.
+	14:00-16:00	LSEG
+	16:00-18:00	TASS		Vorb. Workshop
+1.7.	07:45-12:30	TASS		Handover Workshop
+	13:00-18:00	TASS
+2.7.	09:00-09:30	TASS		Abkl. Pendenzen
+	09:30-10:00	Rolotec		RD Review Meeting (abgesagt, aber nicht informiert)
+	10:00-13:00	LSEG
+	14:00-16:00	LSEG
+	16:00-17:00	MFC2		Entity-Mutationsstatus in Push, shmchk -C
+3.7.	09:00-13:00	LSEG		CED-Mapping
+	14:00-16:00	LSEG
+	16:00-18:00	MFC2		Fix Instrument-/Listing-Removals (mn)
+
+----- KW 28 -----
+6.7.	09:00-13:00	LSEG
+	13:30-16:30	LSEG
+	16:30-17:30	Rolotec		Quarterly Staff Info
+	17:30-18:30	LSEG
+7.7.	09:00-13:00	LSEG		Workflow
+	14:00-15:00	LSEG
+	15:00-15:30	MPS		Beschaffung Sources f. INC2598465 TST-Meeting (mn)
+	15:30-19:00	LSEG
+8.7.	09:30-13:00	LSEG
+	14:00-19:00	LSEG
+9.7.	09:00-12:30	LSEG
+	13:30-19:00	LSEG
+10.7.	09:00-10:00	PassionFruit	Projektleitung (Bestellung IL)
+	10:00-13:00	LSEG		Output Generation
+	14:00-18:00	LSEG
+
+----- KW 29 -----
+13.7.	09:00-13:00	LSEG		div. Jiras
+	14:00-19:00	LSEG
+14.7.	09:00-12:30	LSEG		ad-hoc processing
+	13:00-13:30	DFI		TST ConfCall INC2598465 (keine anderen Teilnehmer erreichbar)
+	13:30-14:00	Rolotec		Zeiterf.
+	14:00-18:30	LSEG
+15.7.	08:00-12:45	LSEG		
+	13:30-17:00	LSEG
+	17:00-18:00	PassionFruit	VDPS Setup INT & PROD (es)
+	18:00-19:00	LSEG		Setup PROD@redavdps3
+16.7.	09:30-10:30	Rolotec		RD Review Meeting
+	10:30-12:30	LSEG		Housekeeping
+	13:30-15:00	LSEG
+	15:00-17:30	PassionFruit	VDPS Installationsversuch (isa-vdps1)
+	17:30-18:00	MFC2		Kontr. delta processing
+17.7.	08:30-11:30	MFC2		verb. Retriever tracking
+	11:30-12:00	PassionFruit	Abkl. wg. missing mandatory data Mails
+	12:00-13:00	MFC2		Verb. import handling
+	14:00-17:00	MFC2		Admin-HB
+
+----- KW 30 -----
+20.7.	09:00-13:00	MFC2		Admin-HB
+	14:00-18:30	MFC2
+21.7.	08:00-13:00	MFC2
+	14:00-18:30	MFC2
+22.7.	07:30-10:00	MFC2
+	10:00-11:00	LSEG
+	11:00-11:30	Rolotec		Zeiterf.
+	12:30-15:00	MFC2		Requesttests (reqdump Utility)
+	15:00-15:30	ELIAS		Mail B.Iseli/M.Häni
+	15:30-16:30	MFC2
+	16:30-17:00	LSEG		Jiras
+23.7.	08:30-09:30	MFC2		IDCMN Unittests
+	09:30-10:30	Rolotec		RD Review Meeting
+	10:30-11:30	MFC2
+	12:30-14:30	LSEG		LSE-17/27
+	14:30-15:00	PassionFruit	VDFS Backup
+	15:00-16:00	LSEG		LSE-49/67
+	16:00-18:00	MFC2		client testing
+24.7.	08:00-08:30	Rolotec		ITSM-Kontrolle
+	08:30-09:30	LSEG		Kontrolle/Korr. daily processing
+	09:30-11:30	LSEG		LSE-7
+	13:00-17:00	LSEG
+
+----- KW 31 -----
+27.7.	09:00-12:00	LSEG		div. Jiras
+	12:00-12:30	MFC2		Restore Jenkins commit build
+	13:30-17:30	MFC2		MFC client tests
+28.7.	08:30-10:00	MFC2
+	10:00-11:30	LSEG		Setup Mandant auf lseg@isa-vdps1
+	11:30-12:30	PassionFruit	Vorb. Deployment V1.01
+	13:30-14:30	PassionFruit	Setup VDPS-Mandant pfruit@isa-vdps1
+	14:30-19:00	LSEG		div. Jiras
+29.7.	09:00-09:30	PassionFruit	Check pfruit@isa-vdps1
+	09:30-13:00	LSEG		Setup lseg@isa-vdps1
+	14:00-19:00	LSEG		div. Jiras
+30.7.	09:00-09:30	LSEG		Check UAT & PROD
+	09:30-10:15	Rolotec		RD Review Meeting
+	10:15-10:45	Lanshot		Abkl. wg. ausstehendem IL (Koordination ES, LGE)
+	10:45-11:30	TASS		Support wg. "zu kleinem" tsfilter
+	11:30-13:00	PassionFruit	Release 1.01
+	13:00-15:30	PassionFruit
+	15:30-16:00	MFC2		Korr. mfcclt interactive mode
+	16:00-18:30	LSEG		div. Jiras
+31.7.	08:00-10:00	LSEG		LSE-21
+	10:00-10:30	PassionFruit	Check sa-vdps1/2, Update auf Release 1.01
+	10:30-12:00	LSEG
+	13:00-14:30	LSEG
+	14:30-16:00	MFC2		Analyse XMFC-76 Requirements (Elastic Search)
+	16:00-16:30	Rolotec		Zeiterf.
+
+----- KW 32 -----
+3.8.	09:00-10:00	LSEG		LSE-21
+	10:00-13:00	PassionFruit	Setup [i]sa-vdps1/2
+	14:00-15:00	CS DPB		Bespr. RD push via data-API
+	15:00-16:30	PassionFruit	Release 1.02
+	16:30-17:30	CS DPB		Def. RD push API
+	17:30-18:30	LSEG
+4.8.	09:00-13:00	PassionFruit	verb. error tracking
+	14:00-15:00	PassionFruit	Release 1.03
+	15:00-18:30	LSEG		Jiras
+5.8.	06:30-07:00	PassionFruit	Datenvergleich DEV, PROD & INT Server
+	07:00-13:00	LSEG
+	14:00-16:30	LSEG
+6.8.	07:00-08:00	PassionFruit	Vorb. B+S Übergabe
+	08:00-12:30	LSEG
+	13:15-14:00	PassionFruit	Update Jira, IT Wiki, Projektabschluss
+	14:00-16:00	LSEG
+	16:00-16:30	Rolotec		Team-Meeting
+	16:30-19:00	LSEG
+7.8.	07:00-07:30	PassionFruit
+	07:30-08:00	CS DPB		Erw. Push API
+	08:00-11:00	MFC2		Update mfc09 (smd)
+	11:00-12:00	DFI		Support YVO (i-request)
+	12:00-12:30	MFC2		Korr. next delta in dmd
+	13:30-15:30	CS DPB		MFC2 pushd
+	15:30-17:00	LSEG		Korr. flat file fmt, adhoc processing
+
+----- KW 33 -----
+10.8.	07:00-07:30	PassionFruit	Check PROD (ok)
+	07:30-11:30	CS DPB		MFC2 pushd
+	11:30-13:00	LSEG		Datenchecks
+	13:30-17:00	LSEG		Vorb. Multi-Instanzen Setup
+11.8.	09:00-13:00	LSEG
+	14:00-17:00	LSEG
+	17:00-19:00	CS DPB		MFC2 pushd
+12.8.	09:00-13:00	LSEG		Jiras
+	14:00-18:00	CS DPB
+	18:00-19:30	LSEG		LSE-79
+13.8.	09:00-09:30	Rolotec		Ressourcenplanung MFC2/LSEG
+	09:30-13:00	LSEG
+	14:00-15:30	LSEG		Setup sa-vdps1/2 f. PROD
+	15:30-17:30	CS DPB
+14.8.	09:00-09:30	CS DPB
+	09:30-10:00	Rolotec		RD Projektstatus f. J.-M. Bolle
+	10:00-11:30	CS DPB
+	11:30-12:00	LSEG		Reinit. sa-vdps1/2
+	12:00-13:00	CS DPB
+	14:00-17:30	CS DPB
+
+----- KW 34 -----
+17.8.	09:00-09:30	LSEG		
+	09:30-10:00	ELIAS		Tel. Frau Iseli wg. Support
+	10:00-11:00	MFC2		Analyse Wochenenddeltas (MN)
+	11:00-11:30	RCL		Vorb. Release 1.8.00
+	11:30-13:00	MFC2		
+	14:00-14:30	PEP-Check	Neulieferung SWIFT-Parser 1.3 f. Frau Mosimann
+	14:30-17:30	MFC2
+18.8.	09:00-09:30	PassionFruit	Mail wg. missing mandatory data
+	09:30-11:00	MFC2
+	11:00-12:00	PEP-Check	Support Mosimann (SWIFT-Parser 1.3)
+	12:00-13:00	RCL		Vorb. Release 1.8.00
+	14:00-18:30	MFC2		pushd crasht
+19.8.	09:00-11:00	MFC2		pushd: FileList: Array -> std::vector
+	11:00-13:00	RCL		MyPreparedStmt unit test failure auf cs-dev-03
+	14:00-19:00	RCL		Release 1.8.00
+20.8.	09:00-13:00	MFC2		Release 9.0.01-pre3 (f. PER)
+	14:00-16:30	MFC2	
+	16:30-17:30	LSEG		Deltas (LSE-62)
+21.8.	09:00-13:00	CS DPB
+	14:00-15:30	CS DPB
+	15:30-16:00	Rolotec		Wave 3 Vernissage #3
+	16:00-17:30	CS DPB
+
+----- KW 35 -----
+24.8.	09:00-09:30	PassionFruit	Kontrolle Prod.
+	09:30-11:00	Rolotec		SIX HR-Info
+	11:00-13:00	MFC2		MfcUpdater Unittests
+	14:00-14:30	MFC2
+	14:30-15:00	DFI		Support YVO (Auftragsgenehmigung)
+	15:00-18:00	MFC2
+25.8.	09:00-10:00	MFC2
+	10:00-10:45	RCL		Support HLI (Worker crash mit 1.8.0)
+	10:45-11:30	MFC2		Restore autom. Builds
+	11:30-13:00	MFC2
+	14:00-18:00	LSEG		LSE-62 (deltas)
+26.8.	09:00-10:30	Rolotec		e-learning: Data Protection
+	10:30-13:00	MFC2		Test/Korr mpsd/pushd
+	14:00-18:30	MFC2
+27.8.	09:00-09:30	MFC2		Releaseplanung (PER)
+	09:30-10:30	Rolotec		RD Review Meeting
+	10:30-13:00	MFC2
+	14:00-19:00	MFC2
+28.8.	09:00-12:30	MFC2		u.a. Review CS Push Client (NLE)
+	13:30-16:00	MFC2		Checkin & Dok.
+	16:00-17:00	Rolotec		Zeiterf.
+
+----- KW 36 -----
+31.8.	09:00-13:00	MFC2		Vorb. Packaging
+	14:00-18:00	MFC2		Release 9.0.01-pre4 & Setup grat
+1.9.	09:00-13:00	MFC2		Datentests, Dok.
+	14:00-18:30	MFC2
+2.9.	09:00-11:30	MFC2
+	11:30-13:00	LSEG		LSE-62
+	14:00-18:30	LSEG
+3.9.	09:00-10:30	MFC2		Tests, Dok.
+	10:30-13:00	LSEG
+	13:30-16:00	LSEG		Release 1.00-pre3, Update [i]sa-vdps[12]
+	16:00-16:30	Rolotec		Team-Meeting
+	16:30-18:00	Rolotec		Übergabe MFCExternals (mn)
+4.9.	08:30-10:00	LSEG
+	10:00-12:00	Rolotec		Handover MFCExternals/MFCElastic (MN)
+	13:00-17:30	Rolotec
+
+----- KW 37 -----
+7.9.	09:00-09:30	DFI		PW Change base/domain01
+	09:30-10:30	LSS		Bugfix f. Negativselektion (BC 9996)
+	10:30-12:30	LSEG		LSE-62 (done)
+	12:30-13:00	Rolotec		INC2659893
+	14:00-15:00	MFC2		Tests, Update mfc09
+	15:00-17:30	Rolotec		MDF Tracetool
+8.9.	09:00-10:00	PassionFruit	Anp. Mailadresse f. missing mandatory data
+	10:00-11:00	Rolotec		INC2637202
+	11:00-12:30	LSEG
+	12:30-13:00	Rolotec		Zeiterf.
+	14:00-16:00	MFC2		Build MFCExternals 0.1.0
+	16:00-18:00	Rolotec		MDF Tracetool
+	18:00-19:00	MFC2		IL Search-DB auf mfc09 (Fehler smd)
+9.9.	09:00-11:00	MFC2		smd Tests
+	11:00-11:30	LSEG		Vorb. daily UAT/PROD requests
+	11:30-12:30	Rolotec		MDF Tracetool
+	13:30-16:00	Rolotec
+	16:00-18:30	MFC2		Setup MFCExternals auf grat
+10.9.	09:00-09:30	LSEG		Kontrolle daily/delta result files (OK)
+	09:30-10:30	Rolotec		RefData Review Meeting
+	10:30-13:00	MFC2		Deployment MFC Externals auf store1
+	14:00-17:00	MFC2		Update MFC Externals Doku, minor bug fixes & refactoring
+	17:00-17:30	DFI		MRP: Support R.Harsch
+11.9.	09:00-12:30	MFC2		Setup MFC Externals (store[12] & mfc10/mfc11)
+	13:30-15:30	MFC2		Dok. MFC Externals Einbindung in MFC Admin-HB
+	15:30-17:30	MFC2		Datentests mfc10/mfc11
+	17:30-18:00	Rolotec		Zeiterf.
+	
+----- KW 38 -----
+14.9.	09:00-12:30	MFC2		Elastic Export
+	13:30-18:00	MFC2
+15.9.	09:00-13:00	MFC2
+	14:00-18:30	MFC2
+16.9.	09:00-10:30	MFC2		Korr. DeletionDate forwarding (dmd)
+	10:30-13:00	MFC2		Lieferung 9.0.01 via citrin
+	14:00-18:00	MFC2		Elastic Export
+	18:00-18:30	DPB		Setup f. RD push tests
+17.9.	09:00-10:30	DPB
+	10:30-13:00	MFC2
+	14:00-18:30	MFC2
+18.9.	09:00-12:00	MFC2		Externals 0.1.1
+	12:00-13:30	Rolotec		Vernissage Wave 3
+	14:00-15:00	MFC2		Lieferung Externals 0.1.1
+	15:00-18:00	LSS 		Analyse mdfput core (NLE)
+
+----- KW 39 -----
+21.9.	09:00-10:00	LSS		Analyse mdfput core
+	10:00-13:00	MFC2		Elastic Export (Deltas)
+	13:30-18:00	MFC2
+22.9.	09:00-09:30	LSS		Bespr. Memory-Problem (NLE)
+	09:30-10:30	LSEG		Manuelles Processing (DEV/UAT/PROD) auf Anfrage DMA
+	10:30-11:00	MFC2
+	11:00-12:00	Rolotec		Support EHA (RefCalc, observer pattern)
+	12:00-13:00	MFC2
+	14:00-18:00	MFC2
+	18:00-18:30	Rolotec		SIX Vertragsübergabe
+23.9.	09:00-13:00	MFC2
+	14:00-18:30	MFC2
+24.9.	09:00-09:30	MFC2
+	09:30-10:30	Rolotec		RefData Review Meeting
+	10:30-12:30	MFC2	
+	13:30-18:30	MFC2
+25.9.	09:00-13:00	MFC2
+	13:30-18:00	MFC2
+
+----- KW 40 -----
+28.9.	09:00-13:00	MFC2		Elastic Export
+	14:00-18:30	MFC2
+29.9.	09:00-13:00	MFC2
+	13:30-15:00	MFC2
+	15:00-16:00	Rolotec		HR-Info Bornträger
+	16:00-17:30	MFC2
+30.9.	09:00-11:45	MFC2
+	12:45-17:30	MFC2
+	17:30-18:30	Rolotec		Zeiterf.
+	18:30-19:00	MFC2
+1.10.	09:00-09:30	MFC2
+	09:30-10:00	Rolotec		RefData Review Meeting
+	10:00-11:00	MRP		Sources f. entlib -> R.Harsch
+	11:00-12:30	MFC2		Spez. Elastic Export
+	13:30-15:30	MFC2
+	15:30-16:00	MFC2		Analyse smd core
+	16:00-18:00	MFC2		fehlerhafte Pushdaten v. ExtLang? => Korr. RSEncoder
+2.10.	09:00-10:00	MFC2		Checkin IDCMN
+	10:00-12:00	Rolotec		Eclipse-Install.
+	13:00-14:30	MFC2		Tests, Checkin, Update mfc09
+	14:30-17:30	Rolotec		Abschl. Projekte
+
+----- KW 41 -----
+5.10.	09:00-11:00	Rolotec		Abschl.
+	11:00-13:00	MFC2		Datentests ES Exporter
+	14:30-17:00	Rolotec		CMake Best Practices
+6.10.	09:00-13:00	Rolotec		Abschl.
+	14:00-16:00	Rolotec
+7.10.	Ferien	
+8.10.	Ferien	
+9.10.	Ferien	
+
+----- KW 42 -----
+12.10.	Ferien	
+13.10.	Ferien	
+14.10.	Ferien	
+15.10.	Ferien	
+16.10.	Ferien	
+
+----- KW 43 -----
+19.10.	Ferien	
+20.10.	Ferien	
+21.10.	Ferien	
+22.10.	Ferien	
+23.10.	Ferien	
+
+----- KW 44 -----
+26.10.	Ferien	
+27.10.	Ferien	
+28.10.	Ferien	
+29.10.	Ferien	
+30.10.	Ferien	
+
+----- KW 45 -----
+2.11.	Ferien	
+3.11.	Ferien	
+4.11.	Ferien	
+5.11.	Ferien	
+6.11.	Ferien	
+
+----- KW 46 -----
+9.11.	09:00-13:00	Rolotec		Mails & Admin.
+	14:00-14:30	MFC2		Korr. Unittest f. SearchArgs
+	14:30-15:00	MFC2		XMFC-95
+	15:00-17:00	MFC2		Maintenance mfc09
+10.11.	09:00-12:30	PassionFruit	Release 1.04
+	13:30-17:00	MFC2		XMFC-96
+11.11.	09:00-11:00	PassionFruit	Release 1.04, patch 1 (Update INT/PROD)
+	11:00-11:30	Rolotec		Bespr. HR (Bettina Raffainer)
+	11:30-12:30	iD		Cascade
+	13:30-18:00	MFC2		Vergleich Suchresultate MFC1/2
+12.11.	09:00-09:30	PassionFruit	Kontrolle INT/PROD
+	09:30-10:00	RefData		Review Meeting (ohne PL)
+	10:00-12:00	iD		Cascade
+	13:00-14:00	MFC2		Erw./Korr. mcmp
+	14:00-15:30	DGI		EWP-Info
+	15:30-16:00	MFC2
+	16:00-17:00	Rolotec		Team-Meeting
+	17:00-18:30	iD		Cascade Versionierung & Dependencies
+13.11.	09:00-09:30	Rolotec		Admin.
+	09:30-10:00	RefData		PL-Review
+	10:00-12:30	iD		Cascade RD Push
+	13:30-18:00	iD
+
+----- KW 47 -----
+16.11.	09:00-10:00	PassionFruit	Maintenance INT/PROD
+	10:00-12:30	MFC2		Korr. global search (abb,380)
+	13:30-19:00	MFC2
+17.11.	08:30-10:30	PassionFruit	Korr. scripts, Update DEV/INT/PROD
+	10:30-13:00	MFC2
+	14:00-18:30	MFC2
+18.11.	08:30-09:00	PassionFruit	Kontrolle, Release 1.05
+	09:00-13:00	iD
+	14:00-18:00	iD
+19.11.	09:00-09:30	iD
+	09:30-10:00	RefData		Review Meeting
+	10:00-13:00	iD
+	14:00-18:00	iD
+20.11.	09:00-12:30	iD
+	13:30-17:30	iD
+
+----- KW 48 -----
+23.11.	09:00-10:00	DGI		Admin. (SIX PW, Mailbox-Migration)
+	10:00-13:00	iD
+	14:00-14:30	DFI		Org. HR-Bespr.
+	14:30-17:30	iD
+24.11.	09:00-10:30	DGI		MRP-Support R. Harsch (Lieferung SVN Dump via citrin)
+	10:30-13:00	iD
+	14:00-17:30	iD
+25.11.	09:00-11:00	DGI		Inbetriebnahme Virtual EWP
+	11:00-13:00	iD		Verb. cmfcrq
+	14:00-16:00	iD		Test 2-stufige Cascade
+	16:00-17:00	MFC2		Korr. Transaction Summary
+26.11.	09:00-11:30	MFC2
+	11:30-13:00	iD		Tests
+	14:00-18:30	iD
+27.11.	09:00-10:00	DGI
+	10:00-13:00	iD
+	14:00-17:30	iD
+	
+----- KW 49 -----
+30.11.	09:00-13:00	iD
+	14:00-17:00	iD
+	17:00-18:00	Rolotec		Zeiterf.
+1.12.	09:00-13:00	iD
+	14:00-18:30	iD		Cascade Package
+2.12.	09:00-13:00	iD
+	14:00-15:00	DGI		HR-Bespr.
+	15:00-18:00	iD		Update Cascade Admin-HB
+3.12.	09:00-13:00	iD		DAPI-Tests
+	14:00-16:00	Rolotec		CMake Best Practices
+	16:00-18:00	iD		Cascade: LE ohne Inhalt
+4.12.	09:00-13:00	MFC2		Integr. IDCMN CMake Modules
+	14:00-19:00	MFC2
+
+----- KW 50 -----
+7.12.	09:00-12:00	MFC2
+	12:00-13:00	Rolotec		Abschiedsfoto & -spruch JB, Kalendereinstellungen
+	14:00-17:30	MFC2
+8.12.	09:00-12:00	SOLID		Elastic Export
+	12:00-13:00	DGI		EWP Maintenance
+	14:00-16:00	SOLID
+	16:00-18:30	MFC2		Debug Listing Transformations (Testfeed)
+9.12.	09:00-13:00	MFC2		  "      "      "       "     (Unittest)
+	14:00-17:00	MFC2		Release 9.0.02
+	17:00-18:00	SOLID		Elastic Export
+10.12.	09:30-12:45	MFC2		Test/Korr. Search Argument Parsing
+	13:45-14:45	LSEG		Vorb. Testdaten, Kontrolle DEV/UAT/PROD
+	14:45-16:00	SOLID		Elastic Export
+	16:00-17:00	Rolotec		Team-Meeting
+	17:00-18:00	SOLID
+11.12.	09:00-10:00	LSEG		Kontrolle Testfiles, Reporting DMA
+	10:00-11:00	DGI		Support R.Harsch (QA-Tools)
+	11:00-12:00	MFC2		Search argument quoting
+	13:00-18:00	SOLID		Elastic Export
+
+----- KW 51 -----
+14.12.	09:00-12:30	MFC2		Analyse srvd-cores auf mfc09/mfc11
+	(12:30-14:30 UBS Lyss)	
+	14:30-16:30	MFC2		Release 9.0.03
+	16:30-17:00	Rolotec		Zeiterf.
+	17:00-18:30	SOLID		Test Elastic Export
+15.12.	09:00-10:00	Rolotec		EWP-Relaunch, Mailcheck, unprod. wg.  Netzwerkumst.
+	10:00-12:30	SOLID
+	13:30-17:00	SOLID
+16.12.	09:00-09:30	Rolotec		EWP-Relaunch, Mailcheck
+	09:30-13:00	SOLID
+	14:00-18:00	SOLID
+17.12.	09:00-10:30	Rolotec		Zus.stellung Projektliste 2012-2015 f. YVO
+	10:30-12:30	SOLID		verb. Restart
+	13:30-15:30	MFC2		XMFC-99 (Analyse)
+	15:30-18:00	SOLID
+18.12.	09:00-09:30	Rolotec		EWP, Mails
+	09:30-12:00	SOLID
+	13:00-15:00	SOLID		MFCExpElastic-1.0.0-SNAPSHOT -> ES & PER
+	15:00-17:30	SOLID
+
+----- KW 52 -----
+21.12.	09:00-10:30	Rolotec		Vorb. Projektliste f. YVO
+	10:30-13:00	SOLID		Release Job (Jenkins)
+	14:00-19:00	SOLID		SNAPSHOT-Release 1.0.0 auf mfc10 (ES, PER)
+22.12.	09:00-13:00	SOLID		Releasebuild mit Maven/Jenkins
+	14:00-15:00	SIX		Bespr. Frau Janowsky (Movis)
+	15:00-15:30	Rolotec		Projektliste 2012-2015 f. YVO
+	15:30-17:30	SOLID		Closing Price Export
+23.12.	09:00-10:00	SOLID		erw. Status
+	10:00-11:00	Rolotec		Bespr. YVO wg. Zwischenzeugnis
+	11:00-12:30	SOLID
+	14:00-14:30	ELIAS		Rückgabe SecurID
+	14:30-18:00	SOLID		Closing Price Export
+24.12.	09:00-12:00	SOLID	
+	12:00-12:30	Rolotec		Zeiterf.
+25.12.	(Weihnacht)
+
+----- KW 53 -----
+28.12.	09:00-09:30	Rolotec		EWP Startup
+	09:30-13:00	SOLID		Closing Price Export
+	14:00-16:30	MFC2		Subkey ordering ("4" before "20")
+	16:30-18:30	SOLID
+29.12.	09:00-13:00	SOLID
+	14:00-18:00	SOLID
+30.12.	09:00-13:00	SOLID
+	14:00-15:00	RCL		
+	15:00-16:00	Rolotec		MA-Gespr.
+	16:00-19:00	MFC2		dmd crasht wg. 0-Subkeys
+31.12.	09:00-10:00	RCL		Release 1.9.00
+	10:00-11:00	MFC2		Release 9.0.04
+	11:00-11:30	Rolotec		Zeiterf.
+	11:30-12:00	Rolotec		Apero
+	12:00-13:00	SOLID		Elastic Export 1.1.0
+1.1.	(Neujahr)
+

@@ -1,0 +1,897 @@
+----- KW 1 -----
+3.1.	08:30-10:30	intern		Admin
+	10:30-11:30	Bluewin		Wartung
+	14:00-17:00	Borsalino	Pf Erw.
+	18:00-18:30	Sarasin		Wartung (Jaques)
+4.1.	09:00-12:00	Borsalino	Pf
+	12:00-12:15	Bluewin		Wartung
+	13:30-14:30	AGI		Wartung
+	14:30-17:30	Borsalino	Pf
+5.1.	08:00-12:15	BBtrade		Wartung (fims2 & shark2)
+	14:00-15:30	swissinvest	Konvertierung BC323 (shark1)
+	15:30-17:30	Borsalino	Test Pf
+	
+----- KW 2 -----
+8.1.	09:15-10:30	Shark		Konvertierung BC323
+	10:30-12:15	Borsalino	Pf (PFLABEL)
+	14:15-17:30	Borsalino	Pf
+9.1.	08:30-12:30	Borsalino	Pf
+	14:00-15:00	Wartung		Umst. BC323 (shark4, agi, bluewin)
+	15:00-18:00	Borsalino	Pf
+10.1.	08:00-12:30	Borsalino	Pf (checkin)
+	14:30-15:15	Borsalino	update
+	15:15-17:15	Brunanet	Vorb. Apache/JServ
+11.1.	08:30-12:15	Borsalino	Pf
+	14:15-18:00	Borsalino	Pf
+12.1.	08:00-11:45	Borsalino	Pf
+	13:30-17:30	ESTV		Vorb. Topics
+
+----- KW 3 -----
+15.1.	08:30-12:30	ESTV		ELIAS Topics (Keller)
+	14:00-17:30	ESTV		Bespr. Netzwerk/Security
+16.1.	08:15-08:30	Admin		amflush
+	08:30-09:30	ESTV		Ablage
+	09:30-11:45	Borsalino	Pf debug
+	14:00-15:00	ESTV		Network Security
+	15:00-17:30	SBZV		Oracle inst. (bully)
+	17:30-18:30	Shark		Pf update script
+17.1.	08:00-09:30	ESTV		Inst. Verity CD Publisher
+	09:30-11:30	intern		Aufraeumen
+	11:30-12:15	Borsalino	Transfer Pf -> agitest
+	14:15-18:00	Borsalino	Pf-Konverter
+18.1.	08:15-12:30	ESTV		Vorb. Security
+	14:00-17:30	Borsalino	Pf-Konverter
+19.1.	08:00-11:45	Borsalino	Pf-Konverter
+	13:45-17:00	Shark		Vorb. Jakarta
+
+----- KW 4 -----
+22.1.	08:45-11:45	Borsalino	Pf-Konvertierung
+	13:45-16:30	Borsalino	Pf-Konv., Bugfix
+	16:30-17:30	Shark		Jakarta
+23.1.	08:15-12:15	SBZV		Brunanet -> JDK 1.1
+	14:00-17:00	SBZV		Brunanet, Apache Upd.
+24.1.	08:45-12:15	SBZV		Brunanet update
+	14:15-15:15	SBZV		Brunanet
+	15:15-16:45	SBZV		Oracle install. (bully)
+	16:45-17:15	Shark		mySQL 3.23.32
+25.1.	08:15-11:00	Shark		source update
+	11:00-11:30	Borsalino	(Tel. Buehler): Anp. Quotenames
+	11:30-12:00	Shark		rebuild
+	14:30-16:15	Shark		rebuild
+	16:15-16:30	SBZV		Tel. Ribi (falsches RCS geliefert)
+	16:30-18:30	Borsalino	Pf1
+26.1.	08:00-11:00	Borsalino	Pf1: Bug-Fixes
+	11:00-11:30	SBZV		Inst. RCS
+	11:30-12:30	Baloise		AFX-Filter setup
+	(nachmittag frei)
+27.1.	08:00-11:00	SBZV		Brunanet
+	11:00-12:00	Borsalino	Pf1: DB-Import (agitest)
+	13:30-17:30	SBZV		Brunanet
+
+----- KW 5 -----
+29.1.	08:30-09:45	ESTV		Vorb. Sicherheitskonzept
+	09:45-10:15	Baloise		AFX Filter
+	10:15-11:30	ESTV		Sicherheitskonzept
+	11:30-12:15	BLKB		Fehlerbehebung (Parser downgrade)
+	14:00-15:30	ESTV		Sicherheitskonzept
+	15:30-17:30	Shark		Portierung Pf1 -> MySQL
+30.1.	08:00-10:00	SBZV		Anp. Brunanet f. JDK 1.1
+	10:00-12:15	Wartung		Restart bluewin, agitest
+	14:15-16:00	Shark		Relaunch agitest
+	16:00-17:15	SBZV		Anp. Brunanet
+31.1.	08:15-08:45	SBZV		Brunanet (access)
+	08:45-09:00	Bluewin		Restart fimssrv auf Shark6
+	09:00-09:20	SBZV		Brunanet
+	09:20-09:45	Wartung		Problem mit FINSERV2
+	09:45-12:15	SBZV		Brunanet
+	14:15-17:30	SBZV		Brunanet
+1.2.	08:00-12:00	SBZV		Brunanet
+	14:00-18:30	SBZV		Brunanet
+2.2.	09:00-11:45	SBZV		Brunanet
+	11:45-13:00	Shark		Problem agitest
+	14:30-17:30	Shark		Debug agitest (fimssrv/daemon
+					blockiert, falls viele Abfragen
+					auf unbekannte Titel)
+3.2.	08:30-09:45	Admin		Zeiterfassung
+
+----- KW 6 -----
+5.2.	08:30-09:30	Admin		Jakarta-Inst.
+	09:30-12:15	SBZV		Brunanet-Umst.
+	14:15-19:00	SBZV		Brunanet
+6.2.	08:15-09:30	Admin		Backup, Transfer /home/mn
+	09:30-12:30	SBZV		Brunanet
+	14:00-14:30	SBZV		Brunanet
+	14:30-18:00	Borsalino	Pf (Gewinn/Verlust)
+7.2.	08:30-12:30	Borsalino
+	14:00-17:30	Borsalino
+8.2.	08:00-12:15	Borsalino
+	14:15-18:00	Borsalino
+9.2.	08:00-12:00	Borsalino
+	13:45-16:45	Borsalino
+10.2.	11:00-12:30	Borsalino	Bugfixes
+
+----- KW 7 -----
+12.2.	08:45-12:15	Borsalino	Encoding
+	14:15-17:30	Borsalino
+13.2.	08:15-12:15	Borsalino
+	14:00-16:45	Borsalino
+	16:45-17:15	Wartung		Sarasin
+	17:15-18:00	Borsalino
+14.2.	08:15-10:45	Borsalino
+	10:45-11:00	Wartung		Swissinvest
+	11:00-12:30	Borsalino	Pf gain/loss
+	14:15-17:00	Borsalino
+15.2.	08:15-12:30	Borsalino
+	14:15-15:00	Borsalino
+	15:00-15:15	SBZV		Support Solaris-Upgrade
+	15:15-18:00	Borsalino	PF_LIM*
+16.2.	08:15-08:45	Admin		Restore f. mf
+	08:45-17:45	Borsalino	checkin
+
+----- KW 8 -----
+19.2.	08:30-10:00	Borsalino	Integr. Limiten
+	10:00-10:30	TK		Wartung telekurs-financial.com
+	10:30-12:15	Borsalino	Limiten
+	14:00-17:00	Borsalino	Limiten
+20.2.	08:00-12:00	Borsalino	Erw. Limit Minder
+	14:15-15:00	Borsalino	Limiten
+	15:00-15:45	Rolotec		MA-Gespr.
+	15:45-19:00	Borsalino	Limit Minder
+21.2.	08:00-08:15	TBFWD		Wartung
+	08:15-12:30	Borsalino	Erw. VDF-Links
+	14:00-18:00	Borsalino	VDF-Links
+22.2.	07:30-12:30	Borsalino	VDF-Links
+	13:45-18:00	Borsalino	Bespr. VDF Splits (mc)
+23.2.	07:15-09:00	Admin		Backups
+	09:00-09:45	Borsalino	Spez. Verarb. VDF-Splits
+	09:45-12:15	Borsalino	Anp. VDF-Links
+	14:15-17:30	Borsalino	Anp. f. mysql
+24.2.	10:00-13:00	Borsalino	Vorb. Bargeld-Mgmt
+
+----- KW 9 -----
+26.2.	08:30-12:15	Borsalino	Bargeld
+	14:00-18:00	Borsalino	Vorb. f. mysql
+27.2.	08:00-12:30	Borsalino	mysql
+	14:00-18:30	Shark		Korr. limdm
+28.2.	08:15-12:15	Borsalino	Cash
+	14:15-18:15	SoBa		Erw. stammbld (sysidx & syspage)
+1.3.	08:15-08:45	SoBa		Kontrolle/Korr. stammbld
+	08:45-09:15	BLKB		Kontrolle Limit Minder
+	09:15-12:15	Borsalino	Cash-Mgmt
+	14:30-18:30	Borsalino	Cash-Mgmt
+2.3.	08:00-12:15	Borsalino	Cash-Mgmt
+	14:00-19:00	Borsalino	Cash-Mgmt
+3.3.	10:00-12:00	Borsalino	Update borsatest
+
+----- KW 10 -----
+5.3.	08:15-09:30	Rolotec		Zeiterfassung
+	09:30-12:15	Borsalino	Bugfix, Inst-Id's normalisiert
+	14:15-14:30	SBZV		Support Cookie-Problem
+	14:30-17:15	Borsalino	Tests, Korrekturen
+6.3.	08:00-12:30	Borsalino	Test
+	14:00-15:30	Borsalino	Bugfixes
+	15:30-18:00	TKF		Fehler Shark Ticker (gzip)
+7.3.	08:00-11:30	TKF		Korr. Shark Ticker (gzip)
+	11:30-12:15	Borsalino	Update agitest (patch_user.sql)
+	14:00-18:30	Borsalino	Erw. PFSUMMARY
+8.3.	07:45-11:30	Borsalino	Korr. Gewinn-/Verlustrechn.
+	11:30-12:30	BLKB		Fehlersuche mail-Versand
+	13:45-15:30	BLKB		Korr. mail-Versand
+	15:30-17:15	Borsalino	Gewinn-/Verlustberechnung
+9.3.	08:00-12:15	Borsalino	Umst. Gewinn/Verlust
+	14:00-17:30	Borsalino	Gewinn/Verlust
+
+----- KW 11 -----
+12.3.	08:00-08:45	Rolotec		Zeiterfassung
+	08:45-13:00	Borsalino	Bugfixes
+	14:15-17:15	Borsalino	Korrekturen
+13.3.	08:15-12:15	Borsalino	Gewinn/Verlust
+	13:45-17:30	Borsalino	Test/Update agitest
+14.3.	07:15-09:30	Borsalino	Korr.
+	09:30-12:15	BLKB/AGKB	Update dolphdm
+	14:00-15:30	Borsalino	pf1conv
+	15:30-17:30	Shark		Korr. limdm
+15.3.	07:15-08:00	Shark		checkin Limit Minder
+	08:00-10:00	Shark		Korr. delayed AFX News
+	10:00-12:15	Borsalino	Vorb. pf1conv
+	14:00-17:30	Borsalino	pf1conv
+16.3.	07:30-12:30	Borsalino	pf1conv
+	13:45-17:00	Borsalino	pf1conv
+
+----- KW 12 -----
+19.3.	09:00-09:30	BBtrade		Wartung
+	09:30-10:30	TKF		Style 4 f. Ticker
+	10:30-11:15	Rolotec		Zeiterfassung
+	11:15-12:15	Rolotec		Vorb. apache 1.3.19
+	14:00-15:00	TKF		Update Ticker
+	15:00-16:15	Shark		Korr. Limit Minder Links
+	16:15-16:45	Swissinvest	Support
+	16:45-17:15	Rolotec		Apache-Upgrade
+20.3.	08:00-11:00	Rolotec		Inst. Tomcat
+	11:00-11:45	Shark		Bugfix delayed AFX News f. Raima
+	13:45-17:15	Rolotec		Inst. Tomcat
+21.3.	08:45-09:00	Rolotec		Mailablage
+	09:00-10:15	Rolotec		Restore dt-Files
+	10:15-10:30	swissinvest	Reboot Forumsserver
+	10:30-12:15	Rolotec		Tomcat
+	14:00-17:30	Rolotec		Tomcat
+22.3.	08:45-11:30	Rolotec		Taglibs
+	11:30-12:15	FFM		Update AFX Search-DB
+	14:15-14:45	Rolotec		unprod.
+	14:45-15:45	TGKB		Update Syspages (f. SWISSCA IFCA)
+	15:45-17:15	FFM		AFX-Filter
+23.3.	09:00-10:00	Borsalino	Split-Verarb.
+	10:00-10:45	FFM		AFX Search-DB
+	10:45-12:15	Borsalino	Splits
+	14:00-16:45	Borsalino	Test Splits
+	
+----- KW 13 -----
+26.3.	09:00-12:15	Borsalino	Splits
+	14:15-15:15	FFM		neues Feld: [IP]PFCHG1
+	15:15-16:00	BLKB		Fehlersuche Limit Minder
+	16:00-17:30	Borsalino	Erw. do_split
+27.3.	08:15-09:00	Rolotec		unprod.
+	09:00-10:00	Borsalino	Kontrolle Splits
+	10:00-10:30	SoBa		Kontrolle Stammdaten
+	10:30-12:15	FFM		afxnews-Filtertool
+	     -16:30	(frei)
+	16:30-19:00	FFM		Korr. afxnews-Filtertool
+28.3.	08:30-12:15	FFM		afxnews-Filter
+	13:15-16:30	ESTV		Besprechung Security (70km Auto)
+	16:30-17:30	Borsalino	Kontrolle Split-Verarb.
+29.3.	08:30-12:00	Shark		Erw. Debug-Layouts
+	12:00-12:30	FFM		Korr. afx::find()
+	14:45-17:30	Shark		Upd. debug-Layouts
+30.3.	08:45-09:30	Borsalino	Kontrolle Splits
+	09:30-09:45	AGKB		Fehlersuche Dolphin-Mails
+	09:45-10:30	Borsalino	Vorb. Split-Pf
+	10:30-12:15	FFM		Test AFX Search
+	14:30-14:45	AGKB		Korr. Limiten-DB (method & service)
+	14:45-15:30	FFM		Test AFX Search
+	15:30-17:15	Shark		Update Debug-Layouts
+
+----- KW 14 -----
+2.4.	08:45-09:00	Borsalino	Kontrolle Splits
+	09:00-11:45	ESTV		Vorb. DBA-Indexierung
+	11:45-12:15	Rolotec		Zeiterf.
+	14:15-18:15	ESTV		DBA-Suchmasken
+3.4.	08:45-09:30	Borsalino	Split-Verarb.
+	09:30-17:00	ESTV		DBA-Suchmasken
+4.4.	08:15-17:15	ESTV		DBA-Suchmasken
+5.4.	08:15-10:30	ESTV		DBA-Suchmasken
+	10:30-14:30	ESTV		Vorb. Server-Update
+	14:30-15:00	Rolotec		MySQL-Update (3.23.36)
+	15:00-17:15	ESTV		Vorb. Server-Update
+6.4.	09:00-09:30	AGI		Korr. Ticker f. NWKB
+	09:30-17:00	ESTV		Vorb. DBA-Inst.
+
+----- KW 15 -----
+9.4.	08:30-11:00	ESTV		Vorb. Install-Tools
+	11:00-11:30	Rolotec 	Zeiterfassung
+	11:30-12:15	Rolotec		unprod.
+	15:00-18:30	ESTV		Vorb. Serverupdate
+10.4.	08:15-10:45	Rolotec		Upd. Shark Doku (Limit Minder,
+					Portfolio, Splits)
+	10:45-17:15	ESTV		Vorb. Secure Verity Server
+11.4.	08:15-10:15	ESTV		Vorb. Server-Update
+	10:15-17:30	ESTV		Server-Update
+12.4.	08:15-09:15	ESTV		Update-Status (Mail)
+	09:15-10:00	AKB		Vorb. Ticker Offerte (HB)
+	10:00-17:30	ESTV		Vorb. SSH
+
+----- KW 16 -----
+17.4.	09:00-09:30	BLKB		Wartung
+	09:30-10:30	ESTV		SSH
+	10:30-11:30	Shark		Korr. parscurr-Deadlock
+	11:30-11:45	Rolotec		Zeiterfassung
+	11:45-12:30	ESTV		Anfrage Keller (wg. Textmarken)
+	15:15-17:45	Rolotec		Keyboard-Reinigung
+	17:45-18:00	Swissinvest	Wartung
+18.4.	08:15-09:00	Rolotec		Mail-Ablage
+	09:00-10:30	ESTV		SSH
+	10:30-12:15	Shark		div. Korrekturen, Update debug-Layout
+	13:30-15:30	ESTV		Test SSH, Install.vorb.
+	15:30-16:00	AGKB		Anp. manprice (akrobat)
+	16:00-17:30	TKF		Update agitest f. Demo
+19.4.	07:30-08:00	TKF		Problem Shark Ticker (Graichen)
+	08:00-09:45	Shark		checkin debug-Layouts + Makefile
+	09:45-10:00	AGI		Restart Apache
+	10:00-10:30	ESTV		Test SSH Clients (Windows)
+	10:30-14:30	ESTV		Test mit SSL
+	14:30-15:00	TKF		Problem TBFWD (AFX News)
+	15:00-16:00	ESTV		Test mit SSL
+	16:00-16:30	ESTV		Tel. Keller
+	16:00-17:00	Borsalino	Korr. Pf-Links
+20.4.	08:15-08:45	Borsalino	Mail Diem (Pf-Kalkulation)
+	08:45-09:15	ESTV		Test SSH mit Zert.
+	09:15-09:45	TKF		Wartung FINPHONE
+	09:45-12:15	Rolotec		Restore PVCS (bi)
+	12:15-12:45	TKF		Fehler SNMI (Meldung BBtrade)
+	12:45-13:15	Rolotec		Python 2.1 f. Solaris
+	13:15-16:00	ESTV		Verity mit SSL
+			
+----- KW 17 -----
+23.4.	09:00-10:15	ESTV		Verity m. SSL (Mail Support)
+	10:15-11:15	Rolotec		Zeiterfassung
+	11:15-17:30	ESTV		ELIAS/Verity via SSL
+24.4.	08:00-14:30	Rolotec		PC-Upgrade
+	14:30-18:00	ESTV		DBA-Layouts
+25.4.	08:30-15:00	ESTV		Redesign ELIAS-Access
+26.4.	09:00-13:30	ESTV		Bespr. DBA (Bern)
+	13:30-16:00	AGI		Setup Limit Minder f. NWKB
+27.4.	08:30-09:00	AGI		Kontrolle Limit Minder
+	09:00-16:30	ESTV		DBA-Layouts (mkDBA)
+
+----- KW 18 -----
+30.4.	09:00-09:45	Rolotec		Mails
+	09:45-12:15	ESTV		Mail DBA (Layouts)
+	14:00-14:45	ESTV		Test DBA (IE)
+	14:45-15:15	Rolotec		Zeiterfassung
+	15:15-16:45	ESTV		Doku Update
+1.5.	08:45-17:15	ESTV		Doku
+2.5.	08:30-11:45	Rolotec		unprod.
+	14:15-17:00	ESTV		Vorb. Laptop
+3.5.	09:00-09:45	FFM		AFX-Filter
+	09:45-10:45	Borsalino	Extra-FEES
+	10:45-12:15	ESTV		CDPUB45 f. Laptop
+	14:00-17:30	ESTV		Laptop
+4.5.	09:00-17:15	ESTV		Laptop
+
+----- KW 19 -----
+7.5.	08:30-10:30	ESTV		Laptop (Vorb. Install)
+	10:30-11:15	swissinvest	Wartung		
+	11:15-12:15	ESTV		Laptop (Install)
+	14:15-15:15	BLKB		autom. Splitverarb.
+	15:15-16:00	NZZ		Wartung Kurslisten
+	16:00-18:00	ESTV		Laptop (Test d/f/i)
+8.5.	08:30-09:00	Rolotec		Backup, Admin
+	09:00-09:30	Rolotec		TIOMS
+	09:30-09:45	ESTV		Test CDPUB45
+	09:45-11:30	swissinvest	Wartung, Fehlersuche
+	11:30-12:15	Shark		Install. do_split
+	14:15-17:30	Shark		Install. do_split
+9.5.	08:15-09:00	Shark		Kontrolle do_split
+	09:00-11:15	NZZ		do_split f. Raima
+	11:15-12:15	ESTV		Test mit SSL
+	14:00-15:00	swissinvest	Wartung
+	15:00-16:15	BLKB		Wartung
+	16:15-17:00	Shark		Update do_split
+10.5.	08:30-09:15	Shark		Kontrolle/Update do_split
+	09:15-12:30	Borsalino	Setup borsatest (shark4)
+	13:00-16:30	ESTV		Update Collections f. SSL
+11.5.	08:15-08:45	SOBA		Wartung
+	08:45-09:15	TBFWD		Wartung
+	09:15-10:30	Shark		Kontrolle Splits, Update shark1
+	10:30-10:45	SoBa		Kontrolle Valorenstamm
+	10:45-12:15	ESTV		Update inetsrch.ini
+	14:00-15:00	ESTV		Update inetsrch.ini
+	15:00-17:30	ESTV		CD f. Inspektorat
+12.5.	12:00-13:00	Rolotec		Zeiterfassung
+
+----- KW 20 -----
+14.5. - 18.5.		Ferien
+
+----- KW 21 -----
+21.5.	08:30-09:00	Rolotec		Admin
+	09:00-09:30	SanPaolo	Bespr. mit NO (Winner/Loser)
+	09:30-10:00	Rolote		unproduktiv
+	10:00-11:30	Borsalino	Fehlersuche fims5
+	11:30-11:45	Rolotec		Restart Apache (f. search)
+	11:45-14:30	SanPaolo	Einarb. Winner/Loser
+	14:30-15:00	Shark		Ticker f. Systemseiten
+	15:00-16:00	Shark		Korr. BUY/SELL in Pf
+22.5.	08:15-09:15	Borsalino	Ticker f. Systemseiten (SB)
+	09:15-09:45	Shark		Kontrolle Splits
+	09:45-10:15	Shark		Kontrolle VDF, Bespr. mc
+	10:15-11:30	SanPaolo	Vorb. Winner/Loser
+	11:30-12:15	Shark		Update bully
+	14:15-17:30	Borsalino	Template f. Pf-Total
+23.5.	08:00-12:30	Shark		Update bully (DB & Layouts)
+	13:30-16:00	Borsalino	LCLASS f. Pf-Links
+	16:00-17:30	ESTV		Vorb. Laptop-CD
+25.5.	08:30-10:30	Rolotec		Wartung marie
+	10:30-12:15	ESTV		Inspektorats-CD
+	14:00-16:30	ESTV		Inspektorats-CD
+
+----- KW 22 -----
+28.5.	08:00-09:00	Rolotec		Zeiterfassung
+	09:00-12:15	SanPaolo	Winner/Loser
+	13:30-16:00	Borsalino	Fehlersuche/-korr. Parser
+	16:00-17:30	SanPaolo	Winner/Loser
+29.5.	08:15-09:15	AGI		Wartung AIKB (Eurex-Optionen)
+	09:15-10:15	BEKB		Wartung (Obligationen)
+	10:15-10:30	ESTV		Mail Verity wg. Topics-Ausbildung
+	10:30-11:30	SanPaolo	Test Winner/Loser
+	11:30-12:15	Borsalino	Wartung (SWISS RE IMMO)
+	14:15-15:30	Borsalino	Wartung (SWISS RE)
+	15:30-15:45	Borsalino	Wartung (Buehler)
+	15:45-17:30	SanPaolo	Winner/Loser
+30.5.	08:15-09:00	BEKB		Obligationenlisten
+	09:00-12:15	Borsalino	Korr. Bonds in Transaktionsliste
+	13:15-14:00	FFM		Leitungsproblem
+	14:00-18:30	Borsalino	Bond-Transaktionen
+31.5.	07:15-08:00	Borsalino	Vorb. Promi-Pf
+	08:00-09:30	Borsalino	Sitzung
+	09:30-11:15	Borsalino	Pf-Bonds
+	11:15-11:30	NZZ		Wartung (Search)
+	11:30-12:30	Borsalino	Bond-Transaktionen
+	13:30-15:45	Borsalino	Update
+	15:45-16:00	AGI		GKB-Logo f. Fortunato
+	16:00-18:30	Borsalino	Korrekturen
+	20:30-20:45	Borsalino	Restart Parser
+1.6.	08:00-10:30	Borsalino	Setup Limit Minder & Dolphin
+	10:30-10:45	AGI		Update GKB Ticker-Logo
+	10:45-13:00	Borsalino	Abarbeitung Bug-DB
+	13:00-17:30	Borsalino	Erw. limdm
+
+----- KW 23 -----
+5.6.	08:00-16:00	Borsalino	Vorb. Update
+6.6	05:30-08:15	Borsalino	Vorb. Server-Update
+	08:15-09:15	Rolotec		Zeiterfassung
+	09:15-16:00	Borsalino	Test DB-Konvert.
+7.6.	05:30-17:30	Borsalino	Server-Update
+8.6.	07:00-09:15	Borsalino	Korr. PFILIST
+	09:15-09:30	AH		Download MDF-Newslisten
+	09:30-12:30	Borsalino	Test/Inst PFILIST
+	14:15-16:00	ESTV		SW-Update f. CD
+	16:00-17:30	Borsalino	Besprechung
+9.6.	07:00-08:00	Rolotec		SW-Updates
+	08:00-17:30	Borsalino	Korr./Tests
+
+----- KW 24 -----
+11.6.	07:30-08:00	Rolotec		unprod.
+	08:00-14:30	Borsalino	div. Korrekturen
+	14:30-15:15	ESTV		Vorb. Server-Update (CD)
+	15:15-15:45	Borsalino	ARS-Ticket 287410
+	15:45-16:15	Rolotec		Zeiterfassung
+12.6.	07:00-08:30	ESTV		Vorb. SSL-Update
+	08:30-16:30	ESTV		SSL-Update
+	16:30-17:30	Rolotec		Admin.
+13.6.	07:00-08:00	Rolotec		Admin.
+	08:00-12:30	Borsalino	Bugfixes
+	12:30-13:00	SoBa		Kontrolle Valorenstamm
+	13:00-15:30	Rolotec		Kontrolle gel. Splits
+	15:30-17:00	Borsalino	Server-Update
+14.6.	08:00-10:00	Baloise		SSL-Apache
+	10:00-13:00	TKF		TBFWD-Offerte
+	13:00-16:00	Borsalino	Konfig.-Aend.
+15.6.	09:00-09:30	Borsalino	Kontrolle Limit Minder
+	09:30-10:00	AGI		Problem Mailversand
+	10:00-17:30	Borsalino	Debug Limiten
+
+----- KW 25 -----
+18.6.	07:00-07:45	Rolotec		Zeiterfassung
+	07:45-08:15	Shark		Kontrolle Splits
+	08:15-17:00	ESTV		Inst. SSH (Bern)
+19.6.	07:00-17:30	Borsalino	Erweiterungen
+20.6.	07:30-14:30	Shark		Kontrolle/Korr. Splits
+	14:30-18:00	Borsalino	erw. Pf-Felder
+21.6.	07:00-08:00	Rolotec		Admin
+	08:00-17:30	Borsalino	Erweiterungen/Anpassungen
+22.6.	07:00-09:00	Shark		Kontrolle Splits
+	09:00-10:00	Helaba		Sitzung mit BOT
+	10:00-11:30	LLB		MANUAL-Tag (ALIGN)
+	11:30-12:00	Borsalino	kl. Anp.
+	12:00-12:30	Borsalino	Update shark4
+	12:30-13:00	LLB		Update parser/maildm
+	13:00-13:45	Baloise		Vorb. SSL-Apache
+
+----- KW 26 -----
+25.6.	08:00-12:30	Shark		Umstellung virt-x
+	12:30-13:15	SBZV		Analyse Nachkommensliste
+	13:15-14:00	Rolotec		Admin
+	14:00-17:30	SanPaolo	Winner/Loser
+26.6.	08:00-10:00	swissinvest	Wartung
+	10:00-11:00	Baloise		Vorb. Apache
+	11:00-11:30	Migros		Wartung
+	11:30-12:30	SanPaolo	Winner/Loser
+	12:30-13:00	SGKB		Wartung News
+	13:00-13:30	SBZV		Tel. Egli (Nachkommensliste)
+	13:30-14:00	SGKB		Tel. Huter
+	14:00-15:00	Baloise		Update Apache (SSL)
+	15:00-15:30	TKD		Kontrolle Pf-Edit-Layout
+	15:30-16:00	Rolotec		Bespr. HB (Erw. Limit Minder)
+	16:00-17:30	SanPaolo	Winner/Loser
+27.6.	08:45-10:30	swissinvest	Layout-Kontrolle
+	10:30-11:00	BEKB		Fehler Titelsuche
+	11:00-13:30	swissinvest	Suche/Korr. Layout-Fehler
+	13:30-15:00	SanPaolo	Winner/Loser
+	15:00-15:15	Borsalino	Korr. Promi-Layout (fixe view)
+	15:15-16:00	SanPaolo	Winner/Loser
+28.6.	07:30-08:30	Shark		Kontrollen
+	08:30-14:00	SanPaolo	Winner/Loser
+	14:00-14:30	Borsalino	Korr. pfidetail.layout
+	14:30-15:00	TKF		falsches Underlying f. 1008743 (TGKB)
+	15:00-17:30	Shark		Setup f. Winner/Loser
+29.6.	08:15-09:30	Shark		Setup bully
+	09:30-10:30	Borsalino	Korr. Pf-View
+	10:30-11:00	TGKB		falsches Underlying
+	11:00-11:30	Helaba		Design-Studium
+	11:30-16:30	SanPaolo	Winner/Loser
+
+----- KW 27 -----
+2.7.	07:30-11:30	Shark		symfix
+	11:30-13:00	Shark		Install.symfix
+	13:00-14:30	Rolotec		Zeiterfassung
+	14:30-16:30	SanPaolo	Winner/Loser
+3.7.	08:30-17:00	SanPaolo	Winner/Loser
+4.7.	07:30-16:30	SanPaolo	Winner/Loser
+5.7.	07:30-12:30	SanPaolo	Winner/Loser
+	13:00-17:30	SanPaolo	Winner/Loser
+6.7.	07:15-16:00	SanPaolo	Winner/Loser
+
+----- KW 28 -----
+9.7.	08:15-09:45	Rolotec		Zeiterfassung
+	09:45-10:30	Rolotec		Backup
+	10:30-15:00	Pf		Limit Minder
+	15:00-17:15	SanPaolo	Winner/Loser
+10.7.	08:30-09:30	Rolotec		Ablage
+	09:30-14:30	Pf		Limit Minder
+	14:30-16:00	Shark		Erw. Uservar-Fkt.
+	16:00-17:00	LLB		Support SB
+	17:00-18:00	Pf		Limit Minder
+11.7.	08:00-09:30	Pf		Limit Minder
+	09:30-11:30	SanPaolo	Winner/Loser
+	11:30-13:30	Shark		Pf (Default)
+	13:30-14:45	LLB		Korr. Limit Minder Layout
+	14:45-17:30	Pf		Limit Minder
+12.7.	08:15-18:15	Pf		Limit Minder
+13.7.	07:30-19:00	Pf		Limit Minder
+14.7.	10:00-16:30	Pf		Limit Minder
+
+----- KW 29 -----
+16.7.	08:30-12:30	Pf		Limit Minder
+	13:00-20:00	Pf		Limit Minder
+17.7.	08:30-13:30	ESTV		DBA-Update
+	13:30-14:00	TKF		Wartung (SMI Index Stocks)
+	(frei)
+18.7.	08:15-11:00	SanPaolo	Winner/Loser
+	11:00-13:00	Pf		Limit Minder
+	13:30-14:15	TKF		Wartung
+	14:15-14:30	swissinvest	Wartung
+	14:30-15:00	BLKB		Wartung
+	15:00-15:15	ESTV		Wartung DBA
+	15:15-18:30	Pf		Limit Minder
+19.7.	07:30-13:00	Pf		Limit Minder
+	13:30-18:00	Pf		Limit Minder
+20.7.	08:15-09:30	Pf		Limit Minder
+	09:30-10:00	Baloise/SoBa	Wartung
+	10:00-10:30	Borsalino	Korr. Pf
+	10:30-13:30	Pf		Limit Minder
+	14:00-21:30	Pf		Limit Minder
+21.7.	08:15-09:00	Pf		Limit Minder
+	09:00-10:30	Shark		Checkin
+	10:30-12:30	Rolotec		Ablage, Zeiterfassung
+
+----- KW 30 -----
+23.7.-27.7.		Ferien!
+
+----- KW 31 -----
+30.7.-3.8.		Ferien!
+
+----- KW 32 -----
+6.8.	08:00-10:00	Rolotec		Admin
+	10:00-13:30	Pf		Limit Minder
+	14:00-18:00	Pf		Limit Minder
+7.8.	08:15-13:30	Pf		Limit Minder
+	14:00-15:30	Rolotec		Admin (Backup NA)
+	15:30-20:30	Pf		Limit Minder
+8.8.	08:15-08:30	SBZV		Zugangstest
+	08:30-09:00	Pf		Kontrolle Limit Minder
+	09:00-10:00	TKF		Offerte TBFWD Erw.
+	10:00-10:30	Wartung 	Berner Boerse
+	10:30-11:00	Wartung 	swissinvest
+	11:00-11:30	Wartung 	BLKB
+	11:30-13:30	Shark		Update Limit Minder
+	14:00-15:30	TKF		Offerte TBFWD Erw.
+	15:30-16:00	SBZV		Vorb. f. NaKoLi
+	16:00-17:00	Pf		Patch Limit Minder
+9.8.	08:00-08:30	Rolotec		Admin	
+	08:30-09:00	Pf		Patch Limit Minder
+	09:00-10:00	SBZV		NaKoLi
+	10:00-11:45	TKF		Offerte TBFWD
+	11:45-12:15	TXT		Wartung (BC512)
+	13:15-17:15	SBZV		NaKoLi
+10.8.	09:00-11:15	SBZV		NaKoLi
+	11:15-11:30	Borsalino	Wartung
+	11:30-12:15	SBZV		NaKoLi
+	13:15-17:00	SBZV		NaKoLi
+
+----- KW 33 -----
+13.8.	09:30-10:00	SBZV		NaKoLi
+	10:00-10:30	Baloise		Update Entitlement
+	10:30-12:15	SBZV		NaKoLi
+	13:00-15:30	SBZV		NaKoLi
+	15:30-16:00	SOL		Korr. Limit Minder
+	16:00-16:15	TKF		Tel. Schmidlin (TBFWD)
+	16:15-17:00	SBZV		NaKoLi
+14.8.	09:00-09:30	Rolotec		Zeiterf.
+	09:30-12:15	SBZV		NaKoLi
+	15:00-16:00	Pf		Fehlersuche Limit Minder
+	16:00-19:30	SBZV		NaKoLi
+15.8.	08:45-09:00	Shark		savecore auf shark5 disabled
+	09:00-19:30	SBZV		NaKoLi
+16.8.	08:45-12:45	SBZV		NaKoLi
+	13:15-18:00	SBZV		NaKoLi
+17.8.	08:00-12:30	SBZV		NaKoLi Test
+	13:00-17:00	SBZV		NaKoLi Test, checkin, dok.
+
+----- KW 34 -----
+20.8.	08:45-12:30	Rolotec		unprod. (PC Update)
+	13:30-14:00	SoBa		Stammdaten f. BC 380
+	14:00-15:00	Rolotec		Inst. FlexLM-7.0 auf marie
+	15:00-16:30	Rolotec		unprod.
+21.8.	08:00-13:00	Rolotec		Admin
+	13:30-16:30	TKF		Offerte TBFWD Erw.
+22.8.	08:15-10:30	TKF		Offerte TBFWD Erw.
+	10:30-11:00	esider		Bespr. XML-Integration HB/ES
+	11:00-12:30	TKF		Offerte TBFWD Erw.
+	13:00-17:00	Rolotec		SW-Update
+23.8.	08:30-09:30	Pf		Test/Inst. Limit Minder
+	09:30-10:30	Rolotec		unprod.
+	10:30-12:30	Shark		Limitensortierung
+	13:00-18:00	Shark		Limitensortierung
+24.8.	08:00-13:00	Shark		Limitensortierung
+	13:30-17:30	Shark		Limitensortierung
+
+----- KW 35 -----
+27.8.	08:30-13:00	Shark		Debug Limit Minder
+	14:00-17:30	Shark		Debug Limit Minder
+28.8.	08:15-11:45	SBZV		Vorb. LB Stier (PDF)
+	12:30-16:45	Shark		Erw. Limit Minder Layouts
+29.8.	08:00-12:30	Shark		Erw. Limit Minder
+	13:00-17:00	Shark		Erw. Limit Minder
+30.8.	08:00-10:00	Shark		Limiten Statistik/Housekeeping
+	10:00-10:30	Pf		Bespr. Limit-Link Problem (PS)
+	10:30-11:00	Shark		Limit Minder Stat./HK
+	11:00-11:30	LLB		Support SB
+	11:30-12:00	LLB		Bugfix parslim (Doubles)
+	12:00-17:30	TKF		Bespr. TBFWD Erw.
+31.8.	08:30-09:00	Shark		Test Parser (Limiten)
+	09:00-10:00	Shark		Debug Limit-Layouts
+	10:00-10:30	TKF		Kontrolle TBFWD-Auslastung
+	10:30-12:15	TKF		Offerte Erw. TBFWD
+	12:45-17:00	Shark		Limit Minder HK
+	
+----- KW 36 -----
+3.9.	08:30-11:30	Rolotec		Admin (TIOMS etc.)
+	13:30-17:00	Shark		Multi-Exch Winner/Loser
+4.9.	08:30-09:45	Pf		Time-Offset f. limdm
+	09:45-12:45	Shark		Multi-Exch Winner/Loser
+	14:00-16:30	Shark		test/upd. shark5 (parser & limdm)
+5.9.	08:30-12:30	LLB		Debug Limit Minder
+	13:00-17:00	Shark		Multi-Exch Winner/Loser
+6.9.	08:15-13:00	Shark		Multi-Exch Winner/Loser
+	13:30-16:00	Shark		Multi-Exch Winner/Loser
+	16:00-17:00	TXT/BEKB	Wartung
+	17:00-17:30	Shark		Multi-Exch Winner/Loser
+7.9.	08:30-09:30	LLB		Wartung
+	09:30-15:00	Shark		Multi-Exch Winner/Loser
+	15:00-15:15	AGI		Wartung
+	15:15-17:30	Shark		Multi-Exch Winner/Loser
+	
+----- KW 37 -----
+10.9.	09:00-09:30	Rolotec		PC-Admin
+	09:30-10:30	Shark		Multi-Winner/Loser
+	10:30-11:00	AGI		Korr. Berechtigung ZGKB-User
+	11:00-12:30	Shark		Multi-Winner/Loser
+	14:00-18:00	Shark		Multi-Winner/Loser
+11.9.	08:15-12:15	Shark		Multi-Winner/Loser
+	13:15-17:30	Shark		Multi-Winner/Loser
+12.9.	08:00-14:00	Borsalino	TRANS-Filter (Buy/Sell)
+	14:30-17:00	Shark		Test/Update test-Shark
+13.9.	08:00-14:00	BLKB		Pf-Konvertierung
+	16:00-19:00	BLKB		Pf-Konvertierung
+14.9.			Rolotec		Ausflug
+
+----- KW 38/39 -----
+17.9.-21.9.	Ferien
+24.9.-28.9.	Ferien
+	
+----- KW 40 -----
+1.10.	09:00-12:30	Rolotec		Mailabbau
+	14:30-15:00	Rolotec		Aufwandschätzung Pf-Chart
+	15:00-17:00	Rolotec		unprod.
+2.10.	08:15-11:30	TKF		TBFWD Status
+	13:30-14:30	TKF		Statusmails TBFWD
+	(nachmittag frei)
+3.10.	08:45-11:45	TKF		TBFWD Erweiterung
+	14:00-17:30	Postfinance	Charts +/- payments
+4.10.	08:15-12:15	Postfinance	Charts +/- payments	
+	14:00-15:00	Postfinance	Charts +/- payments
+	15:00-16:00	Shark		Umst. SWX -> New SWX
+	16:00-18:00	Postfinance	Charts +/- payments
+5.10.	08:00-12:30	Postfinance	Charts +/- payments
+	14:00-15:30	Postfinance	Charts +/- payments
+	15:30-16:30	FinPhone	Eintrag KNIN
+	16:30-17:30	Postfinance	Charts +/- payments
+	
+----- KW 41 -----
+8.10.	08:00-09:15	Rolotec		Zeiterfassung
+	09:15-10:30	Redsafe		Search-Problem
+	10:30-12:15	Postfinance	Charts +/- payments
+	14:15-17:30	Postfinance	Charts +/- payments
+9.10.	08:00-12:15	Postfinance	Charts +/- payments
+	14:00-14:30	Kyberna		Wartung
+	14:30-18:15	Postfinance	Charts +/- payments (Test, checkin)
+10.10.	07:30-10:15	SanPaolo	Fehleranalyse
+	10:15-12:15	Postfinance	Charts +/- payments (XML-Debug)
+	12:45-13:15	FFM		ftp-Zugang f. MAC
+	13:15-18:30	Postfinance	debug Charts +/- payments
+11.10.	07:30-11:30	Postfinance	debug Charts +/- payments
+	11:30-12:15	FFM		Update ffmtest (user, afx,...)
+	14:00-17:30	Postfinance	Portfolio Charts
+12.10.	08:00-12:15	Postfinance	Portfolio Charts
+	14:00-17:30	Postfinance	Portfolio Charts
+	
+----- KW 42 -----
+15.10.	07:45-11:45	Postfinance	Portfolio Charts
+  	13:30-14:00	SOL		Layout-Debugging (HB)
+	14:00-18:00	Postfinance	Portfolio Charts
+16.10.	08:15-12:30	Postfinance	Portfolio Charts
+	14:30-17:45	Postfinance	Portfolio Charts
+17.10.	09:00-09:30	BLKB		Setup manprice
+	09:30-12:30	Postfinance	Portfolio Charts
+	13:00-18:00	Postfinance	Portfolio Charts
+18.10.	08:15-12:15	Postfinance	Portfolio Charts
+	14:00-17:30	Postfinance	Portfolio Charts
+19.10.	08:00-12:30	Postfinance	Portfolio Charts
+	13:00-16:30	Postfinance	Portfolio Charts
+	
+----- KW 43 -----
+22.10.	09:00-12:15	Postfinance	Portfolio Charts
+	13:15-17:30	Fresco		AFX News setup
+23.10.	08:00-11:45	Postfinance	Portfolio Charts
+	14:00-19:00	Postfinance	Portfolio Charts
+24.10.	08:00-12:00	Postfinance	Portfolio Charts
+	12:30-13:30	Fresco		AFX News-Filter
+	13:30-18:00	Postfinance	Portfolio Charts
+25.10.	08:00-12:00	Postfinance	Portfolio Charts
+	12:30-13:00	BLKB		Korr. PF-Links
+	13:00-18:00	Postfinance	Portfolio Charts
+26.10.	08:30-09:30	Rolotec		Wartung marie
+	09:30-12:00	Postfinance	Portfolio Charts
+	12:30-18:00	SoBa		Setup Stammbld
+
+----- KW 44 -----
+29.10.	08:30-09:30	SoBa		Stamm-Build mit Curr/Group-Filter
+	09:30-12:30	Shark		CVS checkin (Pf Charts)
+	14:30-18:30	Postfinance	Test Pf Charts
+30.10.	08:00-09:00	SoBa		Kontrolle stammbld
+	09:00-10:30	Postfinance	Debug Pf Charts
+	10:30-11:45	TKF		Vorb. Sitzung
+	11:45-12:15	Moneycab	Fehlersuche Pf-Trans
+	12:30-18:45	TKF		Sitzung TBFWD
+31.10.	08:00-09:00	TKF		Datenexport
+	09:00-09:45	Rolotec		MA-Information
+	09:45-11:00	Rolotec		TIOMS
+	11:00-12:30	TKF		Datenexport
+	14:00-19:00	TKF		Vorb. TBFWD-Erw.
+1.11.	08:00-12:30	TKF		TBFWD Report-Tool
+	14:30-17:30	TKF		TBFWD Report
+2.11.	08:30-12:30	TKF		TBFWD Erweiterung
+	14:15-17:15	TKF		TBFWD Erw.
+
+----- KW 45 -----
+5.11.	09:00-12:15	Shark		Vorb. Shark3 f. SSL
+	14:15-17:30	TKF		TBFWD Erw.
+6.11.	08:15-12:30	TKF		TBFWD Erw.
+	13:00-18:00	TKF		TBFWD Erw.
+7.11.	09:00-12:30	TKF		TBFWD Erw.
+	13:00-17:00	TKF		TBFWD Erw.
+8.11.	08:15-09:30	TKF		TBFWD Erw.
+	09:30-11:30	TKF		TBFWD Setup
+	11:30-12:30	TKF		TBFWD Erw.
+	13:00-17:30	TKF		TBFWD Erw.
+9.11.	08:00-09:15	TKF		TBFWD Erw.
+	09:15-12:15	Redsafe		XML Winner/Loser
+	13:15-15:00	Redsafe		XML Winner/Loser
+	15:00-17:00	TKI		currfix-Script + Mail PAY
+
+----- KW 46 -----
+12.11.	09:15-12:15	Redsafe		XML Winner/Loser
+	12:45-15:00	Redsafe		XML Winner/Loser
+	15:00-15:30	TKF Support	Controller-Log -> Schmidlin
+	15:30-18:00	Redsafe		XML Winner/Loser
+13.11.	08:30-12:30	Redsafe		XML Winner/Loser
+	14:00-17:30	Redsafe		XML Winner/Loser
+14.11.	08:30-09:30	Redsafe		Test XML Winner/Loser
+	09:30-11:00	AGKB		Setup Test-Shark
+	11:00-12:30	FFM		Debug AFX Query
+	13:00-18:00	Redsafe		Debug XML Winner/Loser
+15.11.	08:15-11:45	Redsafe		Test XML Winner/Loser
+	11:45-12:30	BCEE		CSV-File mit ISIN/NAME/EXCHSYM
+	13:00-13:30	TKF		FW-Antrag
+	13:30-15:00	Shark		Korr. windm
+	15:00-16:00	Redsafe		Inst. parser/windm
+	16:00-18:00	Borsalino	Limits in UP
+16.11.	08:00-12:30	Borsalino	Limits in UP
+	13:00-17:00	Borsalino	Limits in UP
+
+----- KW 47 -----
+19.11.	08:30-12:30	Borsalino	Test UP
+	13:00-14:00	BCEE		AFX News
+	14:00-17:30	Redsafe		Debugging
+20.11.	08:15-12:30	Redsafe		Bugfixes
+21.11.-23.11.		Rolotec		krank
+
+----- KW 48 -----
+26.11.	08:30-11:30	Borsalino	Korr. Userpage
+	14:00-15:00	Redsafe		zus. Winner-Quotes
+	15:00-17:30	Shark		Debug/Test/Install
+27.11.	08:30-09:00	Fresco		AFX-Newsfilter
+	09:00-11:00	Shark		Checkin
+	11:00-14:00	TKF		TBFWD Erw.
+	16:00-18:00	TKF		TBFWD Erw.
+28.11.	08:00-11:30	TKF		TBFWD Erw.
+	14:00-17:30	TKF		TBFWD Erw.
+29.11.	08:30-10:00	Borsalino	LCLASS f. UP-Links
+	10:00-10:30	SoBa		stammbld mit Filter
+	10:30-11:30	Fresco		Setup AFX News
+	11:30-12:00	BLKB		Datum/Zeit f. manuelle Seiten
+	12:30-17:30	TKF		TBFWD Erw.
+30.11.	08:30-12:30	ESTV		Update Inspektorat (70km Auto)
+	14:00-17:30	TKF		TBFWD Erw.	
+
+----- KW 49 -----
+3.12.	08:30-11:30	TKF		TBFWD Erw.
+	14:00-18:00	TKF		TBFWD Erw.
+4.12.	08:15-12:30	TKF		TBFWD Erw.
+	14:15-16:15	TKF		TBFWD Erw.
+	16:15-17:15	SoBa		Kontrolle Stammdaten
+5.12.	08:30-11:30	TKF		TBFWD Erw.
+	14:00-18:30	TKF		TBFWD Erw.
+6.12.	08:30-12:30	TKF		TBFWD Erw.
+	14:00-15:00	SoBa		Stammdaten
+	15:00-16:00	Redsafe		Winner/Loser-Konfiguration
+	16:00-19:00	TKF		TBFWD Tests
+7.12.	08:30-09:30	SoBa		Stammdaten
+	09:30-11:00	Redsafe		Winner/Loser
+	11:00-11:45	TKF		TBFWD
+	13:45-18:30	TKF		TBFWD
+
+----- KW 50 -----
+10.12.	09:15-12:30	TKF		TBFWD Setup
+	14:00-20:00	TKF		TBFWD Test
+11.12.	09:00-12:30	TKF		TBFWD Erw.
+	14:00-15:00	TKF		TBFWD Test
+	15:00-15:30	Pf		Korr. XML Instperf.
+	15:30-16:00	BLKB		Vorb. Pf-Umstellung
+	17:00-19:30	TKF		TBFWD Erw.
+12.12.	08:15-11:00	TKF		TBFWD Test
+	11:00-11:30	Borsalino	Korr. VTX-Winner/Loser Layout
+	11:30-12:00	Pf		Wartung (disk full)
+	12:00-12:30	TKF		Update WD02
+	13:45-17:15	TKF		Setup WD02
+13.12.	07:30-17:30	TKF		Sitzung TBFWD
+14.12.	08:00-11:00	TKF		TBFWD Erw.
+	11:00-12:00	Rolotec		MA-Gespr.
+	12:30-17:30	TKF		TBFWD Erw.
+
+----- KW 51 -----
+17.12.	08:30-09:00	Redsafe		Kontrolle
+	09:00-12:30	BLKB		Pf-Umstellung
+	13:00-14:00	BLKB		Pf-Umstellung
+	14:00-18:30	Borsalino	Debug Pf (NOZERO)
+18.12.	08:00-09:30	Borsalino	Debug Pf (BOND)
+	09:30-11:30	BLKB		Debug/Korr.
+	11:30-11:45	Sarasin		Wartung
+	11:45-12:45	TKF		TBFWD Erw.
+	12:45-13:15	ESTV		Support
+	13:45-15:00	Borsalino	Korrekturen
+	15:00-16:45	Shark		Erw. Accounting
+	16:45-17:00	Guyerzeller	Wartung
+19.12.	08:00-10:30	Borsalino	Wartung
+		(1/4 Std. in Stadt)
+	10:45-12:30	TKF		TBFWD Erw. (TK Events)
+	14:15-16:00	TKF		TBFWD Test
+	16:00-16:30	Sarasin		Wartung
+	16:30-17:30	TKF		TBFWD Erw.
+20.12.	08:15-12:30	TKF		TBFWD Erw. + Status (TK Events)
+	14:15-14:45	Rolotec		Admin.
+	14:45-18:00	TKF		TBFWD Housekeeping
+21.12.	08:30-12:30	TKF		TBFWD Housekeeping
+	13:00-14:30	Rolotec		Zeiterf.
+
+----- KW 51 -----
+27./28.12.	Ferien

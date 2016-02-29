@@ -142,7 +142,7 @@
 16.2.	09:00-12:00	MFC2		Tests mit MariaDB
 	12:00-12:30	LSEG		Vorb. Verbindungstests
 	12:30-13:00	PassionFruit	Abkl. Moody-Ratings
-	14:00-18:00	MFC2		Statistik in Shared Memory
+	14:00-18:00	MFC2		Statistik in Shared Memory (XMFC-90)
 17.2.	09:00-11:00	LSEG		Verb.test, Bereitstellung Testdaten
 	11:00-13:00	MFC2		XMFC-113
 	14:00-18:30	MFC2
@@ -176,12 +176,19 @@
 	17:00-18:00	DGI		Zielvereinbarung
 26.2.	09:00-09:30	LSEG		Best. IL f. VDPS Upgrade während Ferienabwesenheit MC
 	09:30-10:00	MFC2		XMFC-112
-	10:00-12:00	MRP		WBS 068-0489-20-01-01 (Failover-Problem USA)
+	10:00-12:00	MRP		WBS 068-0489-20-01-01 (Failover-Problem USA, DTE-6596)
 	12:00-12:30	MFC2
 	13:30-16:30	MRP
 	16:30-17:00	DGI		Zeiterf.
 
 ----- KW 9 -----
+29.2.	08:15-12:00	DGI		C++ Foundation
+	13:00-16:00	MRP		DTE-6596
+	16:00-16:30	DGI		Reaktivierung Laptop
+	16:30-17:30	DGI		Zeiterf.
+1.3.	09:00-		LSEG
+2.3.	09:00-17:00	DGI		Secure Development
+
 ----- KW 10 -----
 ----- KW 11 -----
 ----- KW 12 -----

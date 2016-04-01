@@ -12,13 +12,13 @@ class Times:
 
     def __str__(self):
 #        print("day={0} time={1}".format(self.day, pformat(self.time)))
-        lines = [ self.day ]
+        lines = [ "--- {0}".format(self.day) ]
         for project in sorted(self.time.keys()):
             worktime = float(self.time[project]) / 60
             try:
-                lines.append("\t{0:20s}  {1}  {2}".format(project, worktime, ",".join(self.desc[project])))
+                lines.append("{0}\t{1}: {2}".format(worktime, project, ", ".join(self.desc[project])))
             except:
-                lines.append("\t{0:20s}  {1}  ---".format(project, worktime))
+                lines.append("{0}\t{1}".format(worktime, project))
         return "\n".join(lines)
 
     def add_time (self, project, minutes):
@@ -53,11 +53,13 @@ HHMM = re.compile(r"""(?P<hours>\d+):(?P<minutes>\d+)""")
 webtime = {}
 curr_day = None
 day_times = None
+verbose = len(sys.argv) > 1 and sys.argv[1] == "-v"
 
 for line in sys.stdin:
     m = DAY.match(line)
     if not m:
-        print("NO MATCH: {0}".format(line))
+        if verbose:
+            print("NO MATCH: {0}".format(line))
         continue
 
     proj = m.group('proj')
@@ -84,4 +86,4 @@ if curr_day is not None and day_times is not None:
     webtime[curr_day] = day_times
 
 for day in sorted(webtime.keys(), key=byDate):
-    print webtime[day]
+    print "\n{0}".format(webtime[day])

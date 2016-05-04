@@ -324,8 +324,8 @@
 	13:30-14:00	RefCalc		Support EHA (WBS 068-0465-03-01-01)
 	14:00-16:00	DGI		Info-Meeting
 	16:00-18:00	RefCalc
-14.4.	09:00-12:15	SIX Foundation	EWP Update, Buildversuch
-	13:00-13:45	SIX Foundation	Telco
+14.4.	09:00-12:15	SFL		EWP Update, Buildversuch
+	13:00-13:45	SFL		Telco
 	13:45-16:00	MFC2		XMFC-133
 	16:00-17:15	DGI		Team-Meeting
 	17:15-19:00	MFC2		XMFC-133
@@ -344,7 +344,7 @@
 	08:00-09:30	DGI		Präs. MarketBox
 	09:30-12:30	MFC2
 	13:30-14:30	MFC2
-	14:30-16:30	RefData		GAIN/VDPS
+	14:30-16:30	RefData		Bespr. GAIN/VDPS
 	16:30-18:30	MFC2
 22.4.	09:00-13:00	MFC2
 	13:30-16:00	MFC2
@@ -352,7 +352,40 @@
 	17:00-18:00	MFC2
 
 ----- KW 17 -----
+25.4.	07:30-13:00	MFC2		XMFC-133
+	14:00-17:30	MFC2	
+	(17:30-18:00	Abschiedsapero Christian & Andrea)
+	18:00-19:30	MFC2
+26.4.	09:00-13:00	MFC2
+	14:00-19:00	MFC2
+27.4.	09:00-12:30	MFC2
+	13:30-18:30	MFC2
+28.4.	09:00-13:00	MFC2
+	14:00-15:30	MFC2
+	15:30-16:00	LSEG
+	16:00-16:30	DGI		Team-Meeting
+	16:30-18:30	MFC2
+29.4.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+
 ----- KW 18 -----
+2.5.	09:00-10:00	RCL		Lieferung V1.9.00 f. S.Villiger
+	10:00-10:30	PEP-Check	Problem mit SWIFT-Parser (H.Lorenzen)
+	10:30-13:00	MFC2
+	14:00-17:00	MFC2		Release 9.0.06, Iteration 7
+	17:00-18:00	DGI		Zeiterf., Ferien
+3.5.	09:00-13:00	MFC2
+	14:00-15:00	LSEG
+	15:00-18:00	MFC2
+4.5.	09:00-10:00	RefCalc		Support EHA
+	10:00-10:30	LSEG
+	10:30-11:45	MFC2
+	12:45-14:00	MFC2
+	14:00-14:30	LSEG
+	14:30-17:30	MFC2
+5.5.	(Auffahrt)
+6.5.
+
 ----- KW 19 -----
 ----- KW 20 -----
 ----- KW 21 -----

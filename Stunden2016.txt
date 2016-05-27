@@ -384,12 +384,62 @@
 	14:00-14:30	LSEG
 	14:30-17:30	MFC2
 5.5.	(Auffahrt)
-6.5.
+6.5.	09:00-10:00	LSEG
+	10:00-12:30	MFC2		XMFC-145, TCmalloc (crasht) & JEmalloc (?)
+	13:30-17:00	MFC2
+	17:00-18:00	RCL
 
 ----- KW 19 -----
+9.5.	09:00-12:30	MFC2
+	13:30-18:00	MFC2
+10.5.	09:30-13:00	MFC2
+	13:30-19:00	MFC2
+11.5.	09:00-13:00	MFC2
+	14:00-19:00	MFC2
+12.5.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+13.5.	09:00-11:30	MFC2
+	12:00-16:00	RefData		AIM Workshop
+	16:00-18:00	MFC2
+	18:00-18:30	DGI		Zeiterf.
+
 ----- KW 20 -----
+16.5.	(Pfingstmontag)
+17.5.	09:00-13:00	MFC2
+	14:00-19:00	MFC2
+18.5.	09:00-10:30	MFC2
+	10:30-11:30	DeliMac		Pre-Kickoff
+	11:30-12:00	MFC2
+	12:00-12:30	PassionFruit
+	13:30-15:00	MFC2
+	15:00-15:30	PassionFruit
+	15:30-18:30	MFC2
+19.5.	09:00-13:00	MFC2
+	14:00-14:30	RCL		Release 1.9.02
+	14:30-16:30	DeliMac		Intro by Raphael (WBS 068-0555-01-01-01)
+	16:30-19:00	RCL
+20.5.	08:00-09:00	MFC2		Release 9.0.06, Iteration 9
+	09:00-12:15	DeliMac		TP R1 Feature Presentation (via Skype)
+	13:00-16:30	DeliMac
+	16:30-17:30	MFC2
+
 ----- KW 21 -----
+23.5.	09:00-13:00	MFC2		Memoryanalyse
+	14:00-19:00	MFC2
+24.5.	09:00-13:00	MFC2
+	14:00-15:00	MFC2
+	15:00-15:30	RefCalc		Präs. DBAccessPool
+	15:30-18:30	MFC2	
+25.5.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+26.5.	09:00-12:30	MFC2
+	13:30-18:30	DeliMac		Kickoff ZH
+27.5.	09:00-11:30	MFC2		Lieferung Release 9.0.06, Iteration 10
+	11:30-12:30	DGI		Zeiterf.
+
 ----- KW 22 -----
+	(Ferien)
+
 ----- KW 23 -----
 ----- KW 24 -----
 ----- KW 25 -----

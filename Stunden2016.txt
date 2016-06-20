@@ -441,8 +441,48 @@
 	(Ferien)
 
 ----- KW 23 -----
+6.6.	09:00-10:00	DGI		Einarb.
+	10:00-11:00	DGI		Mail T.Hardegger wg. SWIFT-Parser
+	11:00-12:30	LSS		XMFC-151
+	13:00-15:30	LSS
+	15:30-19:00	MFC2		MFC Externals Build mit Jenkins
+7.6.	09:00-11:00	PassionFruit	B+S Support, Wiki-Anp.
+	11:00-13:00	MFC2		MFC Externals Release 0.1.9
+	14:00-15:00	MFC2
+	15:00-17:30	iD		Cascade Server build
+8.6.	09:30-12:30	DeliMac		Planung Entwicklung
+	13:30-16:00	DeliMac
+	16:00-18:00	DGI		unprod.
+9.6.	(08:00-09:00	Arzt)
+	09:00-11:30	DeliMac		Review TI2 Vision
+	11:30-12:00	DGI		Umbuchung Stunden
+	12:00-13:00	DeliMac
+	14:00-18:00	DeliMac
+10.6.	09:00-11:00	DeliMac
+	11:00-11:30	iD		INC000002899296 (veraltete SMI-Liste von MDS)
+	11:30-13:00	DeliMac
+	14:00-17:30	DeliMac		Präs. Starlight
+
 ----- KW 24 -----
+13.6.	09:00-09:30	DGI		Stundenumbuchung
+	09:30-13:00	MFC2		Lieferung MFC Externals 0.1.10
+	15:30-16:30	DeliMac		Feature Review (mac)
+14.6.	09:00-12:30	DeliMac		Planung Sprint 0
+	14:00-17:00	DeliMac
+15.6.	08:30-09:30	DeliMac		Daily Standup
+	09:30-13:15	DeliMac		DELMAC-21
+	14:00-17:30	DGI		Mitarbeiterinfo
+16.6.	08:00-09:30	DeliMac		Daily Standup
+	09:30-10:30	MFC2		Analyse Differenz GS (XMFC-154/-155)
+	10:30-12:30	DeliMac		DELMAC-21
+	13:30-16:00	DeliMac
+	16:00-17:00	DeliMac		Knowledge Sharing CDM
+17.6.	08:00-13:00	DeliMac
+	14:00-18:00	MFC2		XMFC-154
+
 ----- KW 25 -----
+20.6.	08:00-
+
 ----- KW 26 -----
 ----- KW 27 -----
 ----- KW 28 -----

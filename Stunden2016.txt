@@ -438,7 +438,7 @@
 	11:30-12:30	DGI		Zeiterf.
 
 ----- KW 22 -----
-	(Ferien)
+30.5.-3.6.	(Ferien/krank)
 
 ----- KW 23 -----
 6.6.	09:00-10:00	DGI		Einarb.
@@ -453,7 +453,7 @@
 8.6.	09:30-12:30	DeliMac		Planung Entwicklung
 	13:30-16:00	DeliMac
 	16:00-18:00	DGI		unprod.
-9.6.	(08:00-09:00	Arzt)
+9.6.	08:00-09:00	Arzt
 	09:00-11:30	DeliMac		Review TI2 Vision
 	11:30-12:00	DGI		Umbuchung Stunden
 	12:00-13:00	DeliMac
@@ -481,9 +481,47 @@
 	14:00-18:00	MFC2		XMFC-154
 
 ----- KW 25 -----
-20.6.	08:00-
+20.6.	08:00-09:00	DGI		Zeiterf.
+	09:00-09:30	DeliMac		Standup & Jira
+	09:30-13:00	MFC2		Release 9.0.07
+	14:00-17:00	MFC2
+	17:00-18:00	DeliMac		Erw. API Testcases
+21.6.	08:00-09:15	DeliMac		Propose Development Env. & Standup
+	09:15-10:45	MFC2		XMFC-156
+	10:45-13:00	DeliMac
+	14:00-17:00	DeliMac
+22.6.	08:00-10:00	DeliMac
+	10:00-12:30	DeliMac		Generic BER dumping
+	13:30-15:00	DeliMac		DELMAC-31
+	15:00-17:30	DeliMac		Präs. IT Architecture
+23.6.	08:00-09:00	DeliMac		DELMAC-31
+	09:00-09:15	DeliMac		Standup
+	09:15-09:45	MFC2		IL bleibt hängen (XMFC-156)
+	09:45-13:00	DeliMac		DELMAC-31
+	14:00-18:00	DeliMac		Dev Setup
+24.6.	08:00-13:00	DeliMac
+	14:00-17:30	DeliMac		Vorb. Präs. ASN.1
 
 ----- KW 26 -----
+27.6.	08:00-11:30	DeliMac		Sprint 0 Review
+	12:30-17:00	DeliMac		Sprint 1 Planning
+28.6.	07:30-10:30	DeliMac		Prep. DevEnv
+	10:30-11:30	DGI		EWP Rollout Info
+	11:30-13:00	iD		CSC: Fehler icsccust1/ics17/mfc10
+	14:00-17:30	DeliMac		Setup DevEnv (Confluence)
+29.6.	08:00-12:30	DeliMac		DELMAC-69
+	13:30-16:00	DeliMac
+	(Abschiedsapéro Kevin)
+	17:00-19:00	DeliMac
+30.6.	08:00-12:30	DeliMac
+	13:30-14:30	iD		SAD Review (kk)
+	14:30-16:00	DeliMac
+	16:00-17:00	DeliMac		Arch. Walk-Through mit M.Dohrau
+	17:00-18:30	DeliMac
+1.7.	08:00-12:30	DeliMac
+	13:30-17:00	DeliMac
+	17:00-18:00	DGI		Zeiterf.
+
 ----- KW 27 -----
 ----- KW 28 -----
 ----- KW 29 -----

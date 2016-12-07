@@ -854,13 +854,18 @@
 	16:30-17:30	DGI		Zeiterf.
 1.12.	07:45-12:00	DeliMac		Arch.-WS (Dohrau, Berger)
 	13:30-18:00	DeliMac		Prep. Tasks, Refactor Mailings
-2.12.	09:00-10:00	DeliMac		Merging
+2.12.	09:00-10:00	DeliMac		Merging issues
 	10:00-10:30	DGI		Team-Meeting
 	10:30-11:30	DGI		Meeting m. Maturity Meter
 	12:30-14:30	DGI		Monatsabschluss mit Activity Logging
-	14:30
+	14:30-17:30	DeliMac		DELMAC-522
 
 ----- KW 49 -----
+5.12.	08:30-09:30	DeliMac		Standup
+	09:30-13:00	DeliMac		DELMAC-522
+	14:00-18:00	DeliMac		DELMAC-545
+6.12.	09:00-09:30	DGI		Relaunch EWP
+
 ----- KW 50 -----
 ----- KW 51 -----
 ----- KW 52 -----

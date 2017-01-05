@@ -852,21 +852,56 @@
 	13:30-15:30	DeliMac		Vorb. Arch.-WS (Dohrau)
 	15:30-16:30	MFC2		INC000003031820
 	16:30-17:30	DGI		Zeiterf.
-1.12.	07:45-12:00	DeliMac		Arch.-WS (Dohrau, Berger)
+1.12.	07:45-12:00	DeliMac		ZH: Arch.-WS (Dohrau, Berger)
 	13:30-18:00	DeliMac		Prep. Tasks, Refactor Mailings
-2.12.	09:00-10:00	DeliMac		Merging issues
+2.12.	09:00-10:00	DeliMac		Merging issues (configuration refactoring Mathias)
 	10:00-10:30	DGI		Team-Meeting
 	10:30-11:30	DGI		Meeting m. Maturity Meter
 	12:30-14:30	DGI		Monatsabschluss mit Activity Logging
-	14:30-17:30	DeliMac		DELMAC-522
+	14:30-17:30	DeliMac		DELMAC-523
 
 ----- KW 49 -----
 5.12.	08:30-09:30	DeliMac		Standup
 	09:30-13:00	DeliMac		DELMAC-522
 	14:00-18:00	DeliMac		DELMAC-545
 6.12.	09:00-09:30	DGI		Relaunch EWP
+	09:30-12:00	DeliMac		Logging (DELMAC-523)
+	13:00-15:00	DeliMac		Koord. mit TI3
+	15:00-17:30	DeliMac		DELMAC-552
+7.12.	09:00-13:00	DeliMac		DELMAC-545
+	14:00-15:00	DeliMac		Support EHA
+	15:00-17:00	DeliMac		Arch-WS (Dohrau)
+	17:00-18:30	DeliMac
+8.12.	08:30-13:00	DeliMac		DELMAC-545
+	14:00-18:00	DeliMac
+9.12.	09:00-11:30	DeliMac		DELMAC-545
+	13:00-15:30	DeliMac		Review stories for next sprint
+	15:30-18:30	DeliMac		Testing
 
 ----- KW 50 -----
+12.12.	08:30-11:30	DeliMac		Standup & Sprint estimations
+	12:30-17:30	DeliMac		Freeze & Release
+13.12.	09:00-13:00	DeliMac		Sprint Review & Planning
+	14:00-17:30	DeliMac		Planung sprint tasks
+14.12.	09:00-11:00	DGI		Restore EWP Setup nach Akkufail
+	11:00-12:00	DeliMac		Arch-WS (Dohrau)
+	13:00-14:30	DeliMac		iD config
+	14:30-16:30	DGI		Infoanlass DGI-AF
+	(Chlouserapero)
+	17:30-18:30	DeliMac
+15.12.	08:30-10:30	DeliMac		Standup, Testplanung
+	10:30-11:00	DGI		Zeiterf.
+	11:00-12:30	DeliMac		DELMAC-579
+	13:30-15:00	DeliMac
+	15:00-18:00	DeliMac		DELMAC-580
+16.12.	09:00-12:30	DeliMac		DELMAC-580
+	13:30-16:30	DeliMac
+
+
 ----- KW 51 -----
+19.12.-23.12.	Ferien
+
 ----- KW 52 -----
+27.12.-30.12.	Ferien
+
 ----- KW 53 -----

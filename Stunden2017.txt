@@ -13,12 +13,45 @@
 	14:30-18:00	DeliMac		DELMAC-387
 
 ----- KW 2 -----
-9.1.	08:30-10:30	DeliMac		Standup & Planung Release
+9.1.	08:30-10:30	DeliMac		Standup & Planung Release 0.2
 	10:30-11:00	DGI		Zeiterf.
-	11:00-
-10.1.	DeliMac		Sprint 2017-01-A Review & Planning 2017-01-B
+	11:00-12:30	DeliMac		Freeze & Releasebuild
+	13:30-17:00	DeliMac		Deployment Release 0.2.11 (Probleme mit flywaydb)
+	17:00-18:00	MFC2		Support mn (CMake f. RedHat)
+10.1.	08:30-12:30	DeliMac		Sprint 2017-01-A Review & Planning 2017-01-B
+	13:30-18:00	DeliMac		Setup ST Instance, Koord. FE-Entwicklung
+11.1.	09:00-10:00	DGI		Maintenance alte DEV Umgeb. & EWP
+	10:00-12:30	DeliMac		DELMAC-525
+	13:30-18:00	DeliMac
+12.1.	08:30-11:00	DeliMac		DELMAC-525
+	11:00-12:30	MFC2		RedHat Installation @ mdzhlid2sv02 (WBS 068-0486-14-01-01)
+	13:30-14:30	DeliMac		Tasks f. EHA
+	14:30-16:30	DeliMac		DELMAC-525
+	16:30-19:00	MFC2
+13.1.	09:00-10:30	MFC2		Setup VDK Source (PROD, da alte Files auf INT)
+	10:30-12:15	DeliMac		DELMAC-657
+	12:45-15:30	DeliMac		DELMAC-361 (related Activities)
+	15:30-16:00	DGI		Zeiterf.
+	16:00-17:30	DeliMac
 
 ----- KW 3 -----
+16.1.	08:30-09:30	DeliMac		Standup, Bespr.
+	09:30-12:30	DeliMac		DELMAC-651	
+	13:30-17:00	DeliMac		DELMAC-591, DELMAC-661
+	17:00-18:00	MFC2		Support mn (CPack)
+17.1.	09:00-12:00	DeliMac		DELMAC-665
+	13:00-18:30	DeliMac		DELMAC-635, DELMAC-679
+18.1.	09:00-10:30	DeliMac		DELMAC-665
+	10:30-12:30	DeliMac		DELMAC-684
+	13:30-19:00	DeliMac		DELMAC-651
+19.1.	08:30-09:30	DeliMac		Standup, Bespr.
+	09:30-10:00	DeliMac		DELMAC-635 (Update Spec)
+	10:00-12:00	DeliMac		DELMAC-651
+	13:00-17:30	DeliMac		Support EHA
+20.1.	08:30-13:00	DeliMac		Arch-WS R2 Provisioning (Martin B./W., Lino, in Biel)
+	14:00-16:00	DeliMac
+	16:00-17:00	DGI		Zeiterf.
+
 ----- KW 4 -----
 ----- KW 5 -----
 ----- KW 6 -----

@@ -53,7 +53,38 @@
 	16:00-17:00	DGI		Zeiterf.
 
 ----- KW 4 -----
+23.1.	08:30-09:30	DeliMac		Standup
+	09:30-12:30	DeliMac		Release preparation (missing field position within templates)
+	13:30-15:30	DeliMac		DELMAC-651
+	15:30-18:30	DeliMac
+24.1.	08:30-13:00	DeliMac		Sprint Review & Planning
+	14:00-17:30	DeliMac		R2 estimation
+25.1.	09:00-12:00	DeliMac		Release 0.2.14 (+ flyway education)
+	12:30-15:00	DeliMac		Test ST
+	15:00-17:00	DeliMac		DELMAC-169 (Mathias, Felix, Nermin)
+	17:00-19:00	DeliMac		Review Jira Tasks
+26.1.	08:30-09:30	DeliMac		Standup
+	09:30-12:00	DeliMac		DELMAC-651, DELMAC-340
+	13:00-15:00	DeliMac		DELMAC-725
+	15:00-16:00	iD		INC3112192 (SwissQuant)
+	16:00-17:30	DeliMac		DELMAC-725
+27.1.	09:00-10:00	DeliMac		DELMAC-635
+	10:00-12:00	DeliMac		Version 1.0
+	13:00-15:00	DeliMac		DELMAC-736 (Support EHA)
+	15:00-19:00	DeliMac		Deployment tests
+
 ----- KW 5 -----
+30.1.	08:30-09:30	DeliMac		Standup
+	09:30-13:00	DeliMac		DELMAC-635 (code cleanup)
+	14:00-18:30	DeliMac		DELMAC-736
+31.1.	09:00-12:30	DeliMac		DELMAC-738: refactor mailings
+	13:30-17:00	DeliMac		DELMAC-635 (E2E deployment for demo)
+	17:00-18:00	DeliMac		Commit & Deploy DEV
+1.2.	09:00-12:30	DeliMac		DELMAC-635 (refactor scheduling)
+	13:30-17:30	DeliMac		DELMAC-724
+2.2.	08:30-09:30	DeliMac		Standup
+	09:30-11:00	DGI		Zeiterf., Mailablage
+
 ----- KW 6 -----
 ----- KW 7 -----
 ----- KW 8 -----

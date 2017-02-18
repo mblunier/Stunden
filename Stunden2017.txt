@@ -84,9 +84,54 @@
 	13:30-17:30	DeliMac		DELMAC-724
 2.2.	08:30-09:30	DeliMac		Standup
 	09:30-11:00	DGI		Zeiterf., Mailablage
+	11:00-13:00	DeliMac		DELMAC-757
+	14:00-19:00	DeliMac		DELMAC-737
+3.2.	09:00-12:30	DeliMac		DELMAC-747
+	13:30-15:00	DeliMac
+	15:00-17:30	DeliMac		pre-sprint planning
 
 ----- KW 6 -----
+6.2.	08:30-09:30	DeliMac		Standup
+	09:30-12:30	DeliMac		Backend Release 1.0.15
+	13:30-17:00	DeliMac		Deployment & Tests
+7.2.	09:00-13:00	DeliMac		Sprint review & planning
+	14:00-17:30	DeliMac		Tasks f. sprint 2017-02-D
+8.2.	09:00-10:00	MFC2		Review & update Jira issues f. MFC Externals
+	10:00-10:30	DGI		Zeiterf.
+	10:30-11:00	DeliMac		Review DEV & ST deployments
+	11:00-11:30	DGI		DGI-AF Info
+	11:30-12:30	DeliMac		DELMAC-763
+	13:30-17:30	DeliMac		Fixed target version, added activities for selection file uploads
+9.2.	(krank)
+10.2.	(krank)
+
 ----- KW 7 -----
+13.2.	08:30-09:30	DeliMac		Standup
+	09:30-10:00	iD		INC3120073
+	10:00-11:30	LSS		Abkl. f. NLE search "ABBN;sc=6"
+	11:30-13:00	DeliMac		DELMAC-763
+	(Home Office bis Ende Woche)
+	14:00-18:00	DeliMac		DELMAC-498 (authorization & provisioning status)
+14.2.	08:30-13:00	DeliMac		DELMAC-816
+	14:00-18:00	DeliMac		DELMAC-818
+15.2.	08:30-09:00	DeliMac		DELMAC-818 (DEV mit 10 Threads ok)
+	09:00-09:30	DeliMac		Review DoD Definition
+	09:30-10:30	DeliMac		DELMAC-816 (using LocalDate)
+	10:30-12:30	DeliMac		DELMAC-818	
+	13:30-14:00	DeliMac		Test mit grosser Selektion
+	14:00-15:00	DeliMac		Präs. TI2 (Laurent)
+	15:00-17:30	DeliMac		failing builds
+16.2.	07:30-09:00	DeliMac		DELMAC-818
+	09:00-09:30	DeliMac		Standup
+	09:30-12:30	DeliMac		DELMAC-821
+	13:30-18:00	DeliMac		Confluence
+17.2.	08:30-10:30	DeliMac		Jiras, Changelog, Checkin (DoD)
+	10:30-12:00	DGI		EWP-Maintenance (Proxy)
+	12:30-14:00	DeliMac		Release-Vorb. (DoD)
+	14:00-15:00	DeliMac		Backend Release 1.1.16
+	15:00-16:30	DeliMac		Pre-Sprint Planning
+	16:30-17:30	DGI		Zeiterf.
+
 ----- KW 8 -----
 ----- KW 9 -----
 ----- KW 10 -----

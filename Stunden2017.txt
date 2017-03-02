@@ -133,8 +133,37 @@
 	16:30-17:30	DGI		Zeiterf.
 
 ----- KW 8 -----
+20.2.	08:30-09:30	DeliMac		Standup
+	09:30-12:30	DeliMac		DELMAC-832
+	13:30-16:00	DeliMac		DELMAC-748
+	16:00-17:00	DeliMac		Know-How Transfer Mathias (Ferien)
+	17:00-19:00	DeliMac		DELMAC-861
+21.2.	08:30-13:30	DeliMac		Sprint Review & Planning
+	14:30-17:30	DeliMac		DELMAC-861
+22.2.	09:00-09:30	DeliMac		Standup
+	09:30-13:00	DeliMac		DELMAC-861
+	14:00-18:30	DeliMac		DELMAC-877
+23.2.	09:00-12:00	DeliMac		DELMAC-875
+	13:00-19:00	DeliMac
+24.2.	09:00-12:30	DeliMac		DELMAC-875
+	13:30-16:30	DeliMac		Arch.-WS (Dohrau)
+
 ----- KW 9 -----
+27.2.	09:00-12:30	DeliMac		DELMAC-864
+	13:30-18:30	DeliMac		
+28.2.	09:00-11:00	DeliMac		DELMAC-363 (Tests & Fixes)
+	11:00-12:00	DeliMac		Review Performance Expectations R1
+	13:00-15:00	DeliMac		DELMAC-363
+	15:00-18:30	DeliMac		E2E Deployment (Patch FE SLS)
+1.3.	08:30-12:30	DeliMac		DELMAC-906	
+	13:30-18:30	DeliMac
+2.3.	09:00-13:00	DeliMac		IT Opertions Workshop
+	14:00-17:30	DeliMac
+	17:30-18:30	DeliMac		DELMAC-909
+	18:30-19:00	DGI		Mails, Zeiterf.
+
 ----- KW 10 -----
+
 ----- KW 11 -----
 ----- KW 12 -----
 ----- KW 13 -----

@@ -161,11 +161,61 @@
 	14:00-17:30	DeliMac
 	17:30-18:30	DeliMac		DELMAC-909
 	18:30-19:00	DGI		Mails, Zeiterf.
+3.3.	09:00-10:30	DeliMac		Standup, Review DoD definition
+	10:30-12:30	DeliMac		DELMAC-947
+	13:30-15:30	DeliMac		
+	15:30-16:30	DeliMac		Sprint preparation
+	16:30-18:30	DeliMac
 
 ----- KW 10 -----
+6.3.	09:00-13:00	DeliMac		Vorb. Release
+	14:00-19:00	DeliMac
+7.3.	08:30-13:00	DeliMac		Sprint Review & Planning
+	14:00-18:30	DeliMac		DELMAC-971, DELMAC-973
+8.3.	09:00-12:30	DeliMac		DELMAC-963
+	13:30-14:00	DeliMac		DELMAC-993
+	14:00-15:30	DeliMac		DELMAC-445 (DB deployment in confluence)
+	15:30-17:10	DGI		Team-Ziele
+	17:10-18:30	DeliMac
+9.3.	08:30-12:30	DeliMac		DELMAC-996
+	13:30-14:00	DeliMac
+	14:00-17:30	DGI		MA-Info
+	17:30-18:30	DeliMac		DELMAC-997
+10.3.	09:00-09:15	DeliMac		Standup
+	09:15-10:00	DGI		Restore EWP settings (git, IntelliJ) after SW updates
+	10:00-11:00	DeliMac		fix scheduling, restore DEV queries for scheduling tests
+	11:00-12:30	DeliMac		Logging enhancements
+	13:30-18:30	DeliMac		Release Preparation (DoD)
 
 ----- KW 11 -----
+13.3.	09:00-13:00	DeliMac		Release 1.3, E2E deployment
+	14:00-18:00	DeliMac
+14.3.	08:30-12:30	DeliMac		Analyse Perfomance Issues
+	13:30-19:00	DeliMac		DELMAC-1012, Aligmnment mit FE
+15.3.	09:00-13:00	DGI		SAFe Training
+	14:30-17:30	DGI
+	17:30-18:30	DeliMac		Fix potential memory leak (ASNRequest)
+16.3.	09:00-13:00	DeliMac		DELMAC-1012
+	14:00-18:30	DeliMac		DELMAC-971
+17.3.	09:00-12:30	DeliMac		DELMAC-445
+	13:30-18:00	DeliMac
+
 ----- KW 12 -----
+20.3.	09:00-13:00	DeliMac		DELMAC-445
+	14:00-16:00	DeliMac		IT Operations Training
+	16:00-18:00	DeliMac		
+21.3.	08:30-11:30	DeliMac		Sprint 2017-03-F
+	12:00-13:30	DeliMac
+	13:30-15:00	DeliMac		DELMAC-1028/1055
+	15:00-17:30	DGI		MbO
+22.3.	08:30-12:30	DeliMac		DELMAC-1055
+	13:30-15:30	DeliMac
+	15:30-17:00	DeliMac		DELMAC-1044 (Netzwerkausfall)
+23.3.	08:30-11:00	DeliMac		Standup, Jira review
+	11:00-13:00	DeliMac		DELMAC-1026
+	14:00-15:00	DGI		Zeiterf.
+	15:30-17:30	DGI		local Oracle instance on EWP
+
 ----- KW 13 -----
 ----- KW 14 -----
 ----- KW 15 -----

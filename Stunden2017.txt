@@ -214,9 +214,16 @@
 23.3.	08:30-11:00	DeliMac		Standup, Jira review
 	11:00-13:00	DeliMac		DELMAC-1026
 	14:00-15:00	DGI		Zeiterf.
-	15:30-17:30	DGI		local Oracle instance on EWP
+	15:30-17:30	DGI		local Oracle instance on EWP (Oracle Patching)
+24.3.	08:30-10:00	DeliMac		Patches f. Release 1
+	10:00-10:15	DeliMac		Standup
+	10:15-10:45	PassionFruit	Tel. Louis wg. adhoc-Requests & zus. Feldern
+	10:45-11:45	DeliMac		DELMAC-982
+	11:45-13:00	DeliMac		DELMAC-1026
+	14:00-18:00	DeliMac
 
 ----- KW 13 -----
+27.3.
 ----- KW 14 -----
 ----- KW 15 -----
 ----- KW 16 -----

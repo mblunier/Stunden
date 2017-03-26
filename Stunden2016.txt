@@ -182,54 +182,726 @@
 	16:30-17:00	DGI		Zeiterf.
 
 ----- KW 9 -----
-29.2.	08:15-12:00	DGI		C++ Foundation
+29.2.	08:15-12:00	SFL		C++ Foundation Library
 	13:00-16:00	MRP		DTE-6596
 	16:00-16:30	DGI		Reaktivierung Laptop
 	16:30-17:30	DGI		Zeiterf.
-1.3.	09:00-		LSEG
-2.3.	09:00-17:00	DGI		Secure Development
+1.3.	09:00-13:00	LSEG		Setup VDPS 2.8.03 @ redavdps3
+	14:00-16:00	LSEG		Setup VDPS 2.8.03 @ isa-vdps[12]
+	16:00-17:00	MRP		DTE-6596
+	17:00-18:00	LSEG
+2.3.	08:00-08:30	MFC2		Restore TestFeed
+	08:30-09:00	LSEG		Support Betrieb (neuer VDPS PWD-Mechanismus)
+	09:00-11:30	DGI		Secure Development
+	12:30-17:00	DGI
+	17:00-18:00	MFC2
+3.3.	09:00-11:00	MFC2		Korr./Verb. pushd
+	11:00-13:00	SOLID		Elastic Exporter
+	13:30-16:00	MFC2		Test pushd & Elastic Exporter
+	16:00-17:00	DGI		Team-Meeting
+	17:00-19:00	MFC2		XMFC-112
+4.3.	07:00-09:00	MFC2
+	09:00-09:15	RefData		Review Meeting
+	09:15-09:30	DevOps		MFC1 Support Edi
+	09:30-10:30	LSEG		adhoc-Verarbeitung f. UAT, Mail
+	10:30-12:30	MFC2
+	12:30-13:00	DGI		Zeiterf.
+	(Quickline install.)
 
 ----- KW 10 -----
+7.3.	09:00-09:30	DGI		EWP Maintenance
+	09:30-11:30	MFC2		Checkin, Dok., Packaging
+	11:30-12:00	LSEG		Backup IL (~mb/lseg/data)
+	12:00-13:00	MFC2
+	14:00-19:30	MFC2		Packaging
+8.3.	09:00-09:30	DGI		EWP Maintenance
+	09:30-13:00	MFC2		Packaging, Dok.
+	14:00-17:00	MFC2		Test/debug dmd/pushd
+9.3.	09:00-13:30	MFC2		Korr. dmd
+	14:00-15:00	LSEG		Kontrolle UAT ad-hoc (Korr. housekeeping)
+	15:00-19:00	MFC2		Checkin, Dok.
+10.3.	09:00-09:30	DGI
+	09:30-13:00	MFC2		ic/sc-Maintenance f. gsL (mit MC)
+	14:00-14:30	RefData		Support EHA (WBS 68-0465-03-01-01)
+	14:30-16:30	MFC2
+	16:30-17:00	DPB		Meeting P.Stadelmann wg. MFC2 Liefertermin
+	17:00-19:30	MFC2		Dok., Vorb. Release 9.0.06
+11.3.	09:00-13:00	MFC2		verb. Search
+	14:00-16:00	MFC2
+	16:00-17:00	LSEG
+	17:00-19:00	MFC2		verb. DB-Install.
+
 ----- KW 11 -----
+14.3.	09:00-09:30	DGI		EWP Maintenance, Zeiterf.
+	09:30-11:00	PassionFruit	ftp-Problem upload nach OUT
+	11:00-12:00	LSEG		Test adhoc requests
+	12:00-13:00	MFC2		Packaging, Dok, Tests
+	14:00-18:30	MFC2
+15.3.	09:00-11:30	MFC2		Release 9.0.06
+	11:30-12:30	MFC2		Externals Release 0.1.6
+	12:30-13:00	LSEG		UAT Support
+	14:00-17:30	MFC2		
+16.3.	09:00-12:30	MFC2		Lieferung MFC Release 9.0.06
+	13:30-18:30	MFC2		Lieferung MFC Elastice Exporter 1.1.0, MFC Externals 0.1.6
+17.3.	09:00-09:45	MFC2		Review Release (dim)
+	09:45-10:45	MFC2		Install QA (D.Boche), reset citrin pwd
+	10:45-11:15	LSEG		Check file uploads
+	11:15-13:00	MFC2		Kontrolle MFC Externals
+	(13:00-16:00 Auto Tidarat f. Entsorgung von Altpapier und -glas)
+	16:00-16:30	LSEG
+	16:30-18:30	MFC2		Lieferung MFC Externals via citrin
+18.3.	09:00-12:00	MFC2		MFC Externals 0.1.7
+	12:00-13:00	DGI		Mailablage, EWP
+	14:00-18:00	MFC2		Bugfixing MFC Externals, Setup TMS Test (initial load)
+
 ----- KW 12 -----
+21.3.	09:00-09:30	MFC2		MFC Externals (TMS)
+	09:30-11:00	LSEG
+	11:00-12:00	DGI		Pr√§s. Supersonic
+	12:00-13:00	LSEG		LSE-81
+	14:00-15:00	MFC2		Korr. Seearch Query Building
+	15:00-17:00	MFC2		Feedback D.Boche
+	17:00-19:00	SFL		Vorb. Meeting
+22.3.	09:00-12:00	MFC2	
+	13:00-15:00	SFL		C++ Foundation
+	15:00-19:30	MFC2
+23.3.	09:00-10:00	SFL		Local build (fails)
+	10:00-12:30	MFC2		Vorb. Release 9.0.06
+	13:30-19:00	MFC2		Release 9.0.06
+24.3.	09:00-09:30	DGI		Reboot Laptop, Planung MRP
+	09:30-11:00	MFC2		Elastic Exporter Problem mfc10
+	11:00-12:00	MFC2		MFC Externals Release 0.1.8
+	12:00-13:00	DGI		Laptop-Problem Outlook
+	13:30-15:00	MFC2		MFC Elastic Exporter Issues
+	15:00-16:00	DGI		Maven Support durch Mathias B√ºschi
+	16:00-16:30	MFC2		Setup Externals & Elastic Exporter @ mfc09
+	16:30-17:00	DGI		Zeiterf.
+25.3.	(Karfreitag)
+
 ----- KW 13 -----
+28.3.	(Ostermontag)
+29.3.	09:00-10:00	DGI		Mails, Jira, ITSM
+	10:00-13:00	MFC2		Erw. mfcstat
+	14:00-18:00	MFC2		Korr. Deinstallation
+30.3.	09:00-12:30	MFC2		Datentests
+	13:30-16:30	MFC2
+	16:30-17:00	LSEG		Check sftp (server key changed again)
+	17:00-18:00	MFC2
+31.3.	09:00-13:00	MFC2
+	14:00-14:30	MFC2
+	14:30-15:00	DGI		Team-Meeting
+	15:00-17:00	MFC2		Release 9.0.06
+	17:00-18:00	DGI		Zeiterf.
+1.4.	09:00-13:00	MFC2		Tel. D.Boche wg. Release Notes & TKmysql Install.
+	14:00-15:00	DGI		Nachkontrolle/Korr. WebTime
+	15:00-15:30	Supersonic	Bespr. auotm. Maven-Build f. MFC Externals (M.B√ºschi)
+	15:30-18:30	MFC2		XMFC-125
+
 ----- KW 14 -----
+4.4.	09:00-13:00	MFC2		XMFC-125
+	14:00-17:00	MFC2		Release 9.0.06, Iteration 4
+	17:00-18:00	LSEG		Statusbericht
+5.4.	09:00-13:00	LSEG		Monitoring
+	14:00-15:00	MFC2		XMFC-128
+	15:00-17:30	LSEG		Monitoring
+6.4.	09:30-12:30	MFC2		XMFC-128
+	13:30-19:30	MFC2		XMFC-125
+7.4.	09:00-13:00	MFC2
+	14:00-18:30	MFC2
+8.4.	09:00-13:00	MFC2
+	14:00-18:30	MFC2		XMFC-125/130
+
 ----- KW 15 -----
+11.4.	09:00-13:00	MFC2
+	14:00-14:30	SFL		Re-Clone, Build-Attempt
+	14:30-18:30	MFC2
+12.4.	09:00-11:00	MFC2		Release 9.0.06, Iteration 5
+	11:00-12:00	MFC Externals	verb. Logging
+	(12:00-13:30	Docker Lunch)
+	13:30-14:00	LSEG		Status
+	14:00-17:00	MFC Externals
+13.4.	09:30-12:30	MFC2		XMFC-132
+	13:30-14:00	RefCalc		Support EHA (WBS 068-0465-03-01-01)
+	14:00-16:00	DGI		Info-Meeting
+	16:00-18:00	RefCalc
+14.4.	09:00-12:15	SFL		EWP Update, Buildversuch
+	13:00-13:45	SFL		Telco
+	13:45-16:00	MFC2		XMFC-133
+	16:00-17:15	DGI		Team-Meeting
+	17:15-19:00	MFC2		XMFC-133
+15.4.	09:00-13:00	MFC2
+	14:00-16:30	MFC2
+	16:30-17:30	DGI		Zeiterf.
+
 ----- KW 16 -----
+18.4.	09:00-13:00	MFC2		
+	14:00-18:30	MFC2
+19.4.	09:30-13:00	MFC2
+	14:00-19:30	MFC2
+20.4.	07:30-12:30	MFC2
+	13:30-18:00	MFC2
+21.4.	07:30-08:00	MFC2
+	08:00-09:30	DGI		Pr√§s. MarketBox
+	09:30-12:30	MFC2
+	13:30-14:30	MFC2
+	14:30-16:30	RefData		Bespr. GAIN/VDPS
+	16:30-18:30	MFC2
+22.4.	09:00-13:00	MFC2
+	13:30-16:00	MFC2
+	16:00-17:00	DGI		KPI Analyse
+	17:00-18:00	MFC2
+
 ----- KW 17 -----
+25.4.	07:30-13:00	MFC2		XMFC-133
+	14:00-17:30	MFC2	
+	(17:30-18:00	Abschiedsapero Christian & Andrea)
+	18:00-19:30	MFC2
+26.4.	09:00-13:00	MFC2
+	14:00-19:00	MFC2
+27.4.	09:00-12:30	MFC2
+	13:30-18:30	MFC2
+28.4.	09:00-13:00	MFC2
+	14:00-15:30	MFC2
+	15:30-16:00	LSEG
+	16:00-16:30	DGI		Team-Meeting
+	16:30-18:30	MFC2
+29.4.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+
 ----- KW 18 -----
+2.5.	09:00-10:00	RCL		Lieferung V1.9.00 f. S.Villiger
+	10:00-10:30	PEP-Check	Problem mit SWIFT-Parser (H.Lorenzen)
+	10:30-13:00	MFC2
+	14:00-17:00	MFC2		Release 9.0.06, Iteration 7
+	17:00-18:00	DGI		Zeiterf., Ferien
+3.5.	09:00-13:00	MFC2
+	14:00-15:00	LSEG
+	15:00-18:00	MFC2
+4.5.	09:00-10:00	RefCalc		Support EHA
+	10:00-10:30	LSEG
+	10:30-11:45	MFC2
+	12:45-14:00	MFC2
+	14:00-14:30	LSEG
+	14:30-17:30	MFC2
+5.5.	(Auffahrt)
+6.5.	09:00-10:00	LSEG
+	10:00-12:30	MFC2		XMFC-145, TCmalloc (crasht) & JEmalloc (?)
+	13:30-17:00	MFC2
+	17:00-18:00	RCL
+
 ----- KW 19 -----
+9.5.	09:00-12:30	MFC2
+	13:30-18:00	MFC2
+10.5.	09:30-13:00	MFC2
+	13:30-19:00	MFC2
+11.5.	09:00-13:00	MFC2
+	14:00-19:00	MFC2
+12.5.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+13.5.	09:00-11:30	MFC2
+	12:00-16:00	RefData		AIM Workshop
+	16:00-18:00	MFC2
+	18:00-18:30	DGI		Zeiterf.
+
 ----- KW 20 -----
+16.5.	(Pfingstmontag)
+17.5.	09:00-13:00	MFC2
+	14:00-19:00	MFC2
+18.5.	09:00-10:30	MFC2
+	10:30-11:30	DeliMac		Pre-Kickoff
+	11:30-12:00	MFC2
+	12:00-12:30	PassionFruit
+	13:30-15:00	MFC2
+	15:00-15:30	PassionFruit
+	15:30-18:30	MFC2
+19.5.	09:00-13:00	MFC2
+	14:00-14:30	RCL		Release 1.9.02
+	14:30-16:30	DeliMac		Intro by Raphael (WBS 068-0555-01-01-01)
+	16:30-19:00	RCL
+20.5.	08:00-09:00	MFC2		Release 9.0.06, Iteration 9
+	09:00-12:15	DeliMac		TP R1 Feature Presentation (via Skype)
+	13:00-16:30	DeliMac
+	16:30-17:30	MFC2
+
 ----- KW 21 -----
+23.5.	09:00-13:00	MFC2		Memoryanalyse
+	14:00-19:00	MFC2
+24.5.	09:00-13:00	MFC2
+	14:00-15:00	MFC2
+	15:00-15:30	RefCalc		Pr√§s. DBAccessPool
+	15:30-18:30	MFC2	
+25.5.	09:00-13:00	MFC2
+	14:00-18:00	MFC2
+26.5.	09:00-12:30	MFC2
+	13:30-18:30	DeliMac		Kickoff ZH
+27.5.	09:00-11:30	MFC2		Lieferung Release 9.0.06, Iteration 10
+	11:30-12:30	DGI		Zeiterf.
+
 ----- KW 22 -----
+30.5.-3.6.	(Ferien/krank)
+
 ----- KW 23 -----
+6.6.	09:00-10:00	DGI		Einarb.
+	10:00-11:00	DGI		Mail T.Hardegger wg. SWIFT-Parser
+	11:00-12:30	LSS		XMFC-151
+	13:00-15:30	LSS
+	15:30-19:00	MFC2		MFC Externals Build mit Jenkins
+7.6.	09:00-11:00	PassionFruit	B+S Support, Wiki-Anp.
+	11:00-13:00	MFC2		MFC Externals Release 0.1.9
+	14:00-15:00	MFC2
+	15:00-17:30	iD		Cascade Server build
+8.6.	09:30-12:30	DeliMac		Planung Entwicklung
+	13:30-16:00	DeliMac
+	16:00-18:00	DGI		unprod.
+9.6.	08:00-09:00	Arzt
+	09:00-11:30	DeliMac		Review TI2 Vision
+	11:30-12:00	DGI		Umbuchung Stunden
+	12:00-13:00	DeliMac
+	14:00-18:00	DeliMac
+10.6.	09:00-11:00	DeliMac
+	11:00-11:30	iD		INC000002899296 (veraltete SMI-Liste von MDS)
+	11:30-13:00	DeliMac
+	14:00-17:30	DeliMac		Pr√§s. Starlight
+
 ----- KW 24 -----
+13.6.	09:00-09:30	DGI		Stundenumbuchung
+	09:30-13:00	MFC2		Lieferung MFC Externals 0.1.10
+	15:30-16:30	DeliMac		Feature Review (mac)
+14.6.	09:00-12:30	DeliMac		Planung Sprint 0
+	14:00-17:00	DeliMac
+15.6.	08:30-09:30	DeliMac		Daily Standup
+	09:30-13:15	DeliMac		DELMAC-21
+	14:00-17:30	DGI		Mitarbeiterinfo
+16.6.	08:00-09:30	DeliMac		Daily Standup
+	09:30-10:30	MFC2		Analyse Differenz GS (XMFC-154/-155)
+	10:30-12:30	DeliMac		DELMAC-21
+	13:30-16:00	DeliMac
+	16:00-17:00	DeliMac		Knowledge Sharing CDM
+17.6.	08:00-13:00	DeliMac
+	14:00-18:00	MFC2		XMFC-154
+
 ----- KW 25 -----
+20.6.	08:00-09:00	DGI		Zeiterf.
+	09:00-09:30	DeliMac		Standup & Jira
+	09:30-13:00	MFC2		Release 9.0.07
+	14:00-17:00	MFC2
+	17:00-18:00	DeliMac		Erw. API Testcases
+21.6.	08:00-09:15	DeliMac		Propose Development Env. & Standup
+	09:15-10:45	MFC2		XMFC-156
+	10:45-13:00	DeliMac
+	14:00-17:00	DeliMac
+22.6.	08:00-10:00	DeliMac
+	10:00-12:30	DeliMac		Generic BER dumping
+	13:30-15:00	DeliMac		DELMAC-31
+	15:00-17:30	DeliMac		Pr√§s. IT Architecture
+23.6.	08:00-09:00	DeliMac		DELMAC-31
+	09:00-09:15	DeliMac		Standup
+	09:15-09:45	MFC2		IL bleibt h√§ngen (XMFC-156)
+	09:45-13:00	DeliMac		DELMAC-31
+	14:00-18:00	DeliMac		Dev Setup
+24.6.	08:00-13:00	DeliMac
+	14:00-17:30	DeliMac		Vorb. Pr√§s. ASN.1
+
 ----- KW 26 -----
+27.6.	08:00-11:30	DeliMac		Sprint 0 Review
+	12:30-17:00	DeliMac		Sprint 1 Planning
+28.6.	07:30-10:30	DeliMac		Prep. DevEnv
+	10:30-11:30	DGI		EWP Rollout Info
+	11:30-13:00	iD		CSC: Fehler icsccust1/ics17/mfc10
+	14:00-17:30	DeliMac		Setup DevEnv (Confluence)
+29.6.	08:00-12:30	DeliMac		DELMAC-69
+	13:30-16:00	DeliMac
+	(Abschiedsap√©ro Kevin)
+	17:00-19:00	DeliMac
+30.6.	08:00-12:30	DeliMac
+	13:30-14:30	iD		SAD Review (kk)
+	14:30-16:00	DeliMac
+	16:00-17:00	DeliMac		Arch. Walk-Through mit M.Dohrau
+	17:00-18:30	DeliMac
+1.7.	08:00-12:30	DeliMac		Einarb.
+	13:30-17:00	DeliMac
+	17:00-18:00	DGI		Zeiterf.
+
 ----- KW 27 -----
+4.7.	08:00-12:30	DeliMac		Arch./SW-Design
+	13:30-18:00	DeliMac
+5.7.	08:00-13:00	DeliMac		DevEnv
+	14:00-19:00	DeliMac
+6.7.	08:00-13:00	DeliMac		Pre-sprint planning
+	14:00-18:00	DeliMac
+7.7.	07:00-10:00	DeliMac		DevEnv
+	10:00-13:00	DGI		EWP-Migration
+	14:00-17:30	DeliMac		Eval. SOLID/3rdparty Komp.
+8.7.	08:00-13:00	DeliMac		QuartzDemo (DELMAC-69)
+	14:00-14:30	DGI		Zeiterf.
+
 ----- KW 28 -----
+11.7.	08:30-09:00	DGI		DevOps (citrin support)
+	09:00-13:00	DeliMac		DELMAC-69
+	14:00-18:00	DeliMac
+12.7.	09:00-12:15	DeliMac		Sprint Review
+	13:15-15:30	DeliMac		Sprint Planning
+	15:30-17:30	DeliMac
+13.7.	08:00-08:30	DGI		INC2925459
+	08:30-12:30	DeliMac		DELMAC-111
+	13:30-18:00	DeliMac
+14.7.	08:00-11:00	DeliMac
+	11:00-12:00	DGI		Infos MN wg. neuer Arbeitsumg. (Linux EOL @ Ende August)
+	13:00-13:30	DeliMac
+	13:30-14:00	MFC2		INC2926968
+	14:00-18:30	DeliMac		DELMAC-141
+15.7.	08:30-09:00	MFC2		INC2926968
+	09:00-09:30	DeliMac		DELMAC-107
+	09:30-11:00	DeliMac		DELMAC-141
+	11:00-12:00	DeliMac		DELMAC-113
+	13:00-18:00	DeliMac		
+
 ----- KW 29 -----
+18.7.	09:30-11:30	DGI		EWP-Setup
+	11:30-13:00	MFC2		SOL-2068
+	14:00-19:30	DGI
+19.7.	08:00-10:00	DGI		EWP-Setup
+	10:00-13:00	DeliMac		Bespr./Beschr. DevEnv/DevOps 
+	14:00-18:00	DeliMac		DELMAC-113
+20.7.	07:30-12:30	DeliMac		DELMAC-107
+	13:30-18:30	DeliMac
+21.7.	08:00-13:00	DeliMac		DELMAC-107
+	14:00-16:00	DeliMac
+	16:00-17:00	DGI		Team-Meeting
+	17:00-18:00	DeliMac
+22.7.	08:00-10:00	MFC2		Elastic Exporter 1.1.1
+	10:00-11:30	DGI		EWP Berechtigungsprobleme nach Passwort√§nderung
+	11:30-12:30	DeliMac		DELMAC-107
+	13:30-17:30	DeliMac
+
 ----- KW 30 -----
+25.7.	08:00-08:30	DGI		EWP-Restart
+	08:30-09:00	DGI		Zeiterf.
+	09:00-13:00	DeliMac		DELMAC-107
+	14:00-18:00	DeliMac
+26.7.	07:45-12:45	DeliMac		Sprint review
+	13:45-14:30	DeliMac		Sprint planning
+	14:30-15:00	MFC2		Bespr. Tab. 750 Erweiterung (MC, GAE)
+	15:00-18:00	DeliMac		R√ºckfahrt, Setup JBoss (MN)
+27.7.	09:00-11:00	DeliMac		Bespr. Tech Stack
+	11:00-12:30	DeliMac		DELMAC-107
+	13:30-15:00	DeliMac		Dok. DevEnv
+	15:00-18:00	DeliMac		DELMAC-140
+28.7.	08:00-08:30	MFC2		Smoketest MFC 9.0.08
+	08:30-13:00	DeliMac		Hibernate Setup
+	14:00-19:00	DeliMac
+29.7.	09:00-13:00	DeliMac		Hibernate Setup
+	14:00-18:00	DeliMac		DELMAC-117
+
 ----- KW 31 -----
+1.8.	(frei)
+2.8.	08:30-12:00	DeliMac		Eval. alternative API-Generierung
+	12:00-12:45	DGI		Zeiterf. (Montasabschluss, Problemn Kostenstelle)
+	13:45-14:15	MFC2		Leere Premiumfelder in MFC 9.0.08 (D.Boche)
+	14:15-16:30	DeliMac		Refactoring
+	16:30-17:00	DGI		Zeiterf.
+3.8.	08:30-09:00	DGI		Stundenkontrolle
+	09:00-12:45	DeliMac		erw. DMIf (Query)
+	13:45-15:30	DeliMac
+	15:30-16:30	DeliMac		Pr‰s. TI2/TI3 performance expectations (T.Vidart)
+	16:30-17:30	DeliMac		Deployment to delimacdev
+4.8.	07:15-12:00	DeliMac		(ZH) The roles of CDM and LS within DeliMac
+	12:45-18:00	DeliMac
+5.8.	08:30-10:00	DeliMac
+	10:00-10:30	DGI		Team-Meeting
+	10:30-11:00	DeliMac		DMIf Release 0.6
+	11:00-13:00	DeliMac		Refactoring package structure
+	14:00-15:30	DeliMac		Telco mit Likas Maag
+	15:30-17:00	DeliMac		Refactoring package structure
+	17:00-17:30	DGI		Zeiterf.
+	17:30-18:00	DeliMac		Mail Olav wg. DELMAC-56
+
 ----- KW 32 -----
+8.8.	09:00-12:45	DeliMac		DELMAC-140
+	13:45-18:30	DeliMac
+9.8.	08:00-12:15	DeliMac		Review Sprint 2016-08-D
+	13:45-16:00	DeliMac		Planning Sprint 2016-08-E
+	16:00-17:30	DeliMac		DELMAC-128
+10.8.	08:00-09:00	MFC2		XMFC-160
+	09:00-10:00	DeliMac		DELMAC-128
+	10:00-11:00	MFC2		Support PER (missing SQ underlyers)
+	11:00-13:00	DeliMac
+	14:00-15:00	DGI		HRLearning (Problemlˆsung)
+	15:00-18:30	DeliMac
+11.8.	08:00-12:30	DeliMac		Backend Unittests
+	13:00-19:00	DeliMac
+12.8.	08:00-13:00	DeliMac		DELMAC-131
+	14:00-15:00	iD		INC2945468
+	15:00-15:30	DGI		Decommissioning old EWP
+	15:30-16:00	MFC2		Mail D. Boche wg. fehlenden Daten
+	16:00-17:00	DGI		HRLearning (Kommunikation)
+
 ----- KW 33 -----
+15.8.	08:00-10:00	DeliMac		DELMAC-131
+	10:00-10:30	DGI		mid-year
+	10:30-13:00	DeliMac		DELMAC-128
+	14:00-18:30	DeliMac
+16.8.	08:00-13:00	DeliMac		DELMAC-101 (Backend Refactoring)
+	14:00-18:30	DeliMac
+17.8.	08:30-12:30	DeliMac		DELMAC-101 (Backend Refactoring)
+	13:30-19:00	DeliMac
+18.8.	09:30-13:00	DeliMac		DELMAC-101 (Backend Refactoring)
+	14:00-16:00	DeliMac
+	16:00-17:00	DGI		Team-Meeting
+	17:00-18:30	DeliMac
+19.8.	08:30-13:00	DeliMac		DELMAC-101
+	14:00-18:00	DeliMac
+
 ----- KW 34 -----
+22.8.	08:00-13:00	DeliMac		Sprint Abschluss
+	14:00-18:00	DeliMac
+23.8.	07:45-12:30	DeliMac		Sprint Review
+	13:30-17:30	DeliMac		Sprint Planning, BA Meeting
+24.8.	09:00-12:00	DeliMac		DELMAC-196, Security Guidelines
+	12:00-12:30	MFC2		XMFC-161
+	13:30-17:30	DeliMac		
+25.8.	08:00-12:00	DeliMac		DELMAC-182
+	12:00-13:00	DeliMac		Skype wg. TI2/TI3 Koordination
+	14:00-15:00	DeliMac
+	15:00-15:30	PassionFruit	PASFRU-19
+	15:30-18:00	DeliMac
+26.8.	09:00-12:45	DeliMac		DELMAC-204
+	13:15-18:30	DeliMac
+
 ----- KW 35 -----
+29.8.	08:00-12:45	DeliMac		DELMAC-203
+	13:15-17:30	DeliMac
+	17:30-18:00	MFC2		Tel. D.Boche wg Jiras, MFC Externals build failure (MN)
+30.8.	08:00-13:00	DeliMac		DELMAC-202
+	14:00-17:30	DeliMac
+31.8.	08:30-09:00	DeliMac		DELMAC-204
+	09:00-10:00	DGI		Meet the experts
+	10:00-12:30	DeliMac
+	13:00-18:30	DeliMac
+1.9.	08:00-13:00	DeliMac		DELMAC-204
+	14:00-15:00	DeliMac		DELMAC-183
+	15:00-17:00	DGI		DevOps Pr‰s.
+	17:00-19:00	DeliMac
+2.9.	09:00-09:30	DGI		Reboot EWP
+	09:30-10:30	DGI		Zeiterf., Monatsabschluss
+	10:30-12:00	DeliMac		DELMAC-183
+	13:00-14:00	DeliMac		DD Review mit Likas
+	14:00-15:00	DeliMac		Pre-Sprint mit Mac
+	15:00-18:00	DeliMac
+
 ----- KW 36 -----
+5.9.	08:00-13:00	DeliMac		DELMAC-39
+	14:00-16:00	DeliMac
+	16:00-17:00	DeliMac		TI2/TI3 Follow-up
+6.9.	07:45-12:30	DeliMac		Review Sprint 2016-09-F
+	13:30-17:30	DeliMac		Planung Sprint 2016-09-G
+7.9.	09:00-11:00	DeliMac		Tasks f. Sprint 2016-09-G
+	11:00-13:00	MFC2		XMFC-170 (leere IL-Files im Elastic Exporter)
+	14:00-16:30	MFC2
+	16:30-18:30	DeliMac		DELMAC-242
+8.9.	08:00-12:30	DeliMac		DELMAC-166
+	13:00-19:00	DeliMac		TI2/3 Interface follow-up
+9.9.	08:00-13:00	DeliMac		DELMAC-166
+	14:00-18:00	DeliMac
+
+
 ----- KW 37 -----
+12.9.	08:00-13:00	DeliMac		DELMAC-239
+	14:00-18:30	DeliMac
+13.9.	09:00-12:30	DeliMac		DELMAC-166
+	13:30-19:00	DeliMac
+14.9.	09:00-13:00	DeliMac		DELMAC-239
+	14:00-15:00	DGI		Zeiterf., Look-in(g), Staff survey
+	15:00-18:00	DeliMac
+15.9.	08:00-10:00	DeliMac
+	10:00-10:30	PassionFruit	DevOps (analyzed new request file from 5.9.)
+	10:30-13:00	DeliMac		DELMAC-239
+	14:00-19:30	DeliMac
+16.9.	09:00-13:00	DeliMac		Revert LocalTime/LocalDate (EHA)
+	13:30-18:30	DeliMac		DELMAC-239
+	
+
 ----- KW 38 -----
+19.9.	08:00-13:00	DeliMac		Abschluss Sprint 2016-09-G
+	14:00-19:00	DeliMac		Telco DevOps
+20.9.	08:30-12:00	DeliMac		Sprint Review
+	13:00-17:00	DeliMac		Sprint Planning, REST Definition
+	17:00-17:30	DGI		Zeiterf.
+21.9.	09:00-13:00	DGI		Pr‰s. DeliMac
+	14:00-17:00	DGI		MA-Info
+	17:00-18:00	DeliMac		Abschl. Release 0.1
+22.9.	08:30-10:30	DeliMac		Abschl. Release 0.1
+	10:30-11:00	DGI		Bespr. HR
+	11:00-13:00	DeliMac
+	14:00-19:00	DeliMac		Freigabe Release 0.1
+23.9.	09:00-10:00	DeliMac		DELMAC-26 (Vorb. Sources f. Michel Erard)
+	10:00-10:30	DGI		Zeiterf.
+	10:30-12:30	DeliMac		Vorb. CDM Review
+	13:00-18:00	DeliMac		Planung mit Mac
+
 ----- KW 39 -----
+26.9.	08:00-12:00	DeliMac		DevOps mit Th.Schnetzer & R.Blumer
+	13:00-17:30	DeliMac		CDM-Pr‰s. J.Berdat
+27.9.	09:00-13:00	DeliMac		DELMAC-286/289
+	14:00-18:00	DeliMac
+28.9.	09:00-12:00	DeliMac		DELMAC-286/289
+	13:00-17:00	DeliMac
+29.9.	07:30-10:00	DeliMac		DELMAC-286/289
+	10:00-11:00	DGI		Meeting mit R.Scherrer
+	11:00-12:00	DeliMac
+	13:00-14:00	DeliMac		DELMAC-300
+	14:00-16:15	DeliMac
+	(16:15-17:15	ApÈro Jˆrg)
+	17:15-18:30	DeliMac
+30.9.	09:00-13:00	DeliMac		DELMAC-286/289
+	14:00-17:00	DeliMac		Code Review
+
 ----- KW 40 -----
+3.10.	08:00-12:00	DeliMac		Review Results, DELMAC-286/289
+	13:00-13:30	DGI		WebTime Monatsabschluss
+	13:30-18:00	DeliMac		Refactorings gem. Review, TI2/3 Presentation
+4.10.	09:00-13:00	DeliMac		Abschl. Sprint 2016-10-H
+	14:00-17:00	DeliMac
+5.10.	09:00-12:00	DeliMac		Sprint Review
+	13:30-17:00	DeliMac		Sprint Planning
+6.10.	09:00-10:00	PassionFruit	INC2989297,INC2988978  (WBS 068.0465.10.04.01)
+	10:00-13:00	DeliMac
+	14:00-18:00	DeliMac
+7.10.	09:00-13:00	DeliMac
+	14:00-17:00	DeliMac
+
 ----- KW 41 -----
+10.10.	08:00-09:00	DGI		Backup temp
+	09:00-13:00	DeliMac
+	14:00-18:30	DeliMac		TI23
+11.10.	08:00-13:00	DeliMac		DevOps mit Thomas Schnetzer
+	14:00-18:30	DeliMac
+12.10.	09:00-12:45	DeliMac		
+	13:45-15:15	DeliMac
+	(15:15-16:15 Geburtstagsgeschenk Saina, Manor)
+	16:15-16:45	DGI		Mailablage, Zeiterf.
+	16:45-17:45	DeliMac
+13.10.	08:00-12:30	DeliMac		DELMAC-300
+	13:30-18:30	DeliMac
+14.10.	09:30-10:00	DeliMac		GIT Migration
+	10:00-11:00	DGI		Team-Meeting
+	11:00-13:00	DeliMac
+	14:00-17:00	DeliMac
+
 ----- KW 42 -----
+17.10.	08:00-13:00	DeliMac		DevEnv Migration EWP (CNTLM), Deployment workflow
+	14:00-17:30	DeliMac
+18.10.	07:45-12:30	DeliMac		Review Sprint 2016-10-I
+	13:30-18:00	DeliMac		Planung Sprint 2016-10-J
+19.10.	09:00-13:00	DeliMac		DELMAC-391/392
+	14:00-18:00	DeliMac
+20.10.	08:00-12:30	DeliMac		Planung open issues R1.0
+	13:30-17:00	DeliMac
+21.10.	09:00-12:00	DeliMac		Bespr. error handling mit Tom
+	13:00-16:30	DeliMac		High-level estimation mit Mac & Mathias
+	16:30-17:00	DGI		pre-holiday cleanup, Zeiterf.
+
 ----- KW 43 -----
+24.-28.10.	Ferien
+
 ----- KW 44 -----
+31.10.-4.11.	Ferien
+
 ----- KW 45 -----
+7.11.-11.11.	Ferien
+
 ----- KW 46 -----
+14.11.	08:30-11:30	DGI		Restore EWP Env., Mails
+	11:30-12:30	DeliMac		Review Sprint 2016-11-J
+	13:30-17:30	DeliMac		Review Sprint 2016-11-K
+15.11.	07:45-12:30	DeliMac		Sprintreview
+	13:30-17:30	DeliMac		Planung Sprint 2016-11-L
+16.11.	09:00-11:00	MFC2		Problem Underlyer mfc04/07 (instrument 30050348)
+	11:00-12:00	DeliMac		DELMAC-398
+	13:00-17:00	DeliMac		Arch.-WS (Dohrau)
+17.11.	08:30-11:00	DeliMac
+	11:00-11:30	DeliMac		Bespr. DELMAC-387 (GAE, Logging)
+	11:30-12:30	DeliMac		DELMAC-482
+	13:30-18:00	DeliMac		DELMAC-483
+18.11.	09:00-13:00	DeliMac		Confluence update
+	14:00-17:30	DeliMac
+
 ----- KW 47 -----
+21.11.	08:30-12:30	DeliMac		Refactorings, Source doc.
+	12:30-13:00	MFC2		Issues Elastic Exporter
+	14:00-18:00	DeliMac		Extended status display incl. version info
+22.11.	09:00-11:30	DeliMac		Docker & SaltStack Intro (Mathias)
+	12:30-18:00	DeliMac		Quartz config f. DEV/ST deployment
+23.11.	09:00-12:30	DeliMac		Arch.-WS (Dohrau)
+	13:30-18:00	DeliMac		DELMAC-480
+24.11.	08:30-13:00	DeliMac		Problem mit Hibernate wg.  DeliMacQuery::equals()
+	14:00-16:00	DGI		MA-Info
+	16:00-17:30	DeliMac		Support EHA
+	(Weihnachtsessen)
+25.11.	09:00-13:00	DeliMac		Testing, Commits
+	14:00-17:30	DeliMac		Doc
+
 ----- KW 48 -----
+	(Nid, Aarberg)
+28.11.	11:00-13:00	DeliMac		Freeze & Release
+	14:00-18:00	DeliMac		Deployment
+29.11.	09:00-13:00	DeliMac		Sprint Review & Planning
+	14:00-19:00	DeliMac		ST Deployment
+30.11.	09:00-11:00	DeliMac		Problem ST DB mit String mapping (1K)
+	11:00-12:30	MFC2		INC000003031820
+	13:30-15:30	DeliMac		Vorb. Arch.-WS (Dohrau)
+	15:30-16:30	MFC2		INC000003031820
+	16:30-17:30	DGI		Zeiterf.
+1.12.	07:45-12:00	DeliMac		ZH: Arch.-WS (Dohrau, Berger)
+	13:30-18:00	DeliMac		Prep. Tasks, Refactor Mailings
+2.12.	09:00-10:00	DeliMac		Merging issues (configuration refactoring Mathias)
+	10:00-10:30	DGI		Team-Meeting
+	10:30-11:30	DGI		Meeting m. Maturity Meter
+	12:30-14:30	DGI		Monatsabschluss mit Activity Logging
+	14:30-17:30	DeliMac		DELMAC-523
+
 ----- KW 49 -----
+5.12.	08:30-09:30	DeliMac		Standup
+	09:30-13:00	DeliMac		DELMAC-522
+	14:00-18:00	DeliMac		DELMAC-545
+6.12.	09:00-09:30	DGI		Relaunch EWP
+	09:30-12:00	DeliMac		Logging (DELMAC-523)
+	13:00-15:00	DeliMac		Koord. mit TI3
+	15:00-17:30	DeliMac		DELMAC-552
+7.12.	09:00-13:00	DeliMac		DELMAC-545
+	14:00-15:00	DeliMac		Support EHA
+	15:00-17:00	DeliMac		Arch-WS (Dohrau)
+	17:00-18:30	DeliMac
+8.12.	08:30-13:00	DeliMac		DELMAC-545
+	14:00-18:00	DeliMac
+9.12.	09:00-11:30	DeliMac		DELMAC-545
+	13:00-15:30	DeliMac		Review stories for next sprint
+	15:30-18:30	DeliMac		Testing
+
 ----- KW 50 -----
+12.12.	08:30-11:30	DeliMac		Standup & Sprint estimations
+	12:30-17:30	DeliMac		Freeze & Release
+13.12.	09:00-13:00	DeliMac		Sprint Review & Planning
+	14:00-17:30	DeliMac		Planung sprint tasks
+14.12.	09:00-11:00	DGI		Restore EWP Setup nach Akkufail
+	11:00-12:00	DeliMac		Arch-WS (Dohrau)
+	13:00-14:30	DeliMac		iD config
+	14:30-16:30	DGI		Infoanlass DGI-AF
+	(Chlouserapero)
+	17:30-18:30	DeliMac
+15.12.	08:30-10:30	DeliMac		Standup, Testplanung
+	10:30-11:00	DGI		Zeiterf.
+	11:00-12:30	DeliMac		DELMAC-579
+	13:30-15:00	DeliMac
+	15:00-18:00	DeliMac		DELMAC-580
+16.12.	09:00-12:30	DeliMac		DELMAC-580
+	13:30-16:30	DeliMac
+
+
 ----- KW 51 -----
+19.12.-23.12.	Ferien
+
 ----- KW 52 -----
+27.12.-30.12.	Ferien
+
 ----- KW 53 -----

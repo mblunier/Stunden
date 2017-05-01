@@ -220,15 +220,84 @@
 	10:15-10:45	PassionFruit	Tel. Louis wg. adhoc-Requests & zus. Feldern
 	10:45-11:45	DeliMac		DELMAC-982
 	11:45-13:00	DeliMac		DELMAC-1026
-	14:00-18:00	DeliMac
+	14:00-18:00	DeliMac		Prepare DST switch tests
 
 ----- KW 13 -----
-27.3.
+27.3.	09:00-12:30	DeliMac		DELMAC-1025, Fix Unittests (DST)
+	13:30-19:00	DeliMac		DELMAC-1082
+28.3.	09:00-12:30	DeliMac		Vorb. R1 Patch
+	13:30-15:00	DeliMac
+	15:00-17:30	DeliMac		BRP-Simulation
+	17:30-18:30	DeliMac		Buildversuche (DELMAC-1087)
+29.3.	09:00-12:30	DeliMac		DELMAC-1081
+	13:30-16:30	DeliMac		Deploymentversuche Bugfix-Release
+30.3.	09:00-10:00	DGI		Inbetriebnahme neue SecurID
+	10:00-12:30	DeliMac		Patch-Deployment auf DEV
+	13:30-14:00	DGI		EWP Issues
+	14:00-16:00	DGI		MA-Info
+	16:00-17:30	DeliMac		DELMAC-1055 (Analyse & Confluence)
+31.3.	08:30-12:30	DeliMac		Prep. BRP
+	13:30-14:00	DeliMac		Telco Th.Schnetzer wg. Performace Issues
+	14:00-17:30	DeliMac		DELMAC-1055 (solved)
+
 ----- KW 14 -----
+3.4.	09:00-12:30	DeliMac		Prep. BRP
+	13:30-16:00	DeliMac
+	16:00-18:00	JB		Präs. Antarktis-Trip
+4.4.	09:00-12:30	DeliMac		Sprint review
+	13:30-17:30	DeliMac		Breakdown R2 features
+5.4.	09:00-13:00	DeliMac		BRP PI 1
+	14:00-17:30	DeliMac
+	17:30-18:30	DeliMac		SOS-Deployment of Release 1.4.4 (CRQ2046929)
+6.4.	09:00-12:30	DeliMac		BRP PI 1
+	13:30-16:30	DeliMac
+7.4.	09:00-10:00	DeliMac		CRQ2046929
+	10:00-10:30	PassionFruit	Skype/Mail Louis, Abkl. IT-Support
+	10:30-13:00	DeliMac		Planning Preparation
+	14:00-15:30	DeliMac		Sprint Planning
+	15:30-18:30	DeliMac		Deployment Checking
+
 ----- KW 15 -----
+10.4.	09:00-10:30	DeliMac		Analyse Deployment Errors (PROD)
+	10:30-11:00	DeliMac		Telco CUBA Reporting
+	11:00-13:00	DeliMac		FEATURE-101: Confluence page f. CUBA reporting
+	13:30-18:30	DeliMac		Build release 2.0 & deploy to ST
+11.4.	09:00-11:00	DeliMac		Update confluence (deployment)
+	11:00-12:00	DGI		eLearning (Risk Mgmt)
+	13:00-15:00	DeliMac		Fix DB access params (ST & IntelliJ)
+	15:00-15:30	DeliMac		Support Klaus (Regression Test Mailing)
+	15:30-17:00	DeliMac		DELMAC-1122/1123 (CUBA Reporting)
+12.4.	09:00-12:30	DeliMac		Arch-WS (Lino, Martin)
+	13:00-14:00	DeliMac		Telco DELMAC-122/1123 (CUBA Reporting)
+	14:00-18:00	DeliMac		Analyse/Korr. Mocktests (EHA)
+13.4.	09:00-12:30	DeliMac
+	13:00-14:00	DeliMac		Sprint Prep.
+	14:00-15:00	DeliMac
+	15:00-15:30	DeliMac		Telco Arch.umstellung (Lino)
+	15:30-17:30	DGI		Zeiterf., EWP-Maintenance
+14.4.	(Karfreitag)
+
 ----- KW 16 -----
+18.4.-21.4.	Ferien
+
 ----- KW 17 -----
+24.4.	08:30-12:30	DeliMac		Statusupdate
+	13:30-16:00	DeliMac		Review Doc "Components Split" (KK)
+	16:00-17:30	DGI		Vorb. Spring-Kurs, i-request
+25.4.	09:00-12:00	DGI		Kurs: Spring Core
+	13:00-17:00	DGI
+26.4.	09:00-12:00	DGI		Kurs: Spring Core
+	13:00-17:00	DGI
+27.4.	09:00-12:00	DGI		Kurs: Spring Core
+	13:00-17:00	DGI
+28.4.	09:00-12:00	DGI		Kurs: Spring Core
+	13:00-17:00	DGI
+	17:00-18:00	DeliMac		Catchup
+
 ----- KW 18 -----
+1.5.	09:00-10:00	DGI		Zeiterf., Monatsabschluss
+	10:00-		DeliMac		Standup, Vorb. Review
+
 ----- KW 19 -----
 ----- KW 20 -----
 ----- KW 21 -----

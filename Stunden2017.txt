@@ -445,12 +445,69 @@
 4.7.	07:45-12:45	DeliMac		Sprint Review & Planning
 	13:30-17:00	DeliMac		Arch. PI02 (Lino, Konrad)
 	17:00-18:30	DGI		Zeiterf., Monatsabschluss
-5.7.
+5.7.	07:30-08:30	DeliMac		DELMAC-1499
+	09:00-11:30	DGI		Bamboo issue with DELIMAC Backend CI builds (ASD-2152)
+	12:30-14:00	DeliMac		Test DELMAC-1499
+	14:00-15:00	DGI		Vorb. Besuch R.Bornträger
+	15:00-18:30	DeliMac		DELMAC-1432, Refactoring delimac-meta
+6.7.	06:00-08:00	DeliMac		DELMAC-1432
+	09:00-12:00	DGI		Besuch R.Bornträger
+	13:00-16:00	DGI
+	16:00-18:00	DeliMac		DELMAC-1522
+7.7.	09:00-12:30	DeliMac		DELMAC-1522
+	13:30-17:30	DeliMac
 
 ----- KW 28 -----
+10.7.-14.7.	Ferien
+
 ----- KW 29 -----
+17.7.	09:00-12:30	DeliMac		Release f. Sprint 2017-07-N
+	13:30-18:30	DeliMac
+18.7.	07:30-12:30	DeliMac		Sprint Review & Planning
+	13:30-15:30	DeliMac		Bespr. NAS-Sizing (Lino, Konrad)
+	15:30-16:00	DGI		Instrument Type Konvertierung f. Felix
+	16:00-16:30	DeliMac		Tel. A. Emmerling wg. CUBA-Erweiterung
+	16:30-18:00	DeliMac		Stories & Tasks
+19.7.	07:30-08:30	DeliMac		Tel. Lino wg. HW-Bestellung
+	09:00-13:00	DeliMac		DELMAC-1600
+	14:00-17:30	DeliMac
+	17:30-19:30	DeliMac		DELMAC-1590
+20.7.	07:30-08:30	DeliMac		DELMAC-1600
+	08:30-11:30	DeliMac
+	11:30-12:00	DeliMac		Tel. wg. CUBA reporting
+	13:00-13:30	Passionfruit	INC000003334884
+	13:30-17:30	DeliMac		DELMAC-1418, Code cleanup
+21.7.	08:30-12:30	DeliMac		DELMAC-1418 (Test-Support) 
+	13:30-16:30	DeliMac		Modelling CDM Instituion Data integration into MFC
+
 ----- KW 30 -----
+24.7.	09:00-11:00	DeliMac		Vorb. PROD Deployment
+	11:00-12:00	DeliMac		Bespr. VDPS/MFC stories (Felix)
+	14:00-16:00	DeliMac		Followup VDPS/MFC implementation stories
+	16:00-18:30	DeliMac
+	18:30-19:00	Web		Support Antoine (Kundenmail)
+25.7.	08:00-09:30	DeliMac		PROD Deployment (Salt issues)
+	10:00-12:30	DeliMac		DELMAC-1526, Splunk Präs.
+	13:30-18:30	DeliMac		Enable order tracking (DeliMacOutput)
+26.7.	08:30-09:30	DeliMac		Vorb. SoS
+	09:30-10:00	DeliMac		SoS
+	10:00-12:30	DeliMac		DELMAC-1625
+	13:30-18:30	DeliMac
+27.7.	09:00-13:00	DeliMac		DELMAC-1625
+	14:00-16:00	DeliMac		Prep. Sprint Planning
+	16:00-18:30	DeliMac
+28.7.	09:00-12:00	DeliMac		DELMAC-1625
+	13:00-18:30	DeliMac
+
 ----- KW 31 -----
+31.7.	09:00-13:00	DeliMac		Releasing Sprint 2017-08-O
+	14:00-18:30	DeliMac
+1.8.	(Nationalfeiertag)
+2.8.	07:45-12:30	DeliMac		Sprint Review & Planning
+	13:30-18:00	DeliMac		Confluence & Jira updates
+	18:00-18:30	DGI		Confluence Test
+3.8.
+
 ----- KW 32 -----
 ----- KW 33 -----
 ----- KW 34 -----

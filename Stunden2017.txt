@@ -506,13 +506,94 @@
 2.8.	07:45-12:30	DeliMac		Sprint Review & Planning
 	13:30-18:00	DeliMac		Confluence & Jira updates
 	18:00-18:30	DGI		Confluence Test
-3.8.
+3.8.	09:00-13:00	DeliMac		HW Order, Explorer Coord.
+	14:00-18:30	DeliMac		
+4.8.	07:30-12:30	DeliMac		CUBA Coord. 
+	13:30-17:00	DeliMac
 
 ----- KW 32 -----
+7.8.	08:30-12:30	DeliMac		DELMAC-1625
+	13:30-17:00	DeliMac		DELMAC-1590
+8.8.	09:00-10:00	DeliMac		DELMAC-1590
+	10:00-11:30	DeliMac		Standup, Bespr. TIITST-66/70 (Lukianto)
+	11:30-12:30	DeliMac
+	13:30-15:00	DeliMac
+	15:00-16:00	DeliMac		DELMAC-1632 (Koord. Explorer)
+	16:00-17:30	DeliMac
+9.8.	07:30-08:30	DeliMac		Testing
+	09:00-10:30	DeliMac		Telco HW-Bestellung, Standup
+	10:30-11:00	DGI		Mid-year
+	11:00-12:30	DeliMac		DELMAC-1590
+	13:30-15:00	DeliMac		DELMAC-1611
+	15:00-17:30	DeliMac		Testing
+10.8.	08:30-12:30	DeliMac		Estimations DELMAC-1566/1422/1646
+	13:30-14:00	DeliMac		Coord.
+	14:00-16:00	DeliMac		Sprint pre-planning
+	16:00-17:30	DeliMac
+11.8.	08:30-11:30	DeliMac
+	11:30-12:00	DeliMac		Mail Chr. Kaeser wg. HW Bestellung
+	13:00-18:30	DeliMac
+
 ----- KW 33 -----
+14.8.	09:00-09:30	DGI		EWP Update & Reboot
+	09:30-11:30	DeliMac
+	12:30-14:30	DeliMac
+	14:30-16:30	DeliMac		Feature grooming (Felix)
+	16:30-18:00	DeliMac
+15.8.	07:45-12:45	DeliMac		Sprint Review & Planning
+	14:00-15:30	DeliMac		Distribution & Instruments data (Felix)
+	15:30-16:00	DeliMac		CUBA Coord.
+	16:00-17:30	DeliMac
+16.8.	09:00-12:30	DeliMac
+	13:30-18:30	DeliMac
+17.8.	09:00-13:00	DeliMac
+	14:00-15:00	DGI		Vernissage DGI 2.0
+	15:00-18:00	DeliMac
+18.8.	07:30-09:30	DeliMac
+	10:00-12:30	DeliMac
+	13:30-17:00	DeliMac
+
 ----- KW 34 -----
+21.8.	07:30-08:30	DeliMac		DELMAC-1080/1703: Meta4CDM DB Migration to Oracle
+	09:00-12:30	DeliMac
+	13:30-18:00	DeliMac
+22.8.	07:30-08:30	DeliMac
+	09:00-10:00	DeliMac		Präs. Performancetesting  (D.Boche)
+	10:00-12:30	DeliMac
+	13:30-18:00	DeliMac
+23.8.	07:30-08:30	DeliMac
+	09:00-12:30	DeliMac
+	13:30-18:30	DeliMac
+24.8.	07:30-08:30	DeliMac
+	09:00-13:00	DeliMac
+	14:00-16:30	DeliMac		Sprint Prep.
+	16:30-18:30	DeliMac
+25.8.	09:00-12:30	DeliMac
+	13:30-17:30	DeliMac
+
 ----- KW 35 -----
+28.8.	07:30-08:30	DeliMac		Code freeze, Release deployment (Salt issues)
+	09:00-12:30	DeliMac
+	13:30-18:30	DeliMac
+29.8.	07:45-12:45	DeliMac		Sprint Review & Planung
+	13:45-18:00	DeliMac		DELMAC-1747
+30.8.	07:00-08:30	DeliMac		Check & Restore DEV/ST
+	09:00-10:30	DeliMac		DELMAC-1747
+	10:30-12:30	DeliMac		DELMAC-1687
+	13:30-18:30	DeliMac
+31.8.	08:00-10:30	DeliMac		DELMAC-1687
+	10:30-11:30	DeliMac		TelCo Delta Delivery
+	11:30-12:30	DeliMac		DELMAC-1687
+	13:30-18:00	DeliMac
+1.9.	08:30-12:30	DeliMac		DELMAC-1687
+	13:30-17:00	DeliMac		Pikett Workshop
+
 ----- KW 36 -----
+4.9.	07:30-08:30	DGI		Montsasabschluss
+	09:00-10:00	DGI
+	10:00-10:30	DeliMac		Standup
+	10:30-11:30	DeliMac		PL work
+
 ----- KW 37 -----
 ----- KW 38 -----
 ----- KW 39 -----

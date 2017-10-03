@@ -593,10 +593,70 @@
 	09:00-10:00	DGI
 	10:00-10:30	DeliMac		Standup
 	10:30-11:30	DeliMac		PL work
+	11:30-13:00	DeliMac		VDPS/MFC Mapping Doc.
+	14:00-15:30	DeliMac
+	15:30-16:30	DeliMac		Bespr. CI Issues
+	16:30-17:30	DeliMac		Tests & Maintenance (Selections)
+5.9.	09:00-10:30	DeliMac		Standup, Check Infrastructure
+	10:30-11:00	MFC		Check srvd core (mqzhlid2sv25)
+	11:00-12:00	DeliMac		Logging for TI (Lino, Andrea, Mathias)
+	13:00-15:00	DeliMac		Bespr. Delta Processing (Laurent, Massimo, Lino)
+	15:00-18:30	DeliMac		DELMAC-1737
+6.9.	07:00-08:30	DGI		Setup GIT Access von DEV Servern
+	09:00-10:00	DeliMac		Connect:Direct Bestellung
+	10:00-12:30	DeliMac		DELMAC-1737
+	13:30-19:00	DeliMac
+7.9.	09:00-10:00	DeliMac		DELMAC-1737
+	10:00-11:00	DeliMac		Standup & Retro
+	11:00-12:30	DeliMac
+	13:30-18:00	DeliMac
+8.9.	07:30-08:30	DeliMac		MFC Patch f. VDPS IL
+	09:00-12:00	DeliMac		Standup, Doc. Fieldmappings
+	12:00-13:00	DeliMac		DELMAC-1737 (iCS)
+	14:00-17:30	DeliMac
 
 ----- KW 37 -----
+11.9.	08:00-13:00	DeliMac		Retro Checkpoint
+	14:00-18:00	DeliMac		Bespr. VDPS Import (GAE)
+12.9.	07:45-12:30	DeliMac		BRP
+	13:30-17:30	DeliMac
+13.9.	08:30-12:30	DeliMac		BRP
+	13:30-18:30	DeliMac
+14.9.	09:00-12:30	DeliMac		DELMAC-1747
+	13:30-17:30	DeliMac
+15.9.	08:00-12:30	DeliMac		DELMAC-1795
+	13:30-18:00	DeliMac
+
 ----- KW 38 -----
+18.9.	07:00-08:30	DeliMac		Deployment check
+	09:00-11:00	DeliMac		DELMAC-1850
+	11:00-11:30	DeliMac		Bespr. Lukas (Templates)
+	11:30-12:30	DeliMac
+	13:30-18:00	DeliMac
+19.9.	08:30-13:00	DeliMac		DELMAC-1850
+	14:00-18:30	DeliMac
+20.9.	08:30-13:00	DeliMac		DELMAC-1850
+	14:00-19:00	DeliMac
+21.9.	09:00-13:00	DeliMac		DELMAC-1867
+	14:00-16:00	DeliMac		Sprint Preparation
+	16:00-18:30	DeliMac		DELMAC-1776
+22.9.	08:00-13:00	DeliMac		DELMAC-1791
+	14:00-17:30	DeliMac		DELMAC-1780
+
 ----- KW 39 -----
+25.9.	07:30-12:30	DeliMac		Release f. Sprint 2017-09-R/S
+	13:30-19:30	DeliMac		Deployment
+26.9.	07:45-13:00	DeliMac		Sprint Review/Planung
+	14:00-15:00	DeliMac		Bespr. mit Serge & Tom wg. CDM Export
+	15:00-17:30	DeliMac		DELMAC-1657
+27.9.	08:30-12:30	DeliMac		DELMAC-1888
+	13:30-18:00	DeliMac
+28.9.	09:00-11:00	DeliMac		DELMAC-1912
+	11:00-12:30	DGI		Pikett-WS
+	14:00-18:30	DeliMac
+29.9.	08:30-12:30	DeliMac		DELMAC-1922
+	13:30-18:00	DeliMac
+
 ----- KW 40 -----
 ----- KW 41 -----
 ----- KW 42 -----

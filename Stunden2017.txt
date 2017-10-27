@@ -658,10 +658,44 @@
 	13:30-18:00	DeliMac
 
 ----- KW 40 -----
+2.10.	08:00-10:00	ELIAS		Vorb. Zugang (Token, F5)
+	10:00-12:30	DeliMac		DELMAC-1929
+	13:30-18:30	DeliMac
+3.10.	08:30-12:30	DeliMac		DELMAC-1931, Continuous Improvement (Mathias & Team)
+	13:30-18:30	DeliMac		DELMAc-1945
+4.10.	09:00-12:30	DeliMac		DELMAC-1946, CDM Export Requirements (Tom)
+	13:30-18:00	DeliMac		
+5.10.	08:30-12:30	DeliMac		DELMAC-1906 (DM-Feed output naming)
+	13:30-18:30	DeliMac		DELMAC-1988
+6.10.	08:30-12:30	DeliMac		DELMAC-1988
+	13:30-17:30	DeliMac
+
 ----- KW 41 -----
+9.10.	07:00-08:00	ELIAS		Einarb., Verbindungsversuch (WBS 068-0791-08-24)
+	08:00-10:00	DeliMac		Releaseprep.
+	10:00-10:30	DeliMac		Standup
+	10:30-12:30	DeliMac		Releasing
+	13:30-17:30	DeliMac
+10.10.	09:00-13:00	DeliMac		Sprint Review & Planning
+	14:00-18:00	ELIAS		Dokumentenablage & Indexierung
+11.10.	08:00-12:00	ELIAS		Collections, Suchmasken
+	13:00-16:00	ELIAS
+	16:00-18:00	DeliMac		DELMAC-1990
+12.10.	08:00-12:00	ELIAS		Korrekturen, fr. & it. Collections
+	13:00-17:30	DeliMac		DELMAC-1313/2011
+13.10.	08:00-12:30	ELIAS		SVN, DevWiki, Lieferung
+	13:30-16:30	ELIAS
+	16:30-17:00	DGI		Zeiterf. Monatsabschluss
+
 ----- KW 42 -----
+	Ferien
+
 ----- KW 43 -----
+	Ferien
+
 ----- KW 44 -----
+	Ferien
+
 ----- KW 45 -----
 ----- KW 46 -----
 ----- KW 47 -----

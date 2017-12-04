@@ -670,6 +670,8 @@
 6.10.	08:30-12:30	DeliMac		DELMAC-1988
 	13:30-17:30	DeliMac
 
+-- (Pikettbereitschaft bis 13.10.)
+
 ----- KW 41 -----
 9.10.	07:00-08:00	ELIAS		Einarb., Verbindungsversuch (WBS 068-0791-08-24)
 	08:00-10:00	DeliMac		Releaseprep.
@@ -697,9 +699,74 @@
 	Ferien
 
 ----- KW 45 -----
+6.11.	09:00-10:30	DGI		Mails
+	10:30-12:30	DeliMac		Einarb. (Review, Test)
+	13:30-16:00	DeliMac		
+	16:00-17:00	DGI		Präs. DGI 2.0 Organisation
+	17:00-18:30	DeliMac
+7.11.	09:00-13:00	DeliMac		Sprint Review
+	14:00-16:30	DeliMac		Sprint Planning
+8.11.	09:00-12:00	DeliMac		DELMAC-2196
+	13:00-14:00	DGI		Pikett Retro
+	14:00-18:30	DeliMac		DELMAC-2152/2153/2154/2155/2156
+9.11.	08:00-10:00	DeliMac		Restore sane version info
+	10:00-12:30	DeliMac		DELMAC-2152/2153/2154/2155/2156
+	13:30-17:00	DeliMac
+10.11.	09:00-13:00	DeliMac		Deployment SIT/E2E (Home Office wg. Krankheit)
+	14:00-16:00	DeliMac
+
 ----- KW 46 -----
+13.11.	06:30-12:30	DeliMac		Meeting mit Penetrationstester (ZH)
+	13:30-16:00	DeliMac		DELMAC-2252
+14.11.	09:00-09:30	DGI		EWP Restore nach VPN Client update
+	09:30-12:30	DeliMac		DELMAC-2252
+	13:30-14:00	DeliMac		Standup
+	14:00-15:00	DeliMac		DELMAC-2252
+	15:00-16:00	DeliMac		DevOps Training
+	16:00-18:00	DeliMac		DELMAC-2157
+15.11.	09:00-09:30	DeliMac		SM-Stv (Pentesting, Standup)
+	09:30-12:30	DeliMac		blockers & critical issues
+	13:30-18:00	DeliMac		DELMAC-2144, DELMAC-2293, DELMAC-2235
+16.11.	09:00-10:00	DeliMac		Pentest, Standup
+	10:00-12:30	DeliMac		Critical issues sprint 2017-11-W
+	13:30-18:30	DeliMac
+17.11.	09:00-12:30	DeliMac		Critical issues sprint 2017-11-W
+	13:30-19:00	DeliMac
+18.11.	09:00-12:30	DeliMac		Critical issues sprint 2017-11-W ("last mile")
+	13:30-15:30	DeliMac		Deployment to ST
+
 ----- KW 47 -----
+20.11.	06:30-08:30	DeliMac		Deployments
+	08:30-12:30	DeliMac		Bug fixing
+	13:30-18:00	DeliMac
+21.11.	09:00-11:30	DeliMac		Sprint 2017-11-W Review, Planning Sprint 2017-11-X
+	11:30-12:00	ELIAS		Support B.Iseli
+	12:00-13:00	DGI		EWP Maintenance
+	14:00-15:30	DeliMac		Bespr. Technical Depts (Lino, Konrad), PI04 Enabler Candidates
+	15:30-18:30	DeliMac		DELMAC-2364
+22.11.	09:00-12:00	DeliMac		DELMAC-2308
+	13:00-19:00	DeliMac		Code Freeze, Deployment ST/SIT/E2E
+23.11.	09:00-12:30	DeliMac		Server maintenance
+	13:30-14:30	DGI		Pikettübernahme, EWP maintenance
+	14:30-18:30	DeliMac		DELMAC-2203
+24.11.	09:00-12:30	DeliMac		DELMAC-2203
+	13:30-17:30	DeliMac		DELMAC-2438
+
+-- (Pikettbereitschaft bis 1.12.)
+
 ----- KW 48 -----
+27.11.	09:00-12:30	DeliMac		DELMAC-2203
+	13:30-18:00	DeliMac		DELMAC-2439
+28.11.	09:00-12:30	DeliMac		Critical Issues
+	13:30-18:00	DeliMac
+29.11.	09:00-12:30	DeliMac		DELMAC-2449
+	13:30-17:30	DeliMac
+	17:30-18:00	DGI		INC000003505219 (falsche Zuweisung)
+30.11.	09:00-12:30	DeliMac		DELMAC-2365
+	13:30-17:30	DeliMac		DELMAC-2378
+1.12.	09:00-12:00	DeliMac		DELMAC-2397
+	13:00-17:30	DeliMac		Sprint 2017-12-X Release (ST Deployment)
+
 ----- KW 49 -----
 ----- KW 50 -----
 ----- KW 51 -----

@@ -768,7 +768,54 @@
 	13:00-17:30	DeliMac		Sprint 2017-12-X Release (ST Deployment)
 
 ----- KW 49 -----
+4.12.	09:30-10:30	DGI		Zeiterf., Monatsabschluss
+	10:30-12:30	DeliMac		iCS core files (csdispb)
+	13:30-16:00	DeliMac		Feature preview
+	16:00-16:45	DGI		Bestellung e-Learning
+	16:45-18:30	DeliMac
+5.12.	09:00-11:00	DeliMac		Sprint Review & Planning
+	11:00-13:00	DGI		EWP Maintenenance
+	14:00-18:30	DeliMac		Story Refinement
+6.12.	09:00-12:30	DeliMac		Vorb. BRP
+	13:30-17:30	DeliMac
+7.12.	07:15-12:30	DeliMac		BRP PI04
+	13:30-17:00	DeliMac
+8.12.	08:45-12:30	DeliMac		BRP PI04
+	13:30-18:15	DeliMac
+
 ----- KW 50 -----
+11.12.	09:00-12:00	DeliMac		DELMAC-1721
+	13:00-17:00	DeliMac
+	17:00-19:00	DeliMac		E2E Deployment
+12.12.	09:00-10:30	DeliMac		Bespr. Flex/Feed interface (Lino, Konrad)
+	10:30-12:30	DeliMac		DELMAC-2152
+	13:30-18:00	DeliMac		DELMAC-2481
+13.12.	07:15-12:00	DGI		Oracle Kurs (Advanced SQL)
+	13:00-18:00	DGI
+14.12.	07:15-12:00	DGI		Oracle Kurs (Advanced SQL)
+	13:00-18:00	DGI
+15.12.	07:15-12:00	DGI		Oracle Kurs (Advanced SQL)
+	13:00-16:30	DGI		
+	16:30-18:30	DeliMac		Release 2017-12-Y & ST Deployment
+
 ----- KW 51 -----
+18.12.	09:00-12:30	DeliMac		DELMAC-2509
+	13:30-16:30	DGI		MBo
+	16:30-17:30	DeliMac		DELMAC-2439,2567,2598
+19.12.	09:00-12:30	DeliMac		Sprint Retro & Planning
+	13:30-16:30	DeliMac		Story Refinement
+	16:30-18:30	DeliMac		PROD Deployment (R1.02)
+20.12.	09:00-12:30	DeliMac		DELMAC-2396
+	13:30-18:00	DeliMac		DELMAC-2569
+21.12.	09:00-12:00	DeliMac		DELMAC-2574
+	13:00-15:00	DeliMac		DELMAC-2587
+	15:00-16:00	DGI		Welcome DGI-FDT
+	16:00-18:30	DeliMac		DELMAC-2598
+22.12.	09:00-13:00	DeliMac		Checkin & Tests
+	14:00-16:30	DeliMac		Release 2018-01-A
+
 ----- KW 52 -----
------ KW 53 -----
+27.12.	Ferien
+28.12.	Ferien
+29.12.	Ferien
+

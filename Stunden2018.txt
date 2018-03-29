@@ -6,30 +6,178 @@
 4.1.	09:00-10:00	DeliMac		DELMAC-2633
 	10:00-10:30	DeliMac		Standup
 	10:30-12:30	DeliMac		DELMAC-2623
-	13:30-15:00	DeliMac
+	13:30-15:00	DeliMac		DELMAC-2624
 	15:00-16:00	DGI		Jahresabschluss 2017
-	16:00-
-5.1.
+	16:00-18:30	DeliMac
+5.1.	09:00-12:30	DeliMac		DELMAC-2624
+	13:00-18:00	DeliMac
 
 ----- KW 2 -----
-8.1.
-9.1.
-10.1.
-11.1.
-12.1.
+8.1.	09:00-12:30	DeliMac		Standup, DELMAC-2624
+	13:30-14:30	DeliMac		DELMAC-2586/2588
+	14:30-19:00	DeliMac
+9.1.	09:00-12:30	DeliMac		DELMAC-2574
+	13:30-15:00	DeliMac		Review Metadata usage in DeliMac (Lino, Nicolas)
+	15:00-18:30	DeliMac		Bug fixing
+10.1.	09:00-12:30	DeliMac		DELMAC-2616
+	13:30-14:00	DGI		EWP Maintenance
+	14:00-18:00	DeliMac
+11.1.	09:00-11:00	DeliMac
+	11:00-12:00	DGI		Team goal review
+	13:00-19:00	DeliMac
+12.1.	09:00-13:00	DeliMac		Release Sprint 2018-01-B, ST Deployment
+	14:00-15:00	DGI		EWP Maintenance (PW-Change, SW-UPdates)
+	15:00-17:30	DeliMac
 
 ----- KW 3 -----
+15.1.	09:00-09:30	DGI		EWP Maintenance (no network)
+	09:30-12:30	DeliMac		Story Review, Standup
+	13:30-18:30	DeliMac		SIT/E2E Deployment
+16.1.	07:45-12:30	DeliMac		Sprint Review & Standup (ZH)
+	13:30-16:00	DeliMac		Restore PROD (internal order 6068432, activity D-IT014 "BT Incident")
+	16:00-17:30	DeliMac		CMOMS 2.0 Kickoff
+17.1.	09:00-13:00	DGI		Analyse PROD outage
+	14:00-18:00	DGI
+18.1.	10:00-11:00	DGI		Analyse PROD outage
+	11:00-12:30	DeliMac		Estimation PenTest stories, DELMAC-2642
+	13:30-18:30	DGI
+19.1.	09:00-12:30	DGI		Analyse PROD outage
+	13:30-17:30	DeliMac		DELMAC-2682
+
 ----- KW 4 -----
+22.1.	09:00-12:30	DeliMac		DELMAC-2616 (now CDM-560)
+	13:30-16:00	DeliMac		DELMAC-2588
+	16:00-18:00	DeliMac
+23.1.	09:00-12:30	DeliMac		DELMAC-2703
+	13:30-19:00	DeliMac
+24.1.	09:30-12:30	DeliMac		DELMAC-2703
+	13:30-18:30	DeliMac
+25.1.	09:00-13:00	DeliMac		release preparation
+	14:00-19:00	DeliMac
+26.1.	09:00-12:00	DeliMac		corrections, code reviews (Oracle down for patching)
+	13:00-14:00	DGI		Koord. CMOMS2 Migration
+	14:00-17:30	DeliMac		Sprint 2018-01-C release, ST deployment
+
 ----- KW 5 -----
+29.1.	09:00-12:30	DeliMac		Planning Go-Live
+	13:30-18:00	DeliMac
+30.1.	09:00-12:30	DeliMac		Sprint Review & Planning
+	13:30-14:30	DeliMac		Sprint Planning II
+	14:30-18:00	DeliMac		Sprint 2018-02-D
+31.1.	09:00-12:00	DeliMac		DELMAC-2707 (refactor selection parsing)
+	13:00-13:30	DGI		Splunk Taskforce
+	13:30-16:00	DeliMac
+	16:00-17:00	DGI		EWP Restart, Ausfall mdzhldmbe01
+1.2.	09:00-09:30	DGI		EWP Setup nach Restart
+	09:30-12:00	DeliMac		DELMAC-2707
+	13:00-13:30	DeliMac		Search alignment (M.Lally)
+	13:30-15:30	DeliMac		DELMAC-2707
+	15:30-18:00	DeliMac		DELMAC-2716 (Jira Maintenance)
+2.2.	09:00-09:30	DeliMac		Manual delivery of missing CUBA reports
+	09:30-10:00	DeliMac		DELMAC-2727
+	10:00-12:00	DeliMac		DELMAC-2716
+	13:00-14:30	DGI		Zeiterf., Monatsabschluss, Compliancecheck
+	14:30-17:30	DeliMac		DELMAC-2718
+
 ----- KW 6 -----
+5.2.	09:00-10:00	DeliMac		Standup, Deployment planning
+	10:00-10:30	DGI		EWP Crash
+	10:30-12:15	DeliMac		DELMAC-2717
+	13:15-14:15	DeliMac
+	14:15-14:45	DeliMac		DELMAC-2710
+	14:45-18:45	DeliMac
+6.2.	09:00-10:00	DGI		CMOMS2 Migration
+	10:00-12:30	DeliMac
+	13:30-18:30	DeliMac
+7.2.	09:00-11:00	DeliMac
+	11:00-12:00	DeliMac		Backlog Refinement
+	13:00-19:00	DeliMac
+8.2.	09:00-12:30	DeliMac		Release Sprint 2018-02-D (branch 'release/Sprint-2018-02-D')
+	13:30-15:30	DeliMac
+	15:30-16:00	DGI		Bila mit Mathias
+	16:00-18:00	DeliMac
+9.2.	09:00-12:00	DeliMac		DELMAC-2391/92
+	13:00-13:30	DeliMac
+	13:30-14:30	DeliMac		Bespr. Search4DM
+	14:30-17:00	DeliMac		completed DEV/ST deployment to new infrastructure
+
 ----- KW 7 -----
+12.2.	09:00-10:00	DeliMac		CDM-565
+	10:00-10:30	DeliMac		Standup, EWP (IE)
+	10:30-12:30	DeliMac
+	13:30-18:00	DeliMac
+13.2.-16.2.		Unfall
+
 ----- KW 8 -----
+19.2.-23.2.		Unfall
+
 ----- KW 9 -----
+26.2.-2.3.		Unfall
+
 ----- KW 10 -----
+5.3.	09:30-11:00	DeliMac		Standup, EWP Setup
+	15:30-17:00	DeliMac		DELMAC-2813
+6.3.	10:00-12:00	DeliMac		DELMAC-2813
+	14:30-16:42	DeliMac
+7.3.	06:00-07:00	DeliMac		DELMAC-2745
+	10:00-11:30	DeliMac
+	15:30-16:30	DeliMac
+8.3. 	10:00-12:00	DeliMac		DELMAC-2746
+	15:00-17:00	DeliMac
+9.3.	09:30-12:00	DeliMac		Restart EWP, Sprint 2018-03-F-IP Release
+	14:00-14:30	DeliMac		ST deployment, DELMAC-2815
+	14:30-15:00	DGI		Zeiterf.
+
 ----- KW 11 -----
+12.3.	09:30-10:30	DeliMac		Standup, DELMAC-2802
+	12:00-13:12	DeliMac		DELMAC-2815
+	14:30-15:00	DeliMac
+	15:00-16:00	DGI		Townhall G. Depaty
+	16:00-16:30	DeliMac
+13.3.	09:30-10:00	DeliMac		Sprint review
+	11:00-12:30	DeliMac		Sprint planning
+	15:00-16:30	DeliMac		DELMAC-2815
+14.3.	08:30-10:30	DeliMac		Standup, Mail Mathias wg. FE-Server, DELMAC-2815
+	13:30-14:30	DeliMac		DELMAC-2839
+	16:48-18:00	DeliMac		DELMAC-2815
+15.3.	08:30-09:30	DeliMac		Standup, DELMAC-2815
+	11:30-12:30	DeliMac		DELMAC-2387 (Serge) et al.
+	14:30-16:30	DeliMac		DELMAC-2830, DELMAC-2337
+16.3.	08:30-11:00	DeliMac		DELMAC-2839, DELMAC-2591
+	15:00-16:00	DeliMac		DELMAC-2850
+	16:00-16:30	DGI		Zeiterf.
+
 ----- KW 12 -----
+19.3.	08:30-11:30	DeliMac		DELMAC-2850, Standup
+	14:30-15:42	DeliMac		Jira grooming
+20.3.	08:30-11:30	DeliMac		Standup, Jiras, Tel. Nicolas (DELMAC-2850)
+	16:00-17:12	DeliMac		DELMAC-2830, DELMAC-2850, Tel. Pascal, DELMAC-2591
+21.3.	08:00-09:00	DeliMac		Datentests mit E2E iCS
+	09:00-10:00	DGI		CEO Townhall
+	10:00-11:00	DeliMc		Standup, DELMAC-2861
+	11:00-12:12	DeliMac		Backlog refinement
+22.3.	07:00-08:30	DeliMac		DELMAC-2830,DELMAC-2850
+	10:00-11:30	DeliMac		
+	15:00-16:12	DeliMac
+23.3.	07:30-10:00	DeliMac		Confluence (Query execution, Testing)
+	10:00-11:00	DeliMac		Standup, Sprint 2018-03-G Release
+	14:00-14:42	DeliMac
+	
 ----- KW 13 -----
+26.3.	07:30-08:00	DeliMac		Confluence
+	09:00-10:12	DeliMac		CUBA Reporting, Standup
+	14:30-15:00	DeliMac		DELMAC-2850
+	15:00-16:30	DGI		Townhall
+	16:30-17:00	DeliMac
+27.3.	09:00-12:30	DeliMac		Sprint Review & Planning
+	14:30-15:12	DeliMac		30s timeout during query execution
+28.3.	10:00-14:12	DeliMac		Standup, DELMAC-2860/-2865
+29.3.	09:30-12:30	DeliMac		SMTP Tests, Standup, Tel. Nicolas, DELMAC-2882
+	14:30-14:42	DGI		Monatsabschluss
+
 ----- KW 14 -----
+3.4.	08:30-10:00	DeliMac		Uebertrag Vorwoche
+
 ----- KW 15 -----
 ----- KW 16 -----
 ----- KW 17 -----

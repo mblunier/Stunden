@@ -7,7 +7,7 @@
 	10:00-10:30	DeliMac		Standup
 	10:30-12:30	DeliMac		DELMAC-2623
 	13:30-15:00	DeliMac		DELMAC-2624
-	15:00-16:00	DGI		Jahresabschluss 2017
+	15:00-16:00	CIT		Jahresabschluss 2017
 	16:00-18:30	DeliMac
 5.1.	09:00-12:30	DeliMac		DELMAC-2624
 	13:00-18:00	DeliMac
@@ -20,28 +20,28 @@
 	13:30-15:00	DeliMac		Review Metadata usage in DeliMac (Lino, Nicolas)
 	15:00-18:30	DeliMac		Bug fixing
 10.1.	09:00-12:30	DeliMac		DELMAC-2616
-	13:30-14:00	DGI		EWP Maintenance
+	13:30-14:00	CIT		EWP Maintenance
 	14:00-18:00	DeliMac
 11.1.	09:00-11:00	DeliMac
-	11:00-12:00	DGI		Team goal review
+	11:00-12:00	CIT		Team goal review
 	13:00-19:00	DeliMac
 12.1.	09:00-13:00	DeliMac		Release Sprint 2018-01-B, ST Deployment
-	14:00-15:00	DGI		EWP Maintenance (PW-Change, SW-UPdates)
+	14:00-15:00	CIT		EWP Maintenance (PW-Change, SW-UPdates)
 	15:00-17:30	DeliMac
 
 ----- KW 3 -----
-15.1.	09:00-09:30	DGI		EWP Maintenance (no network)
+15.1.	09:00-09:30	CIT		EWP Maintenance (no network)
 	09:30-12:30	DeliMac		Story Review, Standup
 	13:30-18:30	DeliMac		SIT/E2E Deployment
 16.1.	07:45-12:30	DeliMac		Sprint Review & Standup (ZH)
 	13:30-16:00	DeliMac		Restore PROD (internal order 6068432, activity D-IT014 "BT Incident")
 	16:00-17:30	DeliMac		CMOMS 2.0 Kickoff
-17.1.	09:00-13:00	DGI		Analyse PROD outage
-	14:00-18:00	DGI
-18.1.	10:00-11:00	DGI		Analyse PROD outage
+17.1.	09:00-13:00	CIT		Analyse PROD outage
+	14:00-18:00	CIT
+18.1.	10:00-11:00	CIT		Analyse PROD outage
 	11:00-12:30	DeliMac		Estimation PenTest stories, DELMAC-2642
-	13:30-18:30	DGI
-19.1.	09:00-12:30	DGI		Analyse PROD outage
+	13:30-18:30	CIT
+19.1.	09:00-12:30	CIT		Analyse PROD outage
 	13:30-17:30	DeliMac		DELMAC-2682
 
 ----- KW 4 -----
@@ -55,7 +55,7 @@
 25.1.	09:00-13:00	DeliMac		release preparation
 	14:00-19:00	DeliMac
 26.1.	09:00-12:00	DeliMac		corrections, code reviews (Oracle down for patching)
-	13:00-14:00	DGI		Koord. CMOMS2 Migration
+	13:00-14:00	CIT		Koord. CMOMS2 Migration
 	14:00-17:30	DeliMac		Sprint 2018-01-C release, ST deployment
 
 ----- KW 5 -----
@@ -65,10 +65,10 @@
 	13:30-14:30	DeliMac		Sprint Planning II
 	14:30-18:00	DeliMac		Sprint 2018-02-D
 31.1.	09:00-12:00	DeliMac		DELMAC-2707 (refactor selection parsing)
-	13:00-13:30	DGI		Splunk Taskforce
+	13:00-13:30	CIT		Splunk Taskforce
 	13:30-16:00	DeliMac
-	16:00-17:00	DGI		EWP Restart, Ausfall mdzhldmbe01
-1.2.	09:00-09:30	DGI		EWP Setup nach Restart
+	16:00-17:00	CIT		EWP Restart, Ausfall mdzhldmbe01
+1.2.	09:00-09:30	CIT		EWP Setup nach Restart
 	09:30-12:00	DeliMac		DELMAC-2707
 	13:00-13:30	DeliMac		Search alignment (M.Lally)
 	13:30-15:30	DeliMac		DELMAC-2707
@@ -76,17 +76,17 @@
 2.2.	09:00-09:30	DeliMac		Manual delivery of missing CUBA reports
 	09:30-10:00	DeliMac		DELMAC-2727
 	10:00-12:00	DeliMac		DELMAC-2716
-	13:00-14:30	DGI		Zeiterf., Monatsabschluss, Compliancecheck
+	13:00-14:30	CIT		Zeiterf., Monatsabschluss, Compliancecheck
 	14:30-17:30	DeliMac		DELMAC-2718
 
 ----- KW 6 -----
 5.2.	09:00-10:00	DeliMac		Standup, Deployment planning
-	10:00-10:30	DGI		EWP Crash
+	10:00-10:30	CIT		EWP Crash
 	10:30-12:15	DeliMac		DELMAC-2717
 	13:15-14:15	DeliMac
 	14:15-14:45	DeliMac		DELMAC-2710
 	14:45-18:45	DeliMac
-6.2.	09:00-10:00	DGI		CMOMS2 Migration
+6.2.	09:00-10:00	CIT		CMOMS2 Migration
 	10:00-12:30	DeliMac
 	13:30-18:30	DeliMac
 7.2.	09:00-11:00	DeliMac
@@ -94,7 +94,7 @@
 	13:00-19:00	DeliMac
 8.2.	09:00-12:30	DeliMac		Release Sprint 2018-02-D (branch 'release/Sprint-2018-02-D')
 	13:30-15:30	DeliMac
-	15:30-16:00	DGI		Bila mit Mathias
+	15:30-16:00	CIT		Bila mit Mathias
 	16:00-18:00	DeliMac
 9.2.	09:00-12:00	DeliMac		DELMAC-2391/92
 	13:00-13:30	DeliMac
@@ -126,13 +126,13 @@
 	15:00-17:00	DeliMac
 9.3.	09:30-12:00	DeliMac		Restart EWP, Sprint 2018-03-F-IP Release
 	14:00-14:30	DeliMac		ST deployment, DELMAC-2815
-	14:30-15:00	DGI		Zeiterf.
+	14:30-15:00	CIT		Zeiterf.
 
 ----- KW 11 -----
 12.3.	09:30-10:30	DeliMac		Standup, DELMAC-2802
 	12:00-13:12	DeliMac		DELMAC-2815
 	14:30-15:00	DeliMac
-	15:00-16:00	DGI		Townhall G. Depaty
+	15:00-16:00	CIT		Townhall G. Depaty
 	16:00-16:30	DeliMac
 13.3.	09:30-10:00	DeliMac		Sprint review
 	11:00-12:30	DeliMac		Sprint planning
@@ -145,7 +145,7 @@
 	14:30-16:30	DeliMac		DELMAC-2830, DELMAC-2337
 16.3.	08:30-11:00	DeliMac		DELMAC-2839, DELMAC-2591
 	15:00-16:00	DeliMac		DELMAC-2850
-	16:00-16:30	DGI		Zeiterf.
+	16:00-16:30	CIT		Zeiterf.
 
 ----- KW 12 -----
 19.3.	08:30-11:30	DeliMac		DELMAC-2850, Standup
@@ -153,7 +153,7 @@
 20.3.	08:30-11:30	DeliMac		Standup, Jiras, Tel. Nicolas (DELMAC-2850)
 	16:00-17:12	DeliMac		DELMAC-2830, DELMAC-2850, Tel. Pascal, DELMAC-2591
 21.3.	08:00-09:00	DeliMac		Datentests mit E2E iCS
-	09:00-10:00	DGI		CEO Townhall
+	09:00-10:00	CIT		CEO Townhall
 	10:00-11:00	DeliMc		Standup, DELMAC-2861
 	11:00-12:12	DeliMac		Backlog refinement
 22.3.	07:00-08:30	DeliMac		DELMAC-2830,DELMAC-2850
@@ -167,45 +167,356 @@
 26.3.	07:30-08:00	DeliMac		Confluence
 	09:00-10:12	DeliMac		CUBA Reporting, Standup
 	14:30-15:00	DeliMac		DELMAC-2850
-	15:00-16:30	DGI		Townhall
+	15:00-16:30	CIT		Townhall
 	16:30-17:00	DeliMac
 27.3.	09:00-12:30	DeliMac		Sprint Review & Planning
 	14:30-15:12	DeliMac		30s timeout during query execution
 28.3.	10:00-14:12	DeliMac		Standup, DELMAC-2860/-2865
 29.3.	09:30-12:30	DeliMac		SMTP Tests, Standup, Tel. Nicolas, DELMAC-2882
-	14:30-14:42	DGI		Monatsabschluss
+	14:30-14:42	CIT		Monatsabschluss
 
 ----- KW 14 -----
-3.4.	08:30-10:00	DeliMac		Uebertrag Vorwoche
+2.4.	(Ostermontag)
+3.4.	08:00-09:00	CIT		Restart EWP, Password change
+	09:00-12:12	DeliMac		Uebertrag Vorwoche (DELMAC-2830), DELMAC-2883, DELMAC-2850
+4.4.	08:00-12:12	DeliMac		Jira, Standup, Backlog refinement
+5.4.	08:30-09:30	CIT		Restart EWP (3x)
+	09:30-10:30	DeliMac		Mails, Korr. delimac-ci, Standup, Vorb. Präsentation
+	10:30-12:42	DeliMac		DELMAC-2533,-2887
+6.4.	08:00-12:12	DeliMac		closing issues, Standup, Vorb. Sprint 2018-04-H release
 
 ----- KW 15 -----
+9.4.	08:00-09:00	DeliMac		Uebertrag Vorwoche
+	10:00-12:12	DeliMac		Standup, Präs. Backend Komponenten
+10.4.	08:00-09:30	DeliMac		Check ST deployment
+	09:30-12:12	DeliMac		Sprint Review & Planning
+11.4.	(09:00-09:45	Gips entfernen, Röntgen)
+11.4.	11:30-13:00	DeliMac		DELMAC-2905, Pull Request 10
+	14:00-15:00	DeliMac		DELMAC-2919
+	17:00-17:30	CIT		SIX Spirit Survey, Arztzeugnis
+12.4.	08:00-12:12	DeliMac		DELMAC-2531/-2895
+	(16:00-17:00	Physio)
+13.4.	08:00-12:12	DeliMac		Standup, Review pull requests, Tel.  Laurent wg. CUBA/Impersonation
+
 ----- KW 16 -----
+16.4.	08:00-12:12	DeliMac		DELMAC-2531/-2900
+17.4.	08:00-08:30	CIT		Zeiterf.
+	08:30-12:12	DeliMac		DELMAC-2900/-2532(Meta4CDM)
+18.4.	08:00-12:12	DeliMac		DELMAC-2532(DM-Select)
+19.4.	08:00-08:30	DeliMac		Mail Thibaut
+	08:30-12:12	DeliMac		DELMAC-2532
+20.4.	08:00-12:12	DeliMac		Release Meta4CDM, DM-Select
+
 ----- KW 17 -----
+23.4.	08:00-11:00	DeliMac		Confluence, Demo vorb.
+	11:00-12:12	CIT		EWP Maintenance
+24.4.	08:00-12:12	DeliMac		Sprint Retro (Speaker/Network issues), Splunk issues
+25.4.	08:00-12:12	DeliMac		Standup, Vorb. Release 2.5.3.004 (DELMAC-2818)
+26.4.	07:30-08:30	DeliMac		Release 2.5.3.004 (delimac-common, delimac-backend)
+	08:30-09:30	DeliMac		Telco wg. Package Entitlements,	Support Pietro & Line
+	09:30-11:42	DeliMac		Version bump, DELMAC-2965
+27.4.	07:30-11:42	DeliMac		DELMAC-2960
+
 ----- KW 18 -----
+30.4.	07:30-08:30	DeliMac		Ferienplanung, Mails, Tel. Nicolas
+	08:30-09:30	DeliMac		SIT Deployment
+	14:30-16:42	DeliMac		DELMAC-2887
+1.5.	07:30-08:00	DeliMac		DELMAC-2887
+	08:00-09:00	DeliMac		DELMAC-2971/-2972
+	10:00-12:42	DeliMac		DELMAC-2960
+2.5.	08:30-11:00	DeliMac		DELMAC-2912
+	11:00-12:00	DeliMac		Backlog refinemment
+	14:00-15:30	CIT		DIO Townhall
+	15:30-15:42	DeliMac		DELMAC-2960
+3.5.	07:30-10:30	DeliMac		Bugfixing
+	14:00-15:12	DeliMac
+4.5.	08:00-12:12	DeliMac		Sprint 2018-05-J Releases (common, meta, feed, flex, select)
+
 ----- KW 19 -----
+7.5.	09:00-12:00	CIT		ITSM-Kurs
+	(Physio)
+	16:00-17:12	DeliMac		DevOps
+8.5.	09:30-13:42	DeliMac		Sprint Review & Planning
+9.5.	08:00-11:42	DeliMac		DELMAC-2998
+10.5.	(Auffahrt)
+11.5.	08:00-12:12	DeliMac		Ueberzeitkompensation
+
 ----- KW 20 -----
+14.5.	08:00-11:30	DeliMac		DELMAC-2998/-3005
+	11:30-12:12	CIT		EWP Restart, Mails , Zeiterf.
+15.5.	08:00-12:12	DeliMac		DELMAC-2998
+	(14:00	Arzttermin)
+16.5.	08:00-12:12	DeliMac		DELMAC-2998/-3011
+	(16:00	Physiotherapie)
+17.5.	08:00-12:12	DeliMac		DELMAC-3026
+18.5.	08:00-12:12	DeliMac		DELMAC-2998
+
 ----- KW 21 -----
+21.5.	(Pfingstmontag)
+22.5.	09:00-12:12	DeliMac		Sprint 2018-05-K Review & Planning
+	(13:00	Physiotherapie)
+	16:00-17:00	DeliMac		Splunk issues
+23.5.	08:00-10:00	DeliMac		DELMAC-3045
+	10:00-11:00	DeliMac		Standup, BRP Feature Presentation (Ausfall MBo)
+	11:00-12:12	DeliMac		DELMAC-3045
+24.5.	08:00-12:12	DeliMac		DELMAC-3004
+25.5.	09:00-12:00	DeliMac		DELMAC-3004
+	16:00-17:12	DeliMac		DELMAC-3037
+
 ----- KW 22 -----
+28.5.	08:00-12:12	DeliMac		DELMAC-2850
+29.5.	08:00-12:12	DeliMac		DELMAC-2850
+30.5.	08:00-12:12	DeliMac		DELMAC-2533
+31.5.	09:00-11:42	DeliMac		DELMAC-2533 (rejected)	
+	13:30-15:00	DeliMac		Bespr. Design Authority
+1.6.	08:00-10:00	DeliMac		Release 2.5.3.006 (Sprint 2018-06-L-IP)
+	10:00-11:00	CIT		MbO
+	11:00-12:12	DeliMac
+
 ----- KW 23 -----
+4.6.	08:00-09:00	CIT		Zeiterf., Monatsabschluss
+	09:00-12:12	DeliMac		DELMAC-2850
+5.6.	08:00-09:30	DeliMac		DELMAC-2850
+	09:30-12:12	DeliMac		Sprint Review & Planning
+6.6.	07:30-09:00	DeliMac		DELMAC-3034
+	09:00-10:00	DeliMac		DELMAC-3081
+	10:00-11:42	DeliMac		Standup, DELMAC-3080
+	(13:00	Physiotherapie)
+7.6.	08:00-11:00	DeliMac		Skype mit CUBA & CDM team, KB-Artikel 'Packages and Templates overview', Mail Pietro
+	11:00-12:12	DeliMac		DELMAC-3084/-2850
+8.6.	(Fussoperation)
+
 ----- KW 24 -----
+11.6.	08:00-10:30	DeliMac		DELMAC-2850
+	10:30-11:12	DeliMac		Standup, Skype José wg. Release
+	17:00-18:00	DeliMac		DELMAC-3050
+12.6.	08:00-10:00	DeliMac		DELMAC-3095
+	10:00-12:12	DeliMac		Standup, Backlog refinement
+13.6.	09:00-11:00	DeliMac		Standup, Technical Debts
+	14:00-16:12	DeliMac		Design Authority
+14.6.	08:00-12:12	DeliMac		Testing, Consolidation
+15.6.	08:00-12:12	DeliMac		Release 2.5.3.007 f. Sprint 2018-06-M
+
 ----- KW 25 -----
+18.-22.6.	(Ferien)
+
 ----- KW 26 -----
+25.-29.6.	(Ferien)
+
 ----- KW 27 -----
+2.7.	07:00-08:30	CIT		EWP maintenance (forced pwd change, VPN issues)
+	08:30-09:00	MRP		Support Jens Mutter (entlib sources)
+	09:00-10:00	CIT		Mails, Monatsabschluss WebTime
+	10:00-11:12	DeliMac		Standup, Project update
+	(13:30 Physiotherapie)
+3.7.	08:30-12:30	DeliMac		Sprint Review & Planning
+4.7.	07:30-08:00	CIT		EWP VPN issues
+	08:00-09:00	DeliMac		CS Problem (DEV), Pikettkoordination
+	09:00-10:00	DeliMac		DELMAC-3111 (feature/DELMAC-2867)
+	10:00-11:00	DeliMac		Standup, Mail Line
+	11:00-13:00	DeliMac		DELMAC-3112 (feature/DELMAC-2867)
+	16:00-19:00	DeliMac		Deployment failure DEV (SaltStack issue?)
+5.7.	07:00-12:30	DeliMac		Maintenance DEV Deployment, Standup, DELMAC-3112
+	14:00-15:30	CIT		Bespr. Mathias wg. Arbeitszeit & Ferien, IV-Meldung f. elipsLife
+	(15:30 BD Messgerät abholen, 1. Versuch)
+	18:30-19:00	CIT		EWP Maintenance
+6.7.	07:30-12:30	DeliMac		DELMAC-3112, Standup
+	13:00-14:30	DeliMac		
+	(14:30 Pikettübernahme)
+	(15:30 BD Messgerät abholen, 2. Versuch)
+
 ----- KW 28 -----
+	(Pikettwoche)
+9.7.	08:00-08:30	CIT		ITSM Check & Dispatch
+	08:30-13:30	DeliMac		Standup, DELMAC-3113
+	(15:15 Physiotherapie, BD Messgerät retour)
+10.7.	08:00-12:30	DeliMac		Standup, Design Authority (Bürotag)
+	13:30-16:30	DeliMac		DELMAC-3113
+11.7.	08:00-09:30	DeliMac		Jiras von Felix, CUBA reports for ST
+	09:30-12:30	DeliMac		DELMAC-3113
+	13:30-16:30	DeliMac		Refactoring entity resolution using new data request API
+	16:30-17:30	CIT		Quarterly Staff Info
+	17:30-19:00	DeliMac
+12.7.	08:00-12:30	DeliMac		DELMAC-3113
+	16:30-17:30	DeliMac		Koord. mit Nicolas
+13.7.	07:00-07:30	CIT		EWP Restart
+	07:30-12:30	DeliMac		DELMAC-3113
+	14:00-17:00	DeliMac
+14.7.	09:00-11:00	DeliMac		DELMAC-3113
+
 ----- KW 29 -----
+16.7.	08:00-09:00	CIT		EWPs restart (SW updates)
+	09:00-10:00	DeliMac		Koord.Nicolas
+	10:00-11:00	DeliMac		Skype: Deployments and Rollbacks
+	11:00-11:30	DeliMac		Standup
+	11:30-12:30	DeliMac
+	13:00-14:30	DeliMac
+	(15:15 Physiotherapie)
+	17:00-19:00	DeliMac		Backend release (Thierry)
+17.7.	08:30-12:30	DeliMac		Sprint 2018-07-N Review
+	13:30-16:30	DeliMac		Planning 2018-07-O
+	17:00-18:00	CIT		EWP BS, Restore DEV Environment
+18.7.	08:00-12:30	DeliMac		Pre-release sprint 2018-07-P (merging issues)
+	13:30-18:30	DeliMac
+19.7.	08:00-09:30	DeliMac		Fix deployment on DEV, prepared ST
+	09:30-13:00	DeliMac		Support Benjamin, ST deployment (docker issues with former DM-Select container)
+	14:00-16:00	DeliMac
+	18:00-20:00	DeliMac
+20.7.	08:00-09:45	DeliMac		Tel. Nicolas, DELMAC-2867
+	09:45-10:15	CIT		EWP blackout
+	10:15-11:30	DeliMac		Standup, Support Benjamin
+	11:30-12:30	DeliMac		TKL/TKH expansions
+	13:30-17:30	DeliMac
+
 ----- KW 30 -----
+	(Pikettwoche)
+23.7.	08:30-12:42	DeliMac		DELMAC-2918, RawFile enhancements
+	(15:15 Physiotherapie)
+24.7.	08:00-08:30	CIT		EWP Restart (BS)
+	08:30-12:00	DeliMac		Standup, Design Authority
+	13:00-15:30	DeliMac		DELMAC-3216/-3220
+	18:00-19:00	DeliMac
+25.7.	07:30-08:30	CIT		EWP Restart (BIOS-Update, 2xBS)
+	08:30-13:00	DeliMac		DELMAC-3216/-3220
+	14:00-15:30	DeliMac
+	16:00-17:30	PassionFruit	Ambiguous ISIN (WBS 068-0491-05-01-01)
+	17:30-18:30	DeliMac
+26.7.	08:00-08:30	PassionFruit	Support
+	08:30-09:30	DeliMac		DELMAC-3010
+	09:30-12:30	DeliMac
+	13:30-15:00	DeliMac
+	15:00-17:30	PassionFruit	Support
+27.7.	08:00-12:00	DeliMac		Release 2.5.5.001 f. Sprint 2018-07-P
+	13:00-17:00	DeliMac
+
 ----- KW 31 -----
+(30.7.-3.8. Ferien)
+
 ----- KW 32 -----
+(6.8.-3.8. Ferien)
+
 ----- KW 33 -----
+13.8.	08:30-12:30	DeliMac		Mails, GIT Update
+	13:30-18:00	DeliMac		Jira Issues 2.5.5
+14.8.	08:00-12:30	DeliMac		Sprint Review & Planning (Bürotag)
+	13:30-16:30	DeliMac
+15.8.	07:30-12:30	DeliMac		Jira Issues 2.5.6
+	15:30-17:00	DeliMac		Design Authority
+16.8.	07:30-08:30	DeliMac		ITSM3686837
+	09:00-11:30	CIT		IV Bern
+	12:30-18:00	DeliMac		
+17.8.	08:00-12:30	DeliMac	
+	13:30-15:30	DeliMac		DELMAC-3339
+	15:30-18:00	DeliMac		Support Benjamin (DELMAC-3403)
+
 ----- KW 34 -----
+20.8.	08:00-10:00	DeliMac		DELMAC-3339
+	10:00-11:00	CIT		EWP Restart (Outlook connect)
+	11:00-13:00	DeliMac		DELMAC-3404
+	14:00-18:00	DeliMac
+21.8.	08:00-13:00	DeliMac		DELMAC-3404
+	14:00-15:00	DeliMac		
+	15:00-17:00	DeliMac		Deploy 2.5.6.003 to ST, Data testing
+22.8.	08:00-11:00	DeliMac		DELMAC-3128
+	14:00-18:30	DeliMac
+23.8.	08:00-12:30	DeliMac
+	13:30-18:00	DeliMac
+24.8.	08:30-13:00	DeliMac		Sprint 2018-08-R-IP release 2.5.5.004
+	14:00-17:00	DeliMac		Deployment to SIT
+	# Pikettübernahme
+26.8.	13:00-14:30	DeliMac		CMOMS Migration PROD
+
 ----- KW 35 -----
+	(Pikettwoche)
+27.8.	08:00-12:00	DeliMac		Prep. Sprint Review
+	(15:15 Physiotherapie)
+28.8.	08:00-12:30	DeliMac		Review sprint 2018-08-R-IP
+	14:00-16:30	DeliMac
+29.8.	08:00-10:00	DeliMac		DELMAC-2932
+	10:00-10:30	DeliMac		Standup
+	10:30-12:30	CIT		Restart EWP (Networking issues)
+	13:30-17:30	DeliMac		DELMAC-2932
+	17:30-18:00	PassionFruit	Support GAIN Migration
+30.8.	07:30-10:00	DeliMac		Monitoring E2E
+	10:00-10:30	DeliMac		Standup
+	10:30-12:00	DeliMac		DELMAC-3546
+	13:00-17:30	DeliMac		DELMAC-3012/CDM-497
+	17:30-18:00	PassionFruit	Support GAIN Migration
+31.8.	08:00-10:30	DeliMac		DELMAC-3012/CDM-497
+	10:30-12:30	CIT		Wifi Adapter Probleme
+	13:30-17:30	DeliMac
+
 ----- KW 36 -----
+3.9.	08:00-11:00	DeliMac		DELMAC-3012
+	11:00-12:30	CIT		Monatsabschluss
+	12:30-14:00	DeliMac		DELMAC-3548
+	17:00-19:00	DeliMac
+4.9.	08:00-12:30	DeliMac		TI2 Process Improvement WS, Design Authority
+	13:30-16:30	DeliMac
+	17:00-18:00	DeliMac
+5.9.	08:00-08:30	DeliMac
+	08:30-09:30	CIT		EWP BS (Maven repo corrupted)
+	09:30-11:30	CIT		MA-Info
+	11:30-12:30	DeliMac
+	13:30-14:30	DeliMac		Team redefinition
+	14:30-18:00	DeliMac
+6.9.	08:00-12:30	DeliMac		FileAlreadyExists issue
+	13:30-18:00	DeliMac
+7.9.	08:00-13:00	DeliMac		Sprint 2018-09-S Release
+	14:00-17:30	DeliMac		Testing, Doc, SIT deployment
+
 ----- KW 37 -----
+10.9.	08:00-12:30	DeliMac		Switch to MIFID2 Development
+	13:30-18:00	DeliMac
+11.9.	08:30-12:30	DeliMac		Sprint 2018-09-S Review
+	13:30-18:00	DeliMac
+12.9.	08:00-12:30	DeliMac		MIFID2 Bugfixing
+	13:30-17:30	DeliMac
+13.9.	08:00-13:00	DeliMac		DELMAC-2850/-3657
+	14:00-15:00	DeliMac		SCOOP Kickoff
+	15:00-18:00	DeliMac		Analyse unterschiedliche Lieferungen (Mail Pietro)
+14.9.	07:30-12:00	DeliMac		Ĵiras from MIFID2 backlog, OrderFile refactoring
+	13:00-15:00	DeliMac		DELMAC-3666
+	15:00-16:00	CIT		erzwungener EWP Restart
+
 ----- KW 38 -----
+17.9.	08:00-13:00	DeliMac		DELMAC-3666
+	(Physiotherapie)
+	17:00-19:00	DeliMac
+18.9.	08:00-10:00	DeliMac		Complete ST deployment (+ Splunk issues)
+	10:00-12:00	DeliMac		Standup, Design Authority
+	13:00-18:00	DeliMac		DELMAC-3666 Rework
+19.9.	08:00-09:00	CIT		EWP BS
+	09:00-12:30	DeliMac		DELMAC-2634
+	13:30-16:30	DeliMac		SCOOP WS
+	16:30-18:00	DeliMac
+20.9.	08:00-12:30	DeliMac		DELMAC-3666
+	13:30-14:30	DeliMac		DELMAC-3667
+	14:30-15:30	DeliMac		Backlog Refinement
+	15:30-17:30	DeliMac
+21.9.	08:00-12:30	DeliMac		DELMAC-3666
+	13:30-15:00	DEliMac
+	15:00-17:00	DeliMac		Release Sprint 2018-09-T
+
 ----- KW 39 -----
+24.9.	08:00-09:00	CIT		Zeiterf.
+	09:00-13:00	DeliMac		DELMAC-3666
+	14:00-18:00	DeliMac
+25.9.	08:00-13:00	DeliMac		Sprint Review & Planning
+	13:30-
+26.9.
+27.9.
+28.9.
+
 ----- KW 40 -----
+(1.10.-5.10. Ferien)
+
 ----- KW 41 -----
+(8.10.-12.10. Ferien)
+
 ----- KW 42 -----
+(15.10.-19.10. Ferien)
+
 ----- KW 43 -----
 ----- KW 44 -----
 ----- KW 45 -----

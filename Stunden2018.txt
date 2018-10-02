@@ -503,10 +503,18 @@
 	09:00-13:00	DeliMac		DELMAC-3666
 	14:00-18:00	DeliMac
 25.9.	08:00-13:00	DeliMac		Sprint Review & Planning
-	13:30-
-26.9.
-27.9.
-28.9.
+	14:00-16:30	DeliMac		DELMAC-3398
+	16:30-17:30	DeliMac		DELMAC-2723
+26.9.	08:00-12:00	DeliMac		DELMAC-2723
+	13:00-17:00	DeliMac		Design Authority (open items in confluence)
+	17:00-18:00	CIT		Townhall Video m. Gilles
+27.9.	08:00-10:00	DeliMac		DELMAC-3632
+	13:00-19:00	DeliMac
+28.9.	07:30-10:00	DeliMac		DELMAC-3632
+	10:00-11:30	DeliMac		Tel. Lino, Standup
+	11:30-12:30	DeliMac
+	13:30-16:30	DeliMac
+	16:30-17:00	CIT		Zeiterf., Monatsabschluss
 
 ----- KW 40 -----
 (1.10.-5.10. Ferien)
@@ -518,6 +526,8 @@
 (15.10.-19.10. Ferien)
 
 ----- KW 43 -----
+22.10.
+
 ----- KW 44 -----
 ----- KW 45 -----
 ----- KW 46 -----
